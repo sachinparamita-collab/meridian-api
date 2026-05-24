@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: meridian-api
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://meridian:meridian@db:5432/meridian
+    depends_on:
+      - db
+    volumes:
+      - ./app:/app/app
+
+  db:
+    image: postgres:15
+    container_name: meridian-db
+    environment:
+      - POSTGRES_USER=meridian
+      - POSTGRES_PASSWORD=meridian
+      - POSTGRES_DB=meridian
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
