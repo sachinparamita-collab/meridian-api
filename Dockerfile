@@ -12,4 +12,4 @@ COPY app/ ./app/
 # Copy engine — .py and .csv files only (.db and .xlsx excluded by .dockerignore)
 COPY engine/ ./engine/
 
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
