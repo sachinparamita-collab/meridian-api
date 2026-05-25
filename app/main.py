@@ -3,10 +3,14 @@ import sys
 import traceback
 import sqlite3
 import json
+import time
 from datetime import date, datetime
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Security
 from fastapi.responses import JSONResponse
+from fastapi.security import APIKeyHeader
 from pydantic import BaseModel
+import psycopg2
+import psycopg2.extras
 
 # ── Engine path setup ────────────────────────────────────────────────────────
 ENGINE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "engine"))
@@ -19,7 +23,9 @@ FNB_PATH        = os.path.join(ENGINE_DIR, "fnb_details.csv")
 AGENCY_PATH     = os.path.join(ENGINE_DIR, "agency_crm.xlsx")
 CITY_RULES_PATH = os.path.join(ENGINE_DIR, "city_rules.csv")
 
-# ── JSON serialiser — handles date, tuple ────────────────────────────────────
+DATABASE_URL = os.getenv("DATABASE_URL")
+
+# ── JSON serialiser ───────────────────────────────────────────────────────────
 def serialise(obj):
     if isinstance(obj, (date, datetime)):
         return obj.isoformat()
@@ -27,7 +33,7 @@ def serialise(obj):
         return list(obj)
     raise TypeError(f"Not serialisable: {type(obj)}")
 
-# ── Load engine at startup ───────────────────────────────────────────────────
+# ── Load engine at startup ────────────────────────────────────────────────────
 ENGINE_LOADED = False
 ENGINE_ERROR  = ""
 
@@ -39,15 +45,50 @@ except Exception as e:
     ENGINE_ERROR = str(e)
     print(f"✗ Engine failed to load: {e}")
 
-# ── App ──────────────────────────────────────────────────────────────────────
+# ── App ───────────────────────────────────────────────────────────────────────
 app = FastAPI(title="Meridian API", version="0.1.0")
 
+api_key_header = APIKeyHeader(name="X-API-Key", auto_error=False)
 
+# ── DB helpers ────────────────────────────────────────────────────────────────
+def get_pg():
+    return psycopg2.connect(DATABASE_URL)
+
+def verify_api_key(api_key: str):
+    """Returns user row if valid, raises 401 if not."""
+    if not api_key:
+        raise HTTPException(status_code=401, detail="API key required. Pass X-API-Key header.")
+    try:
+        conn = get_pg()
+        cur = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
+        cur.execute("SELECT * FROM users WHERE api_key = %s AND active = TRUE", (api_key,))
+        user = cur.fetchone()
+        conn.close()
+    except Exception as e:
+        raise HTTPException(status_code=503, detail=f"Database unavailable: {e}")
+    if not user:
+        raise HTTPException(status_code=401, detail="Invalid or inactive API key.")
+    return user
+
+def log_usage(user_id: int, endpoint: str, request_preview: str, response_ms: int):
+    try:
+        conn = get_pg()
+        cur = conn.cursor()
+        cur.execute(
+            "INSERT INTO usage_logs (user_id, endpoint, request_preview, response_ms) VALUES (%s, %s, %s, %s)",
+            (user_id, endpoint, request_preview[:200], response_ms)
+        )
+        conn.commit()
+        conn.close()
+    except Exception as e:
+        print(f"⚠ Usage log failed: {e}")
+
+# ── Models ────────────────────────────────────────────────────────────────────
 class RecommendRequest(BaseModel):
     email_text: str
     source_market: str | None = None
 
-
+# ── Endpoints ─────────────────────────────────────────────────────────────────
 @app.get("/v1/health")
 def health():
     return {
@@ -55,7 +96,6 @@ def health():
         "engine_loaded": ENGINE_LOADED,
         "engine_error": ENGINE_ERROR if not ENGINE_LOADED else None
     }
-
 
 @app.get("/v1/debug")
 def debug():
@@ -76,14 +116,12 @@ def debug():
     except Exception as e:
         return {"db_path": DB_PATH, "error": str(e)}
 
-
 @app.post("/v1/recommend")
-def recommend(request: RecommendRequest):
+def recommend(request: RecommendRequest, api_key: str = Security(api_key_header)):
+    user = verify_api_key(api_key)
     if not ENGINE_LOADED:
-        raise HTTPException(
-            status_code=503,
-            detail=f"Engine not available: {ENGINE_ERROR}"
-        )
+        raise HTTPException(status_code=503, detail=f"Engine not available: {ENGINE_ERROR}")
+    t_start = time.time()
     try:
         result = engine.recommend(
             email_text      = request.email_text,
@@ -95,7 +133,8 @@ def recommend(request: RecommendRequest):
             city_rules_path = CITY_RULES_PATH,
             source_market   = request.source_market,
         )
-        # Serialise via json to handle date + tuple types, then return as response
+        response_ms = int((time.time() - t_start) * 1000)
+        log_usage(user["id"], "/v1/recommend", request.email_text, response_ms)
         clean = json.loads(json.dumps(result, default=serialise))
         return JSONResponse(content=clean)
     except Exception as e:
