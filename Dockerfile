@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+﻿FROM python:3.11-slim
 
 WORKDIR /app
 
@@ -9,9 +9,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy app code
 COPY app/ ./app/
 
-# Copy engine — .py and .csv files only (.db and .xlsx excluded by .dockerignore)
+# Copy engine -- .py and .csv files only
 COPY engine/ ./engine/
 
 COPY start.sh /start.sh
-RUN chmod +x /start.sh
+RUN sed -i 's/\r//' /start.sh && chmod +x /start.sh
 CMD ["/start.sh"]
