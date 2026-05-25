@@ -7,5 +7,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY app/ ./app/
 COPY engine/ ./engine/
+COPY entrypoint.py ./entrypoint.py
 
-CMD ["python", "-c", "import os,sys,threading,urllib.request,subprocess; db='/app/data/master_v2.db'; os.makedirs('/app/data',exist_ok=True); threading.Thread(target=lambda: urllib.request.urlretrieve('https://github.com/sachinparamita-collab/meridian-api/releases/download/v0.1.0-data/master_v2.db',db) if not os.path.exists(db) or os.path.getsize(db)<1000000 else None,daemon=True).start(); os.execv(sys.executable,[sys.executable,'-m','uvicorn','app.main:app','--host','0.0.0.0','--port',os.environ.get('PORT','8000')])"]
+CMD ["python", "entrypoint.py"]
