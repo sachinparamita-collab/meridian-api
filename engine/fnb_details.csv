@@ -1,0 +1,1988 @@
+business_code,name,restaurant_type,part_of_hotel,hotel,ambience_score,tour_category,tci_score,city_name
+FB80757,Sapphire,coffee-shop,True,HO11021,7.8,Food,7.8,Jaipur
+FB80113,Threesixtythree,coffee-shop,True,HO10620,9.0,Food,9.0,Kolkata
+FB81072,In-House Kitchen,coffee-shop,True,HO12191,4.8,Food,4.8,Vagamon
+FB80301,Citrus Cafe,coffee-shop,True,HO10723,7.8,Food,7.8,Gurgaon
+FB80134,Marwar,coffee-shop,True,HO10167,9.0,Food,9.0,Jodhpur
+FB80998,Whistler Cafe,coffee-shop,True,HO11567,6.6,Food,6.6,Kodaikanal
+FB81404,Zodiac,coffee-shop,True,HO12055,6.3,Food,6.3,Tirupati
+FB80494,Tissa's,coffee-shop,True,HO10055,8.0,Food,8.0,Kochi (Cochin)
+FB80554,Risala,specialty-restaurant,True,HO10460,9.6,Food,9.6,Jodhpur
+FB80514,The Restaurant,coffee-shop,True,HO10661,5.8,Food,5.8,Bandhavgarh
+FB81197,Restaurant,coffee-shop,True,HO12134,8.2,Food,8.2,Udumalpet
+FB80411,Spice Court,coffee-shop,True,HO10819,7.0,Food,7.0,Churu
+FB80610,Cafe,coffee-shop,True,HO10856,6.2,Food,6.2,New Delhi
+FB80173,The Dining Area,coffee-shop,True,HO10021,9.4,Food,9.4,Varanasi
+FB81516,Restaurant,coffee-shop,True,HO12592,5.7,Food,5.7,Thirupugalur
+FB80912,Machan,coffee-shop,True,HO11516,10.0,Food,10.0,Ranthambore
+FB80693,The in-house,coffee-shop,True,HO11032,5.8,Food,5.8,Kodaikanal
+FB81409,Citrus Cafe,coffee-shop,True,HO12521,6.7,Food,6.7,Corbett
+FB80319,Pearl Spot,coffee-shop,True,HO10182,9.2,Food,9.2,Mararikulam
+FB80090,Connaught Clubhouse,multi-cuisine,False,,8.6,Food,8.6,New Delhi
+FB80752,Dawat,coffee-shop,True,HO11135,6.0,Food,6.0,Udaipur (RJ)
+FB80783,Wildgrass,coffee-shop,True,HO11218,6.6,Food,6.6,Kabini
+FB80166,BLD,coffee-shop,True,HO10716,8.6,Food,8.6,Goa
+FB80390,Saffron,coffee-shop,True,HO10309,7.0,Food,7.0,Jaisalmer
+FB81567,Cinnamon,multi-cuisine,True,HO12706,5.4,Food,5.4,Bengaluru
+FB81133,Mehfils,coffee-shop,True,HO11902,4.8,Food,4.8,Jaisalmer
+FB80513,The Restaurant,coffee-shop,True,HO10270,9.0,Food,9.0,Alwar
+FB80772,Miri,coffee-shop,True,HO11019,8.5,Food,8.5,Goa
+FB80884,Lakhamana,specialty-restaurant,True,HO10505,6.2,Food,6.2,Jaisalmer
+FB80858,The Restaurant,coffee-shop,True,HO10258,7.6,Food,7.6,Pragpur
+FB81630,The Bridge,coffee-shop,True,HO12787,6.6,Food,6.6,Hampi (Hosapete)
+FB80238,Clever Fox,coffee-shop,True,HO10539,6.7,Food,6.7,Trichy (Tiruchirappalli)
+FB80811,Citrus CafÃ©,coffee-shop,True,HO11357,6.6,Food,6.6,Chennai
+FB80704,Suntaley Chulo,coffee-shop,True,HO11059,5.8,Food,5.8,Gangtok
+FB80324,Keys Cafe,coffee-shop,True,HO10333,8.0,Food,8.0,Kochi (Cochin)
+FB80426,Pearls and Chiffon,coffee-shop,True,HO10436,8.8,Food,8.8,Bikaner
+FB80689,Valley View,coffee-shop,True,HO11072,5.4,Food,5.4,Kodaikanal
+FB80811,Citrus Cafe,coffee-shop,True,HO11357,7.0,Food,7.0,Chennai
+FB80649,Zodiac,coffee-shop,True,HO10971,6.1,Food,6.1,Ahmedabad
+FB81335,Restaurant,coffee-shop,True,HO11062,5.8,Food,5.8,Palampur
+FB80591,Citrus Cafe,coffee-shop,True,HO10550,6.1,Food,6.1,Alappuzha (Alleppey)
+FB80978,Old Darbar Hall,coffee-shop,True,HO11545,7.4,Food,7.4,Pokhran
+FB81210,Sumac,coffee-shop,True,HO12284,3.2,Food,3.2,Agra
+FB80501,Restaurant,specialty-restaurant,True,HO10775,7.0,Food,7.0,Jaipur
+FB80905,The Royal Root,specialty-restaurant,True,HO10103,5.9,Food,5.9,Jaipur
+FB80372,Swapna Mahal,coffee-shop,True,HO10707,6.8,Food,6.8,Jaipur
+FB80777,Citrus Cafe,coffee-shop,True,HO10963,6.6,Food,6.6,Dehradun
+FB81185,Sangri,coffee-shop,True,HO12115,5.4,Food,5.4,Udaipur (RJ)
+FB80028,Dining Room,coffee-shop,True,HO10003,6.0,Food,6.0,Jaipur
+FB81278,Airavat,coffee-shop,True,HO12341,4.6,Food,4.6,Udaipur (RJ)
+FB80936,L14,coffee-shop,True,HO11526,6.5,Food,6.5,Lucknow
+FB81072,In-House Kitchen,coffee-shop,True,HO12191,5.5,Food,5.5,Vagamon
+FB80990,Zasgyath,coffee-shop,True,HO10810,7.2,Food,7.2,Leh
+FB81358,Restaurant,coffee-shop,True,HO11139,6.5,Food,6.5,Sariska
+FB80976,The Restaurant,coffee-shop,True,HO11128,7.8,Food,7.8,Bandhavgarh
+FB80453,Cafe Royale,coffee-shop,True,HO10401,7.3,Food,7.3,Kochi (Cochin)
+FB80792,Jetty,coffee-shop,True,HO10406,8.3,Food,8.3,Kochi (Cochin)
+FB80797,Lord Of The Drinks,multi-cuisine,False,,8.2,Food,8.2,New Delhi
+FB81256,Jeeman,coffee-shop,True,HO12300,5.8,Food,5.8,Jaisalmer
+FB81624,Restaurant,coffee-shop,True,HO11139,7.0,Food,7.0,Sariska
+FB80572,Restaurant,coffee-shop,True,HO10365,6.9,Food,6.9,Karaikudi
+FB81069,The Restaurant,coffee-shop,True,HO12185,5.2,Food,5.2,Bodhgaya
+FB80016,Citrus Cafe,coffee-shop,True,HO10018,7.0,Food,7.0,New Delhi
+FB80066,Peppercorn,specialty-restaurant,True,HO10026,10.0,Nature,8.2,Udaipur (RJ)
+FB81074,Chitrasani,coffee-shop,True,HO12196,4.6,Food,4.6,Chitrasani
+FB81090,The Bay Bistro,coffee-shop,True,HO12025,7.4,Food,7.4,Puducherry (Pondicherry)
+FB80079,Bageecha,coffee-shop,True,HO10252,6.2,Food,1.0,Jaisalmer
+FB80895,24-Jul,coffee-shop,True,HO11325,6.9,Food,6.9,Mumbai
+FB80915,Seven Kitchen,coffee-shop,True,HO10222,7.0,Food,7.0,Mumbai
+FB81612,Restaurant,coffee-shop,True,HO10301,7.7,Food,7.7,Wayanad
+FB80595,Citrus Cafe,coffee-shop,True,HO10718,6.7,Food,6.7,Rishikesh
+FB81253,Bundela Restaurant,coffee-shop,True,HO11491,3.2,Food,3.2,Khajuraho
+FB81019,Sheesh Mahal,specialty-restaurant,True,HO10190,9.4,Food,9.4,Udaipur (RJ)
+FB81154,Sonar Killa,coffee-shop,True,HO10087,5.8,Food,5.8,Jaisalmer
+FB80361,Marwar,coffee-shop,True,HO10800,6.2,Food,6.2,Khejarla
+FB81053,The Pavillion,coffee-shop,True,HO11616,7.0,Food,7.0,Dudhwa
+FB80364,Shikaar Bagh,coffee-shop,True,HO10273,7.9,Food,7.9,Jaipur
+FB81499,Darikhana,specialty-restaurant,True,HO10264,9.6,Food,9.6,Jodhpur
+FB80232,Citrus,coffee-shop,True,HO10510,8.0,Food,8.0,Pune
+FB81032,The In House,coffee-shop,True,HO11609,7.0,Food,7.0,Ranakpur
+FB81002,The Restaurant,coffee-shop,True,HO10105,7.2,Food,7.2,Munnar
+FB81062,Buzz,coffee-shop,True,HO12030,6.4,Food,6.4,Pune
+FB80775,Sathvam,coffee-shop,True,HO11240,5.6,Food,5.6,Tiruvannamalai
+FB81066,The Restaurant,coffee-shop,True,HO10799,5.8,Food,5.8,Jaisalmer
+FB80953,Gol Kamra,coffee-shop,True,HO11484,6.4,Food,6.4,Jodhpur
+FB80153,Sala Da Pranzo,coffee-shop,True,HO10623,8.8,Food,8.8,Goa
+FB80849,Burgundy,coffee-shop,True,HO11196,4.2,Food,4.2,Bengaluru
+FB80730,Swaad,coffee-shop,True,HO11033,6.3,Food,6.2,Puri
+FB81318,Dining Room,coffee-shop,True,HO11514,7.0,Food,7.3,Kovalam
+FB80378,Soothing Ambience,coffee-shop,True,HO10415,6.0,Food,6.0,Mamallapuram (Mahabalipuram)
+FB80914,Hill Spice,coffee-shop,True,HO10223,9.0,Food,9.0,Munnar
+FB80432,Peshawri,specialty-restaurant,True,HO10555,8.6,Food,8.6,Jaipur
+FB80481,Royal Repast,specialty-restaurant,False,,6.0,Food,8.0,Udaipur (RJ)
+FB80535,Dining Room,coffee-shop,True,HO10069,7.4,Food,7.4,Amritsar
+FB80423,Angeethi,coffee-shop,True,HO10435,6.8,Food,6.8,Bikaner
+FB80433,Jalmahal,coffee-shop,True,HO10555,7.5,Food,7.5,Jaipur
+FB80939,Restaurant,coffee-shop,True,HO10621,7.4,Food,7.4,Agra
+FB81255,Pavilion,coffee-shop,True,HO11073,5.4,Food,5.4,Udaipur (RJ)
+FB80947,Keraleeyam,coffee-shop,True,HO11223,5.8,Food,5.8,Kozhikode (Calicut)
+FB81430,Las Brisas,coffee-shop,True,HO12107,6.9,Food,6.9,Rishikesh
+FB81269,Zest Cafe and Kitchen,coffee-shop,True,HO12348,4.2,Food,4.2,Goa
+FB81164,Dining Area,coffee-shop,True,HO12042,6.0,Food,6.0,Orchha
+FB80890,Citrine,coffee-shop,True,HO11510,6.6,Food,6.6,Nasik
+FB80236,Citrus Cafe,coffee-shop,True,HO10715,5.7,Food,5.7,Siliguri
+FB81190,Plantation,coffee-shop,True,HO11334,5.0,Food,5.0,Thekkady (Periyar/Kumily)
+FB81373,Restaurant,coffee-shop,True,HO12450,8.9,Food,8.9,Orchha
+FB80643,Majestic Masala,coffee-shop,True,HO10941,4.4,Food,4.4,Nagpur
+FB81410,Appetite,coffee-shop,True,HO12531,4.2,Food,4.2,Aurangabad (MH) 
+FB80804,The Restaurant,coffee-shop,True,HO10421,7.4,Food,7.4,Jodhpur
+FB80059,Jaisalmer Kitchen,coffee-shop,True,HO10094,7.8,Food,7.8,Jaisalmer
+FB81386,Restaurant,coffee-shop,True,HO11139,,,,Sariska
+FB81266,Bazaar,coffee-shop,True,HO12329,6.6,Food,6.6,Madurai
+FB80571,Taasli,coffee-shop,True,HO10706,7.6,Food,7.6,Manvar (RJ)
+FB81124,Pavilion,coffee-shop,True,HO10937,7.0,Food,7.0,Gurgaon
+FB80306,The One,coffee-shop,True,HO10405,9.0,Food,9.0,New Delhi
+FB80278,Spring,coffee-shop,True,HO10411,7.0,Food,7.0,Mysuru (Mysore)
+FB80332,Clever Fox Cafe,coffee-shop,True,HO10719,5.6,Food,5.6,New Delhi
+FB80964,Bazaar,coffee-shop,True,HO11530,7.6,Food,7.6,Jaisalmer
+FB80543,Restaurant,coffee-shop,True,HO10806,8.8,Food,8.8,Sardargarh
+FB80524,Shikar,coffee-shop,True,HO10491,8.8,Food,8.8,Rohet
+FB80646,Blue Coriander,coffee-shop,True,HO10928,5.2,Food,5.2,Jaipur
+FB80316,Promenade,coffee-shop,True,HO10307,6.2,Food,6.2,New Delhi
+FB80488,Monsoon,coffee-shop,True,HO10571,6.2,Food,5.6,Bengaluru
+FB80546,Restaurant,coffee-shop,True,HO10490,8.1,Food,8.1,Rohet
+FB81093,The Cave,coffee-shop,True,HO12113,5.4,Food,5.4,Wayanad
+FB80371,Vembanad,coffee-shop,True,HO10034,7.8,Food,7.8,Kumarakom
+FB80195,Les Alizes,coffee-shop,True,HO10479,9.2,Food,9.2,Puducherry (Pondicherry)
+FB80217,Dakshin,coffee-shop,True,HO10712,9.4,Food,9.4,Kanchipuram
+FB80868,Courtyard,coffee-shop,True,HO10179,9.4,Food,9.4,Samode
+FB81105,Sky Club,coffee-shop,True,HO12201,6.7,Food,6.7,Gurgaon
+FB81245,Amber Pavilion,coffee-shop,True,HO12322,5.8,Food,5.8,Jaipur
+FB80972,Regency,coffee-shop,True,HO11315,3.0,Food,3.0,Bodhgaya
+FB80380,Spice,coffee-shop,True,HO10119,6.0,Food,6.0,Jaisalmer
+FB80562,Restaurant,coffee-shop,True,HO10543,5.4,Food,5.4,Gwalior
+FB81462,Mynt,coffee-shop,True,HO12566,6.7,Food,6.7,Kochi (Cochin)
+FB81475,Kwality Cafe,multi-cuisine,False,,8.1,Food,8.7,Chandigarh
+FB80287,Citrus Cafe,coffee-shop,True,HO10747,8.0,Food,8.0,Gurgaon
+FB80602,Baradari,coffee-shop,True,HO10264,9.4,Food,9.4,Jodhpur
+FB81593,Vista 20,coffee-shop,True,HO12738,7.2,Food,7.2,Jaipur
+FB80978,Old darbar Hall,coffee-shop,True,HO11545,7.4,Food,7.4,Pokhran
+FB80932,Cheenavala,coffee-shop,True,HO11528,6.8,Food,6.8,Alappuzha (Alleppey)
+FB81014,Match Point,coffee-shop,True,HO11576,6.8,Food,6.8,Chennai
+FB81534,Fisherman's Wharf,multi-cuisine,False,,9.2,Food,9.2,Goa
+FB80160,Latitude,coffee-shop,True,HO10629,7.3,Food,7.3,Aurangabad (MH) 
+FB80098,The Garden Terrace,coffee-shop,True,HO10547,9.2,Food,9.2,New Delhi
+FB80443,Tharavadu,coffee-shop,True,HO10591,8.8,Food,8.8,Kochi (Cochin)
+FB80665,Silver Saloon,coffee-shop,True,HO11022,7.2,Food,7.2,Gwalior
+FB80216,Bazaar,coffee-shop,True,HO10071,7.4,Food,7.4,Chennai
+FB81220,The Palm Terrace,coffee-shop,True,HO11041,4.6,Food,4.6,Chalsa
+FB81048,The Restaurant,coffee-shop,True,HO12039,5.2,Food,5.2,Bharatpur
+FB81553,Swad,coffee-shop,True,HO12712,5.0,Food,5.0,Varanasi
+FB81287,The Restaurant,coffee-shop,True,HO10992,4.0,Food,4.0,Tadoba
+FB81491,Casa Oliveira Fernandes,multi-cuisine,False,,8.0,Food,8.0,Goa
+FB81517,Restaurant,coffee-shop,True,HO12663,7.6,Food,7.6,Auroville
+FB80960,The Restaurant,coffee-shop,True,HO11544,5.0,Food,5.0,Mararikulam
+FB80349,Dining Area,coffee-shop,True,HO10503,8.8,Food,8.8,Shahpura (Bhilwara)
+FB81142,Zest,coffee-shop,True,HO12211,5.8,Food,5.8,Hassan
+FB81337,The Gourmet,coffee-shop,True,HO12402,7.6,Food,7.6,Ahmedabad
+FB80107,Creo,coffee-shop,True,HO10290,8.4,Food,8.4,New Delhi
+FB80945,The In House,coffee-shop,True,HO11338,5.2,Food,5.2,Mussoorie
+FB81364,In House Dining,coffee-shop,True,HO12442,8.1,Food,8.1,Stok (Leh)
+FB81116,Flamingo Boutique Villa,coffee-shop,True,HO11967,4.8,Food,4.8,Mararikulam
+FB81581,Restaurant,coffee-shop,True,HO11332,6.9,Food,6.9,Munnar
+FB81407,Rainbow,coffee-shop,True,HO11916,6.4,Food,6.3,Katra
+FB80466,Restaurant,coffee-shop,True,HO10815,7.4,Food,7.4,Bijaynagar
+FB81083,Pine & Petals,coffee-shop,True,HO11824,4.0,Food,4.0,Kodaikanal
+FB80090,Connaught Clubhouse,multi-cuisine,False,,8.2,Food,8.2,New Delhi
+FB81059,Shamiana,coffee-shop,True,HO11858,6.8,Food,6.8,Gurgaon
+FB80301,Citrus Cafe,coffee-shop,True,HO10723,7.0,Food,7.0,Gurgaon
+FB80222,Garden Kebabs,coffee-shop,True,HO10451,8.6,Food,8.6,Udaipur (RJ)
+FB81034,The Hub Kitchen,coffee-shop,True,HO11577,7.0,Food,7.0,Munnar
+FB80148,Vista,coffee-shop,True,HO10409,8.8,Food,8.8,Madurai
+FB80594,Citrus Cafe,coffee-shop,True,HO10535,6.7,Food,6.7,Goa
+FB81276,Masala Magic,coffee-shop,True,HO12340,4.8,Food,4.8,Pushkar
+FB80922,Mirasa,coffee-shop,True,HO11467,7.0,Food,7.0,Mumbai
+FB80923,Dining,coffee-shop,True,HO11517,6.8,Food,6.8,Manvar (RJ)
+FB80975,Indian Spice,coffee-shop,True,HO11179,6.6,Food,6.6,Ranthambore
+FB80641,The Cafe @ JW,coffee-shop,True,HO10879,5.6,Food,5.6,Chandigarh
+FB81401,The Jaisal Treat,multi-cuisine,False,,9.0,Food,9.0,Jaisalmer
+FB80984,Sands of Time,coffee-shop,True,HO11559,6.4,Food,6.4,Jodhpur
+FB81286,Terrace Grill,coffee-shop,True,HO12334,8.8,Food,8.8,Chettinadu
+FB80068,Granary,multi-cuisine,True,HO10243,8.4,Food,8.2,Siddapura (Coorg) (not to used)
+FB80068,Granary,coffee-shop,True,HO10243,9.2,Food,9.2,Coorg (Kodagu)
+FB80214,Conversation,coffee-shop,True,HO10568,8.4,Food,8.4,Jaipur
+FB80063,Hotel Castle Bijaipur,multi-cuisine,True,HO10026,7.0,Heritage,6.8,Udaipur (RJ)
+FB81481,Dhanushkoti,coffee-shop,True,HO12599,7.6,Food,7.6,Varanasi
+FB80540,In Room Dining,multi-cuisine,True,HO10467,8.0,Food,8.0,Mararikulam
+FB80303,Terrazzo,coffee-shop,True,HO10442,8.0,Food,8.0,Jaipur
+FB81535,Kadak,coffee-shop,True,HO12684,6.4,Food,6.4,Mumbai
+FB81113,Qube Cafe,coffee-shop,True,HO12205,6.4,Food,6.4,Pushkar
+FB80205,Embark,coffee-shop,True,HO10817,7.0,Food,7.0,Udaipur (RJ)
+FB80553,Restaurant,multi-cuisine,True,HO10374,7.0,Food,7.0,Bengaluru
+FB80511,The Restaurant,coffee-shop,True,HO10271,8.3,Food,8.3,Ranthambore
+FB80129,Fenix,coffee-shop,True,HO10240,9.4,Food,9.4,Mumbai
+FB81094,Gazebo,coffee-shop,True,HO12199,6.0,Food,6.0,Goa
+FB80899,24-Jul,coffee-shop,True,HO11355,6.2,Food,6.2,Jaipur
+FB81344,Dining,coffee-shop,True,HO10777,5.8,Food,5.8,Pench
+FB81098,Coconut Grove,coffee-shop,True,HO11708,5.0,Food,5.0,Goa
+FB80155,Trattoria,coffee-shop,True,HO10366,9.0,Food,9.0,Mumbai
+FB80212,Skylight,coffee-shop,True,HO10678,8.4,Food,8.4,Chandigarh
+FB80749,The Restaurant,coffee-shop,True,HO11133,5.8,Food,5.8,Karauli
+FB80978,Old Darbar Hall,coffee-shop,True,HO11545,7.2,Food,7.2,Pokhran
+FB80347,The Ambiance,coffee-shop,True,HO10520,8.4,Food,8.4,Hassan
+FB80189,Polki,coffee-shop,True,HO10744,7.8,Food,7.8,Bikaner
+FB80302,K3,coffee-shop,True,HO10253,9.2,Food,9.2,New Delhi
+FB80645,Sol House Cafe,coffee-shop,True,HO10948,6.8,Food,6.8,Pushkar
+FB81419,Saddleback,coffee-shop,True,HO12465,7.3,Food,7.3,Mahabaleshwar
+FB80051,Gingee,coffee-shop,True,HO10147,7.1,Food,7.1,Vellore
+FB80379,Tiffin's,coffee-shop,True,HO10742,7.0,Food,7.0,Poovar
+FB80491,Cafe Du Mahe,coffee-shop,True,HO10150,7.6,Food,7.6,Kochi (Cochin)
+FB80005,Ekaa Villa & Kitchen,coffee-shop,True,HO10007,7.1,Food,7.1,Agra
+FB81215,Kava Grill and Lounge,coffee-shop,True,HO10836,5.8,Food,5.8,Amritsar
+FB81450,The Lakeside Restaurant,coffee-shop,True,HO12551,8.7,Food,8.7,Khajuraho
+FB80510,Dining Room,coffee-shop,True,HO10422,9.2,Food,9.2,Ooty (Udhagamandalam)
+FB80593,Citrus Cafe,coffee-shop,True,HO10530,6.5,Food,6.5,Gangtok
+FB80260,Sloâ€™ Food Co.2,coffee-shop,True,HO10246,7.4,Food,7.4,Bengaluru
+FB81006,Dining,coffee-shop,True,HO10930,6.3,Food,6.3,Kanha
+FB80560,Restaurant,coffee-shop,True,HO10574,7.2,Food,7.2,Thekkady (Periyar/Kumily)
+FB80648,Machaan,coffee-shop,True,HO10961,6.6,Food,6.6,Varanasi
+FB80352,Restaurant,coffee-shop,True,HO10780,7.2,Food,7.2,Neeleshwar
+FB80887,Forks & Spoons,coffee-shop,True,HO11477,5.2,Food,5.2,Bharatpur
+FB80010,Tapas,bar,True,HO10008,8.0,Food,8.0,Agra
+FB81456,Dining Room,coffee-shop,True,HO11139,,,,Sariska
+FB80706,Cafe Pride,coffee-shop,True,HO11064,6.0,Food,6.0,Nagpur
+FB80933,Keys Cafe,coffee-shop,True,HO11524,5.8,Food,5.8,Thekkady (Periyar/Kumily)
+FB81305,Zodiac,coffee-shop,True,HO12376,5.8,Food,5.8,Chennai
+FB81065,Reflection,coffee-shop,True,HO10281,7.6,Food,7.6,Dharamshala
+FB80239,Ettukettu,coffee-shop,True,HO10063,9.0,Food,9.0,Kumarakom
+FB81527,Dining Area,coffee-shop,True,HO10938,7.5,Food,7.5,Kolkata
+FB80952,Tangelo,coffee-shop,True,HO11512,5.6,Food,5.6,Kalaburagi (Gulbarga)
+FB81112,The Pavilion,coffee-shop,True,HO11936,6.6,Food,6.6,Mussoorie
+FB81195,Infinit,coffee-shop,True,HO12278,5.2,Food,5.2,Mysuru (Mysore)
+FB80049,Mahua,multi-cuisine,True,HO10026,,,,Udaipur (RJ)
+FB80079,Bageecha,coffee-shop,True,HO10252,7.3,Food,7.3,Jaisalmer
+FB80706,Cafe Pride,coffee-shop,True,HO11064,6.2,Food,6.2,Nagpur
+FB80524,Shikar,coffee-shop,True,HO10491,8.1,Food,8.1,Rohet
+FB80175,Machan,coffee-shop,True,HO10231,8.4,Food,8.4,Bengaluru
+FB80401,Canton Royal,coffee-shop,True,HO10130,8.6,Food,8.6,Varanasi
+FB80962,Anoop Mahal,coffee-shop,True,HO10487,6.1,Food,6.1,Bikaner
+FB80678,Dining Room,coffee-shop,True,HO10974,7.3,Food,7.3,Mount Abu
+FB80422,The Banni,coffee-shop,True,HO10813,7.4,Food,7.4,Bhuj
+FB81361,Restaurant,coffee-shop,True,HO12063,7.6,Food,7.6,Tranquebar (Tharangambadi)
+FB80513,The Restaurant,coffee-shop,True,HO10270,8.1,Food,8.1,Alwar
+FB81149,The Silver Dining Room,coffee-shop,True,HO10170,7.4,Food,7.4,Kalimpong
+FB81602,Serenade Cafe,coffee-shop,True,HO12761,5.0,Food,5.0,Panchkula
+FB81093,The Cave,coffee-shop,True,HO12113,6.0,Food,6.0,Wayanad
+FB80821,Chai Lounge,multi-cuisine,True,HO10991,4.6,Food,4.6,Namchi
+FB81590,Restaurant,coffee-shop,True,HO12725,6.1,Food,6.1,Agra
+FB80252,Cafe Treat,coffee-shop,True,HO10685,6.9,Food,6.9,Kolkata
+FB80980,Ashtam,coffee-shop,True,HO11556,6.4,Food,6.4,Jaipur
+FB81081,The Restaurant,coffee-shop,True,HO11730,5.0,Food,5.0,Coorg (Kodagu)
+FB80006,The Grand Buffet,coffee-shop,True,HO10008,7.6,Food,7.6,Agra
+FB81200,The Restaurant,coffee-shop,True,HO10065,9.4,Food,9.4,Munnar
+FB81040,Bay Leaf,coffee-shop,True,HO11608,5.4,Food,5.4,Pushkar
+FB80127,The Dining Room,coffee-shop,True,HO10133,9.2,Food,9.2,Haridwar
+FB81448,Maikal,coffee-shop,True,HO12554,7.3,Food,7.3,Kanha
+FB80084,The Raj Pavilion,coffee-shop,True,HO10026,8.5,Food,8.8,Udaipur (RJ)
+FB80982,Lichi vriksh,coffee-shop,True,HO11560,6.4,Food,6.4,Varanasi
+FB81538,The Mughal Room,specialty-restaurant,True,HO10079,9.3,Food,9.3,Agra
+FB80351,Temptation,coffee-shop,True,HO10736,7.2,Food,7.2,Hosapete (Hospet) (not to be used)
+FB81179,Tara,coffee-shop,True,HO12267,7.0,Food,6.0,Kathmandu
+FB81188,Restaurant,coffee-shop,True,HO12246,7.0,Food,7.0,Everest Region
+FB80778,Citrus Cafe,coffee-shop,True,HO10516,6.5,Food,6.5,Katra
+FB80444,Fort Kochi,specialty-restaurant,True,HO10591,8.8,Food,8.8,Kochi (Cochin)
+FB80655,Ekatra,coffee-shop,True,HO10985,6.4,Food,6.4,Jodhpur
+FB81472,Restaurant,coffee-shop,True,HO11139,7.8,Food,7.8,Sariska
+FB80247,The Dining Room,coffee-shop,True,HO10190,8.5,Food,8.5,Udaipur (RJ)
+FB80359,Atrium,coffee-shop,True,HO10030,5.4,Food,5.4,New Delhi
+FB80043,Trishna,specialty-restaurant,False,,7.8,Food,7.8,Mumbai
+FB80800,Twenty One Bar & Cafe,coffee-shop,True,HO11358,6.7,Food,6.7,Jaipur
+FB81320,Restaurant,coffee-shop,True,HO10798,6.7,Food,6.7,Pali (RJ) 
+FB80845,Grasshopper,coffee-shop,True,HO11237,6.6,Food,6.6,Kovalam
+FB80651,The Castle,coffee-shop,True,HO10982,7.6,Food,7.6,Mysuru (Mysore)
+FB80263,Jai Niwas,coffee-shop,True,HO10425,7.0,Food,7.0,Mandawa
+FB80660,Sidak,coffee-shop,True,HO11005,6.2,Food,6.2,Amritsar
+FB80195,Les Alizes,coffee-shop,True,HO10479,8.1,Food,8.1,Puducherry (Pondicherry)
+FB80349,Dining Area,coffee-shop,True,HO10503,8.0,Food,8.0,Shahpura (Bhilwara)
+FB81217,Pokaran Desert Resort,coffee-shop,True,HO11422,6.7,Food,6.7,Pokhran
+FB80306,The One,coffee-shop,True,HO10405,8.1,Food,8.1,New Delhi
+FB80874,Dining,coffee-shop,True,HO10517,7.2,Food,7.2,Ranakpur
+FB80265,Citrus Cafe,coffee-shop,True,HO10378,7.0,Food,7.0,Bengaluru
+FB80592,Citrus Cafe,coffee-shop,True,HO10514,7.5,Food,7.5,Aurangabad (MH) 
+FB81205,Dining Hall,coffee-shop,True,HO11794,5.8,Food,5.8,Tadoba
+FB81604,A Millet,coffee-shop,True,HO12728,6.6,Food,6.6,Ahmedabad
+FB80662,Curry & Rice,coffee-shop,True,HO11018,5.2,Food,5.2,Ooty (Udhagamandalam)
+FB80977,Dining Tent,coffee-shop,True,HO11486,6.6,Food,6.6,Ranthambore
+FB80726,Mynt,coffee-shop,True,HO11099,8.8,Food,8.8,Mangaluru (Mangalore)
+FB81493,Restaurant,coffee-shop,True,HO12606,5.6,Food,5.6,Kumbhalgarh
+FB81207,The Restaurant,coffee-shop,True,HO12280,5.0,Food,5.0,Hoshangabad (Satpura)
+FB80936,L14,coffee-shop,True,HO11526,5.8,Food,5.8,Lucknow
+FB80677,Mynt,coffee-shop,True,HO10978,7.4,Food,7.4,Navi Mumbai
+FB81520,Ginger House Restaurant,coffee-shop,True,HO11691,6.2,Food,6.2,Kochi (Cochin)
+FB81377,Cedar,coffee-shop,True,HO11139,,,,Sariska
+FB80906,House Of Han,specialty-restaurant,True,HO10103,5.9,Food,5.9,Jaipur
+FB80902,Biso,coffee-shop,True,HO11362,4.6,Food,4.6,Vijayapura (Bijapur)
+FB80897,Nombili,coffee-shop,True,HO11298,6.6,Food,6.6,Bekal
+FB80271,Shahnama,coffee-shop,True,HO10663,5.0,Food,5.0,Bhopal
+FB81307,Mynt,coffee-shop,True,HO11805,7.8,Food,7.8,Goa
+FB81601,Restaurant,multi-cuisine,True,HO12522,6.9,Food,6.9,Ranthambore
+FB80344,Sapphire,coffee-shop,True,HO10628,7.2,Food,7.2,Shahpura (Jaipur)
+FB80613,Mirasa,coffee-shop,True,HO10025,6.9,Food,6.9,Udaipur (RJ)
+FB81442,Restaurant,coffee-shop,True,HO12546,6.1,Food,6.1,Udaipur (RJ)
+FB80317,Citrus Cafe,coffee-shop,True,HO10450,8.0,Food,8.0,Jaipur
+FB81244,The Restaurant,coffee-shop,True,HO12320,6.9,Food,6.9,Puducherry (Pondicherry)
+FB81132,The Restaurant,coffee-shop,True,HO11890,5.8,Food,5.8,Jaisalmer
+FB81227,Bloom Cafe,coffee-shop,True,HO11207,4.6,Food,4.6,Bengaluru
+FB81228,Bloom CafÃ©,coffee-shop,True,HO11208,6.2,Food,6.2,Goa
+FB81102,The Restaurant,coffee-shop,True,HO11798,5.6,Food,5.6,Goa
+FB80185,Chakara,coffee-shop,True,HO10343,7.9,Food,7.9,Mararikulam
+FB81391,Dining Room,coffee-shop,True,HO12523,7.0,Food,7.0,Jaipur
+FB80891,Restaurant,coffee-shop,True,HO11241,5.8,Food,5.8,Ooty (Udhagamandalam)
+FB80533,Dining Room,multi-cuisine,True,HO10722,7.4,Food,7.4,Kothamangalam (TN) 
+FB81452,Honey Comb,coffee-shop,True,HO10169,9.2,Food,9.2,Kabini
+FB81540,Nanking Restaurant,multi-cuisine,False,,8.4,Food,8.4,New Delhi
+FB80318,Cafe 9,coffee-shop,True,HO10697,5.3,Food,5.3,New Delhi
+FB81261,Pavilion,coffee-shop,True,HO11572,6.0,Food,6.0,Karur
+FB80386,F.U.N.,coffee-shop,True,HO10482,5.5,Food,5.5,Puducherry (Pondicherry)
+FB80295,Nook,coffee-shop,True,HO10046,6.8,Food,6.8,New Delhi
+FB80435,Pavilion,coffee-shop,True,HO10305,8.6,Food,8.6,New Delhi
+FB80777,Citrus Cafe,coffee-shop,True,HO10963,5.9,Food,5.9,Dehradun
+FB80803,KB Cafe,coffee-shop,True,HO10831,6.8,Food,6.8,Jaisalmer
+FB80898,24-Jul,coffee-shop,True,HO11312,6.9,Food,6.9,Bengaluru
+FB80014,Svanga Kitchen,coffee-shop,True,HO10011,8.6,Food,8.6,Agra
+FB81489,Royal Flavour,coffee-shop,True,HO10492,6.7,Food,6.7,Ranthambore
+FB80283,Okra,coffee-shop,True,HO10303,7.1,Food,7.1,Jaipur
+FB80508,Masala,coffee-shop,True,HO10081,6.2,Food,6.2,Kochi (Cochin)
+FB80002,New Riao,multi-cuisine,False,,9.0,Food,9.0,Agra
+FB80626,The Restaurant,coffee-shop,True,HO10826,6.4,Food,6.4,Jaisalmer
+FB80903,Restaurant,coffee-shop,True,HO10413,7.4,Food,7.4,Jaisalmer
+FB81439,Dining Room,coffee-shop,True,HO12453,6.4,Food,6.4,Dharamshala
+FB80418,Atlas World Cafe,coffee-shop,True,HO10431,6.2,Food,6.2,Bengaluru
+FB81087,The Hornbill,coffee-shop,True,HO11997,6.0,Food,6.0,Munnar
+FB80317,Citrus Cafe,coffee-shop,True,HO10450,6.7,Food,6.7,Jaipur
+FB80561,Restaurant,coffee-shop,True,HO10092,10.0,Food,10.0,Jaipur
+FB81238,Cosmos,coffee-shop,True,HO11466,7.0,Food,7.0,Agra
+FB80605,Peharasi Andaz,coffee-shop,True,HO10923,5.4,Food,5.4,Bharatpur
+FB81293,Dragonfly,multi-cuisine,False,,6.8,Food,8.6,New Delhi
+FB80697,Zodiac,coffee-shop,True,HO11109,4.8,Food,4.8,Kolkata
+FB80191,Down To Earth,coffee-shop,True,HO10361,8.8,Food,8.8,Karaikudi
+FB81330,Orchid,coffee-shop,True,HO11745,6.3,Food,6.3,Bhubaneswar
+FB81500,Branche,coffee-shop,True,HO11917,5.3,Food,5.3,Lucknow
+FB80420,The Taragarh,coffee-shop,True,HO10296,6.6,Food,6.6,Bundi
+FB80258,Edesia,coffee-shop,True,HO10459,6.2,Food,6.2,New Delhi
+FB80671,Sapphire,coffee-shop,True,HO11023,6.2,Food,6.2,Udaipur (RJ)
+FB80269,Citrus Cafe,coffee-shop,True,HO10519,8.2,Food,8.2,Chandigarh
+FB80115,The Restaurant,coffee-shop,True,HO10336,9.4,Food,9.4,Shimla
+FB80222,Garden Kebabs,coffee-shop,True,HO10451,8.0,Food,8.0,Udaipur (RJ)
+FB80786,Naivedyam,coffee-shop,True,HO11214,6.4,Food,6.4,Nathdwara
+FB81281,Rolling Hills Bistro,coffee-shop,True,HO12342,6.2,Food,6.2,Munnar
+FB80142,Vembanad Bistro,coffee-shop,True,HO10521,7.8,Food,7.8,Kumarakom
+FB81440,Rooftop Dining,coffee-shop,True,HO12548,7.6,Food,7.6,Haridwar
+FB81160,Dining Area,coffee-shop,True,HO11803,5.6,Food,5.6,Bandipur
+FB80341,Family Dining Hall,coffee-shop,True,HO10172,10.0,Food,10.0,Munnar
+FB80459,Dining Room,multi-cuisine,True,HO10404,8.6,Food,8.6,Mysuru (Mysore)
+FB80330,Courtyard,coffee-shop,True,HO10443,7.2,Food,7.2,Puducherry (Pondicherry)
+FB81432,Tangelo,coffee-shop,True,HO12416,7.0,Food,7.0,Dharamshala
+FB81217,Pokaran Desert Resort,coffee-shop,True,HO11422,6.2,Food,6.2,Pokhran
+FB80108,Shamiana,coffee-shop,True,HO10762,7.2,Food,7.2,Jaipur
+FB81380,Restaurant,coffee-shop,True,HO11139,,,,Sariska
+FB80997,Skyrocca Diner,coffee-shop,True,HO11568,7.4,Food,7.4,Yercaud
+FB80275,Wharf 2.0,specialty-restaurant,True,HO10248,8.0,Food,8.0,Mamallapuram (Mahabalipuram)
+FB80238,Clever Fox,coffee-shop,True,HO10539,8.0,Food,8.0,Trichy (Tiruchirappalli)
+FB81588,Ettukettu,specialty-restaurant,True,HO10383,7.7,Food,7.7,Kumarakom
+FB81160,Dining Area,coffee-shop,True,HO11803,6.5,Food,6.5,Bandipur
+FB81041,Zing,coffee-shop,True,HO10878,6.2,Food,6.2,New Delhi
+FB81632,Olivia 24/7,coffee-shop,True,HO11139,4.5,Food,4.5,Sariska
+FB81519,Restaurant,coffee-shop,True,HO12641,6.7,Food,6.7,Chittorgarh
+FB81103,Apricot,coffee-shop,True,HO11718,6.8,Food,6.8,Goa
+FB81151,The Magnolia Dining Room,coffee-shop,True,HO10660,7.6,Food,7.6,Pemayangtse (not to be used)
+FB80948,Punjab Province,coffee-shop,True,HO10283,8.4,Food,8.4,Amritsar
+FB80723,Latitude,coffee-shop,True,HO11115,7.0,Food,7.0,Pune
+FB80535,Dining Room,coffee-shop,True,HO10069,6.8,Food,6.8,Amritsar
+FB81036,The Constellation,coffee-shop,True,HO11595,6.8,Food,6.8,Indore
+FB80446,Kafe-24,coffee-shop,True,HO10228,5.0,Food,5.0,Chennai
+FB80309,Citrus Cafe,coffee-shop,True,HO10686,6.4,Food,6.4,Hyderabad
+FB80493,The Restaurant,coffee-shop,True,HO10205,4.4,Food,4.4,Dungarpur
+FB80149,Cal 27,coffee-shop,True,HO10622,8.6,Food,8.6,Kolkata
+FB81336,Royal Rasoi,coffee-shop,True,HO12400,7.8,Food,7.8,Jaisalmer
+FB80310,The Inhouse,coffee-shop,True,HO10778,7.1,Food,7.1,Jaisalmer
+FB81399,Restaurant,coffee-shop,True,HO12505,7.7,Food,7.6,Rishikesh
+FB80112,Vyom,coffee-shop,True,HO10755,8.6,Food,8.6,Jaipur
+FB80174,Sunset Terrace,coffee-shop,True,HO10077,8.2,Food,8.2,Udaipur (RJ)
+FB80347,The Ambiance,coffee-shop,True,HO10520,7.5,Food,7.5,Hassan
+FB80417,Dining Area,coffee-shop,True,HO10804,8.6,Food,8.6,Toria
+FB81082,Creeks,coffee-shop,True,HO11879,6.0,Food,6.0,Kumarakom
+FB81487,Hues Coffee Shop,coffee-shop,True,HO11139,6.5,Food,6.4,Sariska
+FB80828,Restaurant,coffee-shop,True,HO11155,6.0,Food,6.0,Chittorgarh
+FB80934,Citrus Cafe,coffee-shop,True,HO11525,4.6,Food,4.6,Hyderabad
+FB80056,STEAM & WHISTLES,bar,True,HO10026,,,,Udaipur (RJ)
+FB80082,Sholla,specialty-restaurant,True,HO10026,7.6,Food,8.8,Udaipur (RJ)
+FB81222,Bites,coffee-shop,True,HO10585,6.8,Food,6.8,Gurgaon
+FB80951,Fate's cafe,coffee-shop,True,HO11147,6.6,Food,6.6,Ranthambore
+FB81441,Tulsi Ark,coffee-shop,True,HO12365,5.0,Food,5.0,Vrindavan
+FB81316,Cafe Samsara,coffee-shop,True,HO12384,8.2,Food,8.2,Thekkady (Periyar/Kumily)
+FB80421,Padam Mahal,coffee-shop,True,HO10298,6.1,Food,6.1,Bikaner
+FB80820,Restaurant,coffee-shop,True,HO11025,7.6,Food,7.6,Jodhpur
+FB80518,The Restaurant,coffee-shop,True,HO10657,8.8,Food,8.8,Udaipur (RJ)
+FB81297,Risya,coffee-shop,True,HO10796,7.0,Food,7.0,Corbett
+FB80569,Restaurant,coffee-shop,True,HO10300,6.6,Food,6.6,Jodhpur
+FB81117,The Cauldron,coffee-shop,True,HO12135,6.4,Food,6.4,Thekkady (Periyar/Kumily)
+FB80315,Main Street,coffee-shop,True,HO10347,8.6,Food,8.6,Chennai
+FB80183,Bhairo,specialty-restaurant,True,HO10437,9.4,Food,9.4,Udaipur (RJ)
+FB80538,The Restaurant,coffee-shop,True,HO10020,8.1,Food,8.0,Varanasi
+FB80025,1911 (Nostalgia),specialty-restaurant,True,HO10013,8.0,Food,8.0,New Delhi
+FB80626,Dining Room,coffee-shop,True,HO10826,6.4,Food,6.4,Jaisalmer
+FB80516,Chitvan,coffee-shop,True,HO10662,7.6,Food,7.6,Kanha
+FB80824,Dining,multi-cuisine,True,HO11188,7.2,Food,7.2,Srinagar
+FB81317,Diet Restaurant,coffee-shop,True,HO11313,7.0,Food,7.3,Kovalam
+FB80041,Khyber,specialty-restaurant,False,,9.0,Food,9.0,Mumbai
+FB81288,Hibiscus,coffee-shop,True,HO11446,4.2,Food,4.2,Kovalam
+FB80146,Ferntree,coffee-shop,True,HO10684,8.8,Food,8.8,Madikeri (Coorg) (not to used)
+FB80791,East Indies,coffee-shop,True,HO10194,8.8,Food,8.8,Kochi (Cochin)
+FB80660,Sidak,coffee-shop,True,HO11005,7.4,Food,7.4,Amritsar
+FB81171,The Restaurant,coffee-shop,True,HO12243,7.0,Food,7.0,Kathmandu
+FB81050,Bade Saab,coffee-shop,True,HO12175,6.4,Food,6.4,Jaipur
+FB80784,Blacksand,coffee-shop,True,HO11227,6.4,Food,6.5,Kovalam
+FB80797,Lord Of The Drinks,multi-cuisine,False,,8.0,Food,8.0,New Delhi
+FB81272,Palace,coffee-shop,True,HO12353,6.6,Food,6.6,Pushkar
+FB81299,The Oak Tree Bistro,coffee-shop,True,HO12372,6.4,Food,6.4,Mussoorie
+FB80498,Durbar Hall,coffee-shop,True,HO10097,9.4,Food,9.4,Jaipur
+FB81267,Ziva,coffee-shop,True,HO11280,6.0,Food,6.0,Amritsar
+FB81262,Bloom Cafe,coffee-shop,True,HO12203,6.6,Food,6.6,Mumbai
+FB80312,Keraleeyam,coffee-shop,True,HO10735,7.2,Food,7.2,Kozhikode (Calicut)
+FB80187,TIARA,coffee-shop,True,HO10200,8.4,Food,8.4,Mumbai
+FB80526,Ocean,coffee-shop,True,HO10033,8.2,Food,8.2,Varanasi
+FB81189,Restaurant,coffee-shop,True,HO12250,6.0,Food,6.0,Gorkha
+FB81627,Dhanyam,coffee-shop,True,HO12786,7.0,Food,7.0,Palani
+FB81585,Daawat-E-Nawab,specialty-restaurant,True,HO10005,8.0,Food,8.0,Agra
+FB80596,Dining Room,coffee-shop,True,HO10197,9.1,Food,9.1,Jaipur
+FB80473,Kalyana Kottagai,coffee-shop,True,HO10152,8.0,Food,8.0,Chettinadu
+FB80587,Dining Hall,coffee-shop,True,HO10235,8.6,Food,8.6,Coonoor
+FB80388,Spiced Bite,coffee-shop,True,HO10527,6.4,Food,6.4,Jaisalmer
+FB80484,Chandni Midway,multi-cuisine,False,,8.0,Food,7.4,Narnaul
+FB80339,Sapphire,coffee-shop,True,HO10390,6.0,Food,6.0,Jaipur
+FB81230,Ramble,coffee-shop,True,HO12315,5.4,Food,5.4,Kasauli
+FB81073,Indish,coffee-shop,True,HO11874,5.5,Food,5.5,Gwalior
+FB80388,Spiced Bite,coffee-shop,True,HO10527,5.7,Food,5.7,Jaisalmer
+FB80636,The Indian Rasoi,coffee-shop,True,HO10946,5.4,Food,5.4,Amritsar
+FB81477,Courtyard,coffee-shop,True,HO12351,8.0,Food,8.0,Ranthambore
+FB81356,On the Rocks,multi-cuisine,False,,7.9,Food,7.9,Jodhpur
+FB80826,Restaurant,coffee-shop,True,HO11131,7.6,Food,7.6,Bharatpur
+FB80701,Orchid,coffee-shop,True,HO11090,6.1,Food,6.1,Gandhinagar
+FB80040,Gaylord,specialty-restaurant,False,,8.4,Food,9.1,Mumbai
+FB81027,The Waterhole,coffee-shop,True,HO11593,4.4,Food,4.4,Bandhavgarh
+FB80269,Citrus Cafe,coffee-shop,True,HO10519,7.0,Food,7.0,Chandigarh
+FB81182,Restaurant,coffee-shop,True,HO12249,6.0,Food,6.0,Pokhara
+FB81556,Zeebop By The Sea,multi-cuisine,False,,9.0,Food,9.0,Goa
+FB80096,Surya Mahal,coffee-shop,True,HO10313,9.2,Food,9.2,Jaipur
+FB81576,Abbiocco,coffee-shop,True,HO10529,8.2,Food,8.2,Pushkar
+FB81557,The Restaurant,coffee-shop,True,HO12596,6.3,Food,6.3,Trichy (Tiruchirappalli)
+FB80885,Pinch Of Salt,multi-cuisine,False,,9.2,Food,9.2,Khajuraho
+FB81007,Dining,coffee-shop,True,HO11395,5.6,Food,5.6,Athirappilly
+FB81266,Bazaar,coffee-shop,True,HO12329,7.3,Food,7.3,Madurai
+FB81463,Chor Bizarre,coffee-shop,True,HO12567,8.2,Food,8.2,New Delhi
+FB80251,Cappuccino,coffee-shop,True,HO10754,6.4,Food,6.4,Chennai
+FB80522,Mosaic,coffee-shop,True,HO10113,5.2,Food,5.2,Jaipur
+FB80409,Open House,coffee-shop,True,HO10212,6.9,Food,6.9,Thiruvananthapuram (Trivandrum)
+FB81270,Bloom Cafe,coffee-shop,True,HO12331,5.8,Food,5.8,Mumbai
+FB80050,Amaroso,specialty-restaurant,True,HO10026,,,,Udaipur (RJ)
+FB80767,Sunflower,coffee-shop,True,HO11205,6.8,Food,6.8,Jaipur
+FB80125,Lapis,coffee-shop,True,HO10239,9.0,Food,9.0,Bengaluru
+FB81574,Uttarayan,coffee-shop,True,HO12634,7.3,Food,7.3,Mount Abu
+FB80023,San Gimignano,specialty-restaurant,True,HO10013,9.7,Food,9.7,New Delhi
+FB81163,Feast,coffee-shop,True,HO12092,6.2,Food,6.2,Ranthambore
+FB80092,Gulati,specialty-restaurant,False,,8.6,Food,8.6,New Delhi
+FB81570,Mabel's,coffee-shop,True,HO12664,6.4,Food,6.4,Bikaner
+FB80374,The Orange,coffee-shop,True,HO10563,5.8,Food,5.8,Madurai
+FB80686,Cafe Treat,coffee-shop,True,HO11048,7.4,Food,7.4,Chennai
+FB80679,The Bridge,coffee-shop,True,HO11063,5.4,Food,5.4,Gurgaon
+FB80404,The Garden,coffee-shop,True,HO10756,7.0,Food,7.0,Varkala
+FB80130,Encounters,coffee-shop,True,HO10508,8.4,Food,8.4,Hyderabad
+FB80078,Flavours,coffee-shop,True,HO10088,6.0,Food,6.0,Jaipur
+FB80478,Kava,coffee-shop,True,HO10653,6.6,Food,6.6,Jodhpur
+FB81403,The Konkan Cafe,specialty-restaurant,True,HO10366,9.0,Food,9.0,Mumbai
+FB80003,The Salt Cafe,multi-cuisine,False,,9.0,Food,9.0,Agra
+FB80527,Restaurant,coffee-shop,True,HO10544,6.7,Food,6.7,Tadoba
+FB80147,The East India Room,coffee-shop,True,HO10717,8.0,Food,8.0,Kolkata
+FB80108,Shamiana,coffee-shop,True,HO10762,8.0,Food,8.0,Jaipur
+FB80988,Azrak,coffee-shop,True,HO10524,3.6,Food,3.6,Lucknow
+FB80114,Verandah,coffee-shop,True,HO10464,9.4,Food,9.4,Mumbai
+FB80118,Threesixtyone,coffee-shop,True,HO10324,8.9,Food,8.9,Gurgaon
+FB80074,Taj Bano,multi-cuisine,True,HO10026,7.7,Food,8.8,Udaipur (RJ)
+FB80213,North 27,coffee-shop,True,HO10022,8.4,Food,8.4,Agra
+FB80377,The Banyan,coffee-shop,True,HO10400,8.2,Food,8.2,Madurai
+FB81051,The High Range Club,coffee-shop,True,HO11789,5.4,Food,5.4,Munnar
+FB80079,Bageecha,coffee-shop,True,HO10252,7.2,Food,7.2,Jaisalmer
+FB81055,Earth,coffee-shop,True,HO12177,6.8,Food,6.8,Bekal
+FB80608,The Dining Hall,coffee-shop,True,HO10925,5.4,Food,5.4,Dharamshala
+FB80105,Audhi,coffee-shop,True,HO10648,8.0,Food,8.0,Jaipur
+FB80396,The Grand,coffee-shop,True,HO10082,7.6,Food,7.6,Udaipur (RJ)
+FB80379,Tiffin's,coffee-shop,True,HO10742,6.4,Food,6.4,Poovar
+FB80745,The Cuisine,coffee-shop,True,HO11178,7.0,Food,7.0,Jojawar
+FB81051,The High Range Club,coffee-shop,True,HO11789,6.3,Food,6.3,Munnar
+FB80905,The Royal Root,specialty-restaurant,True,HO10103,6.4,Food,6.4,Jaipur
+FB80879,The Roots Above,coffee-shop,True,HO11483,6.4,Food,6.4,Udaipur (RJ)
+FB80180,Suvarna Mahal,specialty-restaurant,True,HO10010,8.7,Food,8.7,Jaipur
+FB81170,La Concha,coffee-shop,True,HO11251,4.8,Food,4.8,Goa
+FB80381,The Golden Palate,coffee-shop,True,HO10461,7.1,Food,7.1,Mamallapuram (Mahabalipuram)
+FB80019,Sevilla,specialty-restaurant,True,HO10012,9.4,Food,9.4,New Delhi
+FB80298,The Great Kabab Factory,specialty-restaurant,True,HO10191,8.4,Food,8.4,Varanasi
+FB81594,Prem Bhog,specialty-restaurant,False,,8.4,Food,8.4,Rewari
+FB80272,Waters Edge Cafe,coffee-shop,True,HO10248,8.0,Food,8.0,Mamallapuram (Mahabalipuram)
+FB80556,Dining Room,coffee-shop,True,HO10708,6.5,Food,6.5,Jaipur
+FB80110,Yellow Brick Road,coffee-shop,True,HO10321,8.6,Food,8.6,New Delhi
+FB80477,Pinkcity Heritage,multi-cuisine,False,,6.6,Food,6.6,Jaipur
+FB81004,Machaan Dining Hall,coffee-shop,True,HO10699,6.8,Food,6.8,Panna
+FB80100,Marble Arch,coffee-shop,True,HO10001,8.0,Food,8.0,Jaipur
+FB80801,Linx,coffee-shop,True,HO11458,5.8,Food,5.8,New Delhi
+FB80305,Around the World,coffee-shop,True,HO10883,9.6,Food,9.6,Jaipur
+FB80473,Kalyana Kottagai,coffee-shop,True,HO10152,7.3,Food,7.3,Chettinadu
+FB80826,Restaurant,coffee-shop,True,HO11131,7.6,Food,6.4,Bharatpur
+FB81573,Restaurant,coffee-shop,True,HO12731,5.0,Food,5.0,Kozhikode (Calicut)
+FB80209,Falling Leaves,coffee-shop,True,HO10265,8.0,Food,8.0,Thekkady (Periyar/Kumily)
+FB81301,Zodiac Cafe,coffee-shop,True,HO12323,6.2,Food,6.2,Bhubaneswar
+FB80877,Delhi Barbeque,coffee-shop,True,HO11494,5.0,Food,5.0,New Delhi
+FB80334,Citrus Cafe,coffee-shop,True,HO10733,5.7,Food,5.7,Noida
+FB80410,Chandni,coffee-shop,True,HO10048,10.0,Food,10.0,Udaipur (RJ)
+FB81169,Restaurant,coffee-shop,True,HO11601,6.0,Food,6.0,Narendra Nagar (UK)
+FB81470,Restaurant,coffee-shop,True,HO12579,6.9,Food,6.9,Thalassery (Telicherry)
+FB80853,Flavours,coffee-shop,True,HO11238,5.6,Food,5.6,Kodaikanal
+FB80121,Cilantro,coffee-shop,True,HO10326,9.0,Food,9.0,Gurgaon
+FB81209,The Restaurant,coffee-shop,True,HO12292,7.4,Food,7.4,Jodhpur
+FB81000,Sita Madhi,coffee-shop,True,HO11028,6.0,Food,6.0,Bandhavgarh
+FB81550,Ziya,specialty-restaurant,True,HO10240,9.4,Food,9.4,Mumbai
+FB80507,The Barn,coffee-shop,True,HO10120,8.4,Food,8.4,Munnar
+FB80369,Kigelia Court,coffee-shop,True,HO10561,8.2,Food,8.2,Jaipur
+FB80037,Tribute,multi-cuisine,False,,8.2,Food,8.2,Udaipur (RJ)
+FB80474,Kerala Cuisine,coffee-shop,True,HO10348,8.4,Food,8.4,Alappuzha (Alleppey)
+FB80654,Zodiac,coffee-shop,True,HO10975,6.1,Food,6.1,Ahmedabad
+FB81271,Chidya Ghar,coffee-shop,True,HO12346,5.2,Food,5.2,Rishikesh
+FB81010,Baradari,coffee-shop,True,HO11137,7.6,Food,7.6,Ranthambore
+FB81193,The Valley,coffee-shop,True,HO11821,5.4,Food,5.4,Kodaikanal
+FB80275,Wharf 2.0,specialty-restaurant,True,HO10248,7.7,Food,7.7,Mamallapuram (Mahabalipuram)
+FB80943,Badi Kothi,coffee-shop,True,HO11070,5.4,Food,5.4,Prayagraj
+FB80766,Grand Trunk,coffee-shop,True,HO11029,8.6,Food,8.6,Amritsar
+FB80196,Orchid,coffee-shop,True,HO10132,9.0,Food,8.4,Bengaluru
+FB80694,Zodiac,coffee-shop,True,HO11087,4.8,Food,4.8,Bengaluru
+FB81237,Le Grand Cafe,coffee-shop,True,HO11387,7.2,Food,7.2,Amritsar
+FB81340,On Kourse,coffee-shop,True,HO12385,6.5,Food,6.5,Manesar
+FB80991,Kaleva,coffee-shop,True,HO10951,5.0,Food,5.0,Orchha
+FB80658,The Residency,coffee-shop,True,HO10981,7.2,Food,7.2,Shimla
+FB80461,La Salsa,coffee-shop,True,HO10211,6.0,Food,6.0,Jaipur
+FB81204,Diablo,multi-cuisine,False,,8.5,Food,8.5,New Delhi
+FB80578,Restaurant,coffee-shop,True,HO10515,7.0,Food,7.0,Pushkar
+FB80836,Lattice,coffee-shop,True,HO11444,6.6,Food,6.6,Agra
+FB81362,Seasons,coffee-shop,True,HO10926,6.8,Food,6.8,Varanasi
+FB81524,LA Mesa,multi-cuisine,True,HO10655,8.0,Food,8.0,Jaipur
+FB81350,Augusta Heights,coffee-shop,True,HO12415,7.3,Food,7.3,Wayanad
+FB80835,Annapurna,coffee-shop,True,HO11232,6.2,Food,6.2,Neeleshwar
+FB81229,Bloom Cafe,coffee-shop,True,HO10142,6.2,Food,6.2,Goa
+FB80075,Peshawri,specialty-restaurant,True,HO10026,9.0,Food,8.8,Udaipur (RJ)
+FB81109,Taikhana,coffee-shop,True,HO11882,5.8,Food,5.8,Jaipur
+FB80673,Tentu,coffee-shop,True,HO10968,7.8,Food,7.8,Manali
+FB81130,Haritam,coffee-shop,True,HO11753,5.6,Food,5.6,Bidar
+FB80611,Zest,coffee-shop,True,HO10942,6.2,Food,6.2,Mysuru (Mysore)
+FB81321,Old Loco,coffee-shop,True,HO10814,6.3,Food,6.3,Jodhpur
+FB81369,The Roor,coffee-shop,True,HO12455,5.0,Food,5.0,Durgapur
+FB80503,Food Exchange,coffee-shop,True,HO10304,8.0,Food,8.0,New Delhi
+FB80831,Restaurant,multi-cuisine,True,HO11127,8.8,Food,8.8,New Delhi
+FB80664,Verandah,coffee-shop,True,HO11011,8.0,Food,7.3,Goa
+FB81259,Bloom Cafe,coffee-shop,True,HO10729,6.8,Food,6.8,Bengaluru
+FB80821,Chai Lounge,coffee-shop,True,HO10991,4.6,Food,4.6,Namchi
+FB80825,Dining Hall,coffee-shop,True,HO11102,8.6,Food,8.6,Panna
+FB80337,Options,coffee-shop,True,HO10315,6.8,Food,6.8,Thiruvananthapuram (Trivandrum)
+FB80834,Dining,coffee-shop,True,HO11442,6.2,Food,6.2,Udaipur (RJ)
+FB81009,Gourmet,coffee-shop,True,HO10035,8.0,Food,8.0,Kochi (Cochin)
+FB80631,Seasonal Tastes,coffee-shop,True,HO10847,4.6,Food,4.6,Gurgaon
+FB80254,Cafe Pride,coffee-shop,True,HO10286,7.6,Food,7.6,New Delhi
+FB81140,The Restaurant,coffee-shop,True,HO11307,5.8,Food,5.8,Kovalam
+FB80712,Keraleeyam,coffee-shop,True,HO11103,6.6,Food,6.6,Kollam (Quilon)
+FB80422,The Banni,coffee-shop,True,HO10813,6.9,Food,6.9,Bhuj
+FB81537,The Lodge,coffee-shop,True,HO10816,7.2,Food,7.2,Palampur
+FB80132,Viva,coffee-shop,True,HO10688,8.4,Food,8.4,Hyderabad
+FB80263,Jai Niwas,coffee-shop,True,HO10425,6.6,Food,6.6,Mandawa
+FB80684,Six O One,coffee-shop,True,HO11046,4.8,Food,4.8,Chennai
+FB80826,Restaurant,multi-cuisine,True,HO11131,7.6,Food,7.6,Bharatpur
+FB80537,Dining Room,coffee-shop,True,HO10837,8.0,Food,8.0,Dindigul
+FB80387,Mira,coffee-shop,True,HO10226,9.0,Food,9.0,Puducherry (Pondicherry)
+FB80642,The Resturant,coffee-shop,True,HO10947,6.8,Food,6.8,Jaipur
+FB80004,Dawat-e-Zaika,coffee-shop,True,HO10002,6.0,Food,6.0,Agra
+FB81544,Restaurant,coffee-shop,True,HO11852,5.5,Food,5.5,Jaipur
+FB81248,The Mapple Room,coffee-shop,True,HO12212,4.8,Food,4.8,Udaipur (RJ)
+FB80872,Ahaan,coffee-shop,True,HO11496,6.0,Food,6.0,Rameshwaram
+FB80568,Restaurant,coffee-shop,True,HO10227,8.4,Food,8.4,Jaipur
+FB80393,The Restaurant,coffee-shop,True,HO10463,7.0,Food,7.0,Puducherry (Pondicherry)
+FB81274,The Grand Ayyanar,coffee-shop,True,HO12339,6.6,Food,6.6,Madurai
+FB80438,Orchid,coffee-shop,True,HO10362,9.0,Food,8.4,Dharamshala
+FB80868,Courtyard,coffee-shop,True,HO10179,8.5,Food,8.5,Samode
+FB81413,Ghats Cafe,coffee-shop,True,HO12484,7.3,Food,7.3,Coorg (Kodagu)
+FB80226,Cheetal,coffee-shop,True,HO10739,7.4,Food,7.4,Udaipur (RJ)
+FB81471,WelcomCafe,coffee-shop,True,HO11139,6.6,Food,7.7,Sariska
+FB81101,Chutney,coffee-shop,True,HO11739,5.6,Food,5.6,Goa
+FB80954,Orchid,coffee-shop,True,HO11539,6.4,Food,6.4,Gurgaon
+FB80818,Trupti,coffee-shop,True,HO11421,6.2,Food,6.2,Pushkar
+FB81244,The Restaurant,coffee-shop,True,HO12320,6.0,Food,6.0,Puducherry (Pondicherry)
+FB80201,Baradari,coffee-shop,True,HO10201,9.1,Food,9.1,Udaipur (RJ)
+FB80921,Restaurant,coffee-shop,True,HO10986,7.0,Food,7.0,Amritsar
+FB81611,Cellar 1612,coffee-shop,False,,9.6,Food,9.6,Goa
+FB81617,Le Cirque Signature,specialty-restaurant,True,HO10387,8.3,Food,8.3,Mumbai
+FB81554,Wasabi By Morimoto,specialty-restaurant,True,HO10531,8.2,Food,8.2,Mumbai
+FB80873,Coral Reef,coffee-shop,True,HO11440,4.2,Food,4.2,Kanyakumari
+FB81384,Naivedyam,coffee-shop,True,HO11139,6.7,Food,6.7,Sariska
+FB80729,Zodiac,coffee-shop,True,HO11112,4.8,Food,4.8,Navi Mumbai
+FB80093,Kwality,multi-cuisine,False,,1.0,Food,8.8,New Delhi
+FB81597,Sky Deck,specialty-restaurant,True,HO10011,7.5,Food,7.5,Agra
+FB81090,The Bay Bistro,coffee-shop,True,HO12025,8.2,Food,8.2,Puducherry (Pondicherry)
+FB80118,Threesixtyone,coffee-shop,True,HO10324,9.0,Food,9.0,Gurgaon
+FB80931,Sabor,coffee-shop,True,HO11529,4.6,Food,4.6,Palampur
+FB81562,Verandah Cafe,multi-cuisine,True,HO10010,8.7,Food,8.7,Jaipur
+FB80120,Latitude,coffee-shop,True,HO10682,8.8,Food,8.8,Goa
+FB81096,Arkaa,coffee-shop,True,HO12200,5.4,Food,5.4,Jaipur
+FB81426,Earth Pavilion,coffee-shop,True,HO12480,7.0,Food,7.0,Diu
+FB80709,Hibiscus,coffee-shop,True,HO11051,6.0,Food,6.0,Goa
+FB81618,The Vine,coffee-shop,True,HO11804,4.6,Food,4.6,Goa
+FB80920,Tavolo Mondo,coffee-shop,True,HO10638,7.4,Food,7.4,Amritsar
+FB80197,The 50 Mile Diet,coffee-shop,True,HO10397,7.9,Food,7.9,Thekkady (Periyar/Kumily)
+FB81150,The Orchid Dining Room,coffee-shop,True,HO10154,6.9,Food,6.9,Darjeeling
+FB80981,Salt,coffee-shop,True,HO11537,4.4,Food,4.4,Varanasi
+FB81060,Mynt,coffee-shop,True,HO11851,6.8,Food,6.8,Kolkata
+FB81091,The Restaurant,coffee-shop,True,HO12093,7.0,Food,7.0,Thiruvananthapuram (Trivandrum)
+FB80488,Monsoon,coffee-shop,True,HO10571,6.2,Food,6.2,Bengaluru
+FB80875,Hibiscus,coffee-shop,True,HO11492,3.9,Food,3.9,Agra
+FB81122,Citrus Cafe,coffee-shop,True,HO11294,6.8,Food,6.8,Bandhavgarh
+FB80615,Dining,coffee-shop,True,HO10237,8.8,Food,8.8,Kanha
+FB81084,Cafe Samsara,coffee-shop,True,HO11829,5.8,Food,5.8,Kohima
+FB80867,Dining Room,coffee-shop,True,HO10178,8.5,Food,8.5,Samode
+FB80386,F.U.N.,coffee-shop,True,HO10482,6.0,Food,6.0,Puducherry (Pondicherry)
+FB80505,The Restaurant,coffee-shop,True,HO10417,5.6,Food,5.6,Kochi (Cochin)
+FB81150,The Orchid Dining Room,coffee-shop,True,HO10154,7.4,Food,7.4,Darjeeling
+FB80919,Little Italy,specialty-restaurant,False,,8.6,Food,8.6,Jaipur
+FB81609,Restaurant,coffee-shop,True,HO11139,6.7,Food,6.7,Sariska
+FB80453,Cafe Royale,coffee-shop,True,HO10401,9.0,Food,9.0,Kochi (Cochin)
+FB80750,The Restaurant,coffee-shop,True,HO11162,9.0,Food,9.0,Narendra Nagar (UK)
+FB81054,The Restaurant,coffee-shop,True,HO12176,6.4,Food,6.4,Ranthambore
+FB81587,Restaurant,coffee-shop,True,HO12008,6.0,Food,6.0,Munnar
+FB80776,Auroma,coffee-shop,True,HO10171,6.8,Food,6.8,Kanyakumari
+FB81290,Amirtham,coffee-shop,True,HO10580,8.0,Food,8.0,Trichy (Tiruchirappalli)
+FB80039,Darbhanga,coffee-shop,True,HO10040,9.0,Food,9.0,Varanasi
+FB80923,Dining,coffee-shop,True,HO11517,7.6,Food,7.6,Manvar (RJ)
+FB80595,Citrus Cafe,coffee-shop,True,HO10718,8.0,Food,8.0,Rishikesh
+FB80453,Cafe Royale,coffee-shop,True,HO10401,9.0,Food,7.3,Kochi (Cochin)
+FB81332,Rajmahal,coffee-shop,True,HO11380,4.2,Food,4.2,Jaipur
+FB80119,The Dining Hall,coffee-shop,True,HO10241,9.2,Food,9.2,Shimla
+FB80499,Restaurant,coffee-shop,True,HO10578,9.0,Food,9.0,Jaisalmer
+FB80812,Citrus Cafe,coffee-shop,True,HO11258,5.4,Food,5.4,Coimbatore
+FB80463,Dining,coffee-shop,True,HO10666,8.8,Food,8.8,Ranthambore
+FB80381,The Golden Palate,coffee-shop,True,HO10461,7.8,Food,7.8,Mamallapuram (Mahabalipuram)
+FB80901,Alfresco,coffee-shop,True,HO11302,6.2,Food,6.2,Kolkata
+FB80206,Atrium Caffe,coffee-shop,True,HO10703,4.6,Food,4.6,Varanasi
+FB81490,Wok In The Clouds,specialty-restaurant,False,,8.2,Food,8.2,New Delhi
+FB80427,Taj Bano,coffee-shop,True,HO10254,7.8,Food,7.8,Agra
+FB80542,Cafe De Luxuria,coffee-shop,True,HO10210,6.0,Food,6.0,Hubballi (Hubli)
+FB80875,Hibiscus,coffee-shop,True,HO11492,3.2,Food,3.2,Agra
+FB81536,Bazaar,coffee-shop,True,HO12594,6.6,Food,6.6,Jodhpur
+FB80540,In Room Dining,coffee-shop,True,HO10467,7.4,Food,7.4,Mararikulam
+FB81531,Mabel's,multi-cuisine,False,,9.3,Food,9.3,Jaipur
+FB81548,Sheesh Mahal,coffee-shop,True,HO11960,6.1,Food,6.1,Ajmer
+FB80796,Ankara,multi-cuisine,False,,1.0,Food,8.0,New Delhi
+FB81476,Black Gold Cafe,coffee-shop,True,HO12412,6.0,Modern,5.4,Kollam (Quilon)
+FB80101,The Restaurant,coffee-shop,True,HO10323,8.8,Food,8.8,Agra
+FB80018,Dhaba,specialty-restaurant,True,HO10012,9.4,Food,9.4,New Delhi
+FB80655,Ekatra,coffee-shop,True,HO10985,7.0,Food,7.0,Jodhpur
+FB81175,Kimbu,coffee-shop,True,HO12269,4.6,Food,4.6,Kathmandu
+FB80387,Mira,coffee-shop,True,HO10226,8.1,Food,8.1,Puducherry (Pondicherry)
+FB80896,24-Jul,coffee-shop,True,HO11349,6.6,Food,6.6,Chandigarh
+FB80246,Citrus Cafe,coffee-shop,True,HO10745,5.7,Food,5.7,Vadodara
+FB80959,Cafe,coffee-shop,True,HO11541,7.2,Food,7.2,Rameshwaram
+FB80942,Panache,coffee-shop,True,HO10973,4.0,Food,4.0,Pench
+FB80787,The Terrace,coffee-shop,True,HO10957,6.8,Food,6.8,Kovalam
+FB80311,51,coffee-shop,True,HO10224,9.4,Food,9.4,Kochi (Cochin)
+FB80656,Mynt,coffee-shop,True,HO10977,6.4,Food,6.4,Ahmedabad
+FB81502,Jharokha,coffee-shop,True,HO12222,7.6,Food,7.6,New Delhi
+FB80353,Banana Leaf,coffee-shop,True,HO10851,6.8,Food,6.8,Alappuzha (Alleppey)
+FB80938,Coastal Kitchen,coffee-shop,True,HO11534,6.6,Food,6.6,Varkala
+FB80593,Citrus Cafe,coffee-shop,True,HO10530,7.8,Food,7.8,Gangtok
+FB80278,Spring,coffee-shop,True,HO10411,7.8,Food,7.8,Mysuru (Mysore)
+FB80567,Restaurant,coffee-shop,True,HO10498,9.0,Food,9.0,Pushkar
+FB80625,Machaan,coffee-shop,True,HO10134,7.8,Food,7.8,Corbett
+FB81242,Dining Hall,coffee-shop,True,HO12193,5.6,Food,5.6,Jaisalmer
+FB80406,Flora,coffee-shop,True,HO10825,5.8,Food,5.8,Rishikesh
+FB80502,Farmer's Basket,coffee-shop,True,HO10306,8.0,Food,8.0,New Delhi
+FB81193,The Valley,coffee-shop,True,HO11821,4.8,Food,4.8,Kodaikanal
+FB80641,The Cafe@JW,coffee-shop,True,HO10879,6.2,Food,6.2,Chandigarh
+FB80958,Catamaran,coffee-shop,True,HO11224,6.0,Food,6.0,Kovalam
+FB81445,Antraâ€™s Kitchen,coffee-shop,True,HO12485,7.0,Food,7.0,Jaisalmer
+FB80926,Kwality Cafe,multi-cuisine,False,,8.0,Food,8.0,Chandigarh
+FB81398,Restaurant,coffee-shop,True,HO12183,7.3,Food,7.3,Rishikesh
+FB80376,The Restaurant,coffee-shop,True,HO10553,7.0,Food,7.0,Poovar
+FB80809,Citrus Cafe,coffee-shop,True,HO11260,5.4,Food,5.4,Ahmedabad
+FB81206,Bon Appetit â€“ Kitchen & Garden,coffee-shop,True,HO11857,4.6,Food,4.6,Jodhpur
+FB80735,Raaj Bagh,coffee-shop,True,HO11166,6.6,Food,6.6,Udaipur (RJ)
+FB80751,Satva,coffee-shop,True,HO11173,4.4,Food,4.4,Jaipur
+FB81616,Kitchen District,coffee-shop,True,HO12235,7.1,Food,7.1,Gurgaon
+FB81223,Anaya Aduppu,coffee-shop,True,HO10181,8.4,Food,8.4,Kumbakonam
+FB80792,Jetty,coffee-shop,True,HO10406,9.0,Food,9.0,Kochi (Cochin)
+FB80746,Fine Dine,coffee-shop,True,HO11150,6.4,Food,6.4,Ranthambore
+FB80844,Garden Cafe,coffee-shop,True,HO11199,7.3,Food,7.3,Kakinada
+FB80892,24-Jul,coffee-shop,True,HO11276,6.9,Food,6.9,New Delhi
+FB80131,Rajput Room,coffee-shop,True,HO10010,8.7,Food,8.7,Jaipur
+FB81503,Ambiance,specialty-restaurant,True,HO11166,6.0,Food,1.0,Udaipur (RJ)
+FB80392,Chaar Bagh,coffee-shop,True,HO10824,6.2,Food,6.2,Jaisalmer
+FB81135,Marina Bay,coffee-shop,True,HO11621,5.2,Food,5.2,Agra
+FB81600,Dining Room,coffee-shop,True,HO12759,6.4,Food,6.4,Bikaner
+FB80447,Echo,coffee-shop,True,HO10513,5.6,Food,5.6,Hosapete (Hospet) (not to be used)
+FB81549,Waterside Cafe,coffee-shop,True,HO11300,4.9,Food,4.9,Kolkata
+FB81236,Pavilion,coffee-shop,True,HO11204,7.2,Food,7.2,Kochi (Cochin)
+FB80910,Seasonal Tastes,coffee-shop,True,HO10480,7.6,Food,7.6,Pushkar
+FB81068,Suraman Mahal,coffee-shop,True,HO10399,6.9,Food,6.9,Jaisalmer
+FB80552,Dining Room,coffee-shop,True,HO10677,7.4,Food,7.4,Pragpur
+FB80561,Restaurant,coffee-shop,True,HO10092,9.1,Food,9.1,Jaipur
+FB81420,Vista,coffee-shop,True,HO12468,7.3,Food,7.3,Puri
+FB80276,Tiger Trail,coffee-shop,True,HO10229,6.0,Food,6.0,Mysuru (Mysore)
+FB81301,Zodiac CafÃ©,coffee-shop,True,HO12323,6.2,Food,6.2,Bhubaneswar
+FB80097,Capital Kitchen,coffee-shop,True,HO10193,8.8,Food,8.8,New Delhi
+FB81095,The Rooftop Restaurant,coffee-shop,True,HO12198,5.0,Food,5.0,Udaipur (RJ)
+FB80546,Restaurant,coffee-shop,True,HO10490,8.1,Food,6.6,Rohet
+FB80054,Bazaar`,coffee-shop,True,HO10026,8.0,Modern,7.4,Udaipur (RJ)
+FB80722,Cafe Pride,coffee-shop,True,HO11036,6.0,Food,6.0,Udaipur (RJ)
+FB81483,Zhillan,coffee-shop,True,HO12601,6.4,Food,6.4,Dapoli
+FB80550,Eat & Drink,coffee-shop,True,HO10220,6.0,Food,6.0,Hubballi (Hubli)
+FB81087,The Hornbill,coffee-shop,True,HO11997,5.4,Food,5.4,Munnar
+FB81172,KGH Dream Garden,coffee-shop,True,HO12230,8.0,Food,8.0,Kathmandu
+FB81513,Rhythm hotel gurgaon,multi-cuisine,True,HO12201,,,,Gurgaon
+FB81221,The Golden Oak,coffee-shop,True,HO11045,4.0,Food,4.0,Kalimpong
+FB80200,The Eye Club,coffee-shop,True,HO10749,4.6,Food,4.6,Pune
+FB80250,Patio,coffee-shop,True,HO10275,7.0,Food,7.0,Kochi (Cochin)
+FB80397,The Raj Days,coffee-shop,True,HO10803,7.6,Food,7.6,Pushkar
+FB81510,Kwality Cafe,multi-cuisine,False,,8.0,Food,8.0,Chandigarh
+FB80908,Wood Petal,coffee-shop,True,HO11460,4.4,Food,4.4,Dharamshala
+FB81199,Viva All Day Dining,coffee-shop,True,HO11367,3.6,Food,3.6,New Delhi
+FB81496,Flavours,coffee-shop,True,HO12637,7.5,Food,7.5,Hyderabad
+FB80368,Multi-Cuisine,coffee-shop,True,HO10029,7.1,Food,7.1,Kumarakom
+FB80280,Latest Recipe,coffee-shop,True,HO10260,7.6,Food,7.6,Gurgaon
+FB80136,Mynt,coffee-shop,True,HO10394,8.4,Food,8.4,Chennai
+FB80428,Farm Kitchen,specialty-restaurant,True,HO10343,9.0,Food,9.0,Mararikulam
+FB80855,The Restaurant,coffee-shop,True,HO11231,5.6,Food,5.6,Kovalam
+FB80022,The Spice Route,specialty-restaurant,True,HO10013,9.7,Food,9.7,New Delhi
+FB80616,Chaupal,coffee-shop,True,HO10654,8.8,Food,8.8,Bandhavgarh
+FB80815,Citrus Cafe,coffee-shop,True,HO11352,5.2,Food,5.2,Lucknow
+FB81370,Capers,coffee-shop,True,HO12395,6.4,Food,6.4,Ghaziabad
+FB81001,The Restaurant,coffee-shop,True,HO10998,6.4,Food,6.4,Cherthala
+FB81523,Lotus Cafe,coffee-shop,True,HO12058,7.5,Food,7.5,Tirupati
+FB80343,Indique,multi-cuisine,True,HO10630,6.6,Food,6.6,Jodhpur
+FB80966,Noorjahan Restaurant,coffee-shop,True,HO10635,7.6,Food,7.6,Agra
+FB80366,Tfrkochi,coffee-shop,True,HO10149,8.0,Food,8.0,Kochi (Cochin)
+FB80044,Copper Chimney (Worli),specialty-restaurant,False,,7.8,Food,7.6,Mumbai
+FB80308,Pavillion,coffee-shop,True,HO10753,5.3,Food,5.3,Lucknow
+FB81389,Golden Dragon,specialty-restaurant,True,HO10531,9.2,Food,9.2,Mumbai
+FB80190,The Cilantro,coffee-shop,True,HO10249,8.4,Food,8.4,Sarnath
+FB81512,Rhythm Gurgaon,multi-cuisine,True,HO12201,,,,Gurgaon
+FB81202,Palace,coffee-shop,True,HO11397,6.6,Food,6.6,Gondal
+FB80760,Basil,coffee-shop,True,HO11017,10.0,Food,10.0,Sariska
+FB80946,Food Mill,coffee-shop,True,HO10990,9.2,Food,9.2,Kochi (Cochin)
+FB81458,Machan,coffee-shop,True,HO12564,7.7,Food,7.7,Udaipur (RJ)
+FB80603,The Restaurant,coffee-shop,True,HO10024,7.2,Food,7.2,Jaipur
+FB80791,East Indies,coffee-shop,True,HO10194,7.7,Food,7.7,Kochi (Cochin)
+FB80464,The House Of Peelwa,coffee-shop,True,HO10118,7.0,Food,7.0,Jaipur
+FB81522,Tiger Trail,coffee-shop,True,HO11714,6.6,Food,6.6,Bengaluru
+FB81468,My Place,coffee-shop,True,HO12575,6.3,Food,6.3,Thiruvananthapuram (Trivandrum)
+FB80475,Waves,multi-cuisine,False,,8.4,Food,8.4,New Delhi
+FB80482,Motel Haveli,multi-cuisine,False,,7.8,Food,6.6,Ratangarh
+FB80691,Zodiac,coffee-shop,True,HO11083,7.4,Food,7.4,Bengaluru
+FB80067,Rendezvous,coffee-shop,True,HO10080,8.4,Food,8.4,Agra
+FB81385,Jahangir Mahal,coffee-shop,True,HO12517,7.2,Food,7.2,Orchha
+FB80930,The Aviary,coffee-shop,True,HO11532,5.4,Food,5.4,Bengaluru
+FB80265,Citrus Cafe,coffee-shop,True,HO10378,8.2,Food,8.2,Bengaluru
+FB80504,Amrutham,coffee-shop,True,HO10187,9.0,Food,9.0,Thekkady (Periyar/Kumily)
+FB81263,Connoisseur,coffee-shop,True,HO10939,4.8,Food,4.8,Kanha
+FB80692,Gurney House,coffee-shop,True,HO11076,4.8,Food,4.8,Corbett
+FB81003,The Restaurant,coffee-shop,True,HO11416,5.0,Food,5.0,Mount Abu
+FB80334,Citrus Cafe,coffee-shop,True,HO10733,6.4,Food,6.4,Noida
+FB80460,Spectra,coffee-shop,True,HO10195,8.8,Food,8.8,Chennai
+FB80482,Motel Haveli,multi-cuisine,False,,7.8,Food,7.8,Ratangarh
+FB80990,Zasgyath,coffee-shop,True,HO10810,7.6,Food,7.6,Leh
+FB80047,Dining Room,coffee-shop,True,HO10005,1.0,Food,10.0,Agra
+FB80464,The House Of Peelwa,coffee-shop,True,HO10118,6.3,Food,6.3,Jaipur
+FB80427,Taj Bano,coffee-shop,True,HO10254,8.8,Food,8.8,Agra
+FB80927,The Cuisine,coffee-shop,True,HO10773,7.4,Food,7.4,Raipur (RJ) 
+FB81260,Bloom Cafe,coffee-shop,True,HO11792,7.0,Food,7.0,New Delhi
+FB80480,Black Truffle,coffee-shop,True,HO10168,8.4,Food,8.4,Munnar
+FB80515,The Restaurant,coffee-shop,True,HO10690,6.4,Food,6.4,Dholpur
+FB80111,The Patio,coffee-shop,True,HO10433,8.6,Food,8.6,Kochi (Cochin)
+FB81545,Killian,specialty-restaurant,True,HO10831,5.4,Food,7.2,Jaisalmer
+FB81120,Kitchen District,coffee-shop,True,HO10835,7.2,Food,7.2,New Delhi
+FB80023,San Gimignano,specialty-restaurant,True,HO10013,9.6,Food,9.6,New Delhi
+FB81125,The Restaurant,coffee-shop,True,HO12003,5.2,Food,5.2,Nawalgarh
+FB80361,Marwar,coffee-shop,True,HO10800,5.8,Food,5.8,Khejarla
+FB80237,Sukh Mahal,coffee-shop,True,HO10325,8.5,Food,8.5,Jaipur
+FB80600,The Restaurant,coffee-shop,True,HO10023,7.4,Food,7.4,Agra
+FB81218,Raisar Camp,coffee-shop,True,HO11373,6.0,Food,6.0,Bikaner
+FB80375,Roopal,coffee-shop,True,HO10575,6.4,Food,6.4,Jaisalmer
+FB80688,Cafe Treat,coffee-shop,True,HO11037,6.0,Food,6.0,Ahmedabad
+FB80813,Citrus Cafe,coffee-shop,True,HO11291,5.4,Food,5.4,Goa
+FB80843,Dining Room,coffee-shop,True,HO11228,6.4,Food,6.4,Pathanamthitta
+FB80716,Cinnamon,coffee-shop,True,HO11054,5.4,Food,5.4,Thekkady (Periyar/Kumily)
+FB80851,Annaprasanna,coffee-shop,True,HO10639,7.7,Food,7.7,Kumbakonam
+FB81085,The Bouquet Garni,coffee-shop,True,HO11582,5.4,Food,5.4,Munnar
+FB80377,The Banyan,coffee-shop,True,HO10400,9.0,Food,9.0,Madurai
+FB81431,Bistro,coffee-shop,True,HO10285,6.7,Food,6.7,Bikaner
+FB80715,Palm Groves,coffee-shop,True,HO11066,5.8,Food,5.8,Karwar
+FB81155,The Restaurant,coffee-shop,True,HO11814,5.8,Food,5.8,Gokarna
+FB80829,Darikhana,multi-cuisine,True,HO11163,7.8,Food,7.8,Luni
+FB80196,Orchid,coffee-shop,True,HO10132,9.0,Food,9.0,Bengaluru
+FB81564,Pavilion,coffee-shop,True,HO10316,7.8,Food,7.8,New Delhi
+FB81115,The Bridge,coffee-shop,True,HO12136,5.6,Food,5.6,Zirakpur
+FB80894,Canacona,coffee-shop,True,HO11306,6.2,Food,6.2,Goa
+FB80324,Keys Cafe,coffee-shop,True,HO10333,6.7,Food,6.7,Kochi (Cochin)
+FB81329,Restaurant,coffee-shop,True,HO11527,7.7,Food,7.7,Munnar
+FB80687,Orchid,coffee-shop,True,HO11093,7.4,Food,7.4,Haridwar
+FB81580,Restaurant,coffee-shop,True,HO11132,8.2,Food,8.2,Ranakpur
+FB80813,Citrus Cafe,coffee-shop,True,HO11291,5.9,Food,5.9,Goa
+FB80382,Taala,coffee-shop,True,HO10823,8.0,Food,8.0,Manali
+FB81444,Restaurant,coffee-shop,True,HO11181,4.2,Food,4.2,Dharamshala
+FB80577,Restaurant,coffee-shop,True,HO10573,6.6,Food,6.6,Mararikulam
+FB80279,ARK,coffee-shop,True,HO10641,6.4,Food,6.4,Udaipur (RJ)
+FB80532,The Restaurant,coffee-shop,True,HO10049,8.8,Food,8.8,Udaipur (RJ)
+FB80431,Cafe,coffee-shop,True,HO10266,7.8,Food,7.8,Aurangabad (MH) 
+FB80209,Falling Leaves,coffee-shop,True,HO10265,7.4,Food,7.4,Thekkady (Periyar/Kumily)
+FB81558,Qla,coffee-shop,False,,8.1,Food,8.0,New Delhi
+FB80095,Bellevue,coffee-shop,True,HO10468,9.2,Food,9.2,Agra
+FB81328,Restaurant,coffee-shop,True,HO11356,6.3,Food,6.3,Vandanmedu
+FB80220,The Odyssey,coffee-shop,True,HO10696,7.6,Food,7.6,Chikkamagaluru
+FB81326,Magnolia,coffee-shop,True,HO11338,,,,Mussoorie
+FB80234,Spectra,coffee-shop,True,HO10292,9.0,Food,9.0,Gurgaon
+FB80805,Citrus Cafe,coffee-shop,True,HO11333,5.2,Food,5.2,Indore
+FB81310,All Stir Fry,coffee-shop,True,HO11493,4.8,Food,4.8,Mumbai
+FB80164,Rock Flour,coffee-shop,True,HO10687,9.2,Food,9.2,Rishikesh
+FB80163,Backwater Cafe,coffee-shop,True,HO10668,8.6,Food,8.6,Bekal
+FB80536,Kalptaru,coffee-shop,True,HO10525,6.4,Food,6.4,Udaipur (RJ)
+FB80505,The Restaurant,coffee-shop,True,HO10417,5.3,Food,5.3,Kochi (Cochin)
+FB81623,Restaurant,coffee-shop,True,HO11139,7.6,Food,7.6,Sariska
+FB80509,Colony,coffee-shop,True,HO10067,8.4,Food,8.4,Chennai
+FB80487,Mist,coffee-shop,True,HO10280,7.2,Food,7.2,New Delhi
+FB80407,Bay Leaf,coffee-shop,True,HO10484,10.0,Food,10.0,Udaipur (RJ)
+FB80415,Aaharam,coffee-shop,True,HO10485,8.4,Food,8.4,Thanjavur (Tanjore)
+FB80109,Machan,coffee-shop,True,HO10236,8.8,Food,8.8,New Delhi
+FB80139,Pillars,coffee-shop,True,HO10460,9.6,Food,9.6,Jodhpur
+FB80647,Haveli,coffee-shop,True,HO10935,6.4,Food,6.4,Jaisalmer
+FB80445,Pinxx,coffee-shop,True,HO10567,5.8,Food,5.8,Jaipur
+FB81056,WelcomCafe Phulkari,coffee-shop,True,HO11692,6.6,Food,6.6,Amritsar
+FB81479,RBG,coffee-shop,True,HO12082,5.2,Food,5.2,Gwalior
+FB80274,Amritsar Kitchen,coffee-shop,True,HO10560,7.2,Food,7.2,Amritsar
+FB81104,Tangelo,coffee-shop,True,HO11746,5.4,Food,5.4,Goa
+FB81412,Raintree,specialty-restaurant,True,HO10363,8.5,Food,8.4,Chennai
+FB80137,Shamiana,coffee-shop,True,HO10626,8.6,Food,8.6,Kolkata
+FB80847,Annajal,coffee-shop,True,HO10956,5.0,Food,5.0,Orchha
+FB80892,24-Jul,coffee-shop,True,HO11276,6.2,Food,6.2,New Delhi
+FB81045,Chamomile,coffee-shop,True,HO11584,6.4,Food,6.4,Thekkady (Periyar/Kumily)
+FB80024,Daniell's Tavern,specialty-restaurant,True,HO10013,8.0,Food,8.0,New Delhi
+FB81181,Annapurna,coffee-shop,True,HO12260,5.0,Food,5.0,Pokhara
+FB80172,Mynt,coffee-shop,True,HO10700,8.8,Food,8.8,Vadodara
+FB80004,Dawat-E-Zaika,coffee-shop,True,HO10002,6.0,Food,6.0,Agra
+FB80848,Habba,coffee-shop,True,HO11201,6.4,Food,6.4,Coorg (Kodagu)
+FB80512,Cafe Samsara,coffee-shop,True,HO10189,8.0,Food,8.0,Thiruvananthapuram (Trivandrum)
+FB80368,Multi-Cuisine,coffee-shop,True,HO10029,7.6,Food,7.6,Kumarakom
+FB80289,Citrus Cafe,coffee-shop,True,HO10721,7.8,Food,7.8,Gurgaon
+FB81111,Curry Capital,coffee-shop,True,HO11120,8.4,Food,8.4,New Delhi
+FB81390,Souk,specialty-restaurant,True,HO10531,9.2,Food,9.2,Mumbai
+FB81136,The Restaurant,coffee-shop,True,HO12159,4.8,Food,4.8,Vaishali
+FB80356,Ambaal,coffee-shop,True,HO10558,6.8,Food,6.9,Alappuzha (Alleppey)
+FB80900,Panna,coffee-shop,True,HO11268,6.2,Food,6.2,Khajuraho
+FB81207,The Restaurant,coffee-shop,True,HO12280,6.4,Food,6.4,Hoshangabad (Satpura)
+FB80939,Restaurant,coffee-shop,True,HO10621,6.6,Food,6.6,Agra
+FB80255,Mosaic,coffee-shop,True,HO10650,6.4,Food,6.4,Kochi (Cochin)
+FB80608,Dining Hall,coffee-shop,True,HO10925,6.9,Food,6.9,Dharamshala
+FB81044,Sangri,coffee-shop,True,HO11598,1.0,Food,6.8,Jaipur
+FB80755,Feast,coffee-shop,True,HO11004,5.6,Food,5.6,Kochi (Cochin)
+FB81108,Golden Mushroom,coffee-shop,True,HO11872,5.4,Food,5.4,Haridwar
+FB80747,Sheesh Mahal,coffee-shop,True,HO11129,9.2,Food,9.2,Delwara
+FB81247,Sir P,coffee-shop,True,HO10962,6.8,Food,6.8,Jodhpur
+FB80695,Zodiac,coffee-shop,True,HO11107,4.8,Food,4.8,Hubballi (Hubli)
+FB80893,Padmini,coffee-shop,True,HO11351,6.9,Food,6.9,Udaipur (RJ)
+FB80264,Del,coffee-shop,True,HO10295,6.4,Food,6.4,New Delhi
+FB81178,Kava,coffee-shop,True,HO12259,7.0,Food,7.0,Kathmandu
+FB81057,Kebabs & Kurries,specialty-restaurant,True,HO11692,6.6,Food,6.6,Amritsar
+FB80569,Restaurant,coffee-shop,True,HO10300,7.4,Food,7.4,Jodhpur
+FB81064,Mynt,coffee-shop,True,HO12108,6.8,Food,6.8,Thiruvananthapuram (Trivandrum)
+FB80470,Forest Cafe,specialty-restaurant,True,HO10759,8.8,Food,8.8,Wayanad
+FB81239,Vista,coffee-shop,True,HO12317,6.6,Food,6.6,Kochi (Cochin)
+FB81180,Machaan,coffee-shop,True,HO11520,6.6,Food,6.6,Varanasi
+FB80967,The Restaurant,coffee-shop,True,HO11436,6.6,Food,6.6,New Delhi
+FB80299,Pavilion,coffee-shop,True,HO10388,8.2,Food,8.2,Chennai
+FB80800,Twenty One Bar & Cafe,coffee-shop,True,HO11358,4.8,Food,4.8,Jaipur
+FB80823,Maya Nagri,coffee-shop,True,HO11012,7.0,Food,7.0,Pushkar
+FB80653,Mynt,coffee-shop,True,HO10994,7.8,Food,7.8,Bhubaneswar
+FB81021,Varada Cafe,coffee-shop,True,HO11343,7.0,Food,7.0,Bodhgaya
+FB80011,The Tea Lounge,lounge,True,HO10008,8.0,Food,8.0,Agra
+FB80329,Citrus Cafe,coffee-shop,True,HO10359,8.0,Food,8.0,Mumbai
+FB81457,Dining Room,coffee-shop,True,HO12562,4.8,Food,4.8,Kota (RJ) 
+FB80430,Pavilion at the Village Square,coffee-shop,True,HO10640,8.6,Food,8.6,Goa
+FB80882,The Heritage Quarter,coffee-shop,True,HO11480,4.8,Food,4.8,Udaipur (RJ)
+FB80551,Baradari,coffee-shop,True,HO10793,6.2,Food,6.2,Nagaur (RJ) 
+FB80657,Oasis,coffee-shop,True,HO11000,8.4,Food,8.4,Faridabad
+FB80231,Thym,coffee-shop,True,HO10592,6.4,Food,6.4,Dharamshala
+FB80340,Dining Area,coffee-shop,True,HO10582,8.0,Food,8.0,Dera (Jodhpur - Jaisalmer Highway)
+FB80893,Padmini,coffee-shop,True,HO11351,6.2,Food,6.2,Udaipur (RJ)
+FB80702,Library Cafe,coffee-shop,True,HO11049,6.0,Food,6.0,Jaipur
+FB80419,Sea Breeze,coffee-shop,True,HO10054,7.0,Food,7.0,Chennai
+FB80273,Citrus Cafe,coffee-shop,True,HO10440,6.5,Food,6.5,Chennai
+FB81023,Hummingbird,coffee-shop,True,HO11417,5.2,Food,5.2,Kumbhalgarh
+FB80670,Orchid,coffee-shop,True,HO11038,4.8,Food,6.1,Lucknow
+FB81153,Dining Area,coffee-shop,True,HO11887,5.8,Food,5.8,Kanha
+FB80391,Mughlai Aroma,coffee-shop,True,HO10419,7.6,Food,7.6,Udaipur (RJ)
+FB80230,Citrus,coffee-shop,True,HO10155,8.8,Food,8.8,Bengaluru
+FB81408,Shizzling Shake,coffee-shop,True,HO12534,5.6,Food,5.6,New Delhi
+FB81078,The Great Kabab Factory,specialty-restaurant,True,HO11866,4.6,Food,4.6,Guwahati
+FB80193,The Prism,coffee-shop,True,HO10125,8.4,Food,8.4,Udaipur (RJ)
+FB80329,Citrus Cafe,coffee-shop,True,HO10359,6.7,Food,6.7,Mumbai
+FB81128,Cayenne,coffee-shop,True,HO11909,4.6,Food,4.6,Hyderabad
+FB81296,CafÃ© C,coffee-shop,True,HO11519,6.6,Food,6.6,New Delhi
+FB80034,Steam,lounge,True,HO10010,8.7,Food,8.7,Jaipur
+FB80126,The Restaurant,coffee-shop,True,HO10731,9.0,Food,9.0,Bhubaneswar
+FB80282,Sabor,coffee-shop,True,HO10642,6.4,Food,6.4,Udaipur (RJ)
+FB80284,Citrus Cafe,coffee-shop,True,HO10449,8.0,Food,8.0,Gurgaon
+FB80316,Promenade,coffee-shop,True,HO10307,5.6,Food,5.6,New Delhi
+FB80140,Latitude,coffee-shop,True,HO10124,8.6,Food,8.6,Coimbatore
+FB80442,The Dining Room,coffee-shop,True,HO10026,8.3,Food,8.3,Udaipur (RJ)
+FB81249,Dining hall,coffee-shop,True,HO11611,5.0,Food,5.0,Dausa
+FB80055,J Hind,specialty-restaurant,True,HO10026,8.0,Modern,7.4,Udaipur (RJ)
+FB81598,Native,multi-cuisine,True,HO12754,7.8,Food,7.8,Hubballi (Hubli)
+FB81022,Dining,coffee-shop,True,HO10882,6.6,Food,6.6,Jaipur
+FB81539,The In House,multi-cuisine,True,HO12692,7.8,Food,7.8,Ghanerao
+FB81465,Pracheen,coffee-shop,True,HO11139,6.4,Food,6.4,Sariska
+FB81392,Golghar,coffee-shop,True,HO12356,6.7,Food,6.7,Pushkar
+FB80032,Suvarna Mahal,specialty-restaurant,True,HO10010,9.0,Food,9.0,Jaipur
+FB80330,Courtyard,coffee-shop,True,HO10443,6.5,Food,6.5,Puducherry (Pondicherry)
+FB80274,Amritsar Kitchen,coffee-shop,True,HO10560,6.4,Food,6.4,Amritsar
+FB80627,Cafe Indra,multi-cuisine,False,,8.2,Food,8.2,Bikaner
+FB80840,Pinxx,coffee-shop,True,HO11202,5.4,Food,5.4,Mysuru (Mysore)
+FB80686,Cafe Treat,coffee-shop,True,HO11048,6.8,Food,6.8,Chennai
+FB80866,Dining Hall,coffee-shop,True,HO10009,9.4,Food,9.4,Jaipur
+FB80708,Chowka,coffee-shop,True,HO11071,5.0,Food,5.0,Kumbhalgarh
+FB80838,Paro - Indian Modern Bar,multi-cuisine,False,,1.0,Food,8.4,Jaipur
+FB80451,Arabasta,coffee-shop,True,HO10679,8.0,Food,8.0,Virajpet (Coorg) (not to used)
+FB81569,Peshwa Pavilion,coffee-shop,True,HO11197,7.3,Food,7.3,Mumbai
+FB81325,Zodiac,coffee-shop,True,HO11684,6.3,Food,6.3,Amritsar
+FB80844,Garden Cafe,coffee-shop,True,HO11199,6.6,Food,6.6,Kakinada
+FB80203,Ithaca,coffee-shop,True,HO10360,7.4,Food,7.4,Bengaluru
+FB81563,The Grill Room,specialty-restaurant,True,HO11276,6.9,Food,6.9,New Delhi
+FB80117,The Restaurant,coffee-shop,True,HO10481,9.4,Food,9.4,Mashobra
+FB80070,Aaharam,coffee-shop,True,HO10245,7.4,Food,7.4,Madurai
+FB80460,Spectra,coffee-shop,True,HO10195,7.8,Food,7.8,Chennai
+FB81005,Bhojan,coffee-shop,True,HO10874,3.6,Food,3.6,Bodhgaya
+FB80720,Orchid,coffee-shop,True,HO11081,4.8,Food,4.8,Vadodara
+FB81541,Restaurant,coffee-shop,True,HO10486,7.1,Food,7.1,Deogarh
+FB80244,Cafe Treat,coffee-shop,True,HO10576,8.0,Food,8.0,Bengaluru
+FB80320,Clever Fox Cafe,coffee-shop,True,HO10337,7.8,Food,7.8,Jaipur
+FB80469,Veda,multi-cuisine,False,,8.0,Food,8.0,New Delhi
+FB81461,The Restaurant,coffee-shop,True,HO11129,9.4,Food,9.4,Delwara
+FB80940,J Hind,specialty-restaurant,True,HO10071,7.4,Food,7.4,Chennai
+FB81033,The Restaurant,coffee-shop,True,HO11604,5.6,Food,5.6,Ranthambore
+FB81425,Palette,coffee-shop,True,HO12475,7.3,Food,7.3,Diu
+FB80636,The Indian Rasoi,coffee-shop,True,HO10946,6.9,Food,6.9,Amritsar
+FB80304,Clever Fox Cafe,coffee-shop,True,HO10732,6.7,Food,6.7,Gurgaon
+FB81273,Kokomendo,coffee-shop,True,HO12338,6.2,Food,6.2,Kalimpong
+FB80314,Clever Fox Cafe,coffee-shop,True,HO10740,6.2,Food,6.2,Hyderabad
+FB81226,Bloom Cafe,coffee-shop,True,HO11612,5.2,Food,5.2,New Delhi
+FB80178,Cafe 17,coffee-shop,True,HO10675,8.6,Food,8.6,Chandigarh
+FB81237,Le Grand Cafe,coffee-shop,True,HO11387,6.4,Food,6.4,Amritsar
+FB81464,Aangan,specialty-restaurant,True,HO10040,7.9,Food,7.9,Varanasi
+FB80949,Restaurant,coffee-shop,True,HO10420,8.2,Food,8.2,Jodhpur
+FB81187,Odessey,coffee-shop,True,HO12225,8.0,Food,8.0,Nagarkot
+FB80187,Tiara,coffee-shop,True,HO10200,8.4,Food,8.4,Mumbai
+FB80008,C'est Chine,specialty-restaurant,True,HO10008,8.0,Food,8.0,Agra
+FB80007,Pavilion Cafe,coffee-shop,True,HO10008,8.0,Food,8.0,Agra
+FB81280,Naivedyam,coffee-shop,True,HO12352,5.0,Food,5.0,Ayodhya
+FB80492,Yaal,coffee-shop,True,HO10042,7.4,Food,7.4,Madurai
+FB81620,Kikli,specialty-restaurant,False,,1.0,Food,8.6,New Delhi
+FB81393,Citrus Cafe,coffee-shop,True,HO12519,6.0,Food,6.0,Kanha
+FB80500,Cafe Samsara,coffee-shop,True,HO10041,8.0,Food,8.0,Kumarakom
+FB80372,Swapna Mahal,coffee-shop,True,HO10707,6.1,Food,6.1,Jaipur
+FB80320,Clever Fox Cafe,coffee-shop,True,HO10337,6.5,Food,6.5,Jaipur
+FB80549,The Restaurant,coffee-shop,True,HO10672,6.6,Food,6.6,Goa
+FB80668,Sapphire,coffee-shop,True,HO11191,6.2,Food,6.2,Udaipur (RJ)
+FB80442,The Dining Room,coffee-shop,True,HO10026,9.0,Food,9.0,Udaipur (RJ)
+FB80005,Ekaa Villa & Kitchen,coffee-shop,True,HO10007,7.8,Food,7.8,Agra
+FB81264,Restaurant,coffee-shop,True,HO11590,6.0,Food,6.0,Udaipur (RJ)
+FB80087,Jaws,coffee-shop,True,HO10203,8.2,Food,8.2,Varanasi
+FB80596,Dining Room,coffee-shop,True,HO10197,10.0,Food,10.0,Jaipur
+FB81367,Spice,coffee-shop,True,HO12290,7.3,Food,7.3,Bharatpur
+FB80799,Pepper,coffee-shop,True,HO10327,8.6,Food,8.6,Kochi (Cochin)
+FB80534,Ambrai,coffee-shop,True,HO10043,8.0,Food,8.0,Udaipur (RJ)
+FB80318,Cafe 9,coffee-shop,True,HO10697,5.6,Food,5.6,New Delhi
+FB80680,Anant Mahal,coffee-shop,True,HO11082,9.0,Food,9.0,Chandigarh
+FB81282,Fresco,coffee-shop,True,HO11350,6.2,Food,6.2,Nawalgarh
+FB80081,Madhuban,multi-cuisine,True,HO10026,7.4,Food,8.8,Udaipur (RJ)
+FB81355,T - Lounge,coffee-shop,True,HO11363,5.6,Food,5.6,New Delhi
+FB80436,WelcomCafe Riva,coffee-shop,True,HO10180,8.4,Food,8.4,Mamallapuram (Mahabalipuram)
+FB80820,Restaurant,multi-cuisine,True,HO11025,8.4,Food,8.4,Jodhpur
+FB80606,Zaika,coffee-shop,True,HO10242,6.9,Food,6.9,Jaipur
+FB80650,Cave Palate,coffee-shop,True,HO11157,7.8,Food,7.8,Ranthambore
+FB80133,The  Verandah,coffee-shop,True,HO10363,8.8,Food,8.8,Chennai
+FB80798,Viraasat - The Haveli,multi-cuisine,False,,9.6,Food,9.6,Udaipur (RJ)
+FB80297,The Pavillion,coffee-shop,True,HO10114,8.0,Food,8.0,Jaipur
+FB81485,Restaurant,coffee-shop,True,HO12604,6.5,Food,6.5,Kochi (Cochin)
+FB80733,The Restaurant,coffee-shop,True,HO11121,7.0,Food,7.0,Agra
+FB80026,The Atrium,coffee-shop,True,HO10013,9.7,Food,9.7,New Delhi
+FB80409,Open House,coffee-shop,True,HO10212,7.4,Food,7.4,Thiruvananthapuram (Trivandrum)
+FB80167,Cafe 77 East,coffee-shop,True,HO10403,8.4,Food,8.4,Bengaluru
+FB81526,LA Terraza,multi-cuisine,True,HO10655,8.0,Food,8.0,Jaipur
+FB81400,Restaurant,coffee-shop,True,HO12524,7.3,Food,7.3,Rishikesh
+FB80389,The Restaurant,coffee-shop,True,HO10562,7.2,Food,7.2,Puducherry (Pondicherry)
+FB80430,Kebabs & Kurries,coffee-shop,True,HO10640,8.6,Food,8.6,Goa
+FB80168,Tragopan,coffee-shop,True,HO10322,9.2,Food,9.2,Shimla
+FB80850,Keys Cafe,coffee-shop,True,HO11339,6.4,Food,6.4,Thiruvananthapuram (Trivandrum)
+FB80911,Tentacao,coffee-shop,True,HO10207,5.6,Food,5.6,Goa
+FB80756,The Swimming Elephant,coffee-shop,True,HO10976,6.8,Food,6.8,Havelock
+FB80462,Addubon,coffee-shop,True,HO10495,6.4,Food,6.4,Ranthambore
+FB81041,Zing,coffee-shop,True,HO10878,1.0,Food,6.0,New Delhi
+FB80997,Skyrocca Diner,coffee-shop,True,HO11568,8.2,Food,8.2,Yercaud
+FB81049,Namak,coffee-shop,True,HO11476,7.4,Food,7.4,Dharamshala
+FB81433,Restaurant,coffee-shop,True,HO12449,7.0,Food,7.2,Udaipur (RJ)
+FB81106,Jeeman,coffee-shop,True,HO10880,5.4,Food,5.4,Jaipur
+FB80128,Suryamahal and Chandni,coffee-shop,True,HO10448,9.2,Food,9.2,Udaipur (RJ)
+FB81312,Restaurant,coffee-shop,True,HO10890,6.0,Modern,3.9,Mumbai
+FB80408,Royal Cuisine,coffee-shop,True,HO10047,8.0,Food,8.0,Udaipur (RJ)
+FB81529,Jaisal Panorama,coffee-shop,True,HO12666,6.4,Food,6.4,Jaisalmer
+FB81123,The Restaurant,coffee-shop,True,HO12207,5.8,Food,5.8,Jaipur
+FB80455,Regency,coffee-shop,True,HO10289,7.3,Food,7.3,Kochi (Cochin)
+FB80152,Seagull,coffee-shop,True,HO10416,8.8,Food,8.8,Mamallapuram (Mahabalipuram)
+FB80628,Udyan Terrace,specialty-restaurant,True,HO10040,9.0,Food,9.0,Varanasi
+FB80791,East Indies,coffee-shop,True,HO10194,7.6,Food,7.7,Kochi (Cochin)
+FB81203,Bizou Bizou,multi-cuisine,False,,9.0,Food,8.5,New Delhi
+FB80548,Restaurant,coffee-shop,True,HO10802,7.0,Food,7.0,Kumbhalgarh
+FB80527,Restaurant,coffee-shop,True,HO10544,7.2,Food,7.2,Tadoba
+FB80077,Vivo,coffee-shop,True,HO10135,6.6,Food,6.6,Goa
+FB80457,Marakele,coffee-shop,True,HO10184,9.2,Food,9.2,Havelock
+FB80336,Kusini,coffee-shop,True,HO10577,7.4,Food,7.4,Thekkady (Periyar/Kumily)
+FB80222,Garden,coffee-shop,True,HO10451,8.0,Food,8.0,Udaipur (RJ)
+FB81515,Rainbow,coffee-shop,True,HO12656,6.3,Food,6.3,Mumbai
+FB80983,Rasavat,coffee-shop,True,HO11555,6.4,Food,6.4,Bhavnagar
+FB80062,Cafe Valley Vue,coffee-shop,True,HO10141,7.3,Food,7.3,Shimla
+FB81363,Restaurant,coffee-shop,True,HO12443,7.6,Food,7.6,Badami
+FB80901,Alfresco,coffee-shop,True,HO11302,6.9,Food,6.9,Kolkata
+FB81596,Restaurant,coffee-shop,True,HO12752,6.4,Food,6.4,Jaisalmer
+FB80719,The Restaurant,coffee-shop,True,HO11039,5.8,Food,5.8,Lonavala
+FB80453,Cafe Royale,coffee-shop,True,HO10401,9.0,Food,9.4,Kochi (Cochin)
+FB80588,The Restaurant,coffee-shop,True,HO10809,7.4,Food,7.4,Gurdaspur
+FB80102,360Â°,coffee-shop,True,HO10278,9.4,Food,9.4,New Delhi
+FB80854,Amrapali,coffee-shop,True,HO10219,5.4,Food,5.4,Bodhgaya
+FB80565,Dining Room,coffee-shop,True,HO10557,7.5,Food,7.5,Alappuzha (Alleppey)
+FB80218,The Aura,coffee-shop,True,HO10342,8.4,Food,8.4,Jaipur
+FB81265,Gurney House,coffee-shop,True,HO10987,4.0,Food,4.0,Nainital
+FB80956,The Restaurant,coffee-shop,True,HO11215,6.0,Food,6.0,Badami
+FB80467,Restaurant,coffee-shop,True,HO10501,6.4,Food,6.4,Bundi
+FB80848,Habba,coffee-shop,True,HO11201,5.6,Food,5.6,Coorg (Kodagu)
+FB80012,Aqua Grill,specialty-restaurant,True,HO10008,8.0,Food,8.0,Agra
+FB80402,The Verdant,coffee-shop,True,HO10556,7.0,Food,7.0,Ranthambore
+FB80156,Kokum Kitchen,coffee-shop,True,HO10161,8.8,Food,8.8,Goa
+FB80630,Garden,coffee-shop,True,HO10944,5.4,Food,5.4,Jodhpur
+FB80604,The Restaurant,multi-cuisine,True,HO10217,6.4,Food,6.4,Munnar
+FB81402,Citrus Cafe,coffee-shop,True,HO12363,6.2,Food,6.2,Alwar
+FB80986,Aravali,coffee-shop,True,HO11557,6.4,Food,6.4,Udaipur (RJ)
+FB80950,Zodiac,coffee-shop,True,HO11249,4.6,Food,4.6,Goa
+FB80021,1911,coffee-shop,True,HO10013,9.7,Food,9.7,New Delhi
+FB80346,My Place,coffee-shop,True,HO10368,8.0,Food,8.0,Bengaluru
+FB80599,Restaurant,coffee-shop,True,HO10594,7.4,Food,7.4,Dausa
+FB80343,Indique,coffee-shop,True,HO10630,7.4,Food,7.4,Jodhpur
+FB80310,The Inhouse,coffee-shop,True,HO10778,8.0,Food,8.0,Jaisalmer
+FB80670,Orchid,coffee-shop,True,HO11038,4.8,Food,4.8,Lucknow
+FB80681,Vansh,coffee-shop,True,HO11084,8.6,Food,8.6,Khimsar
+FB81192,La Providence,coffee-shop,True,HO11825,5.6,Food,5.6,Kodaikanal
+FB80601,The Collonnade,coffee-shop,True,HO10089,9.2,Food,9.2,Jaipur
+FB80162,Tiqri,coffee-shop,True,HO10379,9.0,Food,9.0,Mumbai
+FB80382,Taala,coffee-shop,True,HO10823,7.5,Food,8.0,Manali
+FB80485,The Bridge,coffee-shop,True,HO10627,7.2,Food,7.2,Kolkata
+FB80013,Palato,coffee-shop,True,HO10005,9.0,Food,9.0,Agra
+FB81251,Poshini,coffee-shop,True,HO10692,6.6,Food,6.6,Kabini
+FB80204,Lobby,coffee-shop,True,HO10073,8.0,Food,7.3,Udaipur (RJ)
+FB80215,Manwar,coffee-shop,True,HO10584,7.8,Food,7.8,Bikaner
+FB80287,Citrus Cafe,coffee-shop,True,HO10747,6.7,Food,6.7,Gurgaon
+FB80009,Paatra,specialty-restaurant,True,HO10008,8.0,Food,8.0,Agra
+FB80858,The Restaurant,coffee-shop,True,HO10258,7.3,Food,7.3,Pragpur
+FB81296,Cafe C,coffee-shop,True,HO11519,7.0,Food,7.0,New Delhi
+FB80539,RUE 126-Coffe Shop,coffee-shop,True,HO10432,8.0,Food,8.0,Puducherry (Pondicherry)
+FB80051,Gingee,coffee-shop,True,HO10147,7.4,Food,7.4,Vellore
+FB80503,Food Exchange,coffee-shop,True,HO10304,7.3,Food,7.3,New Delhi
+FB80880,In Room Dining,coffee-shop,True,HO11478,6.8,Food,6.8,Jojawar
+FB80171,Chowk,coffee-shop,True,HO10145,9.2,Food,9.2,Varanasi
+FB80894,Canacona,coffee-shop,True,HO11306,6.6,Food,6.6,Goa
+FB80294,The Coffee Shop,coffee-shop,True,HO10351,6.2,Food,6.2,Jaipur
+FB80530,Connoisseur,coffee-shop,True,HO10671,7.0,Food,7.0,Kanha
+FB80977,Dining Tent,coffee-shop,True,HO11486,6.6,Food,7.9,Ranthambore
+FB80860,Citrus Cafe,coffee-shop,True,HO11470,6.6,Food,6.6,Jhansi
+FB81047,The Restaurant,coffee-shop,True,HO11677,6.4,Food,6.4,Agra
+FB80428,Farm Kitchen,specialty-restaurant,True,HO10343,7.9,Food,7.9,Mararikulam
+FB80759,Dining,coffee-shop,True,HO10919,6.8,Food,6.8,Dholpur
+FB81583,Chef Pillai,specialty-restaurant,True,HO10959,6.0,Food,6.0,Kochi (Cochin)
+FB80620,Blooming Cherry,coffee-shop,True,HO10392,7.0,Food,7.0,Thekkady (Periyar/Kumily)
+FB81291,Molecule Air Bar,multi-cuisine,False,,6.2,Food,3.4,Agra
+FB81414,Oasis,coffee-shop,True,HO12293,6.1,Food,6.1,Jaipur
+FB80484,Chandni Midway,multi-cuisine,False,,8.0,Food,8.0,Narnaul
+FB81382,Rasala,coffee-shop,True,HO12515,8.3,Food,8.3,Jodhpur
+FB80325,All Spice,coffee-shop,True,HO10185,9.6,Food,9.6,Thekkady (Periyar/Kumily)
+FB80829,Darikhana,coffee-shop,True,HO11163,7.8,Food,7.8,Luni
+FB80122,Culina 44,coffee-shop,True,HO10346,8.8,Food,8.8,Gurgaon
+FB81134,Whispering Winds,coffee-shop,True,HO11316,5.0,Food,5.0,Kumarakom
+FB81254,Tattva,coffee-shop,True,HO11170,7.2,Food,7.2,Rishikesh
+FB80490,Jetty,coffee-shop,True,HO10406,9.0,Food,9.0,Kochi (Cochin)
+FB81378,Wild Pastures,coffee-shop,True,HO12498,5.7,Food,5.7,Coonoor
+FB80881,Gourmet,coffee-shop,True,HO11499,6.6,Food,6.6,Tirupati
+FB81166,Restaurant,coffee-shop,True,HO11619,5.4,Food,5.4,Meerut
+FB80556,Dining Room,multi-cuisine,True,HO10708,7.2,Food,7.2,Jaipur
+FB80565,Dining Room,coffee-shop,True,HO10557,8.2,Food,8.2,Alappuzha (Alleppey)
+FB81531,Mabel's,multi-cuisine,False,,9.3,Food,9.3,Bikaner
+FB80389,The Restaurant,coffee-shop,True,HO10562,6.8,Food,6.8,Puducherry (Pondicherry)
+FB80955,Fiesta,coffee-shop,True,HO11217,5.8,Food,5.8,Hosapete (Hospet) (not to be used)
+FB80609,The Garden Grille and Bar,coffee-shop,True,HO10748,5.6,Food,5.6,Lucknow
+FB80395,Nosh,coffee-shop,True,HO10402,9.0,Food,9.0,Jaisalmer
+FB81257,Sarvaras,coffee-shop,True,HO11461,5.6,Food,5.6,Aihole
+FB81449,Restaurant,coffee-shop,True,HO12555,7.4,Food,7.4,Chikkamagaluru
+FB80785,Jigsaw,coffee-shop,True,HO11212,4.2,Food,4.2,Gurgaon
+FB80632,Dining Hall,coffee-shop,True,HO10920,7.2,Food,7.2,Sariska
+FB80357,Levant,coffee-shop,True,HO10659,7.3,Food,7.3,Khajuraho
+FB80300,Al Fresco,coffee-shop,True,HO10355,7.3,Food,7.3,Amritsar
+FB80480,Black Truffle,coffee-shop,True,HO10168,9.2,Food,9.2,Munnar
+FB80094,Lazeez Affaire (Malcha Marg),multi-cuisine,False,,8.4,Food,8.4,New Delhi
+FB81201,South Parade,coffee-shop,True,HO11812,5.4,Food,5.4,Bengaluru
+FB80545,The Gourmet,coffee-shop,True,HO10075,8.0,Food,8.0,Thekkady (Periyar/Kumily)
+FB81283,Citine,coffee-shop,True,HO12345,5.8,Food,5.8,Jaisalmer
+FB80718,Akasa,coffee-shop,True,HO11116,5.8,Food,5.8,Rishikesh
+FB81008,R&G,coffee-shop,True,HO10761,7.8,Food,7.8,Chennai
+FB81225,Bloom Cafe,coffee-shop,True,HO11209,4.6,Food,4.6,New Delhi
+FB80705,Orchid,coffee-shop,True,HO11164,4.8,Food,4.8,Ghaziabad
+FB81070,The Restaurant,coffee-shop,True,HO11903,4.2,Food,4.2,Kushinagar
+FB81345,Orchids,coffee-shop,True,HO12059,5.6,Food,5.6,Siliguri
+FB80086,Ikaki Niwas,coffee-shop,True,HO10199,5.6,Food,5.6,Jaipur
+FB80243,The Qube,coffee-shop,True,HO10302,9.4,Food,9.4,New Delhi
+FB80058,Cafe Golden Elephant,coffee-shop,True,HO10090,5.2,Food,6.7,Agra
+FB81622,Neerangan,coffee-shop,True,HO12551,8.7,Food,8.7,Khajuraho
+FB80582,Restaurant,coffee-shop,True,HO10444,6.6,Food,6.6,Dharamshala
+FB81215,Kava Grill and Lounge,coffee-shop,True,HO10836,6.4,Food,6.4,Amritsar
+FB81478,The Restaurant,coffee-shop,True,HO11545,,,,Pokhran
+FB81508,Winds,multi-cuisine,False,,7.0,Food,7.0,Jodhpur
+FB81029,Darbar Hall,coffee-shop,True,HO11596,6.2,Food,6.2,Jaipur
+FB80045,Kama,multi-cuisine,True,HO10014,,,,New Delhi
+FB81492,Oriole,coffee-shop,True,HO12573,5.1,Food,5.1,Kothamangalam (KL) 
+FB81118,Biso,coffee-shop,True,HO11403,6.0,Food,6.0,Bengaluru
+FB80165,Shamiana,coffee-shop,True,HO10531,9.2,Food,9.2,Mumbai
+FB81388,Rainbow,multi-cuisine,False,,8.2,Food,8.2,Udaipur (RJ)
+FB81148,The Shangri La Dining Room,coffee-shop,True,HO10157,7.6,Food,7.6,Gangtok
+FB81223,Anaya Aduppu,coffee-shop,True,HO10181,8.5,Food,8.5,Kumbakonam
+FB80060,Badshah Pasand,coffee-shop,True,HO10122,8.0,Food,8.0,Nawalgarh
+FB80292,The Lobby Cafe,coffee-shop,True,HO10559,7.4,Food,7.4,Chennai
+FB80485,The Bridge,coffee-shop,True,HO10627,6.6,Food,6.6,Kolkata
+FB81434,Solcito,coffee-shop,True,HO12512,8.1,Food,8.1,Hyderabad
+FB81205,Dining Hall,coffee-shop,True,HO11794,6.7,Food,6.7,Tadoba
+FB80192,Courtyard,coffee-shop,True,HO10446,7.7,Food,7.7,Puducherry (Pondicherry)
+FB81111,Curry Capital,coffee-shop,True,HO11120,7.6,Food,7.6,New Delhi
+FB81546,Restaurant,coffee-shop,True,HO12285,6.9,Food,6.9,New Delhi
+FB80267,Temple Cafe,coffee-shop,True,HO10017,7.1,Food,7.1,Khajuraho
+FB80857,Lotus,coffee-shop,True,HO10683,7.0,Food,7.0,Rajgir
+FB80846,The Restaurant,coffee-shop,True,HO11211,7.2,Food,7.2,Varkala
+FB80899,24-Jul,coffee-shop,True,HO11355,6.6,Food,6.6,Jaipur
+FB80781,Pillars,coffee-shop,True,HO10129,7.8,Food,7.8,Dechu
+FB80190,The Cilantro,coffee-shop,True,HO10249,7.7,Food,7.7,Sarnath
+FB80572,Restaurant,coffee-shop,True,HO10365,7.4,Food,7.4,Karaikudi
+FB80822,Dining,multi-cuisine,True,HO10997,6.6,Food,6.6,New Delhi
+FB81213,Rajrasa,multi-cuisine,False,,9.4,Food,9.4,Jaipur
+FB81300,The Wire Room,coffee-shop,True,HO12368,6.6,Food,6.6,Goa
+FB80937,The Reef,coffee-shop,True,HO11533,6.0,Food,6.0,Chennai
+FB81152,Jeeman,coffee-shop,True,HO11429,5.8,Food,5.8,Jodhpur
+FB80633,Agashiye,coffee-shop,True,HO10927,6.4,Food,6.4,Ahmedabad
+FB80861,Dilli Kanteen Kitchen,coffee-shop,True,HO11468,5.8,Food,5.8,New Delhi
+FB80207,Aurum,coffee-shop,True,HO10507,8.2,Food,8.2,Jaipur
+FB80563,Restaurant,coffee-shop,True,HO10044,7.0,Food,7.0,Puducherry (Pondicherry)
+FB81626,The Lantern,coffee-shop,True,HO12345,5.8,Food,5.8,Jaisalmer
+FB80356,Ambaal,coffee-shop,True,HO10558,6.8,Food,6.8,Alappuzha (Alleppey)
+FB81543,Terrace Grill,coffee-shop,True,HO10027,7.7,Food,7.7,Kochi (Cochin)
+FB81250,Aqua,coffee-shop,True,HO10140,4.6,Food,4.6,Mumbai
+FB80502,Farmer's Basket,coffee-shop,True,HO10306,7.3,Food,7.3,New Delhi
+FB80451,Arabasta,coffee-shop,True,HO10679,6.9,Food,6.9,Virajpet (Coorg) (not to used)
+FB81565,Spice Haat,coffee-shop,True,HO10098,5.2,Food,5.2,Chennai
+FB80015,Annamaya,coffee-shop,True,HO10000,8.0,Food,8.0,New Delhi
+FB80017,Pickwick,coffee-shop,True,HO10012,9.4,Food,9.4,New Delhi
+FB81397,Restaurant,coffee-shop,True,HO11540,7.4,Food,7.4,Palampur
+FB80772,Miri,coffee-shop,True,HO11019,9.4,Food,9.4,Goa
+FB80434,Chinkara,coffee-shop,True,HO10586,8.6,Food,8.6,Jodhpur
+FB80199,Aymanam,coffee-shop,True,HO10383,7.7,Food,7.7,Kumarakom
+FB81518,Lazeez Affaire,multi-cuisine,False,,9.8,Food,9.8,Gurgaon
+FB80817,Citrus Cafe,coffee-shop,True,HO11271,5.4,Food,5.4,Dwarka
+FB81571,Nisaba,specialty-restaurant,False,,9.2,Food,9.2,New Delhi
+FB81027,The Waterhole,coffee-shop,True,HO11593,5.2,Food,5.2,Bandhavgarh
+FB80667,Orchid,coffee-shop,True,HO11040,6.1,Food,6.1,Rajkot
+FB81283,Citrine,multi-cuisine,True,HO12345,5.8,Food,5.8,Jaisalmer
+FB80765,Gum Tree,coffee-shop,True,HO11117,9.0,Food,9.0,Sasan Gir
+FB81222,Bites,coffee-shop,True,HO10585,7.2,Food,7.2,Gurgaon
+FB80252,Cafe Treat,coffee-shop,True,HO10685,7.8,Food,7.8,Kolkata
+FB80630,Garden,coffee-shop,True,HO10944,6.9,Food,6.9,Jodhpur
+FB80597,Blue Coriander,coffee-shop,True,HO10434,4.6,Food,4.6,Jodhpur
+FB80439,Orchid,coffee-shop,True,HO10398,9.0,Food,9.0,Madurai
+FB81092,Lily,coffee-shop,True,HO12195,3.8,Food,3.8,Bengaluru
+FB80843,Dining,coffee-shop,True,HO11228,5.8,Food,5.8,Pathanamthitta
+FB80617,Dining,coffee-shop,True,HO10698,8.8,Food,8.8,Pench
+FB80462,Addubon,coffee-shop,True,HO10495,7.0,Food,7.0,Ranthambore
+FB80710,The Lantern,coffee-shop,True,HO11108,5.2,Food,5.2,Goa
+FB80871,Cafe Choubara,multi-cuisine,False,,9.6,Food,9.6,Jaipur
+FB81294,NYC,coffee-shop,True,HO10101,6.6,Food,6.6,New Delhi
+FB80816,Citrus Cafe,coffee-shop,True,HO11292,5.2,Food,5.2,Mumbai
+FB81025,The Dahlia,coffee-shop,True,HO11445,5.6,Food,5.6,Kota (RJ) 
+FB80135,Anise,coffee-shop,True,HO10372,8.6,Food,8.6,Chennai
+FB81127,Cafe 65,coffee-shop,True,HO12169,6.4,Food,6.4,Varanasi
+FB80246,Citrus,coffee-shop,True,HO10745,6.4,Food,6.4,Vadodara
+FB80707,Bandhani,coffee-shop,True,HO11057,6.0,Food,6.0,Jaipur
+FB81411,Polki,coffee-shop,True,HO12532,5.1,Food,5.1,Bikaner
+FB80229,Citrus,coffee-shop,True,HO10534,8.0,Food,8.0,Patna
+FB81579,Olive Bar & Kitchen,multi-cuisine,False,,9.2,Food,9.2,New Delhi
+FB80973,City Height,coffee-shop,True,HO11447,6.4,Food,6.4,Varanasi
+FB80937,The Reef,coffee-shop,True,HO11533,5.4,Food,5.4,Chennai
+FB80699,The Bubble Cafe,coffee-shop,True,HO11079,7.2,Food,7.2,Kochi (Cochin)
+FB81338,Dining,coffee-shop,True,HO10646,6.8,Food,6.8,Bandhavgarh
+FB80957,The Castle,coffee-shop,True,HO10232,9.4,Food,9.4,Mysuru (Mysore)
+FB80713,Cafe Blu,coffee-shop,True,HO11043,6.6,Food,6.6,Ooty (Udhagamandalam)
+FB80827,Restaurant,coffee-shop,True,HO11134,6.2,Food,6.2,Bundi
+FB81145,Dining Area,coffee-shop,True,HO11626,5.2,Food,5.2,Agra
+FB80867,Dining Room,coffee-shop,True,HO10178,9.4,Food,9.4,Samode
+FB80560,Restaurant,multi-cuisine,True,HO10574,8.2,Food,8.2,Thekkady (Periyar/Kumily)
+FB80605,Peharasi Andaz,coffee-shop,True,HO10923,6.9,Food,6.9,Bharatpur
+FB80987,Royal Dine,coffee-shop,True,HO11220,4.8,Food,4.8,Kochi (Cochin)
+FB80764,Quattro,coffee-shop,True,HO11096,7.0,Food,7.0,Bengaluru
+FB80929,Cuisine,coffee-shop,True,HO11527,7.0,Food,7.0,Munnar
+FB80405,The Cortile,coffee-shop,True,HO10569,9.0,Food,9.0,Ranthambore
+FB81275,Travancore Restaurant,coffee-shop,True,HO12350,7.2,Food,7.2,Kochi (Cochin)
+FB81374,Tiffin Room,coffee-shop,True,HO12476,8.2,Food,8.2,Coimbatore
+FB81088,The Restaurant,coffee-shop,True,HO12026,5.0,Food,5.0,Munnar
+FB80284,Citrus Cafe,coffee-shop,True,HO10449,6.7,Food,6.7,Gurgaon
+FB81224,Bloom Cafe,coffee-shop,True,HO11210,4.6,Food,4.6,New Delhi
+FB80895,24-Jul,coffee-shop,True,HO11325,6.2,Food,6.2,Mumbai
+FB80696,Delicaci,coffee-shop,True,HO11053,5.8,Food,5.8,Darjeeling
+FB80229,Citrus Cafe,coffee-shop,True,HO10534,6.7,Food,6.7,Patna
+FB80962,Anoop Mahal,coffee-shop,True,HO10487,6.8,Food,6.8,Bikaner
+FB80370,The Restaurant,coffee-shop,True,HO10833,7.2,Food,7.2,Pench
+FB80996,Ministry Of Chutneys,coffee-shop,True,HO11566,7.3,Food,7.3,Chennai
+FB80144,Chia Verandah,coffee-shop,True,HO10590,9.0,Food,9.0,Darjeeling
+FB81506,Anupallavi,coffee-shop,True,HO12645,4.6,Food,4.6,Chidambaram
+FB81212,La Uppu,coffee-shop,True,HO10727,6.2,Food,6.2,Mysuru (Mysore)
+FB80506,The Resturant,coffee-shop,True,HO10107,8.2,Food,8.2,Munnar
+FB81304,86 Pillars,coffee-shop,True,HO12375,6.8,Food,6.8,Chettinadu
+FB81285,The Restaurant,coffee-shop,True,HO12337,8.8,Food,8.8,Chettinadu
+FB81599,Swad,coffee-shop,True,HO11407,3.7,Food,3.7,Gwalior
+FB80185,Chakara,coffee-shop,True,HO10343,9.0,Food,9.0,Mararikulam
+FB80842,The Restaurant,coffee-shop,True,HO11203,5.0,Food,5.0,Orchha
+FB80684,Six O One,coffee-shop,True,HO11046,5.5,Food,5.5,Chennai
+FB81376,Restaurant,coffee-shop,True,HO12182,4.6,Food,4.6,Palitana
+FB80730,Swaad,coffee-shop,True,HO11033,6.0,Food,6.0,Puri
+FB81232,Sujata,coffee-shop,True,HO11346,2.8,Food,2.8,Bodhgaya
+FB81303,Pandara,coffee-shop,True,HO12373,6.0,Food,6.0,Ranthambore
+FB80059,Jaisalmer Kitchen,coffee-shop,True,HO10094,7.0,Food,7.0,Jaisalmer
+FB80586,The Restaurant,coffee-shop,True,HO10251,7.7,Food,7.7,Jodhpur
+FB80736,The Resturant,coffee-shop,True,HO11125,6.4,Food,6.4,Alsisar
+FB80248,Hari Mahal,coffee-shop,True,HO10277,6.6,Food,6.6,Jaipur
+FB80613,Mirasa,coffee-shop,True,HO10025,8.2,Food,8.2,Udaipur (RJ)
+FB80046,Baradari,coffee-shop,True,HO10026,7.0,Food,7.0,Udaipur (RJ)
+FB80157,Aravali,coffee-shop,True,HO10625,8.6,Food,8.6,Ajmer
+FB80273,Citrus Cafe,coffee-shop,True,HO10440,7.4,Food,7.4,Chennai
+FB80742,The Restaurant,coffee-shop,True,HO11143,5.0,Food,5.0,Udaipur (RJ)
+FB80036,The Yellow Chilli,multi-cuisine,False,,8.9,Food,9.8,Amritsar
+FB80181,Jharokha,coffee-shop,True,HO10437,9.4,Food,9.4,Udaipur (RJ)
+FB80106,Marble Arch,coffee-shop,True,HO10655,9.0,Food,9.0,Jaipur
+FB80020,Jade,specialty-restaurant,True,HO10012,9.4,Food,9.4,New Delhi
+FB80810,Skinners,coffee-shop,True,HO11259,5.4,Food,5.4,Manesar
+FB81348,Restaurant,coffee-shop,True,HO12414,7.0,Food,7.0,Mararikulam
+FB80900,Panna,coffee-shop,True,HO11268,6.9,Food,6.9,Khajuraho
+FB81018,Mohan Mahal,specialty-restaurant,True,HO10325,8.5,Food,8.5,Jaipur
+FB80468,Restaurant,coffee-shop,True,HO10494,6.8,Food,6.8,Bundi
+FB80583,Coffee Shop,coffee-shop,True,HO10500,7.5,Food,7.5,Munnar
+FB81381,Citrus Cafe,coffee-shop,True,HO12364,6.0,Food,6.0,Rishikesh
+FB80146,Ferntree,coffee-shop,True,HO10684,8.8,Food,8.8,Coorg (Kodagu)
+FB81509,Bay View Terrace,coffee-shop,True,HO10151,8.4,Food,8.4,Kochi (Cochin)
+FB81234,The Whistling Teal,coffee-shop,True,HO12295,6.2,Food,6.2,Udaipur (RJ)
+FB80085,Dakshin,specialty-restaurant,True,HO10026,8.1,Food,8.8,Udaipur (RJ)
+FB81589,Studio 6 & 7,specialty-restaurant,True,HO10253,9.2,Food,9.2,New Delhi
+FB81497,Aroma,coffee-shop,True,HO11876,6.9,Food,6.9,Jaipur
+FB81480,Verve,coffee-shop,True,HO12598,6.5,Food,6.3,Mysuru (Mysore)
+FB80669,Annapurna,coffee-shop,True,HO11024,4.0,Food,4.0,Haridwar
+FB81194,The Restaurant,coffee-shop,True,HO12276,7.2,Food,7.2,Munnar
+FB81156,The Restaurant,coffee-shop,True,HO12012,5.2,Food,5.2,Munnar
+FB80563,Restaurant,multi-cuisine,True,HO10044,7.0,Food,7.0,Puducherry (Pondicherry)
+FB80878,Raj Mahal,coffee-shop,True,HO11380,3.8,Food,3.8,Jaipur
+FB80969,The Restaurant,coffee-shop,True,HO11138,6.4,Food,6.4,Khandela
+FB80683,Seven,coffee-shop,True,HO11086,8.6,Food,8.6,Guwahati
+FB80211,Khana Pakana,coffee-shop,True,HO10006,6.8,Food,6.8,Varanasi
+FB80685,Gardenia,coffee-shop,True,HO11080,6.1,Food,6.1,Ahmedabad
+FB81076,CafÃ© B-You,coffee-shop,True,HO11866,4.6,Food,4.6,Guwahati
+FB81605,Restaurant,coffee-shop,True,HO12658,7.4,Food,7.4,Thattekkad
+FB80995,Baithak,coffee-shop,True,HO11457,6.6,Food,6.6,Mandawa
+FB81427,Smok,coffee-shop,True,HO12487,7.3,Food,7.3,Lakshadweep
+FB80839,Pinxx,coffee-shop,True,HO11198,4.2,Food,4.2,Udaipur (RJ)
+FB80692,Gurney House,coffee-shop,True,HO11076,4.8,Food,6.1,Corbett
+FB80698,Forks & Spoons,coffee-shop,True,HO11044,6.4,Food,6.4,Bharatpur
+FB80213,North 27,coffee-shop,True,HO10022,7.4,Food,7.4,Agra
+FB80305,Around the World,coffee-shop,True,HO10883,8.8,Food,8.8,Jaipur
+FB80989,Hariyali Dhani,coffee-shop,True,HO11398,3.8,Food,3.8,Dheerpura
+FB80429,Peshawri,specialty-restaurant,True,HO10254,8.8,Food,8.8,Agra
+FB80632,Dining Hall,coffee-shop,True,HO10920,7.8,Food,7.8,Sariska
+FB80558,Restaurant,coffee-shop,True,HO10772,5.8,Food,5.8,Alwar
+FB80870,Kusini,coffee-shop,True,HO11463,6.0,Food,6.0,Thekkady (Periyar/Kumily)
+FB80594,Citrus Cafe,coffee-shop,True,HO10535,8.0,Food,8.0,Goa
+FB80924,Dining,coffee-shop,True,HO11518,6.8,Food,6.8,Manvar (RJ)
+FB81341,Cafe Samsara,coffee-shop,True,HO12404,7.2,Food,7.2,Athirappilly
+FB80662,Curry & Rice,coffee-shop,True,HO11018,6.6,Food,6.6,Ooty (Udhagamandalam)
+FB80471,Turtle Beach,specialty-restaurant,True,HO10757,9.4,Food,9.4,Mararikulam
+FB80225,Dhanyam,coffee-shop,True,HO10631,7.5,Food,7.5,Thanjavur (Tanjore)
+FB81486,Restaurant,coffee-shop,True,HO11020,7.3,Food,7.3,Mandawa
+FB80418,Atlas World Cafe,coffee-shop,True,HO10431,6.6,Food,6.6,Bengaluru
+FB81532,Tattvam,coffee-shop,True,HO10038,7.8,Food,7.8,Udaipur (RJ)
+FB81504,Samudra,specialty-restaurant,True,HO10115,7.8,Food,7.8,Chennai
+FB80678,The Restaurant,coffee-shop,True,HO10974,6.2,Food,6.2,Mount Abu
+FB80649,Zodiac,coffee-shop,True,HO10971,4.8,Food,4.8,Ahmedabad
+FB80639,Dining Hall,coffee-shop,True,HO10922,6.8,Food,6.8,Pushkar
+FB80465,Darikhana,coffee-shop,True,HO10502,6.6,Food,6.6,Bundi
+FB81165,Sea Shell,coffee-shop,True,HO11766,4.2,Food,4.2,Goa
+FB81191,Swaad,coffee-shop,True,HO11895,5.4,Food,5.2,Kanyakumari
+FB80747,Sheesh Mahal,coffee-shop,True,HO11129,9.2,Food,9.2,Udaipur (RJ)
+FB80911,Tentacao,coffee-shop,True,HO10207,5.2,Food,5.2,Goa
+FB81042,I Kitchen,coffee-shop,True,HO10427,7.0,Food,7.0,Puducherry (Pondicherry)
+FB80897,Nombili,coffee-shop,True,HO11298,5.4,Food,5.4,Bekal
+FB81061,WelcomCafe Serenade,coffee-shop,True,HO11965,6.2,Food,6.2,Panchkula
+FB80589,Bhojanik,coffee-shop,True,HO10016,8.4,Food,8.4,Varanasi
+FB80072,Waters Edge Cafe,coffee-shop,True,HO10026,7.6,Food,8.0,Udaipur (RJ)
+FB80424,Patio,coffee-shop,True,HO10734,9.0,Food,9.0,Thekkady (Periyar/Kumily)
+FB81252,The Restaurant,coffee-shop,True,HO11392,5.8,Food,5.8,Gokarna
+FB81012,The Rose Opulence,coffee-shop,True,HO11581,6.8,Food,6.8,Jaipur
+FB81035,The Restaurant,coffee-shop,True,HO11600,6.0,Food,6.0,Goa
+FB81240,Lotus Cafe,coffee-shop,True,HO10192,6.8,Food,6.8,Mumbai
+FB80472,Castle Cafe,specialty-restaurant,True,HO10474,8.8,Food,8.8,Munnar
+FB80626,Dining Room,coffee-shop,True,HO10826,6.0,Food,6.0,Jaisalmer
+FB81037,Sky High,coffee-shop,True,HO11606,4.0,Food,4.0,Rishikesh
+FB80414,Southern Express,coffee-shop,True,HO10473,6.7,Food,6.7,Thiruvananthapuram (Trivandrum)
+FB80290,Empress,coffee-shop,True,HO10274,8.8,Food,8.8,Gurgaon
+FB80438,Orchid,coffee-shop,True,HO10362,9.0,Food,9.0,Dharamshala
+FB80035,Dining Room,coffee-shop,True,HO10009,7.0,Food,7.0,Jaipur
+FB81006,Dining,coffee-shop,True,HO10930,5.0,Food,5.0,Kanha
+FB80991,Kaleva,coffee-shop,True,HO10951,5.7,Food,5.7,Orchha
+FB80566,Restaurant,coffee-shop,True,HO10714,5.8,Food,5.8,Neemrana
+FB80182,Neel Kamal,specialty-restaurant,True,HO10437,9.4,Food,9.4,Udaipur (RJ)
+FB80903,Restaurant,coffee-shop,True,HO10413,8.0,Food,8.0,Jaisalmer
+FB81447,Amaraanth Kitchen,coffee-shop,True,HO12549,5.5,Food,5.5,Goa
+FB81360,Upper Deck,coffee-shop,True,HO11303,5.9,Food,5.9,Goa
+FB81438,Savor,coffee-shop,True,HO11891,7.2,Food,7.0,Kumbhalgarh
+FB80837,Citrus Cafe,coffee-shop,True,HO11285,5.4,Food,5.4,Amritsar
+FB80354,The Suroth,coffee-shop,True,HO10458,4.8,Food,4.8,Karauli
+FB81495,Lutyens Deli,multi-cuisine,True,HO10012,9.4,Food,9.4,New Delhi
+FB80217,Dakshin,coffee-shop,True,HO10712,8.6,Food,8.6,Kanchipuram
+FB81359,Dining,coffee-shop,True,HO11592,7.3,Food,7.3,Ayodhya
+FB80669,Annapurna,coffee-shop,True,HO11024,5.0,Food,5.0,Haridwar
+FB81474,Swagatam Catering Services,multi-cuisine,False,,8.6,Heritage,8.1,Chandigarh
+FB80585,Gautama,coffee-shop,True,HO10104,4.2,Food,4.2,Khajuraho
+FB80714,Utkala,coffee-shop,True,HO11047,5.8,Food,5.8,Puri
+FB80479,Spice Court,multi-cuisine,False,,8.6,Food,8.6,Jaipur
+FB81353,Aish,coffee-shop,True,HO11139,6.2,Food,6.2,Sariska
+FB81279,Lake Side Pavilion,coffee-shop,True,HO11665,7.6,Food,7.6,Alappuzha (Alleppey)
+FB81146,Lattitude 49,coffee-shop,True,HO11229,7.3,Food,7.3,Mamallapuram (Mahabalipuram)
+FB81453,Tuluva,coffee-shop,True,HO10106,9.2,Food,9.2,Hampi (Hosapete)
+FB80887,Forks & Spoons,coffee-shop,True,HO11477,5.5,Food,5.5,Bharatpur
+FB80761,The Restaurant,coffee-shop,True,HO10499,10.0,Food,10.0,Ranthambore
+FB80425,Courtyard,coffee-shop,True,HO10818,7.8,Food,7.8,Bikaner
+FB80828,Resturant,coffee-shop,True,HO11155,6.0,Food,6.0,Chittorgarh
+FB80335,Blueline,coffee-shop,True,HO10345,6.5,Food,6.5,Puducherry (Pondicherry)
+FB81595,Dining Room,coffee-shop,True,HO12748,6.4,Food,6.4,Udaipur (RJ)
+FB81009,Gourmet,coffee-shop,True,HO10035,7.2,Food,7.2,Kochi (Cochin)
+FB80506,The Resturant,coffee-shop,True,HO10107,7.5,Food,7.5,Munnar
+FB80472,Castle Cafe,specialty-restaurant,True,HO10474,8.8,Food,8.6,Munnar
+FB80644,The Restaurant,coffee-shop,True,HO10934,7.6,Food,7.6,Udaipur (RJ)
+FB80441,Pavilion,coffee-shop,True,HO10702,9.0,Food,9.0,Ooty (Udhagamandalam)
+FB80589,Bhojanik,coffee-shop,True,HO10016,7.7,Food,7.7,Varanasi
+FB81177,The Mantra,coffee-shop,True,HO12245,7.0,Food,7.0,Kathmandu
+FB80638,Coromandel Cafe,multi-cuisine,False,,8.4,Food,8.4,Puducherry (Pondicherry)
+FB80909,The Restaurant,coffee-shop,True,HO10705,8.0,Food,8.0,Pali (RJ) 
+FB80398,Ganga Teere,coffee-shop,True,HO10470,7.6,Food,7.6,Varanasi
+FB80057,Kama,coffee-shop,True,HO10019,5.2,Food,5.2,Khajuraho
+FB80400,The Dhani,specialty-restaurant,True,HO10489,8.0,Food,8.0,Jodhpur
+FB81608,Restaurant,coffee-shop,True,HO12768,7.0,Food,7.0,Amritsar
+FB80733,The Restaurant,coffee-shop,True,HO11121,6.4,Food,6.4,Agra
+FB81578,Lily Court,specialty-restaurant,False,,9.0,Food,9.0,Udaipur (RJ)
+FB80913,Sakura,specialty-restaurant,True,HO10878,6.5,Food,6.2,New Delhi
+FB80802,The Resturant,coffee-shop,True,HO11426,6.6,Food,6.6,Jaisalmer
+FB81069,The Restaurant,coffee-shop,True,HO12185,5.8,Food,5.8,Bodhgaya
+FB80450,Zaika,coffee-shop,True,HO10738,5.0,Food,5.0,Bhuj
+FB80016,Citrus Cafe,coffee-shop,True,HO10018,8.2,Food,8.2,New Delhi
+FB81268,Pangat,coffee-shop,True,HO12324,6.6,Food,6.6,Kumbhalgarh
+FB81110,The Restaurant,coffee-shop,True,HO12197,7.6,Food,7.6,Bhubaneswar
+FB81428,Vaari,coffee-shop,True,HO12488,7.3,Food,7.3,Lakshadweep
+FB80322,Delhi Barbeque,coffee-shop,True,HO10725,6.0,Food,6.0,New Delhi
+FB80624,The Lutyens,coffee-shop,True,HO10794,7.6,Food,7.6,Amritsar
+FB80753,Jharokha,coffee-shop,True,HO11153,8.0,Food,8.0,New Delhi
+FB81140,The Restaurant,coffee-shop,True,HO11307,6.4,Food,6.4,Kovalam
+FB80685,Gardenia,coffee-shop,True,HO11080,4.8,Food,4.8,Ahmedabad
+FB80365,Five Senses,coffee-shop,True,HO10293,7.6,Food,7.6,Jaipur
+FB80528,Menus,coffee-shop,True,HO10279,7.0,Food,7.0,Deogarh
+FB80682,Cafe G,coffee-shop,True,HO11075,3.6,Food,3.6,Agra
+FB80560,Restaurant,coffee-shop,True,HO10574,8.2,Food,8.2,Thekkady (Periyar/Kumily)
+FB80970,1951,coffee-shop,True,HO10128,7.4,Food,7.4,Varanasi
+FB80337,Options,coffee-shop,True,HO10315,6.2,Food,6.2,Thiruvananthapuram (Trivandrum)
+FB80355,Nalabagam,coffee-shop,True,HO10031,8.4,Food,8.4,Thanjavur (Tanjore)
+FB80739,Baradari,coffee-shop,True,HO11141,8.0,Food,8.0,Chhatrasagar
+FB80675,The Bridge,coffee-shop,True,HO10980,5.4,Food,5.4,Amritsar
+FB81418,Resham,coffee-shop,True,HO12474,7.3,Food,7.3,Mandawa
+FB81525,Dining Room,coffee-shop,True,HO12668,6.9,Food,6.9,Sariska
+FB81298,Dining Hall,coffee-shop,True,HO12335,7.4,Food,7.4,Chettinadu
+FB80385,House Of Asia's,coffee-shop,True,HO10579,6.8,Food,6.8,Mumbai
+FB80158,Vista,coffee-shop,True,HO10376,9.0,Food,9.0,Mumbai
+FB81422,Valley View,coffee-shop,True,HO11139,7.3,Food,7.3,Sariska
+FB80188,Spice It,coffee-shop,True,HO10311,7.4,Food,7.4,New Delhi
+FB81241,Sathvam,coffee-shop,True,HO12314,5.6,Food,5.6,Tiruvannamalai
+FB81277,Zodiac,coffee-shop,True,HO12347,7.7,Food,7.7,Puri
+FB80933,Keys Cafe,coffee-shop,True,HO11524,4.6,Food,4.6,Thekkady (Periyar/Kumily)
+FB81114,Cafe Indra,coffee-shop,True,HO11757,5.8,Food,5.8,Bikaner
+FB81131,Cave Inn,coffee-shop,True,HO11868,6.4,Food,6.4,Kalaburagi (Gulbarga)
+FB80877,Delhi Barbeque,coffee-shop,True,HO11494,5.4,Food,5.4,New Delhi
+FB80240,Anghiti,coffee-shop,True,HO10093,7.2,Food,7.2,Jaipur
+FB80235,Cafe Samsara,coffee-shop,True,HO10649,8.0,Food,8.0,Thekkady (Periyar/Kumily)
+FB80577,Restaurant,multi-cuisine,True,HO10573,6.6,Food,6.6,Mararikulam
+FB81552,Sarvato,coffee-shop,False,HO11139,8.0,Food,8.0,Jaipur
+FB80885,Pinch Of Salt,multi-cuisine,False,,8.2,Food,8.2,Khajuraho
+FB80950,Zodiac,coffee-shop,True,HO11249,4.2,Food,4.2,Goa
+FB80338,Tripti,coffee-shop,True,HO10148,8.0,Food,8.0,Vrindavan
+FB80174,Sunset Terrace,coffee-shop,True,HO10077,9.2,Food,9.2,Udaipur (RJ)
+FB80145,Sahib Cafe,coffee-shop,True,HO10701,8.8,Food,8.8,Lucknow
+FB80138,Peaberry,coffee-shop,True,HO10233,8.6,Food,8.6,Chikkamagaluru
+FB81507,Dhilli,specialty-restaurant,True,HO10278,8.2,Food,8.2,New Delhi
+FB80327,Clever Fox Cafe,coffee-shop,True,HO10335,8.2,Food,8.2,New Delhi
+FB80414,Southern Express,coffee-shop,True,HO10473,7.2,Food,7.2,Thiruvananthapuram (Trivandrum)
+FB80029,The Eatery,coffee-shop,True,HO10004,7.0,Food,7.0,Jaipur
+FB81030,Riwaz,coffee-shop,True,HO11597,5.4,Food,5.4,Jaipur
+FB80080,Restaurant,coffee-shop,True,HO10213,7.2,Food,7.2,Jaisalmer
+FB80021,1911,coffee-shop,True,HO10013,9.6,Food,9.6,New Delhi
+FB81022,Dining Room,coffee-shop,True,HO10882,7.3,Food,7.3,Jaipur
+FB80824,Dining,multi-cuisine,True,HO11188,5.6,Food,5.6,Srinagar
+FB80623,Restaurant,coffee-shop,True,HO10269,6.0,Food,6.0,New Delhi
+FB81333,Shree Shivay,multi-cuisine,False,,8.6,Food,8.6,Varanasi
+FB80770,The Restaurant,coffee-shop,True,HO11194,4.0,Food,4.0,Bengaluru
+FB81021,Varada Cafe,coffee-shop,True,HO11343,7.5,Food,7.5,Bodhgaya
+FB81246,The Restaurant,coffee-shop,True,HO11441,5.4,Food,5.4,Shimla
+FB80332,Clever Fox Cafe,coffee-shop,True,HO10719,5.3,Food,5.3,New Delhi
+FB80283,Okra,coffee-shop,True,HO10303,8.0,Food,8.0,Jaipur
+FB80483,Jaswant Vilas Restaurant & Camp,multi-cuisine,False,,8.0,Food,8.0,Phalodi
+FB81046,The Palms,coffee-shop,True,HO11105,6.4,Food,6.4,Goa
+FB81070,The Restaurant,coffee-shop,True,HO11903,4.6,Food,4.6,Kushinagar
+FB81479,RBG,coffee-shop,True,HO12082,5.0,Food,5.0,Gwalior
+FB80695,Zodiac,coffee-shop,True,HO11107,6.1,Food,6.1,Hubballi (Hubli)
+FB80100,Marble Arch,coffee-shop,True,HO10001,9.0,Food,9.0,Jaipur
+FB80917,Fujiya,specialty-restaurant,False,,8.2,Food,8.2,New Delhi
+FB81147,Melting Pot,coffee-shop,True,HO10028,8.2,Food,8.2,Madurai
+FB80864,Shahenshah,coffee-shop,True,HO11372,5.7,Food,5.7,Agra
+FB80820,Restaurant,coffee-shop,True,HO11025,8.4,Food,8.4,Jodhpur
+FB80248,Hari Mahal,coffee-shop,True,HO10277,7.0,Food,7.0,Jaipur
+FB81375,Antra's Kitchen,coffee-shop,True,HO11139,,,,Sariska
+FB80496,Chandra Mahal,coffee-shop,True,HO10758,9.4,Food,9.4,Alsisar
+FB80433,Jalmahal,coffee-shop,True,HO10555,8.6,Food,8.6,Jaipur
+FB80771,Dining,coffee-shop,True,HO11200,4.0,Food,4.0,Kanha
+FB80073,Merry Go Round,specialty-restaurant,True,HO10026,7.6,Food,6.0,Udaipur (RJ)
+FB80210,Checkers,coffee-shop,True,HO10079,9.4,Food,9.4,Agra
+FB81183,Restaurant,coffee-shop,True,HO12271,8.0,Food,8.0,Bandipur (NP)
+FB81628,Ojas,coffee-shop,True,HO12213,6.8,Food,6.8,Pune
+FB80996,Ministry of Chutneys,coffee-shop,True,HO11566,6.6,Food,6.6,Chennai
+FB80495,Kitchen Garden,coffee-shop,True,HO10695,8.2,Food,8.2,Kothamangalam (KL) 
+FB80341,Family Dining Hall,coffee-shop,True,HO10172,9.1,Food,9.1,Munnar
+FB81129,Zaffran,coffee-shop,True,HO11638,5.0,Food,5.0,New Delhi
+FB80941,The Palace,coffee-shop,True,HO10086,5.4,Food,5.4,Jaisalmer
+FB80544,Restaurant,coffee-shop,True,HO10808,6.5,Food,6.5,Kumbhalgarh
+FB81137,The Restaurant,coffee-shop,True,HO11920,5.4,Food,5.4,Kaza
+FB80435,Pavilion,coffee-shop,True,HO10305,7.6,Food,7.6,New Delhi
+FB80815,Citrus Cafe,coffee-shop,True,HO11352,5.7,Food,5.7,Lucknow
+FB80531,The Restaurant,coffee-shop,True,HO10230,6.8,Food,6.8,Bijaipur
+FB80580,Restaurant,coffee-shop,True,HO10505,6.2,Food,6.2,Jaisalmer
+FB80517,The Restaurant,coffee-shop,True,HO10643,7.4,Food,7.4,Jodhpur
+FB80904,Socorro,coffee-shop,True,HO10103,6.4,Food,6.4,Jaipur
+FB80934,Citrus Cafe,coffee-shop,True,HO11525,5.8,Food,5.8,Hyderabad
+FB81123,The Restaurant,coffee-shop,True,HO12207,5.2,Food,5.2,Jaipur
+FB80277,Paprika,coffee-shop,True,HO10645,6.8,Food,6.8,Chennai
+FB80664,Verandah,coffee-shop,True,HO11011,6.2,Food,6.2,Goa
+FB81625,Dining Room,coffee-shop,True,HO10370,8.7,Food,8.7,Ranthambore
+FB80257,Citrus Cafe,coffee-shop,True,HO10724,6.6,Food,6.6,Bengaluru
+FB81446,Dining Room,coffee-shop,True,HO12513,8.0,Food,8.0,Ranthambore
+FB80169,The Trinity Square,coffee-shop,True,HO10565,8.4,Food,8.4,Bengaluru
+FB80403,Panorama 360,coffee-shop,True,HO10424,7.4,Food,7.4,Jodhpur
+FB81315,Cafe Samsara,coffee-shop,True,HO12382,7.5,Food,7.5,Kovalam
+FB80124,Cinnamon,coffee-shop,True,HO10115,8.8,Food,8.8,Chennai
+FB80943,Badi Kothi,coffee-shop,True,HO11070,6.9,Food,6.9,Prayagraj
+FB81099,Breeze,coffee-shop,True,HO11811,5.6,Food,5.6,Goa
+FB80247,The Dining Room,coffee-shop,True,HO10190,9.4,Food,9.4,Udaipur (RJ)
+FB80064,The Sahid Room and Kipling Bar,multi-cuisine,True,HO10026,10.0,Modern,7.0,Udaipur (RJ)
+FB80037,Tribute,multi-cuisine,False,,8.7,Food,9.5,Udaipur (RJ)
+FB80971,Spice Garden,coffee-shop,True,HO10423,7.0,Food,7.0,Udaipur (RJ)
+FB81394,Citrus Cafe,coffee-shop,True,HO12518,5.8,Food,5.8,Port Blair
+FB81603,Bukhara,multi-cuisine,True,HO10316,8.6,Food,8.6,New Delhi
+FB80307,Oasis,coffee-shop,True,HO10344,7.8,Food,7.8,Jodhpur
+FB80940,J Hind,specialty-restaurant,True,HO10071,7.1,Food,7.1,Chennai
+FB80309,Citrus Cafe,coffee-shop,True,HO10686,7.0,Food,7.0,Hyderabad
+FB80228,Paantya,coffee-shop,True,HO10062,8.6,Food,8.6,Udaipur (RJ)
+FB81379,The Cuisine Club,multi-cuisine,False,HO11139,9.4,Food,9.4,Jodhpur
+FB81561,Trichy Kitchen,multi-cuisine,True,HO11459,6.6,Food,6.6,Trichy (Tiruchirappalli)
+FB80568,Restaurant,coffee-shop,True,HO10227,7.9,Food,7.9,Jaipur
+FB80224,Ocean,coffee-shop,True,HO10358,8.4,Food,8.4,Jodhpur
+FB80033,Varandah Cafe,coffee-shop,True,HO10010,8.0,Food,8.0,Jaipur
+FB80534,Ambrai,coffee-shop,True,HO10043,8.8,Food,8.8,Udaipur (RJ)
+FB81077,NestAsia,specialty-restaurant,True,HO11866,4.6,Food,4.6,Guwahati
+FB81435,Restaurant,coffee-shop,True,HO12478,6.7,Food,6.7,Agra
+FB80774,Citrus,coffee-shop,True,HO10387,8.3,Food,8.3,Mumbai
+FB80924,Dining,coffee-shop,True,HO11518,7.6,Food,6.8,Manvar (RJ)
+FB80985,The Bamboo House,coffee-shop,True,HO11558,6.4,Food,6.4,Dharamshala
+FB80614,The Restaurant,coffee-shop,True,HO10548,6.4,Food,6.4,Alappuzha (Alleppey)
+FB81514,Tamarind,coffee-shop,True,HO10397,7.9,Food,7.9,Thekkady (Periyar/Kumily)
+FB80993,Delicious,coffee-shop,True,HO11565,6.4,Food,6.4,Bundi
+FB80728,Casablanca,coffee-shop,True,HO11069,6.0,Food,6.0,Pune
+FB80533,Dining Room,coffee-shop,True,HO10722,7.4,Food,7.4,Kothamangalam (TN) 
+FB81141,Spice IT,coffee-shop,True,HO10728,4.0,Food,4.0,Nasik
+FB80629,The Trio,specialty-restaurant,False,,7.8,Food,7.8,Jaisalmer
+FB80221,The Restaurant,coffee-shop,True,HO10512,8.6,Food,8.6,Ranakpur
+FB80071,The Wharf 2.0,specialty-restaurant,True,HO10026,8.0,Food,8.0,Udaipur (RJ)
+FB81505,Aroma,multi-cuisine,False,,8.6,Food,8.6,Udaipur (RJ)
+FB81551,Lily Grace,coffee-shop,True,HO11710,5.4,Food,5.4,Kochi (Cochin)
+FB80754,Pulikeshi Dining,coffee-shop,True,HO10999,6.0,Food,6.0,Badami
+FB80331,Waterfall Cafe,coffee-shop,True,HO10259,6.1,Food,6.1,Goa
+FB81416,Trattoria,coffee-shop,True,HO12481,7.6,Food,7.6,Goa
+FB80476,Zamorin,coffee-shop,True,HO10151,9.2,Food,9.2,Kochi (Cochin)
+FB81466,Oriole,coffee-shop,True,HO11139,,,,Sariska
+FB81186,Le Gourmet Gastronomy,coffee-shop,True,HO11856,5.2,Food,5.2,Jaipur
+FB80918,The Restaurant,coffee-shop,True,HO10064,8.8,Food,8.8,Udaipur (RJ)
+FB80658,The Residency,coffee-shop,True,HO10981,5.6,Food,5.6,Shimla
+FB81028,Dining,coffee-shop,True,HO10504,7.4,Food,7.4,Jaipur
+FB80161,Caravela,coffee-shop,True,HO10163,8.8,Food,8.8,Goa
+FB80603,Kha Ba,coffee-shop,True,HO10024,7.2,Food,7.2,Jaipur
+FB80034,Steam,lounge,True,HO10010,9.6,Food,9.6,Jaipur
+FB80394,Chandni,coffee-shop,True,HO10051,8.8,Food,8.8,Udaipur (RJ)
+FB80571,Taasli,coffee-shop,True,HO10706,6.8,Food,6.8,Manvar (RJ)
+FB81302,Sawai Cafe,coffee-shop,True,HO12369,7.4,Food,7.4,Ranthambore
+FB81417,Palette,coffee-shop,True,HO12482,7.6,Food,7.6,Goa
+FB80784,Blacksand,coffee-shop,True,HO11227,5.8,Food,5.8,Kovalam
+FB81327,Restaurant,coffee-shop,True,HO12273,7.3,Food,7.3,Jaipur
+FB81176,Lungta,coffee-shop,True,HO12248,8.0,Food,8.0,Kathmandu
+FB80814,Clever Fox Cafe,coffee-shop,True,HO11263,5.2,Food,5.2,Dehradun
+FB80288,Flavours,coffee-shop,True,HO10353,5.8,Food,5.8,Amritsar
+FB80607,The Restaurant,coffee-shop,True,HO10932,5.4,Food,5.4,Jaipur
+FB80296,14 Tables,coffee-shop,True,HO10367,6.3,Food,6.3,Jaipur
+FB81190,Plantation,coffee-shop,True,HO11334,5.9,Food,5.9,Thekkady (Periyar/Kumily)
+FB81162,Khush Mahal,coffee-shop,True,HO12234,8.8,Food,8.8,Sardargarh
+FB80259,Oasis,coffee-shop,True,HO10284,7.2,Food,7.2,Agra
+FB80511,The Restaurant,coffee-shop,True,HO10271,9.0,Food,9.0,Ranthambore
+FB81498,Dining Area,coffee-shop,True,HO11148,7.7,Food,7.7,Udaipur (RJ)
+FB81220,The Palm Terrace,coffee-shop,True,HO11041,6.7,Food,6.7,Chalsa
+FB80808,Citrus Cafe,coffee-shop,True,HO11262,5.4,Food,5.4,Ahmedabad
+FB80604,The Restaurant,multi-cuisine,True,HO10217,7.0,Food,7.0,Munnar
+FB80218,The Aura,coffee-shop,True,HO10342,7.7,Food,7.7,Jaipur
+FB80703,The In-House,coffee-shop,True,HO11042,5.8,Food,5.8,Munnar
+FB80340,Dining Area,coffee-shop,True,HO10582,8.0,Food,8.0,Jodhpur
+FB81615,Diggin,specialty-restaurant,False,,8.8,Food,8.8,New Delhi
+FB81494,Restaurant,coffee-shop,True,HO11139,7.3,Food,7.3,Sariska
+FB80219,The Mirage,coffee-shop,True,HO10453,8.6,Food,8.6,Gajner
+FB80621,The Restaurant,coffee-shop,True,HO10174,7.8,Food,7.8,Madurai
+FB81582,Muze Bar,bar,True,HO10950,6.2,Food,6.2,Kochi (Cochin)
+FB80998,Whistler Cafe,coffee-shop,True,HO11567,7.3,Food,7.3,Kodaikanal
+FB81161,Bistro,coffee-shop,True,HO12034,6.4,Food,6.4,Puducherry (Pondicherry)
+FB81148,The Shangri La Dining Room,coffee-shop,True,HO10157,7.1,Food,7.1,Gangtok
+FB80357,Levant,coffee-shop,True,HO10659,7.8,Food,7.8,Khajuraho
+FB80268,MoMo,coffee-shop,True,HO10078,8.4,Food,8.4,Agra
+FB80935,Teera,coffee-shop,True,HO11531,5.8,Food,5.8,Bengaluru
+FB80042,Mahesh Lunch Home,specialty-restaurant,False,,9.0,Food,8.4,Mumbai
+FB81045,Chamomile,coffee-shop,True,HO11584,7.5,Food,7.5,Thekkady (Periyar/Kumily)
+FB81004,Machaan Dining Hall,coffee-shop,True,HO10699,7.4,Food,7.4,Panna
+FB80515,The Restaurant,coffee-shop,True,HO10690,7.6,Food,7.6,Dholpur
+FB80852,Dining Area,coffee-shop,True,HO11222,5.4,Food,5.4,Havelock
+FB80590,Dining Room,coffee-shop,True,HO10196,7.0,Food,6.3,Barli
+FB80690,Shoreline,coffee-shop,True,HO11092,8.6,Food,8.6,Havelock
+FB80022,The Spice Route,specialty-restaurant,True,HO10013,9.6,Food,9.6,New Delhi
+FB80413,The Urban Tadka,coffee-shop,True,HO10414,7.3,Food,7.3,Udaipur (RJ)
+FB80851,Annaprasanna,coffee-shop,True,HO10639,8.8,Food,8.8,Kumbakonam
+FB81020,Essence,coffee-shop,True,HO11371,5.0,Food,5.0,Zirakpur
+FB80285,Thillana,coffee-shop,True,HO10183,8.0,Food,8.0,Thanjavur (Tanjore)
+FB80862,Kannappa,coffee-shop,True,HO11341,4.6,Food,4.6,Trichy (Tiruchirappalli)
+FB80474,Kerala Cuisine,coffee-shop,True,HO10348,7.7,Food,7.7,Alappuzha (Alleppey)
+FB80904,Socorro,coffee-shop,True,HO10103,5.9,Food,5.9,Jaipur
+FB81075,RBG Bar & Grill,coffee-shop,True,HO11644,4.6,Food,4.6,New Delhi
+FB80992,Arena,coffee-shop,True,HO11573,6.8,Food,6.8,Hyderabad
+FB80399,Jodhpur Cafe,coffee-shop,True,HO10489,7.4,Food,7.4,Jodhpur
+FB80525,Restaurant,coffee-shop,True,HO10288,7.2,Food,7.2,Orchha
+FB81231,Food Exchange,coffee-shop,True,HO12283,5.0,Food,5.0,Jaipur
+FB80537,Dining Room,coffee-shop,True,HO10837,7.3,Food,7.3,Dindigul
+FB81117,The Cauldron,coffee-shop,True,HO12135,7.1,Food,7.1,Thekkady (Periyar/Kumily)
+FB80328,Patio,coffee-shop,True,HO10334,5.4,Food,5.4,New Delhi
+FB80667,Orchid,coffee-shop,True,HO11040,4.8,Food,4.8,Rajkot
+FB81429,Palette,coffee-shop,True,HO12490,7.3,Food,7.3,Gandhinagar
+FB80358,Lakhori,coffee-shop,True,HO10667,7.6,Food,7.6,New Delhi
+FB80592,Citrus Cafe,coffee-shop,True,HO10514,8.6,Food,8.6,Aurangabad (MH) 
+FB80104,Jal Mahal,coffee-shop,True,HO10317,9.0,Food,9.0,Jaipur
+FB80091,Indian Accent,multi-cuisine,False,,9.4,Food,9.4,New Delhi
+FB80430,Pavilion at the Village Square,coffee-shop,True,HO10640,7.5,Food,7.5,Goa
+FB80529,Gato Kholi,coffee-shop,True,HO10674,7.0,Food,7.0,Pench
+FB80773,Salt & Pepper,coffee-shop,True,HO11182,3.4,Food,3.4,Chennai
+FB81063,Infinity,coffee-shop,True,HO12069,7.2,Food,7.2,Srinagar
+FB80331,Waterfall Cafe,coffee-shop,True,HO10259,6.4,Food,6.4,Goa
+FB80440,Orchid,coffee-shop,True,HO10689,9.0,Food,9.0,Mysuru (Mysore)
+FB80362,Indulge,coffee-shop,True,HO10471,7.8,Food,7.8,Kochi (Cochin)
+FB80339,Sapphire,coffee-shop,True,HO10390,6.4,Food,6.4,Jaipur
+FB80674,Virundu,coffee-shop,True,HO11010,6.0,Food,6.0,Velankanni
+FB80659,The Pancharanga,coffee-shop,True,HO11027,6.2,Food,6.2,Jodhpur
+FB81284,The Restaurant,coffee-shop,True,HO12336,8.8,Food,8.8,Chettinadu
+FB81331,The Rotela Cafe,coffee-shop,True,HO12366,7.4,Food,7.4,Pali (RJ) 
+FB80738,Kebab Library,coffee-shop,True,HO11122,8.4,Food,8.4,Jodhpur
+FB80225,Dhanyam,coffee-shop,True,HO10631,7.8,Food,7.8,Thanjavur (Tanjore)
+FB80808,Citrus Cafe,coffee-shop,True,HO11262,5.9,Food,5.4,Ahmedabad
+FB80383,Tamarind,coffee-shop,True,HO10144,9.0,Food,9.0,Mumbai
+FB80255,Mosaic,coffee-shop,True,HO10650,6.2,Food,6.2,Kochi (Cochin)
+FB80519,The Restaurant,coffee-shop,True,HO10095,8.4,Food,8.4,Jaisalmer
+FB81139,The Restaurant,coffee-shop,True,HO11790,5.8,Food,5.8,New Delhi
+FB81560,Dining Room,coffee-shop,True,HO12717,5.4,Food,5.4,Kovalam
+FB80573,Restaurant,coffee-shop,True,HO10506,8.0,Food,8.0,Pushkar
+FB81484,Sky Deck,coffee-shop,True,HO10011,7.5,Food,7.5,Agra
+FB81258,Tribe,coffee-shop,True,HO11365,6.0,Food,6.0,Manali
+FB81488,Clock Tower,multi-cuisine,False,,9.0,Food,9.0,Jaipur
+FB81167,Rendezvous,coffee-shop,True,HO12272,6.2,Food,6.2,Kochi (Cochin)
+FB80581,Coffee Shop,coffee-shop,True,HO10763,8.0,Food,8.0,Munnar
+FB80233,Amarsar,coffee-shop,True,HO10554,7.6,Food,7.6,Jaipur
+FB80308,Pavillion,coffee-shop,True,HO10753,5.8,Food,5.8,Lucknow
+FB80123,Aravalli,coffee-shop,True,HO10126,9.4,Food,9.4,Udaipur (RJ)
+FB80062,Cafe Valley Vue,coffee-shop,True,HO10141,8.0,Food,8.0,Shimla
+FB81196,Kamadhenu,coffee-shop,True,HO12149,5.6,Food,5.6,Tiruvannamalai
+FB80194,Chettinad Cusine,coffee-shop,True,HO10268,8.8,Food,8.8,Karaikudi
+FB80198,Mythh,coffee-shop,True,HO10651,7.0,Food,7.0,Kolkata
+FB81233,Gato Kholi,coffee-shop,True,HO12291,7.0,Food,7.0,Pench
+FB80666,Sapphire,coffee-shop,True,HO11016,4.0,Food,4.0,Kumbhalgarh
+FB81469,Naadody,coffee-shop,True,HO12577,7.0,Food,7.0,Tirunelveli
+FB80342,The Wood Petal,coffee-shop,True,HO10805,4.4,Food,4.4,Dharamshala
+FB80272,Waters Edge Cafe,coffee-shop,True,HO10248,7.7,Food,7.7,Mamallapuram (Mahabalipuram)
+FB81142,Zest,coffee-shop,True,HO12211,6.4,Food,6.4,Hassan
+FB80876,White Lotus,coffee-shop,True,HO11479,4.4,Food,4.4,Havelock
+FB80699,The Bubble Cafe,coffee-shop,True,HO11079,7.2,Food,7.2,Ernakulam
+FB80421,Padam Mahal,coffee-shop,True,HO10298,6.8,Food,6.8,Bikaner
+FB81173,Chiya Pasal,coffee-shop,True,HO12252,8.0,Food,8.0,Kathmandu
+FB81306,Dining,coffee-shop,True,HO11003,4.0,Food,5.0,Bandhavgarh
+FB81198,Dining Hall,coffee-shop,True,HO11139,7.6,Food,7.6,Sariska
+FB80366,Tfrkochi,coffee-shop,True,HO10149,7.3,Food,7.3,Kochi (Cochin)
+FB80296,14 Tables,coffee-shop,True,HO10367,7.2,Food,7.2,Jaipur
+FB80454,Peppermint,coffee-shop,True,HO10462,8.8,Food,8.8,Thekkady (Periyar/Kumily)
+FB80794,Terrace Grill,coffee-shop,True,HO10375,8.8,Food,8.8,Karaikudi
+FB80249,Latitude,coffee-shop,True,HO10537,5.2,Food,5.2,Rishikesh
+FB80559,Restaurant,coffee-shop,True,HO10587,7.0,Food,7.0,Munnar
+FB81097,Planet Dailies,coffee-shop,True,HO11770,5.6,Food,5.6,Goa
+FB80779,Fort House,coffee-shop,True,HO11221,5.6,Food,5.6,Kochi (Cochin)
+FB81584,MisoSexy,specialty-restaurant,False,,7.8,Food,7.8,New Delhi
+FB80546,Restaurant,coffee-shop,True,HO10490,8.8,Food,8.8,Rohet
+FB81311,Dining Room,coffee-shop,True,HO11453,1.0,Food,8.1,Leh
+FB81144,The Square,coffee-shop,True,HO11635,5.0,Food,5.0,Ahmedabad
+FB80944,Jharokha,coffee-shop,True,HO10945,5.4,Food,5.4,Ranthambore
+FB80262,Citrus Cafe,coffee-shop,True,HO10726,6.6,Food,6.6,Bengaluru
+FB80367,Tribe,coffee-shop,True,HO10670,6.6,Food,6.6,Jaipur
+FB80579,Restaurant,multi-cuisine,True,HO10061,7.2,Food,7.2,Mamallapuram (Mahabalipuram)
+FB80449,Pinxx,coffee-shop,True,HO10389,5.0,Food,5.0,Bengaluru
+FB81454,Dining Room,coffee-shop,True,HO11867,7.5,Food,7.5,Kovalam
+FB81067,Amer Sky Rooftop,coffee-shop,True,HO11030,6.6,Food,6.6,Jaipur
+FB80788,Neel Mahal,coffee-shop,True,HO11213,5.6,Food,5.6,Parsoli
+FB80869,Kiyan,coffee-shop,True,HO11286,6.2,Food,6.2,New Delhi
+FB80000,Ganpati Resorts,multi-cuisine,False,,9.0,Food,9.0,Fatehpur Sikri
+FB80027,Ssence,coffee-shop,True,HO10014,8.8,Food,8.8,New Delhi
+FB80968,The Kacchi Kerry,coffee-shop,True,HO10885,5.0,Food,5.0,Jaisalmer
+FB81214,The Restaurant,coffee-shop,True,HO11435,5.4,Food,5.4,Jodhpur
+FB81146,Lattitude 49,coffee-shop,True,HO11229,6.6,Food,6.6,Mamallapuram (Mahabalipuram)
+FB80687,Orchid,coffee-shop,True,HO11093,8.4,Food,8.4,Haridwar
+FB80179,Club House,coffee-shop,True,HO10357,8.4,Food,8.4,Chennai
+FB81243,The Restaurant,coffee-shop,True,HO12319,6.4,Food,6.4,Ooty (Udhagamandalam)
+FB81180,Machaan,coffee-shop,True,HO11520,7.3,Food,7.3,Varanasi
+FB80597,Restaurant,coffee-shop,True,HO10434,4.6,Food,4.6,Jodhpur
+FB81383,Van Bhojanam,coffee-shop,True,HO12479,8.2,Food,8.2,Bandhavgarh
+FB80186,Jharokha,coffee-shop,True,HO10652,7.6,Food,7.6,Nawalgarh
+FB80700,Indore Kitchen,coffee-shop,True,HO11114,4.8,Food,4.8,Indore
+FB80440,Orchid,coffee-shop,True,HO10689,8.4,Food,8.4,Mysuru (Mysore)
+FB80291,East West,coffee-shop,True,HO10191,8.4,Food,8.4,Varanasi
+FB80053,The Blues,bar,True,HO10026,,,,Udaipur (RJ)
+FB80780,Salana,coffee-shop,True,HO11193,5.6,Food,5.6,Dehradun
+FB81210,Sumac,coffee-shop,True,HO12284,3.9,Food,3.9,Agra
+FB80416,B Cafe,coffee-shop,True,HO10396,8.8,Food,8.8,Bengaluru
+FB80782,The Sanctuary,coffee-shop,True,HO11219,6.6,Food,6.6,Bandipur
+FB80321,Pavilion,coffee-shop,True,HO10234,8.0,Food,8.0,Coimbatore
+FB80371,Vembanad,coffee-shop,True,HO10034,7.2,Food,7.2,Kumarakom
+FB80338,Tripti,coffee-shop,True,HO10148,7.2,Food,7.2,Vrindavan
+FB81372,Restaurant,coffee-shop,True,HO10953,6.5,Food,6.5,Maheshwar
+FB80103,The Hub,coffee-shop,True,HO10477,7.8,Food,7.8,New Delhi
+FB81086,Anna Rasa,coffee-shop,True,HO11855,7.2,Food,7.2,Kollam (Quilon)
+FB80335,Blueline,coffee-shop,True,HO10345,7.2,Food,7.2,Puducherry (Pondicherry)
+FB80384,Chez Francis,coffee-shop,True,HO10466,7.0,Food,7.0,Puducherry (Pondicherry)
+FB81619,Tamra,coffee-shop,True,HO10858,6.8,Food,6.8,New Delhi
+FB80874,Restaurant,coffee-shop,True,HO10517,6.8,Food,6.8,Ranakpur
+FB81026,Jalmagan,coffee-shop,True,HO10038,7.8,Food,7.8,Udaipur (RJ)
+FB80249,Latitude,coffee-shop,True,HO10537,5.0,Food,5.0,Rishikesh
+FB81138,The Restaurant,coffee-shop,True,HO11747,6.0,Food,6.0,Bhuj
+FB81211,Merry Go-Round,coffee-shop,True,HO10036,6.0,Food,6.0,Agra
+FB81016,Ciro,coffee-shop,True,HO11420,5.8,Food,5.8,Jaisalmer
+FB80548,Restaurant,coffee-shop,True,HO10802,6.5,Food,6.5,Kumbhalgarh
+FB80180,Suvarna Mahal,specialty-restaurant,True,HO10010,9.6,Food,9.6,Jaipur
+FB80326,Keys Cafe,coffee-shop,True,HO10137,8.0,Food,8.0,Mumbai
+FB81086,Anna Rasa,coffee-shop,True,HO11855,7.9,Food,7.9,Kollam (Quilon)
+FB80845,Grasshopper,coffee-shop,True,HO11237,6.0,Food,6.0,Kovalam
+FB80350,Belur,coffee-shop,True,HO10209,8.6,Food,8.6,Hassan
+FB80170,Tiri,coffee-shop,True,HO10109,9.0,Food,9.0,Udaipur (RJ)
+FB80455,Regency,coffee-shop,True,HO10289,9.0,Food,9.0,Kochi (Cochin)
+FB80908,Wood Petal,coffee-shop,True,HO11460,4.5,Food,4.5,Dharamshala
+FB81238,Cosmos,coffee-shop,True,HO11466,6.2,Food,6.2,Agra
+FB80721,The Melting Pot International,coffee-shop,True,HO11078,5.6,Food,5.6,Mamallapuram (Mahabalipuram)
+FB80199,Aymanam,coffee-shop,True,HO10383,8.8,Food,8.8,Kumarakom
+FB80674,Virundu,coffee-shop,True,HO11010,6.5,Food,6.5,Velankanni
+FB80735,Raaj Bagh,coffee-shop,True,HO11166,7.3,Food,7.3,Udaipur (RJ)
+FB80345,Sea Crest,coffee-shop,True,HO10767,6.8,Food,6.8,Muttukadu
+FB80552,Dining Room,coffee-shop,True,HO10677,7.0,Food,7.0,Pragpur
+FB80888,The U Kitchen,coffee-shop,True,HO11485,6.6,Food,6.6,Haridwar
+FB80204,Lobby,coffee-shop,True,HO10073,8.0,Food,8.0,Udaipur (RJ)
+FB80256,The Purity Kitchen,coffee-shop,True,HO10352,6.8,Food,6.8,Muhamma
+FB81352,Neel,coffee-shop,True,HO12419,6.0,Food,6.0,Patiala
+FB80928,The Society,coffee-shop,True,HO10864,3.4,Food,3.4,Aurangabad (MH) 
+FB80373,The Palm,coffee-shop,True,HO10536,7.0,Food,7.0,Pollachi
+FB81406,Giardino,specialty-restaurant,True,HO10001,8.0,Food,8.0,Jaipur
+FB81031,In Room Dining,coffee-shop,True,HO11602,6.6,Food,6.6,New Delhi
+FB81423,Indulge,coffee-shop,True,HO10997,7.3,Food,7.3,New Delhi
+FB80743,Surya Mahal,coffee-shop,True,HO11167,7.6,Food,7.6,Pushkar
+FB81521,1135 AD,multi-cuisine,False,,8.6,Food,8.6,Jaipur
+FB80963,GAD,coffee-shop,True,HO11487,6.2,Food,6.2,Visakhapatnam
+FB80590,Restaurant,coffee-shop,True,HO10196,7.0,Food,7.0,Barli
+FB80201,Baradari,coffee-shop,True,HO10201,10.0,Food,10.0,Udaipur (RJ)
+FB81528,Rang Mahal,coffee-shop,True,HO11176,7.8,Food,7.8,Jaipur
+FB80197,The 50 Mile Diet,coffee-shop,True,HO10397,9.0,Food,9.0,Thekkady (Periyar/Kumily)
+FB80842,The Restaurant,coffee-shop,True,HO11203,5.7,Food,5.7,Orchha
+FB80293,Marigold,coffee-shop,True,HO10262,7.2,Food,7.2,Jaipur
+FB81324,Samaa,coffee-shop,True,HO12391,7.6,Food,7.6,Jodhpur
+FB81421,Mynt,coffee-shop,True,HO12470,7.3,Food,7.3,Shillong
+FB81158,Seasons,coffee-shop,True,HO12221,4.6,Food,4.6,Varanasi
+FB80065,Drawing Room,coffee-shop,True,HO10222,7.8,Food,7.0,Mumbai
+FB80468,Restaurant,multi-cuisine,True,HO10494,6.8,Food,6.8,Bundi
+FB80954,Orchid,coffee-shop,True,HO11539,5.0,Food,5.0,Gurgaon
+FB81107,Oasis,coffee-shop,True,HO10866,7.0,Food,7.0,Udaipur (RJ)
+FB81577,Restaurants,coffee-shop,True,HO10921,7.2,Food,7.2,Agra
+FB81347,Cafe De Vasco,coffee-shop,True,HO11139,5.4,Food,5.4,Sariska
+FB80907,Satva,coffee-shop,True,HO11497,6.2,Food,6.2,Rameshwaram
+FB80159,Ana Rasa,coffee-shop,True,HO10711,9.0,Food,9.0,Rishikesh
+FB81368,Corbynâ€™s Delight,coffee-shop,True,HO12451,7.0,Food,7.0,Port Blair
+FB80234,Spectra,coffee-shop,True,HO10292,8.1,Food,8.1,Gurgaon
+FB80536,Kalptaru,coffee-shop,True,HO10525,7.0,Food,7.0,Udaipur (RJ)
+FB80731,O22,coffee-shop,True,HO11097,9.4,Food,9.4,Mumbai
+FB80192,Courtyard,coffee-shop,True,HO10446,8.8,Food,8.8,Puducherry (Pondicherry)
+FB80806,Citrus Cafe,coffee-shop,True,HO11310,5.2,Food,5.2,Pune
+FB80732,The In-House,coffee-shop,True,HO11192,7.0,Food,7.0,Abhaneri
+FB80207,Aurum,coffee-shop,True,HO10507,7.4,Food,7.4,Jaipur
+FB80564,Restaurant,coffee-shop,True,HO10497,5.4,Food,5.4,Jaipur
+FB80672,Jhupa,coffee-shop,True,HO10979,7.3,Food,7.3,Ranakpur
+FB81083,Pine & Petals,coffee-shop,True,HO11824,4.8,Food,4.8,Kodaikanal
+FB80292,The Lobby Cafe,coffee-shop,True,HO10559,6.5,Food,6.5,Chennai
+FB81143,Dev,coffee-shop,True,HO11900,5.0,Food,5.0,Kushinagar
+FB80266,Cafe Restro,coffee-shop,True,HO10287,7.6,Food,7.6,New Delhi
+FB80313,The Bayview,coffee-shop,True,HO10263,6.7,Food,6.7,Mumbai
+FB80202,The Verandah,coffee-shop,True,HO10291,8.0,Food,8.0,Kochi (Cochin)
+FB80619,The Inhouse,coffee-shop,True,HO10483,6.6,Food,6.6,Ooty (Udhagamandalam)
+FB80131,Rajput Room,coffee-shop,True,HO10010,9.6,Food,9.6,Jaipur
+FB81002,The Restaurant,coffee-shop,True,HO10105,6.2,Food,6.2,Munnar
+FB80093,Kwality,multi-cuisine,False,,8.8,Food,8.8,New Delhi
+FB80634,Dining Room,coffee-shop,True,HO10960,4.8,Food,4.8,Pench
+FB81005,Bhojan,coffee-shop,True,HO10874,3.0,Food,3.0,Bodhgaya
+FB80177,Mynt,coffee-shop,True,HO10457,8.4,Food,8.4,Bengaluru
+FB81533,Resturant,coffee-shop,True,HO12679,5.5,Food,5.5,Pushkar
+FB81542,Erawaan,specialty-restaurant,True,HO10012,9.4,Food,9.4,New Delhi
+FB80725,Zing,coffee-shop,True,HO11056,5.8,Food,5.8,Yercaud
+FB81395,Citrus Cafe,coffee-shop,True,HO12520,5.8,Food,5.8,Bhopal
+FB80661,U Kitchen,coffee-shop,True,HO11008,8.8,Food,8.8,New Delhi
+FB80304,Clever Fox Cafe,coffee-shop,True,HO10732,8.0,Food,8.0,Gurgaon
+FB80863,Cafe Resto,coffee-shop,True,HO11257,6.0,Food,6.0,New Delhi
+FB80663,The Resturant,coffee-shop,True,HO10993,4.2,Food,4.2,Kochi (Cochin)
+FB81067,Amer Sky Rooftop,coffee-shop,True,HO11030,7.3,Food,7.3,Jaipur
+FB80586,The Restaurant,coffee-shop,True,HO10251,8.4,Food,8.4,Jodhpur
+FB80258,Edesia,coffee-shop,True,HO10459,5.9,Food,5.9,New Delhi
+FB80793,The Cafe,coffee-shop,True,HO10216,8.0,Food,8.0,Jaipur
+FB81015,The Verandah,coffee-shop,True,HO11580,6.8,Food,6.8,Kolkata
+FB80993,Delicious,coffee-shop,True,HO11565,5.8,Food,5.8,Bundi
+FB81174,Maharajah,coffee-shop,True,HO12255,7.0,Food,7.0,Kathmandu
+FB80544,Restaurant,coffee-shop,True,HO10808,7.0,Food,7.0,Kumbhalgarh
+FB80448,Tiger Trail,coffee-shop,True,HO10488,5.0,Food,5.0,Ranthambore
+FB80913,Sakura,specialty-restaurant,True,HO10878,6.2,Food,6.2,New Delhi
+FB81105,Sky Club,coffee-shop,True,HO12201,6.0,Food,6.0,Gurgaon
+FB81455,Restaurant,coffee-shop,True,HO11139,6.8,Food,6.8,Sariska
+FB81219,The Kanchenjunga,coffee-shop,True,HO10984,4.8,Food,4.8,Darjeeling
+FB80762,Test Restaurant,coffee-shop,True,HO11255,8.9,Food,9.1,Ambala
+FB80740,Royal Dining,coffee-shop,True,HO11126,8.6,Food,8.6,Jodhpur
+FB81610,Gol Bungalow,specialty-restaurant,True,HO10644,8.8,Food,8.8,Hyderabad
+FB80369,Kigelia Court,coffee-shop,True,HO10561,7.5,Food,7.5,Jaipur
+FB80898,24-Jul,coffee-shop,True,HO11312,5.4,Food,5.4,Bengaluru
+FB80873,Coral Reef,coffee-shop,True,HO11440,5.3,Food,5.3,Kanyakumari
+FB81080,Blue Bell,coffee-shop,True,HO11683,4.8,Food,4.8,Kochi (Cochin)
+FB80069,Slo Food Co. 2,coffee-shop,True,HO10246,7.8,Food,7.4,Bengaluru
+FB81089,The Great Kebab Factory,specialty-restaurant,True,HO12025,7.4,Food,7.4,Puducherry (Pondicherry)
+FB81020,Essence,coffee-shop,True,HO11371,5.6,Food,5.6,Zirakpur
+FB81631,Tingling Spice,coffee-shop,True,HO12788,6.8,Food,6.4,Bengaluru
+FB81304,86 Pillars,coffee-shop,True,HO12375,7.8,Food,7.8,Chettinadu
+FB81586,Esphahan,specialty-restaurant,True,HO10468,9.2,Food,9.2,Agra
+FB80452,History,coffee-shop,True,HO10027,8.8,Food,8.8,Kochi (Cochin)
+FB81614,Dining Room,coffee-shop,True,HO10247,6.9,Food,6.9,Kolkata
+FB80541,Dining Room,coffee-shop,True,HO10838,6.6,Food,6.6,Sultan Bathery
+FB80038,Mewar Motel,multi-cuisine,False,HO10486,8.1,Food,8.9,Deogarh
+FB80811,Citrus Cafe,coffee-shop,True,HO11357,6.6,Food,6.6,Chennai
+FB81162,Khush Mahal,coffee-shop,True,HO12234,8.0,Food,8.0,Sardargarh
+FB80896,24-Jul,coffee-shop,True,HO11349,6.2,Food,6.2,Chandigarh
+FB80865,The Restaurant,coffee-shop,True,HO11465,6.0,Food,6.0,Dharamshala
+FB80327,Clever Fox Cafe,coffee-shop,True,HO10335,7.0,Food,7.0,New Delhi
+FB80833,Restaurant,multi-cuisine,True,HO11161,6.4,Food,6.4,Udaipur (RJ)
+FB80333,Lime Tree,coffee-shop,True,HO10393,6.2,Food,6.2,Kumarakom
+FB81184,The Restaurant,coffee-shop,True,HO12233,8.0,Food,8.0,Pokhara
+FB80232,Citrus Cafe,coffee-shop,True,HO10510,6.7,Food,6.7,Pune
+FB80598,The Restaurant,coffee-shop,True,HO10102,5.6,Food,5.6,New Delhi
+FB81387,Restaurant,coffee-shop,True,HO12462,7.0,Food,7.0,Wayanad
+FB81121,Tangelo,coffee-shop,True,HO11656,5.6,Food,5.6,Bengaluru
+FB80555,Restaurant,multi-cuisine,True,HO10314,7.8,Food,7.8,Thekkady (Periyar/Kumily)
+FB80583,Coffee Shop,coffee-shop,True,HO10500,8.4,Food,8.4,Munnar
+FB80883,Sumac Fine Dine,coffee-shop,True,HO11489,3.2,Food,3.2,Agra
+FB80076,Mughal Pavilion,multi-cuisine,True,HO10026,8.4,Food,8.8,Udaipur (RJ)
+FB80070,Aaharam,coffee-shop,True,HO10245,7.1,Food,7.1,Madurai
+FB81501,Tide,coffee-shop,True,HO12635,5.5,Food,5.5,Ganpatipule
+FB81292,Test F&B,coffee-shop,True,HO11255,9.3,Experiential,9.9,Ambala
+FB81443,Restaurant,coffee-shop,True,HO10057,7.7,Food,7.7,Udaipur (RJ)
+FB80961,The Restaurant,coffee-shop,True,HO11449,6.4,Food,6.4,Kumbhalgarh
+FB81274,The Grand Ayyanar,coffee-shop,True,HO12339,6.9,Food,6.9,Madurai
+FB80439,Orchid,coffee-shop,True,HO10398,8.4,Food,8.4,Madurai
+FB81343,Dining,coffee-shop,True,HO10658,6.8,Food,6.8,Bandhavgarh
+FB81156,The Restaurant,coffee-shop,True,HO12012,5.7,Food,5.7,Munnar
+FB81043,Cafe Samsara,coffee-shop,True,HO11588,6.4,Food,6.4,Athirappilly
+FB80186,Jharokha,coffee-shop,True,HO10652,6.4,Food,6.4,Nawalgarh
+FB80925,Delhi Pavilion,coffee-shop,True,HO10445,8.8,Food,8.8,New Delhi
+FB81323,Oceanic,multi-cuisine,True,HO10058,6.3,Food,6.3,Kolkata
+FB80393,The Restaurant,coffee-shop,True,HO10463,6.7,Food,6.7,Puducherry (Pondicherry)
+FB80259,Oasis,coffee-shop,True,HO10284,8.2,Food,8.2,Agra
+FB80328,Patio,coffee-shop,True,HO10334,6.0,Food,6.0,New Delhi
+FB81100,The Restaurant,coffee-shop,True,HO11748,5.6,Food,5.6,Goa
+FB81592,Ameya,multi-cuisine,True,HO10204,1.0,Food,,Cherthala
+FB80323,Pavilion,coffee-shop,True,HO10476,8.0,Food,8.0,Puducherry (Pondicherry)
+FB81011,Blooms,coffee-shop,True,HO11481,5.8,Food,5.8,New Delhi
+FB80701,Orchid,coffee-shop,True,HO11090,4.8,Food,4.8,Gandhinagar
+FB80236,Citrus Cafe,coffee-shop,True,HO10715,6.4,Food,6.4,Siliguri
+FB81079,Choola,coffee-shop,True,HO11661,6.8,Food,6.8,Alappuzha (Alleppey)
+FB81319,Vista,coffee-shop,True,HO12388,6.2,Food,6.2,Visakhapatnam
+FB80313,The Bayview,coffee-shop,True,HO10263,7.4,Food,7.4,Mumbai
+FB80547,Aabla,coffee-shop,True,HO10774,7.0,Food,7.0,Mandawa
+FB80412,Jharokha,coffee-shop,True,HO10408,10.0,Food,10.0,Udaipur (RJ)
+FB81159,The Grand Dinning Hall,coffee-shop,True,HO10469,9.4,Food,9.4,Ranthambore
+FB81396,The Recipe,coffee-shop,True,HO12528,7.0,Food,7.0,Jodhpur
+FB80979,The Restaurant,coffee-shop,True,HO11547,6.0,Food,6.0,Udaipur (RJ)
+FB81276,Masala Magic,coffee-shop,True,HO12340,6.1,Food,6.1,Pushkar
+FB80476,Zamorin,coffee-shop,True,HO10151,8.4,Food,8.4,Kochi (Cochin)
+FB80048,Gautama,multi-cuisine,True,HO10026,1.0,Food,1.0,Udaipur (RJ)
+FB81405,Cinnamon,specialty-restaurant,True,HO10001,8.0,Food,8.0,Jaipur
+FB80492,Yaal,coffee-shop,True,HO10042,6.9,Food,6.9,Madurai
+FB80711,Amara,coffee-shop,True,HO11095,8.8,Food,8.8,Hyderabad
+FB80300,Al Fresco,coffee-shop,True,HO10355,7.8,Food,7.8,Amritsar
+FB80281,Citrus Cafe,coffee-shop,True,HO10452,8.0,Food,8.0,Gurgaon
+FB80363,Legend,coffee-shop,True,HO10276,7.0,Food,7.0,Jaipur
+FB80807,Citrus Cafe,coffee-shop,True,HO11317,5.4,Food,5.4,Gurgaon
+FB80974,Oasis Cafe,coffee-shop,True,HO11427,5.0,Food,5.0,Rishikesh
+FB81366,Jigsaw,coffee-shop,True,HO11637,7.0,Food,7.0,New Delhi
+FB80125,Lapis,coffee-shop,True,HO10239,8.0,Food,8.0,Bengaluru
+FB80748,The City Spoon,multi-cuisine,True,HO11171,6.8,Food,6.8,Varanasi
+FB81243,The Restaurant,coffee-shop,True,HO12319,7.1,Food,7.1,Ooty (Udhagamandalam)
+FB80267,Temple Cafe,coffee-shop,True,HO10017,8.0,Food,8.0,Khajuraho
+FB80994,Syah,specialty-restaurant,False,,9.2,Food,9.2,Udaipur (RJ)
+FB80717,The Restaurant,coffee-shop,True,HO11031,3.8,Food,3.8,Kushinagar
+FB80489,West 1,coffee-shop,True,HO10918,5.6,Food,5.6,Navi Mumbai
+FB81555,Fateh Mahal,coffee-shop,True,HO10634,6.6,Food,6.6,Dausa
+FB80086,Restaurant,coffee-shop,True,HO10199,5.1,Food,5.1,Jaipur
+FB81089,The Great Kebab Factory,specialty-restaurant,True,HO12025,8.2,Food,8.2,Puducherry (Pondicherry)
+FB80154,Shamiana,coffee-shop,True,HO10713,8.6,Food,8.6,Ahmedabad
+FB80431,Cafe,coffee-shop,True,HO10266,8.8,Food,8.8,Aurangabad (MH) 
+FB80176,Palette,coffee-shop,True,HO10407,8.4,Food,8.4,Bengaluru
+FB80523,Restaurant,coffee-shop,True,HO10546,6.2,Food,6.2,Kanha
+FB80239,Ettukettu,coffee-shop,True,HO10063,8.3,Food,8.3,Kumarakom
+FB80557,Restaurant,multi-cuisine,True,HO10776,7.0,Food,7.0,Thekkady (Periyar/Kumily)
+FB80413,The Urban Tadka,coffee-shop,True,HO10414,7.8,Food,7.8,Udaipur (RJ)
+FB80653,Mynt,coffee-shop,True,HO10994,7.7,Food,7.7,Bhubaneswar
+FB81371,Willow Kitchen & Bar,coffee-shop,True,HO12456,6.7,Food,6.7,Stok (Leh)
+FB80640,The In-House,coffee-shop,True,HO10943,4.2,Food,4.2,Jaipur
+FB81559,Ming Yang,multi-cuisine,True,HO10376,7.9,Food,7.9,Mumbai
+FB81511,Shaam-E-Viraasat The Haveli,multi-cuisine,False,,9.4,Food,9.4,Udaipur (RJ)
+FB81235,Downtown,coffee-shop,True,HO10988,9.0,Food,9.0,Kochi (Cochin)
+FB80906,House Of Han,specialty-restaurant,True,HO10103,6.4,Food,6.4,Jaipur
+FB80886,Dining,coffee-shop,True,HO10933,5.6,Food,5.6,Dharamshala
+FB81313,Vista,coffee-shop,True,HO12377,7.7,Food,7.7,Dehradun
+FB81566,Dining Room,coffee-shop,True,HO11938,6.4,Food,6.4,Pachewar
+FB81024,In-House Cafe,coffee-shop,True,HO10877,5.0,Food,5.0,New Delhi
+FB81621,Dining,coffee-shop,True,HO10312,6.6,Food,6.6,Jodhpur
+FB80612,Garden Grille & Bar,coffee-shop,True,HO10751,4.4,Food,4.4,Thiruvananthapuram (Trivandrum)
+FB80650,Cave Palate,coffee-shop,True,HO11157,8.6,Food,8.6,Ranthambore
+FB80584,Restaurant,coffee-shop,True,HO10272,7.8,Food,7.8,Alappuzha (Alleppey)
+FB80443,Tharavadu,coffee-shop,True,HO10591,7.9,Food,7.9,Kochi (Cochin)
+FB81039,Machan,coffee-shop,True,HO11579,7.6,Food,7.6,Gangtok
+FB80241,Cafe Knosh,coffee-shop,True,HO10308,9.0,Food,9.0,New Delhi
+FB80727,Shamiana,coffee-shop,True,HO11118,7.8,Food,7.8,Wayanad
+FB81346,L - Cave,coffee-shop,True,HO12411,7.3,Food,7.3,Pali (RJ) 
+FB80521,Kishkinda,coffee-shop,True,HO10208,7.8,Food,7.8,Hampi (Hosapete)
+FB80859,Machan,coffee-shop,True,HO11473,7.4,Food,7.4,Bhopal
+FB80497,Celeste,coffee-shop,True,HO10644,9.6,Food,9.6,Hyderabad
+FB81342,Restaurant,coffee-shop,True,HO12067,5.4,Food,5.4,Thrissur
+FB80576,Coffee Shop,coffee-shop,True,HO10214,8.8,Food,8.8,Kumarakom
+FB80771,Dining,multi-cuisine,True,HO11200,4.0,Food,5.0,Kanha
+FB81460,Ida,coffee-shop,True,HO12565,5.2,Food,5.2,Mararikulam
+FB80211,Khana Pakana,coffee-shop,True,HO10006,8.0,Food,8.0,Varanasi
+FB80795,Sapphire,coffee-shop,True,HO10821,2.8,Food,2.8,Mumbai
+FB80763,Citrus Junction,coffee-shop,True,HO11100,7.2,Food,7.2,Gandhinagar
+FB81357,Copper Chimney (Kalaghoda),multi-cuisine,False,,8.8,Food,8.8,Mumbai
+FB81437,Savor,coffee-shop,True,HO12535,6.4,Food,6.4,Udaipur (RJ)
+FB80160,Latitude,coffee-shop,True,HO10629,8.4,Food,8.4,Aurangabad (MH) 
+FB80622,The Dining Room,coffee-shop,True,HO10380,9.0,Food,9.0,Ranthambore
+FB80052,NH46,coffee-shop,True,HO10147,,,,Vellore
+FB80856,Vaishali,coffee-shop,True,HO10741,5.6,Food,5.6,Kushinagar
+FB80889,Food Exchange,coffee-shop,True,HO11469,6.0,Food,6.0,Jodhpur
+FB81029,Darbar Hall,coffee-shop,True,HO11596,6.8,Food,6.8,Jaipur
+FB80237,Sukh Mahal,coffee-shop,True,HO10325,8.8,Food,8.8,Jaipur
+FB80864,Shahenshah,coffee-shop,True,HO11372,5.2,Food,5.2,Agra
+FB80491,Cafe Du Mahe,coffee-shop,True,HO10150,7.2,Food,7.2,Kochi (Cochin)
+FB81052,Shamiana,coffee-shop,True,HO12178,7.0,Food,7.0,Mumbai
+FB81054,The Restaurant,coffee-shop,True,HO12176,6.7,Food,6.7,Ranthambore
+FB80795,Sapphire,coffee-shop,True,HO10821,3.4,Food,3.4,Mumbai
+FB81018,Mohan Mahal,specialty-restaurant,True,HO10325,8.8,Food,8.8,Jaipur
+FB80141,Jasmine Bay,coffee-shop,True,HO10238,8.6,Food,8.6,Kovalam
+FB80625,Machaan,coffee-shop,True,HO10134,7.2,Food,7.2,Corbett
+FB81017,Megu,specialty-restaurant,True,HO10302,9.4,Food,9.4,New Delhi
+FB80591,Citrus Cafe,coffee-shop,True,HO10550,7.0,Food,7.0,Alappuzha (Alleppey)
+FB80216,Bazaar,coffee-shop,True,HO10071,7.1,Food,7.1,Chennai
+FB80823,Maya Nagri,multi-cuisine,True,HO11012,7.0,Food,7.0,Pushkar
+FB80478,Kava,coffee-shop,True,HO10653,7.6,Food,7.6,Jodhpur
+FB81530,Varq,specialty-restaurant,True,HO10236,8.6,Food,8.6,New Delhi
+FB81208,The Restaurant,coffee-shop,True,HO10552,6.4,Food,6.4,Bundi
+FB81572,Restaurant,coffee-shop,True,HO11169,6.9,Food,6.9,Nainital
+FB81038,Shamiana,coffee-shop,True,HO11578,7.0,Food,7.0,Patna
+FB81467,The Sound of Music,coffee-shop,True,HO12029,6.4,Food,6.4,Munnar
+FB81459,Jaipur Courtyard,multi-cuisine,False,,6.8,Food,6.8,Jaipur
+FB80405,The Cortile,coffee-shop,True,HO10569,8.4,Food,8.4,Ranthambore
+FB81240,Lotus Cafe,coffee-shop,True,HO10192,6.6,Food,6.6,Mumbai
+FB80819,Citrus Cafe,coffee-shop,True,HO11329,5.4,Food,5.4,Hyderabad
+FB81308,Dining Room,coffee-shop,True,HO10593,1.0,Food,7.5,Luni
+FB80750,The Restaurant,coffee-shop,True,HO11162,8.4,Food,8.4,Narendra Nagar (UK)
+FB80773,The Society,coffee-shop,True,HO11182,3.4,Food,3.4,Chennai
+FB81071,To Be Discussed,coffee-shop,True,HO12188,7.0,Food,7.0,Udaipur (RJ)
+FB80606,Zaika,coffee-shop,True,HO10242,5.4,Food,5.4,Jaipur
+FB81575,Pier Dining,coffee-shop,True,HO10027,7.7,Food,7.7,Kochi (Cochin)
+FB81415,Darbar Hall,coffee-shop,True,HO11972,6.8,Food,6.8,Patiala
+FB81305,Zodiac,coffee-shop,True,HO12376,6.8,Food,6.8,Chennai
+FB81607,Restaurant,coffee-shop,True,HO12764,7.7,Food,7.7,Pollachi
+FB80778,Citrus Cafe,coffee-shop,True,HO10516,7.8,Food,7.8,Katra
+FB80749,The Restaurant,coffee-shop,True,HO11133,5.4,Food,5.4,Karauli
+FB81073,Indish,coffee-shop,True,HO11874,5.0,Food,5.0,Gwalior
+FB81157,The Restaurant,coffee-shop,True,HO11937,6.0,Food,6.0,Manali
+FB80061,Zenana chowk Dining area,multi-cuisine,True,HO10026,5.9,Heritage,6.5,Udaipur (RJ)
+FB80618,Machan,coffee-shop,True,HO10765,8.4,Food,8.4,Wayanad
+FB80399,Jodhpur Cafe,coffee-shop,True,HO10489,8.0,Food,8.0,Jodhpur
+FB81436,Trophe Dine N Drink,coffee-shop,True,HO12547,7.1,Food,7.0,Goa
+FB81197,Restaurant,coffee-shop,True,HO12134,7.4,Food,7.4,Udumalpet
+FB80456,Granary,coffee-shop,True,HO10032,9.2,Food,9.2,Kumarakom
+FB81058,TreeTop,coffee-shop,True,HO11744,7.2,Food,7.2,Corbett
+FB81322,Cafe Samsara,coffee-shop,True,HO12390,7.5,Food,7.5,Kumarakom
+FB81424,IJA,coffee-shop,True,HO12472,7.3,Food,7.3,Naukuchiatal
+FB80964,Bazaar (ADD),coffee-shop,True,HO11530,7.6,Food,7.6,Jaisalmer
+FB81209,The Restaurant,coffee-shop,True,HO12292,6.6,Food,6.6,Jodhpur
+FB81119,Riverview,coffee-shop,True,HO11970,6.4,Food,6.4,Panna
+FB80245,Anghiti,coffee-shop,True,HO10428,3.6,Food,3.6,Jodhpur
+FB80360,The Baradari Mahal,coffee-shop,True,HO10369,5.4,Food,5.4,Jaipur
+FB80741,The Lodge,coffee-shop,True,HO10165,6.4,Food,6.4,Jarar
+FB80254,Cafe Pride,coffee-shop,True,HO10286,7.2,Food,7.2,New Delhi
+FB80744,The Restaurant,coffee-shop,True,HO11168,5.8,Food,5.8,Mount Abu
+FB81068,Suraman Mahal,coffee-shop,True,HO10399,7.6,Food,7.6,Jaisalmer
+FB80654,Zodiac,coffee-shop,True,HO10975,4.8,Food,4.8,Ahmedabad
+FB80955,Fiesta,coffee-shop,True,HO11217,5.8,Food,5.8,Hampi (Hosapete)
+FB81606,Spring,coffee-shop,True,HO10328,7.0,Food,7.0,New Delhi
+FB80083,Madhushala,bar,True,HO10026,7.6,Food,8.8,Udaipur (RJ)
+FB80150,Laranja,coffee-shop,True,HO10158,8.4,Food,8.4,Goa
+FB80526,Ocean,coffee-shop,True,HO10033,8.8,Food,8.8,Varanasi
+FB80364,Shikaar Bagh,coffee-shop,True,HO10273,8.4,Food,8.4,Jaipur
+FB80307,Oasis,coffee-shop,True,HO10344,7.0,Food,7.0,Jodhpur
+FB81277,Zodiac,coffee-shop,True,HO12347,6.0,Food,6.0,Puri
+FB80830,Restaurant,coffee-shop,True,HO11145,6.2,Food,6.2,Mandawa
+FB80724,Zodiac,coffee-shop,True,HO11085,5.0,Food,5.0,Visakhapatnam
+FB80029,The Eatery,coffee-shop,True,HO10004,7.6,Food,7.6,Jaipur
+FB81629,Khajur Mahal,coffee-shop,True,HO12158,7.0,Food,7.0,Alwar
+FB81568,Stix,specialty-restaurant,True,HO10098,5.2,Food,5.2,Chennai
+FB81613,Restaurant,coffee-shop,True,HO12508,6.5,Food,6.5,Bengaluru
+FB80774,Citrus,coffee-shop,True,HO10387,9.2,Food,9.2,Mumbai
+FB80039,Darbhanga,coffee-shop,True,HO10040,7.9,Food,7.9,Varanasi
+FB80758,Terracotta,coffee-shop,True,HO10965,8.2,Food,8.2,Sasan Gir
+FB80261,The Edge,coffee-shop,True,HO10456,8.0,Food,8.0,Dharamshala
+FB80672,Jhupa,coffee-shop,True,HO10979,6.2,Food,6.2,Ranakpur
+FB81126,Florence Dining Room,coffee-shop,True,HO11628,5.8,Food,5.8,New Delhi
+FB80151,Mynt,coffee-shop,True,HO10737,8.6,Food,8.6,Pakyong
+FB81482,KB Cafe,coffee-shop,True,HO11139,6.5,Food,6.5,Sariska
+FB81351,Cedar Club House,multi-cuisine,False,,8.2,Food,8.2,New Delhi
+FB80348,Jharokha Cafe,coffee-shop,True,HO10493,8.8,Food,8.8,Narlai
+FB80999,The Great Kabab Factory,specialty-restaurant,True,HO11566,6.6,Food,6.6,Chennai

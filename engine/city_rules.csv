@@ -1,0 +1,123 @@
+city,region,min_nights,max_nights,type,notes
+New Delhi,North India,2,3,touring,3n only if long trip or airport extension
+Agra,North India,1,2,touring,1n standard; 2n if Fatehpur Sikri included
+Jaipur,North India,2,3,touring,3n if cooking class / extra excursion
+Fatehpur Sikri,North India,0,0,transit,Day visit en route Agra â†’ Jaipur only
+Mathura / Vrindavan,North India,1,2,touring,
+Lucknow,North India,2,3,touring,
+Varanasi,North India,2,3,touring,
+Sarnath,North India,0,0,transit,Day excursion from Varanasi
+Prayagraj (Allahabad),North India,1,2,touring,
+Bodh Gaya,North India / East,2,3,touring,
+Patna,North India / East,1,2,touring,
+Jodhpur,Rajasthan,2,3,touring,
+Udaipur (RJ),Rajasthan,2,3,touring,
+Jaisalmer,Rajasthan,2,3,touring,
+Bikaner,Rajasthan,1,2,touring,
+Pushkar,Rajasthan,1,2,touring,
+Mandawa,Rajasthan,1,2,touring,
+Ranthambore,Rajasthan,2,3,wildlife,2 safaris minimum; 3n tiger-focused
+Bundi,Rajasthan,1,2,touring,
+Chittorgarh,Rajasthan,1,1,touring,Day visit or 1n max
+Ajmer,Rajasthan,1,1,transit,Usually day visit for Dargah Sharif
+Mount Abu,Rajasthan,1,2,touring,
+Narlai,Rajasthan,1,2,touring,Boutique stop â€” 1n standard
+Rohet,Rajasthan,1,1,touring,1n heritage stop
+Khimsar,Rajasthan,1,2,touring,
+Deogarh,Rajasthan,1,2,touring,
+Jawai,Rajasthan,2,3,wildlife,Leopard safari â€” needs 2n+
+Shekhawati (Mandawa area),Rajasthan,1,2,touring,
+Shimla,Himachal Pradesh,2,5,stay-put,Hill station; 4n+ only if client requests longer leisure
+Manali,Himachal Pradesh,2,5,stay-put,
+Dharamshala / McLeod Ganj,Himachal Pradesh,2,4,stay-put,
+Dalhousie,Himachal Pradesh,1,3,stay-put,
+Spiti Valley,Himachal Pradesh,3,6,stay-put,Remote; needs time
+Chandigarh,Punjab / Haryana,1,2,touring,
+Amritsar,Punjab,1,2,touring,
+Haridwar,Uttarakhand,1,2,touring,
+Rishikesh,Uttarakhand,2,4,stay-put,Yoga / ashram clients may want more
+Corbett,Uttarakhand,2,3,wildlife,
+Mussoorie,Uttarakhand,1,3,stay-put,
+Nainital,Uttarakhand,2,3,stay-put,
+Auli,Uttarakhand,2,4,stay-put,Skiing destination
+Leh,Ladakh,3,6,stay-put,Acclimatisation + sightseeing; minimum 3n
+Nubra Valley,Ladakh,1,2,touring,Excursion from Leh
+Pangong Lake,Ladakh,1,2,touring,Overnight at lake recommended
+Srinagar,Kashmir,3,6,stay-put,Houseboat stay â€” leisure destination
+Gulmarg,Kashmir,1,3,stay-put,
+Pahalgam,Kashmir,2,4,stay-put,
+Sonamarg,Kashmir,1,2,touring,
+Khajuraho,Central India,1,2,touring,
+Orchha,Central India,1,2,touring,
+Gwalior,Central India,1,2,touring,
+Jabalpur,Central India,0,0,transit,Flight gateway for MP parks â€” never overnight
+Bandhavgarh,Central India,2,3,wildlife,
+Kanha,Central India,2,3,wildlife,
+Pench,Central India,2,3,wildlife,
+Panna,Central India,2,3,wildlife,
+Satpura,Central India,2,3,wildlife,
+Bhopal,Central India,1,2,touring,
+Sanchi,Central India,0,1,transit,Usually day excursion from Bhopal
+Mandu,Central India,1,2,touring,
+Indore,Central India,1,2,touring,
+Ujjain,Central India,1,1,transit,Mostly day visit
+Pachmarhi,Central India,2,3,stay-put,
+Mumbai,Maharashtra,2,3,touring,
+Pune,Maharashtra,1,2,touring,
+Aurangabad,Maharashtra,2,3,touring,Base for Ajanta & Ellora
+Ajanta / Ellora,Maharashtra,0,0,transit,Day excursions from Aurangabad
+Nashik,Maharashtra,1,2,touring,
+Kolhapur,Maharashtra,1,2,touring,
+Goa,Goa,3,7,stay-put,Beach / leisure â€” length driven entirely by client
+Ahmedabad,Gujarat,2,3,touring,Heritage city â€” good base
+Vadodara,Gujarat,1,2,touring,
+Bhuj,Gujarat,2,3,touring,Kutch base â€” needs 2n+
+Dwarka,Gujarat,1,2,touring,
+Somnath,Gujarat,1,1,touring,
+Diu,Gujarat / UT,2,3,stay-put,
+Rann of Kutch,Gujarat,1,2,touring,Seasonal Novâ€“Feb only
+Kolkata,West Bengal,2,3,touring,
+Darjeeling,West Bengal,2,4,stay-put,Hill station; sunrise / tea tours
+Kalimpong,West Bengal,1,2,touring,
+Gangtok,Sikkim,2,4,stay-put,
+Pelling,Sikkim,2,3,stay-put,
+Bhubaneswar,Odisha,2,3,touring,
+Puri,Odisha,2,3,stay-put,Beach / temple; leisure pace
+Konark,Odisha,0,0,transit,Day excursion from Bhubaneswar/Puri
+Bagdogra,West Bengal,0,0,transit,Airport gateway for Darjeeling/Sikkim
+Guwahati,Assam,1,2,touring,
+Kaziranga,Assam,2,3,wildlife,Rhino safari â€” minimum 2n
+Manas,Assam,2,3,wildlife,
+Shillong,Meghalaya,2,3,stay-put,
+Cherrapunjee,Meghalaya,1,2,touring,
+Tawang,Arunachal Pradesh,2,3,stay-put,Remote; acclimatisation
+Dirang,Arunachal Pradesh,1,2,touring,
+Kochi (Cochin),Kerala,1,2,touring,
+Munnar,Kerala,2,3,stay-put,Tea country â€” leisure pace
+Thekkady (Periyar/Kumily),Kerala,2,3,stay-put,
+Alappuzha (Alleppey),Kerala,1,2,touring,Houseboat typically 1 night on water
+Kumarakom,Kerala,2,3,stay-put,
+Kovalam,Kerala,2,5,stay-put,Beach â€” length by client
+Varkala,Kerala,2,5,stay-put,
+Wayanad,Kerala,2,3,stay-put,
+Trivandrum,Kerala,1,2,touring,
+Chennai,Tamil Nadu,1,2,touring,
+Mamallapuram,Tamil Nadu,1,2,touring,
+Puducherry (Pondicherry),Tamil Nadu,2,3,stay-put,
+Thanjavur (Tanjore),Tamil Nadu,1,2,touring,
+Madurai,Tamil Nadu,2,3,touring,
+Ooty (Udhagamandalam),Tamil Nadu,2,3,stay-put,Hill station
+Coonoor,Tamil Nadu,1,2,stay-put,
+Rameswaram,Tamil Nadu,1,2,touring,
+Kanyakumari,Tamil Nadu,1,2,touring,
+Chidambaram,Tamil Nadu,1,1,touring,Usually en route
+Kumbakonam,Tamil Nadu,1,2,touring,
+Bengaluru,Karnataka,1,2,touring,Usually arrival/departure city
+Mysuru (Mysore),Karnataka,2,3,touring,
+Hampi (Hosapete),Karnataka,2,3,touring,
+Badami,Karnataka,1,2,touring,
+Coorg,Karnataka,2,3,stay-put,
+Kabini,Karnataka,2,3,wildlife,
+Nagarhole,Karnataka,2,3,wildlife,
+Hyderabad,Telangana,2,3,touring,
+Andaman Islands,Andaman & Nicobar,4,8,stay-put,Island leisure; flight dependent

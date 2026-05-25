@@ -1,0 +1,2734 @@
+business_code,name,tci_classification,official_classification,city_name,supplier_code,supplier_name
+HO11508,Kumarakom Lake Resort (Houseboat),houseboat-first-class,houseboat-platinum,Kumarakom,DR10110,Kumarakom Lake Resort (Houseboat)
+HO11809,UK 27 The Fern,budget,5str,,DR11538,UK 27 The Fern
+HO10061,Ideal Beach Resort,moderate,3str,Mamallapuram (Mahabalipuram),DR10172,Ideal Beach Resort
+HO10251,Karni Bhawan,moderate,heritage,Jodhpur,DR10109,Karni Bhawan
+HO10893,Chariot Beach Resort,first-class,5str,Mamallapuram (Mahabalipuram),DR10170,Chariot Beach Resort
+HO12178,Taj The Trees,first-class,5str,Mumbai,DR12400,Taj The Trees
+HO12328,Bori Safari Lodge,first-class,1str,Bori (not to be used),DR12777,Bori Safari Lodge
+HO12359,Regenta Resort,moderate,4str,Bhuj,DR12705,Regenta Resort
+HO10346,Taj City Centre,first-class,5str,Gurgaon,DR10710,Taj City Centre
+HO12384,Test Aihole Hotel,first-class,5str,Thekkady (Periyar/Kumily),DR12330,Test Aihole Hotel
+HO12298,Africa Avenue (GK-1),budget,4str,New Delhi,DR12750,Africa Avenue (GK-1)
+HO11587,35 Sahakar Suites,moderate,5str,Jaipur,DR12339,35 Sahakar Suites
+HO11939,Le Sutra,budget,4str,Mumbai,DR11538,Le Sutra
+HO10700,Vivanta,moderate,5str,Vadodara,DR11095,Vivanta
+HO11497,Justa Sarang,moderate,3str,Rameshwaram,DR12249,Justa Sarang
+HO11706,Rainforest,moderate,1str,Athirappilly,DR12538,Rainforest
+HO10813,Kutch Safari Resort,moderate,3str,Bhuj,DR10574,Kutch Safari Resort
+HO11202,Regenta Central Herald,budget,3str,Mysuru (Mysore),DR10866,Regenta Central Herald
+HO10315,Classic Sarovar Portico,budget,4str,Thiruvananthapuram (Trivandrum),DR10747,Classic Sarovar Portico
+HO12249,Mount Kailash Resort,budget,4str,Pokhara,DR12655,Mount Kailash Resort
+HO10496,Sawai Vilas,first-class,5str,Ranthambore,DR10744,Sawai Vilas
+HO12082,Park Inn by Radisson,budget,1str,Gwalior,DR11538,Park Inn by Radisson
+HO11018,WelcomHeritage Fernhills Royal Palace,moderate,3str,Ooty (Udhagamandalam),DR11326,WelcomHeritage Fernhills Royal Palace
+HO10859,Courtyard By Marriott,moderate,5str,Ahmedabad,DR11084,Courtyard By Marriott
+HO11891,The Kumbha Bagh,budget,4str,,DR11538,The Kumbha Bagh
+HO11331,Four Points By Sheraton,moderate,3str,Srinagar,DR11836,Four Points By Sheraton
+HO11198,Regenta Central,moderate,1str,Udaipur (RJ),DR10982,Regenta Central
+HO10959,Le Meridien,moderate,5str,Kochi (Cochin),DR10283,Le Meridien
+HO11710,The Killians Boutique,budget,3str,Kochi (Cochin),DR11538,The Killians Boutique
+HO12009,Welcomhotel Bay Island,budget,3str,Port Blair,DR11538,Welcomhotel Bay Island
+HO10307,Park Plaza,moderate,4str,New Delhi,DR10373,Park Plaza
+HO11163,Fort Chanwa,budget,3str,Luni,DR11345,Fort Chanwa
+HO10391,Courtyard By Marriott,first-class,4str,Madurai,DR10158,Courtyard By Marriott
+HO10715,Lemon Tree,moderate,4str,Siliguri,DR11145,Lemon Tree
+HO11555,Tree Of Life Darbargadh,first-class,1str,Bhavnagar,DR12347,Tree Of Life Darbargadh
+HO10716,Taj Cidade De Goa Horizon,first-class,5str,Goa,DR11133,Taj Cidade De Goa Horizon
+HO11539,Fortune Select Global,moderate,4str,Gurgaon,DR12282,Fortune Select Global
+HO11559,Tree Of Life Bhadrajun House,first-class,1str,Jodhpur,DR12344,Tree Of Life Bhadrajun House
+HO10525,Aranya Vilas,moderate,4str,Udaipur (RJ),DR10951,Aranya Vilas
+HO11683,Flora Airport Hotel & Convention Centre,budget,4str,Kochi (Cochin),DR10253,Flora Airport Hotel & Convention Centre
+HO11328,Mountain Club Resort,moderate,4str,Munnar,DR11490,Mountain Club Resort
+HO10192,JW Marriott (Juhu),lux,5str-lux,Mumbai,DR10646,JW Marriott (Juhu)
+HO12266,Riverside Spring Resort,budget,1str,Chitwan,DR12655,Riverside Spring Resort
+HO12307,Ravla Bhenswara,budget,3str,Bhenswara,DR12763,Ravla Bhenswara
+HO11913,Park Hyatt,budget,5str,,DR11538,Park Hyatt
+HO10564,Welcomhotel By ITC Hotels,moderate,4str,Chennai,DR10838,Welcomhotel By ITC Hotels
+HO11271,Lemon Tree Premier,moderate,4str,Dwarka,DR11536,Lemon Tree Premier
+HO10293,Park Ocean,budget,4str,Jaipur,DR10021,Park Ocean
+HO11019,St. Regis,lux,5str,Goa,DR11178,St. Regis
+HO11598,Brij Bageecha,lux,5str,Jaipur,DR12377,Brij Bageecha
+HO10614,White Water Cruise-2BRH,houseboat-moderate,houseboat-silver,Kumarakom,DR10006,White Water Cruise-2BRH
+HO11286,The Roseate,first-class,5str,New Delhi,DR11489,The Roseate
+HO12061,Marasa Sarovar Portico,budget,3str,Indore,DR11538,Marasa Sarovar Portico
+HO10280,The Park,moderate,5str,New Delhi,DR10541,The Park
+HO11872,Godwin,moderate,4str,Haridwar,DR12545,Godwin
+HO11180,Arista,budget,1str,Udaipur (RJ),DR11541,Arista
+HO10416,Taj Fisherman's Cove Resort & Spa,first-class,5str,Mamallapuram (Mahabalipuram),DR10875,Taj Fisherman's Cove Resort & Spa
+HO10595,Bundi Haveli,budget,2str,Bundi,DR10886,Bundi Haveli
+HO10739,Shikarbadi,moderate,3str,Udaipur (RJ),DR11120,Shikarbadi
+HO10889,The Stepwell Hotel,moderate,1str,Jodhpur,DR10904,The Stepwell Hotel
+HO11599,Aalia Jungle Retreat & Spa,first-class,1str,Haridwar,DR12395,Aalia Jungle Retreat & Spa
+HO12020,Radisson,budget,5str,Jodhpur,DR11538,Radisson
+HO11389,Citrus Classic,moderate,3str,Dharamshala,DR10783,Citrus Classic
+HO10152,Chidambara Vilas,moderate,heritage,Chettinadu,DR10651,Chidambara Vilas
+HO10692,Red Earth,moderate,3str,Kabini,DR10554,Red Earth
+HO10013,The Imperial,lux,5str-lux,New Delhi,DR10056,The Imperial
+HO10974,WelcomHeritage Connaught House,moderate,5str,Mount Abu,DR10641,WelcomHeritage Connaught House
+HO11322,Courtyard Raipur,moderate,5str,Raipur (CT) ,DR11795,Courtyard Raipur
+HO11595,WOW Crest - IHCL SeleQtions,first-class,1str,Indore,DR12398,WOW Crest - IHCL SeleQtions
+HO11575,Bari Kothi,first-class,1str,Murshidabad,DR12370,Bari Kothi
+HO10151,Fragrant Nature,first-class,5str,Kochi (Cochin),DR10011,Fragrant Nature
+HO10455,Windflower Resort & Spa,first-class,5str,Wayanad,DR10799,Windflower Resort & Spa
+HO12323,The Crown - IHCL SeleQtions,first-class,5str,Bhubaneswar,DR12827,The Crown - IHCL SeleQtions
+HO12131,Regenta Central Cassia,budget,4str,,DR11538,Regenta Central Cassia
+HO11997,Blackberry Hills,budget,3str,Munnar,DR12509,Blackberry Hills
+HO11347,Hyatt Place,moderate,4str,Jaipur,DR10990,Hyatt Place
+HO11206,Dhora Desert Resort & Spa,first-class,5str,Shekhala (Jodhpur - Jaisalmer Highway),DR10959,Dhora Desert Resort & Spa
+HO10656,Brij Jawai,lux,5str,Pali (RJ) ,DR11034,Brij Jawai
+HO10730,Harivihar,budget,3str,Kozhikode (Calicut),DR11154,Harivihar
+HO10847,The Westin,first-class,5str,Gurgaon,DR10802,The Westin
+HO11006,Syna Tiger Resort,moderate,5str,Bandhavgarh,DR11283,Syna Tiger Resort
+HO11493,The Gordon House,moderate,4str,Mumbai,DR12229,The Gordon House
+HO10380,Sawai Madhopur Lodge - IHCL SeleQtions,first-class,3str,Ranthambore,DR10402,Sawai Madhopur Lodge - IHCL SeleQtions
+HO10488,Regenta Resort Vanya Mahal,moderate,3str,Ranthambore,DR10960,Regenta Resort Vanya Mahal
+HO11191,Shahpura Barliyas House,budget,1str,Udaipur (RJ),DR11195,Shahpura Barliyas House
+HO11941,Kairali -The Ayurvedic Healing Village,budget,1str,,DR11538,Kairali -The Ayurvedic Healing Village
+HO11234,Mallige Residency,budget,4str,Hassan,DR11395,Mallige Residency
+HO11010,MGM Vailankanni Residency,moderate,3str,Velankanni,DR11301,MGM Vailankanni Residency
+HO10468,The Oberoi Amarvilas,lux,5str,Agra,DR10177,The Oberoi Amarvilas
+HO11402,Cygnett Lite Grand,budget,1str,Jaipur,DR12008,Cygnett Lite Grand
+HO10210,Denissons,moderate,5str,Hubballi (Hubli),DR10715,Denissons
+HO12268,Hotel Srinagar,budget,standard-hotel,Palpa,DR12655,Hotel Srinagar
+HO10028,Poppy's,lux,3str,Madurai,DR10166,Poppy's
+HO11169,Abbotsford,moderate,1str,Nainital,DR11544,Abbotsford
+HO12072,Vedaaranya Haveli,budget,1str,Ramgarh (RJ),DR11538,Vedaaranya Haveli
+HO10527,Jasmin Home,moderate,3str,Jaisalmer,DR10321,Jasmin Home
+HO10185,Cardamom County,first-class,4str,Thekkady (Periyar/Kumily),DR10674,Cardamom County
+HO12173,Rashmi Guest House,budget,3str,,DR11538,Rashmi Guest House
+HO11923,Ramada,budget,4str,Alappuzha (Alleppey),DR11538,Ramada
+HO10408,Karohi Haveli,moderate,3str,Udaipur (RJ),DR10124,Karohi Haveli
+HO11461,Wada 1,budget,1str,Aihole,DR12038,Wada 1
+HO11983,Banyan Tree,budget,1str,,DR11538,Banyan Tree
+HO11523,Zone Connect By The Park,budget,4str,Udaipur (RJ),DR12317,Zone Connect By The Park
+HO11419,Aaram Baagh,budget,4str,Pushkar,DR11890,Aaram Baagh
+HO12194,Punnamada Resorts (Houseboat),houseboat-first-class,1str,Alappuzha (Alleppey),DR10249,Punnamada Resorts (Houseboat)
+HO11501,Marvel cruise,houseboat-moderate,houseboat-platinum,Alappuzha (Alleppey),DR10847,Marvel cruise
+HO11895,Anantya By The Lake,moderate,4str,Kanyakumari,DR12378,Anantya By The Lake
+HO10697,Sarovar Portico Naraina,budget,3str,New Delhi,DR11069,Sarovar Portico Naraina
+HO10891,Manama,budget,2str,Mumbai,DR10841,Manama
+HO11823,The Park,budget,5str,Hyderabad,DR11538,The Park
+HO10084,Wildernest,budget,home-stay,,DR10298,Wildernest
+HO11760,Mandrem Beach Resort,budget,4str,,DR11538,Mandrem Beach Resort
+HO10007,Ekaa Villa,moderate,home-stay,Agra,DR10099,Ekaa Villa
+HO11390,Nazri Resort,moderate,3str,Goa,DR10570,Nazri Resort
+HO10824,Sonaar Haveli,moderate,3str,Jaisalmer,DR11160,Sonaar Haveli
+HO11982,The Lalita Grand,moderate,4str,Mathura,DR12648,The Lalita Grand
+HO10552,Dev Niwas,moderate,2str,Bundi,DR11037,Dev Niwas
+HO10733,Sandal Suites,moderate,4str,Noida,DR11136,Sandal Suites
+HO10437,Taj Lake Palace,lux,5str,Udaipur (RJ),DR10213,Taj Lake Palace
+HO11151,Renest,budget,1str,Haridwar,DR11547,Renest
+HO12300,Club Mahindra,moderate,5str,Jaisalmer,DR12756,Club Mahindra
+HO11696,Aashyana Lakhanpal,budget,1str,,DR11538,Aashyana Lakhanpal
+HO10701,Taj Mahal,lux,5str,Lucknow,DR10629,Taj Mahal
+HO10684,Taj Madikeri Resort & Spa,first-class,5str,Coorg (Kodagu),DR11083,Taj Madikeri Resort & Spa
+HO12322,Mementos By ITC,first-class,1str,Jaipur,DR12738,Mementos By ITC
+HO11682,MPT Holiday Homes Amarkantak,budget,1str,Panna,DR11538,MPT Holiday Homes Amarkantak
+HO10351,Achrol Niwas,budget,3str,Jaipur,DR10858,Achrol Niwas
+HO10751,Hilton Garden Inn,moderate,5str,Thiruvananthapuram (Trivandrum),DR10837,Hilton Garden Inn
+HO10546,Kanha Jungle Camp,moderate,1str,Kanha,DR10577,Kanha Jungle Camp
+HO10218,Pai Vista,budget,3str,Mysuru (Mysore),DR10552,Pai Vista
+HO11435,Chandelao Garh,moderate,3str,Jodhpur,DR10331,Chandelao Garh
+HO10023,The Coral Court,budget,1str,Agra,DR10199,The Coral Court
+HO11937,Banons Resorts,moderate,3str,Manali,DR12582,Banons Resorts
+HO10103,Intercontinental,first-class,5str,Jaipur,DR10247,Intercontinental
+HO11535,Chez Lavania,moderate,1str,Udaipur (RJ),DR12235,Chez Lavania
+HO10384,The Gordon House,moderate,4str,Mumbai,DR10483,The Gordon House
+HO10617,White Water Cruise-3BRH,houseboat-moderate,houseboat-silver,Alappuzha (Alleppey),DR10006,White Water Cruise-3BRH
+HO11860,Blue Wings Homestay,budget,home-stay,,DR11538,Blue Wings Homestay
+HO12212,Jagat,budget,4str,Udaipur (RJ),DR12411,Jagat
+HO10186,ITC Grand Central,first-class,5str,Mumbai,DR10420,ITC Grand Central
+HO12036,Gulaab Niwaas Palace,budget,3str,,DR11538,Gulaab Niwaas Palace
+HO10479,Palais De Mahe,first-class,3str,Puducherry (Pondicherry),DR10926,Palais De Mahe
+HO10039,Meraden Grand,budget,3str,Varanasi,DR10173,Meraden Grand
+HO12240,Hyatt Centric,moderate,5str,Kathmandu,DR12655,Hyatt Centric
+HO11109,Fortune Park Panchwati,moderate,3str,Kolkata,DR11363,Fortune Park Panchwati
+HO10369,Diggi Palace,moderate,4str,Jaipur,DR10258,Diggi Palace
+HO10524,Saraca,first-class,5str,Lucknow,DR10628,Saraca
+HO10489,Ajit Bhawan,first-class,5str,Jodhpur,DR10329,Ajit Bhawan
+HO10326,Trident,first-class,5str,Gurgaon,DR10806,Trident
+HO11447,City Inn,moderate,3str,Varanasi,DR10206,City Inn
+HO11684,Fortune Inn Heritage Walk,budget,1str,Amritsar,DR11538,Fortune Inn Heritage Walk
+HO12150,Golden Fern Resorts,budget,4str,Shimla,DR11538,Golden Fern Resorts
+HO10944,WelcomHeritage Balsamand Lake Palace,moderate,1str,Jodhpur,DR10330,WelcomHeritage Balsamand Lake Palace
+HO10353,Golden Sarovar Portico,budget,4str,Amritsar,DR10839,Golden Sarovar Portico
+HO11140,Ravla Bhenswara,budget,3str,Bhenswara,DR10569,Ravla Bhenswara
+HO11662,The River Front Resort,budget,3str,,DR11538,The River Front Resort
+HO11480,Gogunda Palace,first-class,4str,Udaipur (RJ),DR12237,Gogunda Palace
+HO12330,Java Rain Resort,first-class,4str,Chikkamagaluru,DR11538,Java Rain Resort
+HO10639,Mantra Koodam,first-class,4str,Kumbakonam,DR10449,Mantra Koodam
+HO11988,By The Riverside,moderate,1str,Pollachi,DR12688,By The Riverside
+HO11315,Bodhgaya Regency,budget,4str,Bodhgaya,DR11173,Bodhgaya Regency
+HO10856,Hyatt Regency,first-class,5str,New Delhi,DR10502,Hyatt Regency
+HO11627,Radisson Blu Chennai City Centre,budget,5str,Chennai,DR11538,Radisson Blu Chennai City Centre
+HO11190,Kaav Safari Lodge,moderate,1str,Kabini,DR11421,Kaav Safari Lodge
+HO10937,Windsor Heights,budget,1str,Gurgaon,DR11170,Windsor Heights
+HO11612,Bloom Boutique (Connaught Place),budget,3str,New Delhi,DR12402,Bloom Boutique (Connaught Place)
+HO10978,Vivanta,first-class,5str,Navi Mumbai,DR11295,Vivanta
+HO11826,Ramada,budget,4str,Alappuzha (Alleppey),DR11538,Ramada
+HO11220,Airlink Castle,moderate,5str,Kochi (Cochin),DR11440,Airlink Castle
+HO10405,Le Meridien,first-class,5str,New Delhi,DR10369,Le Meridien
+HO10364,The Fern Ranthambhore Forest Resort,moderate,3str,Ranthambore,DR10853,The Fern Ranthambhore Forest Resort
+HO12070,Rajah Eco Beach,budget,1str,,DR11538,Rajah Eco Beach
+HO12345,Storii By ITC Hotels,first-class,1str,Jaisalmer,DR12801,Storii By ITC Hotels
+HO10966,Ranthambore Camp,first-class,1str,Ranthambore,DR11554,Ranthambore Camp
+HO11551,Sankhu Niwas,budget,1str,Bikaner,DR12056,Sankhu Niwas
+HO10195,The Leela Palace,lux,5str-lux,Chennai,DR10128,The Leela Palace
+HO11240,Sparsa,budget,3str,Tiruvannamalai,DR11315,Sparsa
+HO12381,TEst VK HOtel API,lux,5str,Goa,DR11538,TEst VK HOtel API
+HO11513,Somatheeram Research Institute & Ayurveda Hospital,moderate,1str,Kovalam,DR10442,Somatheeram Research Institute & Ayurveda Hospital
+HO11346,Sujata,moderate,3str,Bodhgaya,DR11608,Sujata
+HO11098,ITC Gardenia,first-class,5str,Bengaluru,DR11425,ITC Gardenia
+HO10438,The Almond Tree,moderate,1str,Jodhpur,DR10343,The Almond Tree
+HO10976,Barefoot Resorts,first-class,4str,Havelock,DR10534,Barefoot Resorts
+HO10020,Ganges View,moderate,3str,Varanasi,DR10004,Ganges View
+HO10024,Khandela Haveli,budget,3str,Jaipur,DR10001,Khandela Haveli
+HO10569,Six Senses Fort Barwara,lux,5str,Ranthambore,DR11019,Six Senses Fort Barwara
+HO11660,Jhira Bagh Palace,budget,3str,,DR11538,Jhira Bagh Palace
+HO10272,Ramada,moderate,5str,Alappuzha (Alleppey),DR10363,Ramada
+HO10711,Anand Kashi By The Ganges - IHCL SeleQtions,lux,5str,Rishikesh,DR10995,Anand Kashi By The Ganges - IHCL SeleQtions
+HO10250,Castle Bera,moderate,2str,Pali (RJ) ,DR10549,Castle Bera
+HO11070,WelcomHeritage Badi Kothi,moderate,1str,Prayagraj,DR11369,WelcomHeritage Badi Kothi
+HO10119,Imperial,budget,3str,Jaisalmer,DR10293,Imperial
+HO11178,Rawla Jojawar,moderate,3str,Jojawar,DR10573,Rawla Jojawar
+HO10755,Devi Ratn - IHCL SeleQtions,first-class,5str,Jaipur,DR11131,Devi Ratn - IHCL SeleQtions
+HO11366,Misty Gate,budget,3str,Wayanad,DR11524,Misty Gate
+HO11521,Zone Palace By The Park,moderate,3str,Phalodi,DR12316,Zone Palace By The Park
+HO10506,Pushkar Palace,first-class,3str,Pushkar,DR10941,Pushkar Palace
+HO10865,Windflower Resort & Spa,moderate,5str,Coorg (Kodagu),DR11105,Windflower Resort & Spa
+HO10970,Haveli Hari Ganga,moderate,3str,,DR10613,Haveli Hari Ganga
+HO11672,Itmenaan Estate,budget,3str,Almora,DR11538,Itmenaan Estate
+HO10125,The Fern Residency,moderate,4str,Udaipur (RJ),DR10218,The Fern Residency
+HO11341,Grand Gardenia,budget,3str,Trichy (Tiruchirappalli),DR11502,Grand Gardenia
+HO11451,Nimmu House,first-class,2str,Leh,DR12005,Nimmu House
+HO10327,Taj Malabar Resort & Spa,first-class,5str,Kochi (Cochin),DR10375,Taj Malabar Resort & Spa
+HO10886,The Shalimar,moderate,4str,Mumbai,DR10906,The Shalimar
+HO10133,Pilibhit House â€“ IHCL SeleQtions,lux,5str,Haridwar,DR10450,Pilibhit House â€“ IHCL SeleQtions
+HO10490,Rohet Garh,moderate,3str,Rohet,DR10403,Rohet Garh
+HO12015,Kariappa House,moderate,1str,Puducherry (Pondicherry),DR12666,Kariappa House
+HO11881,Regenta Orkos,budget,4str,,DR11538,Regenta Orkos
+HO10704,Fortune Miramar,moderate,5str,Goa,DR11076,Fortune Miramar
+HO11893,Wild Avenue Resort & Spa,budget,1str,,DR11538,Wild Avenue Resort & Spa
+HO11917,Golden Tulip,budget,4str,Lucknow,DR11538,Golden Tulip
+HO11211,Deshadan Cliff & Beach Resort,budget,3str,Varkala,DR11117,Deshadan Cliff & Beach Resort
+HO10031,Lakshmi,budget,4str,Thanjavur (Tanjore),DR10190,Lakshmi
+HO10573,Marari Villas,moderate,3str,Mararikulam,DR11007,Marari Villas
+HO11431,Satvik Resort,budget,1str,New Delhi,DR11951,Satvik Resort
+HO10533,The Postcard Gir,lux,5str,Sasan Gir,DR10415,The Postcard Gir
+HO11647,Honeydewwz Exoticaa Hotel & Resort,budget,4str,,DR11538,Honeydewwz Exoticaa Hotel & Resort
+HO10689,Fortune JP Palace,moderate,4str,Mysuru (Mysore),DR10865,Fortune JP Palace
+HO11068,Clarks Inn,budget,1str,Jaipur,DR10246,Clarks Inn
+HO11774,Green Olive,budget,3str,,DR11538,Green Olive
+HO12129,Gateway Retreat,budget,5str,,DR11538,Gateway Retreat
+HO10548,Lake Canopy,moderate,4str,Alappuzha (Alleppey),DR11035,Lake Canopy
+HO10290,Vivanta (Dwarka),moderate,5str,New Delhi,DR10346,Vivanta (Dwarka)
+HO11712,Casa Jaali,budget,1str,Goa,DR11538,Casa Jaali
+HO11822,Radisson Hotel Jalandhar,budget,5str,,DR11538,Radisson Hotel Jalandhar
+HO11465,Brij Anayra,first-class,1str,Dharamshala,DR12243,Brij Anayra
+HO10717,Raajkutir - IHCL SeleQtions,first-class,4str,Kolkata,DR11109,Raajkutir - IHCL SeleQtions
+HO10398,Fortune Pandiyan,moderate,3str,Madurai,DR10163,Fortune Pandiyan
+HO10348,Emerald Isle,budget,heritage,Alappuzha (Alleppey),DR10244,Emerald Isle
+HO12239,Dwarika's,lux,luxury-heritage-boutique-hotel,Kathmandu,DR12655,Dwarika's
+HO10768,Hyatt Centric,first-class,5str,Goa,DR10509,Hyatt Centric
+HO11058,Clarks Inn,moderate,3str,Badami,DR11368,Clarks Inn
+HO11452,Mandawa Haveli,budget,3str,Mandawa,DR11185,Mandawa Haveli
+HO10474,Abad Copper Castle,budget,3str,Munnar,DR10913,Abad Copper Castle
+HO11205,Ramada By Wyndham Jaipur (North),moderate,4str,Jaipur,DR11288,Ramada By Wyndham Jaipur (North)
+HO11612,Bloom Boutique (Connaught Place),budget,1str,New Delhi,DR12402,Bloom Boutique (Connaught Place)
+HO11409,Grand Hyatt,lux,5str,Goa,DR10507,Grand Hyatt
+HO10996,Accord,moderate,5str,Puducherry (Pondicherry),DR10936,Accord
+HO12253,Temple Tree Resort & Spa,moderate,standard-hotel,Pokhara,DR12655,Temple Tree Resort & Spa
+HO10277,Mandawa Haveli,moderate,3str,Jaipur,DR10660,Mandawa Haveli
+HO12088,Mayas Kem Pride,budget,3str,,DR11538,Mayas Kem Pride
+HO10513,Royal Orchid Central Kireeti,moderate,4str,Hosapete (Hospet) (not to be used),DR10537,Royal Orchid Central Kireeti
+HO10126,Trident,first-class,5str,Udaipur (RJ),DR10229,Trident
+HO10472,SUJAN Sher Bagh,lux,5str,Ranthambore,DR10932,SUJAN Sher Bagh
+HO11909,Mercure Hyderabad KCP,moderate,4str,Hyderabad,DR12456,Mercure Hyderabad KCP
+HO11721,Double Tree By Hilton,budget,5str,Goa,DR11538,Double Tree By Hilton
+HO11613,Emarald,moderate,3str,New Delhi,DR12214,Emarald
+HO11187,Dekeling,moderate,3str,Darjeeling,DR11800,Dekeling
+HO11875,The Ayur Villa,budget,1str,,DR11538,The Ayur Villa
+HO11857,Mandore Guest House,budget,3str,Jodhpur,DR10902,Mandore Guest House
+HO12254,Jungle Villa Resort,moderate,1str,Chitwan,DR12655,Jungle Villa Resort
+HO10167,Taj Hari Mahal,lux,5str,Jodhpur,DR10342,Taj Hari Mahal
+HO11150,Aangan Resort,budget,4str,Ranthambore,DR11550,Aangan Resort
+HO11824,JC Residency,budget,3str,Kodaikanal,DR12507,JC Residency
+HO11204,Abad Fort,moderate,2str,Kochi (Cochin),DR11346,Abad Fort
+HO12353,Umaid Mahal Palace,budget,1str,Pushkar,DR12720,Umaid Mahal Palace
+HO11800,The Bay Agonda,budget,3str,,DR11538,The Bay Agonda
+HO11505,Marvel Cruise,houseboat-moderate,houseboat-platinum,Kumarakom,DR10847,Marvel Cruise
+HO12218,The Old Inn,budget,1str,Bandipur (NP),DR11538,The Old Inn
+HO11228,Mannaas Veedu,moderate,1str,Pathanamthitta,DR11417,Mannaas Veedu
+HO11143,The Lavitra,budget,3str,Udaipur (RJ),DR11530,The Lavitra
+HO10120,Windermere Estate,first-class,4str,Munnar,DR10289,Windermere Estate
+HO11953,Jawai Pugmark Safari Lodge,budget,1str,,DR11538,Jawai Pugmark Safari Lodge
+HO12205,Pushkara Resort & Spa,moderate,1str,Pushkar,DR12221,Pushkara Resort & Spa
+HO12177,Gateway,moderate,5str,Bekal,DR12397,Gateway
+HO12186,Serene Horizon,moderate,5str,Thekkady (Periyar/Kumily),DR12458,Serene Horizon
+HO12040,La Montana by TGI,budget,3str,,DR11538,La Montana by TGI
+HO11637,Nuo By Justa,budget,4str,New Delhi,DR11538,Nuo By Justa
+HO10136,Four Seasons,first-class,5str,Mumbai,DR10417,Four Seasons
+HO10635,Amar,budget,3str,Agra,DR10085,Amar
+HO11386,Casa De Goa,moderate,3str,Goa,DR11884,Casa De Goa
+HO10577,Poetree Sarovar Portico,moderate,4str,Thekkady (Periyar/Kumily),DR11023,Poetree Sarovar Portico
+HO12264,The Inn Patan,budget,standard-hotel,Lalitpur (NP),DR12655,The Inn Patan
+HO12208,Saura,moderate,5str,Agra,DR12635,Saura
+HO10930,Kanha Earth Lodge,first-class,4str,Kanha,DR11206,Kanha Earth Lodge
+HO10986,Park Inn By Radisson,budget,4str,Amritsar,DR10521,Park Inn By Radisson
+HO12160,Willow Banks,budget,4str,,DR11538,Willow Banks
+HO10864,Ambassador Ajanta,moderate,5str,Aurangabad (MH) ,DR10526,Ambassador Ajanta
+HO10349,Abhyaran Resort & Spa,budget,4str,Ranthambore,DR10742,Abhyaran Resort & Spa
+HO10165,Mela Kothi - Chambal Safari Lodge,moderate,1str,Jarar,DR10661,Mela Kothi - Chambal Safari Lodge
+HO11064,The Pride,moderate,5str,Nagpur,DR11404,The Pride
+HO11576,Taj Wellington Mews,first-class,5str,Chennai,DR12374,Taj Wellington Mews
+HO12134,Spicetree Chinnar,moderate,4str,Udumalpet,DR12573,Spicetree Chinnar
+HO12222,Cardinal Express Oxmo,budget,3str,New Delhi,DR12664,Cardinal Express Oxmo
+HO11360,Mapple Abhay,moderate,4str,Jodhpur,DR10763,Mapple Abhay
+HO11142,Classic Residency,budget,3str,Haridwar,DR11342,Classic Residency
+HO10837,Cardamom House,moderate,3str,Dindigul,DR10598,Cardamom House
+HO12349,BluSalzz Residence,budget,1str,Amritsar,DR12807,BluSalzz Residence
+HO11781,Salcete Beach Resort,budget,4str,,DR11538,Salcete Beach Resort
+HO12248,Shambaling,budget,4str,Kathmandu,DR12655,Shambaling
+HO10798,Bijapur Lodge,first-class,1str,Pali (RJ) ,DR11118,Bijapur Lodge
+HO12185,The Imperial,moderate,4str,Bodhgaya,DR12488,The Imperial
+HO12142,Athena,budget,1str,Tiruvannamalai,DR11538,Athena
+HO10505,Royal Desert Safaries,moderate,1str,Jaisalmer,DR10961,Royal Desert Safaries
+HO11037,Pride Plaza,moderate,5str,Ahmedabad,DR11354,Pride Plaza
+HO12099,Hyatt Regency,budget,1str,Dehradun,DR11538,Hyatt Regency
+HO11459,Courtyard By Marriott,first-class,3str,Trichy (Tiruchirappalli),DR11317,Courtyard By Marriott
+HO11257,Jaypee Vasant Continental,moderate,5str,New Delhi,DR11297,Jaypee Vasant Continental
+HO11979,Vijayatej Clarks Inn,budget,3str,,DR11538,Vijayatej Clarks Inn
+HO10087,Dev Villa,moderate,1str,Jaisalmer,DR10294,Dev Villa
+HO11118,Taj Wayanad Resort & Spa,first-class,5str,Wayanad,DR11460,Taj Wayanad Resort & Spa
+HO10420,Bijolai Palace,moderate,4str,Jodhpur,DR10863,Bijolai Palace
+HO10372,Taj Coromandel,first-class,5str,Chennai,DR10896,Taj Coromandel
+HO10205,Udai Bilas Palace,moderate,1str,Dungarpur,DR10596,Udai Bilas Palace
+HO11476,Norbu The Montanna - IHCL SeleQtions,first-class,5str,Dharamshala,DR12215,Norbu The Montanna - IHCL SeleQtions
+HO10217,Olive Brook,budget,3str,Munnar,DR10728,Olive Brook
+HO12171,The Fern Residency,budget,1str,Bhopal,DR11538,The Fern Residency
+HO11588,Niraamaya Retreats Samroha,first-class,5str,Athirappilly,DR12365,Niraamaya Retreats Samroha
+HO11391,Mundota Fort And Palace,moderate,5str,Jaipur,DR11956,Mundota Fort And Palace
+HO10400,Heritage Madurai,first-class,5str,Madurai,DR10017,Heritage Madurai
+HO11668,Justa Birding Resort & Spa,budget,5str,,DR11538,Justa Birding Resort & Spa
+HO11284,Sea Lagoon Health Resort,moderate,4str,Kochi (Cochin),DR11759,Sea Lagoon Health Resort
+HO11659,Plumeria Lake Resort & Spa,moderate,4str,Cherthala,DR12574,Plumeria Lake Resort & Spa
+HO11429,Nirali Dhani,budget,3str,Jodhpur,DR11400,Nirali Dhani
+HO11079,Vivanta (Ernakulam),moderate,5str,Kochi (Cochin),DR11338,Vivanta (Ernakulam)
+HO11689,Sanjog International,budget,3str,,DR11538,Sanjog International
+HO11578,Taj City Centre,first-class,5str,Patna,DR12375,Taj City Centre
+HO11326,Vinayaga By Poppys,budget,3str,Rameshwaram,DR11633,Vinayaga By Poppys
+HO12392,Maldives Package,first-class,5str,,DR12908,Maldives Package
+HO10593,Kot Dunara,budget,1str,Luni,DR10988,Kot Dunara
+HO10093,Indana Palace,moderate,5str,Jaipur,DR10273,Indana Palace
+HO11816,Winds Desert Camps,budget,1str,,DR11538,Winds Desert Camps
+HO11401,O Hotel,first-class,5str,Goa,DR11542,O Hotel
+HO10482,Dune Eco Village & Spa,budget,3str,Puducherry (Pondicherry),DR10975,Dune Eco Village & Spa
+HO11436,Rose Mallow,budget,4str,New Delhi,DR12029,Rose Mallow
+HO10030,Indus Biznotel,moderate,2str,New Delhi,DR10230,Indus Biznotel
+HO11827,The Westin Hyderabad Mindspace,budget,5str,,DR11538,The Westin Hyderabad Mindspace
+HO10288,Amar Mahal,moderate,3str,Orchha,DR10317,Amar Mahal
+HO10439,The Orchid,moderate,5str,Mumbai,DR10513,The Orchid
+HO10940,The Astor,moderate,4str,Kolkata,DR11176,The Astor
+HO10615,Xandari Riverscapes-2BRH,houseboat-first-class,houseboat-platinum,Alappuzha (Alleppey),DR10649,Xandari Riverscapes-2BRH
+HO10866,The Ananta,moderate,5str,Udaipur (RJ),DR10063,The Ananta
+HO10933,Clouds End Villa Cottages,moderate,1str,Dharamshala,DR10587,Clouds End Villa Cottages
+HO11213,Justa Lake Nahargarh Palace,moderate,4str,Parsoli,DR11476,Justa Lake Nahargarh Palace
+HO11572,The Residency,budget,3str,Karur,DR12366,The Residency
+HO10773,Brij Laxman Sagar,first-class,5str,Raipur (RJ) ,DR11121,Brij Laxman Sagar
+HO12201,Rhythm,moderate,1str,Gurgaon,DR12401,Rhythm
+HO11110,Welcomhotel,moderate,5str,Coimbatore,DR10470,Welcomhotel
+HO11915,Priya,budget,3str,,DR11538,Priya
+HO10284,Radisson,moderate,5str,Agra,DR10648,Radisson
+HO10922,Pushkar Fort,budget,3str,Pushkar,DR10848,Pushkar Fort
+HO10101,Radisson Blu Plaza (Delhi Airport),moderate,5str,New Delhi,DR10384,Radisson Blu Plaza (Delhi Airport)
+HO11030,Surya Haveli,moderate,1str,Jaipur,DR11193,Surya Haveli
+HO10135,Alila Diwa,first-class,5str-lux,Goa,DR10498,Alila Diwa
+HO10179,Samode Palace,lux,1str,Samode,DR10672,Samode Palace
+HO10709,Novotel (Juhu Beach),first-class,5str,Mumbai,DR10440,Novotel (Juhu Beach)
+HO11830,Sayaji,budget,4str,Kolhapur,DR11538,Sayaji
+HO12369,"Bookmark Resorts, Jogi Mahal",first-class,5str,Ranthambore,DR12653,"Bookmark Resorts, Jogi Mahal"
+HO10065,Ambady Estate,moderate,home-stay,Munnar,DR10003,Ambady Estate
+HO12068,The Fern Residency,budget,3str,Bhopal,DR11538,The Fern Residency
+HO10698,"Baghvan, A Taj Safari",lux,5str,Pench,DR11089,"Baghvan, A Taj Safari"
+HO11082,The Oberoi Sukhvilas Resort & Spa,lux,5str,Chandigarh,DR11448,The Oberoi Sukhvilas Resort & Spa
+HO10285,Chirag,budget,4str,Bikaner,DR10825,Chirag
+HO12104,Best Western Vrindavan,budget,3str,Vrindavan,DR11538,Best Western Vrindavan
+HO11414,Prazeres Resort,moderate,1str,Goa,DR10643,Prazeres Resort
+HO10625,Pratap Mahal - IHCL SeleQtions,first-class,5str,Ajmer,DR10457,Pratap Mahal - IHCL SeleQtions
+HO10427,Anandha Inn,budget,4str,Puducherry (Pondicherry),DR10888,Anandha Inn
+HO11554,Modi Yoga Retreat,first-class,1str,Rishikesh,DR12232,Modi Yoga Retreat
+HO10879,JW Marriott,lux,5str,Chandigarh,DR10585,JW Marriott
+HO11007,Holiday Inn (Racecourse),moderate,5str,Bengaluru,DR11316,Holiday Inn (Racecourse)
+HO12145,Spree Resort Sariska,budget,1str,,DR11538,Spree Resort Sariska
+HO11274,The Boat Company,houseboat-first-class,1str,Alappuzha (Alleppey),DR11527,The Boat Company
+HO11122,Treehouse Amaara,budget,3str,Jodhpur,DR11043,Treehouse Amaara
+HO10114,Sarovar Portico,moderate,3str,Jaipur,DR10322,Sarovar Portico
+HO11049,Brij Nest,moderate,5str,Jaipur,DR11458,Brij Nest
+HO11301,Conrad,first-class,5str,Bengaluru,DR10438,Conrad
+HO10987,The Naini Retreat,first-class,4str,Nainital,DR11278,The Naini Retreat
+HO10540,Philipkutty's Farm,moderate,1str,Vechoor,DR10625,Philipkutty's Farm
+HO11727,Dunhill Beach Resort,budget,3str,,DR11538,Dunhill Beach Resort
+HO10983,A Home For Nature Lover,moderate,1str,Jambugodha,DR11266,A Home For Nature Lover
+HO11807,Vivenda Dos Palhacos,budget,1str,,DR11538,Vivenda Dos Palhacos
+HO10181,Indeco Hotels Swamimalai,moderate,heritage,Kumbakonam,DR10421,Indeco Hotels Swamimalai
+HO11210,Bloomrooms (Link Road),moderate,3str,New Delhi,DR11435,Bloomrooms (Link Road)
+HO10740,Red Fox,budget,3str,Hyderabad,DR11137,Red Fox
+HO11608,Bamboo Saa Mulberry Resort,moderate,4str,Pushkar,DR12301,Bamboo Saa Mulberry Resort
+HO10249,The Fern Residency,moderate,4str,Sarnath,DR10605,The Fern Residency
+HO10071,GRT Grand,first-class,5str,Chennai,DR10212,GRT Grand
+HO10172,Spice Tree,first-class,5str,Munnar,DR10668,Spice Tree
+HO11157,Treehouse The Pugmark,moderate,1str,Ranthambore,DR11268,Treehouse The Pugmark
+HO12215,Norling House,moderate,1str,Dharamshala,DR12657,Norling House
+HO10613,Xandari Riverscapes-1BRH,houseboat-first-class,houseboat-platinum,Kumarakom,DR10649,Xandari Riverscapes-1BRH
+HO10213,Rawalkot,moderate,4str,Jaisalmer,DR10307,Rawalkot
+HO10181,Indeco Hotels Swamimalai,budget,4str,Kumbakonam,DR10421,Indeco Hotels Swamimalai
+HO12213,Dharana At Shillim,lux,1str,Pune,DR12652,Dharana At Shillim
+HO10975,Fortune Select S.G. Highway,moderate,5str,Ahmedabad,DR11208,Fortune Select S.G. Highway
+HO10980,HK Clarks Inn,moderate,3str,Amritsar,DR11290,HK Clarks Inn
+HO10926,Costa Riviera,budget,1str,Varanasi,DR10194,Costa Riviera
+HO10642,Justa Sajjangarh Resort & Spa,moderate,5str,Udaipur (RJ),DR11042,Justa Sajjangarh Resort & Spa
+HO11859,Khatu Haveli,budget,3str,Jaipur,DR11538,Khatu Haveli
+HO11507,Spice Routes,houseboat-lux,houseboat-platinum,Kumarakom,DR10257,Spice Routes
+HO10561,Royal Heritage Haveli,first-class,4str,Jaipur,DR11016,Royal Heritage Haveli
+HO11442,Amar Kothi,budget,3str,Udaipur (RJ),DR11187,Amar Kothi
+HO11568,Great Trails,moderate,3str,Yercaud,DR12362,Great Trails
+HO12227,Lake View Resort,budget,4str,Pokhara,DR12655,Lake View Resort
+HO10118,Suryaa Villa,budget,4str,Jaipur,DR10325,Suryaa Villa
+HO12251,Tomijong Lodge,moderate,standard-hotel,Annapurna Region,DR12655,Tomijong Lodge
+HO11749,The Hideaway River Lodge,budget,1str,,DR11538,The Hideaway River Lodge
+HO12321,Welcomhotel,moderate,5str,Bhubaneswar,DR12808,Welcomhotel
+HO11445,Umed Bhawan Palace,moderate,3str,Kota (RJ) ,DR11597,Umed Bhawan Palace
+HO11477,Kadamb Kunj Resort,moderate,3str,Bharatpur,DR12242,Kadamb Kunj Resort
+HO10323,Trident,moderate,5str,Agra,DR10142,Trident
+HO12390,Crown Vibrant Taj - Jaipur,lux,5str,Kumarakom,DR12906,Crown Vibrant Taj - Jaipur
+HO10765,Sterling Wayanand,moderate,4str,Wayanad,DR11102,Sterling Wayanand
+HO11569,Coorg International,budget,3str,Coorg (Kodagu),DR12287,Coorg International
+HO10150,Tea Bungalow,moderate,4str,Kochi (Cochin),DR10652,Tea Bungalow
+HO10004,Four Points By Sheraton,moderate,4str,Jaipur,DR10106,Four Points By Sheraton
+HO10644,Taj Falaknuma Palace,lux,5str,Hyderabad,DR10535,Taj Falaknuma Palace
+HO11857,The Mandore - A Leafy Resort,budget,3str,Jodhpur,DR10902,The Mandore - A Leafy Resort
+HO12106,Parisutham,budget,3str,,DR11538,Parisutham
+HO12336,Chettinadu Court,moderate,1str,Chettinadu,DR10764,Chettinadu Court
+HO10772,Hill Fort,moderate,4str,Alwar,DR11111,Hill Fort
+HO10881,Crowne Plaza (Rohini),first-class,4str,New Delhi,DR10492,Crowne Plaza (Rohini)
+HO11808,W Goa,budget,5str,,DR11538,W Goa
+HO12305,Thar Oasis Resort & Camp,moderate,4str,Dechu,DR10696,Thar Oasis Resort & Camp
+HO10999,Badami Court,budget,3str,Badami,DR11150,Badami Court
+HO11633,The River Retreat,budget,4str,Cheruthuruthy,DR10589,The River Retreat
+HO10963,Lemon tree,moderate,3str,Dehradun,DR11147,Lemon tree
+HO12064,Hyatt,budget,5str,Pune,DR11538,Hyatt
+HO11361,Park Plaza Chennai OMR,moderate,5str,Chennai,DR11064,Park Plaza Chennai OMR
+HO10204,Ameya,first-class,5str,Cherthala,DR10690,Ameya
+HO10491,Mihir Garh,first-class,5str,Rohet,DR10957,Mihir Garh
+HO10563,Astoria,budget,3str,Madurai,DR10855,Astoria
+HO12175,Dev Mahal,moderate,1str,Jaipur,DR12303,Dev Mahal
+HO10035,Starlit Suites,budget,4str,Kochi (Cochin),DR10009,Starlit Suites
+HO11865,Pearl Palace Heritage,moderate,3str,Jaipur,DR12613,Pearl Palace Heritage
+HO10926,Costa Riviera,budget,4str,Varanasi,DR10194,Costa Riviera
+HO10044,Le Pondy,moderate,4str,Puducherry (Pondicherry),DR10183,Le Pondy
+HO11249,Fortune Resort Benaullim,moderate,4str,Goa,DR11271,Fortune Resort Benaullim
+HO10073,Fateh Niwas,first-class,4str,Udaipur (RJ),DR10115,Fateh Niwas
+HO11020,Aangan Resort,budget,4str,Mandawa,DR11256,Aangan Resort
+HO10810,Grand Dragon,first-class,5str,Leh,DR11127,Grand Dragon
+HO11329,Lemon Tree (Gachibowli),moderate,1str,Hyderabad,DR11525,Lemon Tree (Gachibowli)
+HO11238,Le Poshe By Sparsa,moderate,3str,Kodaikanal,DR11430,Le Poshe By Sparsa
+HO11629,DoubleTree Suites By Hilton,budget,5str,,DR11538,DoubleTree Suites By Hilton
+HO10703,Hindusthan International,moderate,4str,Varanasi,DR10784,Hindusthan International
+HO11898,Desert Springs Resort,budget,1str,,DR11538,Desert Springs Resort
+HO12073,Marriott Suites,budget,5str,,DR11538,Marriott Suites
+HO10068,Clarks Amer,moderate,5str,Jaipur,DR10245,Clarks Amer
+HO10671,Tuli Tiger Resort,moderate,1str,Kanha,DR11097,Tuli Tiger Resort
+HO10523,Ramathra Fort,moderate,4str,Karauli,DR10831,Ramathra Fort
+HO10189,Niraamaya Retreats Surya Samudra,first-class,5str,Kovalam,DR10427,Niraamaya Retreats Surya Samudra
+HO12391,Carmelia Haven Resort,houseboat-moderate,houseboat-silver,Jodhpur,DR11645,Carmelia Haven Resort
+HO10132,Fortune Park JP Celestial,moderate,4str,Bengaluru,DR10493,Fortune Park JP Celestial
+HO11803,Dhole's Den,moderate,3str,Bandipur,DR12559,Dhole's Den
+HO10555,ITC Rajputana,first-class,5str,Jaipur,DR10184,ITC Rajputana
+HO11942,Jw Marriott Mussoorie Walnut Grove Resort,budget,5str,Mussoorie,DR11538,Jw Marriott Mussoorie Walnut Grove Resort
+HO11681,Marine Inn,budget,1str,Kochi (Cochin),DR11538,Marine Inn
+HO11622,East Park Inn,moderate,4str,New Delhi,DR12513,East Park Inn
+HO10231,Taj Westend,first-class,5str,Bengaluru,DR10539,Taj Westend
+HO11814,Kahani Paradise,first-class,1str,Gokarna,DR12569,Kahani Paradise
+HO11076,The Riverview Retreat,moderate,4str,Corbett,DR11348,The Riverview Retreat
+HO10045,The Coral Tree Homestay,budget,home-stay,Agra,DR10197,The Coral Tree Homestay
+HO12296,Lutyens Bungalow,moderate,4str,New Delhi,DR12758,Lutyens Bungalow
+HO12308,Baber Mahal Vilas,moderate,standard-hotel,Kathmandu,DR12655,Baber Mahal Vilas
+HO11062,Taragarh Palace,moderate,3str,Palampur,DR11397,Taragarh Palace
+HO10627,The Park,moderate,5str,Kolkata,DR10434,The Park
+HO11739,Heritage Village Resorts & Spa,first-class,5str,Goa,DR12525,Heritage Village Resorts & Spa
+HO10399,Jaisalkot,moderate,4str,Jaisalmer,DR10315,Jaisalkot
+HO12084,Radisson Blu,budget,5str,Gorakhpur,DR11538,Radisson Blu
+HO11000,Vivanta (Surajkund),moderate,5str,Faridabad,DR11209,Vivanta (Surajkund)
+HO11183,Rakkh Resort,moderate,4str,Palampur,DR11398,Rakkh Resort
+HO12277,Amika,moderate,1str,Madurai,DR11302,Amika
+HO10863,Vits,moderate,4str,Aurangabad (MH) ,DR10681,Vits
+HO12348,Holiday Inn Resort (Cavelossim),moderate,5str,Goa,DR11469,Holiday Inn Resort (Cavelossim)
+HO11828,Crowne Plaza,budget,5str,Jaipur,DR11538,Crowne Plaza
+HO10338,Lakes and Lagoon - 3 BRH,houseboat-first-class,houseboat-gold,,DR10241,Lakes and Lagoon - 3 BRH
+HO10719,Red Fox (East Delhi),budget,3str,New Delhi,DR10777,Red Fox (East Delhi)
+HO11115,Blue Diamond - IHCL Seleqtions,moderate,5str,Pune,DR11403,Blue Diamond - IHCL Seleqtions
+HO12120,Radisson Chandigarh Zirakpur,budget,5str,,DR11538,Radisson Chandigarh Zirakpur
+HO11978,Welcomhotel Shimla,budget,1str,,DR11538,Welcomhotel Shimla
+HO11963,Centre Point,budget,5str,,DR11538,Centre Point
+HO10801,Chapslee,first-class,4str,Shimla,DR11161,Chapslee
+HO11242,Chittoor Kottaram,moderate,4str,Kochi (Cochin),DR11280,Chittoor Kottaram
+HO11490,The Kikar Lodge,moderate,5str,Rupnagar,DR12236,The Kikar Lodge
+HO10480,Westin Pushkar Resort & Spa,first-class,5str,Pushkar,DR10939,Westin Pushkar Resort & Spa
+HO10085,Parkk Boutique,budget,3str,Jodhpur,DR10337,Parkk Boutique
+HO10124,Vivanta,moderate,5str,Coimbatore,DR10467,Vivanta
+HO11916,Fortune Park Katra,budget,3str,,DR11538,Fortune Park Katra
+HO11619,Godwin,moderate,4str,Meerut,DR12412,Godwin
+HO11017,Vanaashrya,moderate,5str,Sariska,DR10745,Vanaashrya
+HO10122,Roop Niwas Kothi,moderate,3str,Nawalgarh,DR10314,Roop Niwas Kothi
+HO12257,Aagantuk Resort,budget,4str,Dhulikhel,DR12655,Aagantuk Resort
+HO10267,Zone By The Park,budget,4str,Jodhpur,DR10345,Zone By The Park
+HO11154,Pleasant Haveli,budget,3str,Jaisalmer,DR11483,Pleasant Haveli
+HO10696,The Serai,first-class,4str,Chikkamagaluru,DR11093,The Serai
+HO12004,Chandys Drizzle Drops,budget,1str,,DR11538,Chandys Drizzle Drops
+HO11092,Taj Exotica Resort & Spa,lux,5str,Havelock,DR11451,Taj Exotica Resort & Spa
+HO10984,Sinclairs,moderate,3str,Darjeeling,DR10481,Sinclairs
+HO10551,ITC Grand Chola,lux,5str,Chennai,DR10361,ITC Grand Chola
+HO11453,Stok Palace Heritage,first-class,4str,Leh,DR12027,Stok Palace Heritage
+HO11931,Kaldan Samudhra,budget,5str,Mamallapuram (Mahabalipuram),DR11538,Kaldan Samudhra
+HO11324,Ramada By Wyndham Gurgaon Central,moderate,4str,Gurgaon,DR10797,Ramada By Wyndham Gurgaon Central
+HO11352,Lemon Tree,moderate,4str,Lucknow,DR11533,Lemon Tree
+HO10666,The Sher Garh Resort,budget,4str,Ranthambore,DR10397,The Sher Garh Resort
+HO10537,Aloha On The Ganges,first-class,3str,Rishikesh,DR10609,Aloha On The Ganges
+HO10543,Deo Bagh,moderate,3str,Gwalior,DR10299,Deo Bagh
+HO11400,Crossroads,budget,3str,Gurgaon,DR11875,Crossroads
+HO10777,Pench Tree Lodge,moderate,4str,Pench,DR11112,Pench Tree Lodge
+HO10035,Starlit Suites,budget,3str,Kochi (Cochin),DR10009,Starlit Suites
+HO12370,IRA By Orchid,moderate,4str,Mumbai,DR12281,IRA By Orchid
+HO10269,Bel Morris,budget,3str,New Delhi,DR10224,Bel Morris
+HO10086,Mandir Palace,budget,4str,Jaisalmer,DR10304,Mandir Palace
+HO11954,Royal Orchid Brindavan,budget,4str,Mysuru (Mysore),DR11538,Royal Orchid Brindavan
+HO10659,Chandela,moderate,5str,Khajuraho,DR10987,Chandela
+HO10769,Hyatt Place,moderate,4str,Gurgaon,DR10792,Hyatt Place
+HO12197,Svanir,moderate,1str,Bhubaneswar,DR12521,Svanir
+HO11496,Daiwik,moderate,4str,Rameshwaram,DR12247,Daiwik
+HO11882,Umaid Mahal,budget,4str,Jaipur,DR10105,Umaid Mahal
+HO11741,Holiday Inn,budget,5str,Agra,DR11538,Holiday Inn
+HO12148,De Exotica Crest,budget,1str,,DR11538,De Exotica Crest
+HO10961,Om Vilas Benares,moderate,5str,Varanasi,DR11192,Om Vilas Benares
+HO10311,Ibis,budget,3str,New Delhi,DR10227,Ibis
+HO11519,Zone Connect By The Park,moderate,4str,New Delhi,DR12258,Zone Connect By The Park
+HO10063,Kumarakom Lake Resort,first-class,5str,Kumarakom,DR10110,Kumarakom Lake Resort
+HO12033,The Hans Coco Palm,budget,3str,,DR11538,The Hans Coco Palm
+HO12324,Raajsa - IHCL SeleQtions,first-class,1str,Kumbhalgarh,DR12803,Raajsa - IHCL SeleQtions
+HO11146,Ekaanta,moderate,1str,Haridwar,DR11273,Ekaanta
+HO12098,Forte Manor By Siel,budget,1str,,DR11538,Forte Manor By Siel
+HO11124,Pepper Trail,first-class,4str,Sultan Bathery,DR11513,Pepper Trail
+HO10190,The Leela Palace,lux,5str-lux,Udaipur (RJ),DR10220,The Leela Palace
+HO10764,Hyatt Centric,moderate,5str,Chandigarh,DR11152,Hyatt Centric
+HO10264,RAAS,first-class,5str-lux,Jodhpur,DR10338,RAAS
+HO12366,Cheetahgarh Resort & Spa,first-class,5str,Pali (RJ) ,DR12800,Cheetahgarh Resort & Spa
+HO11837,Radisson Blu,budget,5str,Gorakhpur,DR11538,Radisson Blu
+HO11695,Le Colonial,budget,3str,Kochi (Cochin),DR12503,Le Colonial
+HO12358,Palighar,moderate,3str,Kalimpong,DR12813,Palighar
+HO10547,Maidens,first-class,5str,New Delhi,DR11025,Maidens
+HO10146,Ramada By Wyndham Udaipur Resort & Spa,moderate,5str,Udaipur (RJ),DR10433,Ramada By Wyndham Udaipur Resort & Spa
+HO10306,Pullman,first-class,5str,New Delhi,DR10380,Pullman
+HO11520,Om Vilas,moderate,5str,Varanasi,DR12241,Om Vilas
+HO10265,Shalimar Spice Garden,first-class,4str,Thekkady (Periyar/Kumily),DR10676,Shalimar Spice Garden
+HO10070,Gandharva,budget,3str,Jaipur,DR10259,Gandharva
+HO11973,Marari Sea Laps Vilas,budget,1str,,DR11538,Marari Sea Laps Vilas
+HO12289,Da Bungalow,budget,1str,Agra,DR12747,Da Bungalow
+HO10967,Holiday Inn (Sector 90),budget,5str,Gurgaon,DR11551,Holiday Inn (Sector 90)
+HO12005,Malabar Ocean Front Resort And Spa,budget,4str,Neeleshwar,DR11538,Malabar Ocean Front Resort And Spa
+HO12241,Taj Safari,lux,standard-resort,Chitwan,DR12655,Taj Safari
+HO11223,The Raviz,moderate,5str,Kozhikode (Calicut),DR11438,The Raviz
+HO11908,Sea View,budget,3str,Kanyakumari,DR12542,Sea View
+HO11775,Resort Rio,budget,5str,,DR11538,Resort Rio
+HO12161,Maurya,budget,5str,,DR11538,Maurya
+HO12309,Balthali Village Resort,budget,standard-resort,Dhulikhel,DR12655,Balthali Village Resort
+HO10196,Fort Barli,moderate,heritage,Barli,DR10581,Fort Barli
+HO10069,Ranjit's Svaasa,first-class,heritage,Amritsar,DR10028,Ranjit's Svaasa
+HO10929,Chamba Camp Thiksey,first-class,1str,Leh,DR11198,Chamba Camp Thiksey
+HO10111,Radisson Blu,moderate,5str,Jaipur,DR10296,Radisson Blu
+HO12048,Shimla Havens Resorts,budget,4str,Shimla,DR11538,Shimla Havens Resorts
+HO10981,WelcomHeritage Elysium Resort & Spa,first-class,1str,Shimla,DR11222,WelcomHeritage Elysium Resort & Spa
+HO12116,Raga On The Ganges,first-class,4str,Rishikesh,DR12606,Raga On The Ganges
+HO10433,Trident,moderate,5str,Kochi (Cochin),DR10901,Trident
+HO10855,Courtyard Mumbai International Airport,moderate,4str,Mumbai,DR10970,Courtyard Mumbai International Airport
+HO10641,Justa Rajputana Resort,moderate,4str,Udaipur (RJ),DR11040,Justa Rajputana Resort
+HO10462,Abad Green Forest,budget,3str,Thekkady (Periyar/Kumily),DR10832,Abad Green Forest
+HO11434,North Avenue,budget,1str,New Delhi,DR11999,North Avenue
+HO10590,Taj Chia Kutir Resort & Spa,lux,5str,Darjeeling,DR11033,Taj Chia Kutir Resort & Spa
+HO10920,Sariska Safari Lodge,first-class,1str,Sariska,DR11172,Sariska Safari Lodge
+HO10706,"Manvar Shergarh, The Desert Resort",moderate,3str,Manvar (RJ),DR10637,"Manvar Shergarh, The Desert Resort"
+HO10722,Saratha Vilas,first-class,4str,Kothamangalam (TN) ,DR10016,Saratha Vilas
+HO11755,24 MG Road,first-class,1str,Kannauj,DR12354,24 MG Road
+HO11744,Taj Corbett Resort & Spa,first-class,5str,Corbett,DR12454,Taj Corbett Resort & Spa
+HO12219,Birethanti Lodge,moderate,standard-hotel,Annapurna Region,DR12655,Birethanti Lodge
+HO10077,Taj Fateh Prakash Palace,lux,5str,Udaipur (RJ),DR10210,Taj Fateh Prakash Palace
+HO11929,Four Points by Sheraton Mahabalipuram,budget,1str,,DR11538,Four Points by Sheraton Mahabalipuram
+HO10504,Dera Amer,first-class,2str,Jaipur,DR10955,Dera Amer
+HO11925,Hyatt Regency,budget,5str,Dehradun,DR11538,Hyatt Regency
+HO12108,Vivanta,moderate,5str,Thiruvananthapuram (Trivandrum),DR12424,Vivanta
+HO11102,Pashan Garh,lux,5str,Panna,DR11420,Pashan Garh
+HO10678,The Fern Residency,moderate,3str,Chandigarh,DR11079,The Fern Residency
+HO10208,Heritage Resort,moderate,4str,Hampi (Hosapete),DR10711,Heritage Resort
+HO11871,Pratap Bhawan Homestay,budget,3str,,DR11538,Pratap Bhawan Homestay
+HO10578,SUJAN The Serai,lux,4str,Jaisalmer,DR10966,SUJAN The Serai
+HO11664,Fort Begu (1430 AD),budget,4str,,DR11538,Fort Begu (1430 AD)
+HO10512,Fateh Bagh,moderate,5str,Ranakpur,DR10739,Fateh Bagh
+HO10127,Mayfair,lux,5str-lux,Darjeeling,DR10480,Mayfair
+HO12165,Ganpati Guest House,budget,3str,Varanasi,DR11538,Ganpati Guest House
+HO12149,Himalayaa,budget,3str,Tiruvannamalai,DR12558,Himalayaa
+HO10390,Shahpura House,moderate,4str,Jaipur,DR10323,Shahpura House
+HO12238,Ghandruk Lodge,moderate,standard-hotel,Annapurna Region,DR12655,Ghandruk Lodge
+HO11868,Kyriad Hotel Gulbarga,moderate,4str,Kalaburagi (Gulbarga),DR12632,Kyriad Hotel Gulbarga
+HO11500,Atulya Niwas,budget,3str,Udaipur (RJ),DR12248,Atulya Niwas
+HO10012,The Claridges,first-class,5str,New Delhi,DR10054,The Claridges
+HO12347,Fortune Beachfront,moderate,1str,Puri,DR12792,Fortune Beachfront
+HO11866,Radisson Blu,moderate,5str,Guwahati,DR12449,Radisson Blu
+HO10142,BloomSuites,moderate,4str,Goa,DR10503,BloomSuites
+HO11287,Secret Garden,budget,2str,Kochi (Cochin),DR10595,Secret Garden
+HO10529,Brahma Horizon,budget,4str,Pushkar,DR10944,Brahma Horizon
+HO12100,Gnanam,budget,3str,,DR11538,Gnanam
+HO10177,Master Paradise,budget,3str,Pushkar,DR10774,Master Paradise
+HO12378,Abhaneri Village Safari Camp,moderate,1str,Abhaneri,DR11538,Abhaneri Village Safari Camp
+HO10591,Casino,moderate,5str,Kochi (Cochin),DR10946,Casino
+HO11795,Soul Vacation,budget,3str,,DR11538,Soul Vacation
+HO12179,Vembanad House,budget,1str,Alappuzha (Alleppey),DR11538,Vembanad House
+HO10429,Desert N Dunes,budget,3str,Mandawa,DR10635,Desert N Dunes
+HO10884,Crowne Plaza (Mayur Vihar),first-class,4str,New Delhi,DR10113,Crowne Plaza (Mayur Vihar)
+HO12301,Kathoni,first-class,1str,Kaziranga,DR12734,Kathoni
+HO12170,Pristine,budget,1str,,DR11538,Pristine
+HO10291,The Poovath Beach Front Heritage,moderate,4str,Kochi (Cochin),DR10692,The Poovath Beach Front Heritage
+HO11766,Nanu Beach Resort & Spa,moderate,4str,Goa,DR12656,Nanu Beach Resort & Spa
+HO11995,Bawa Continental,budget,3str,,DR11538,Bawa Continental
+HO10246,Radisson Bengaluru City Center,moderate,4str,Bengaluru,DR10682,Radisson Bengaluru City Center
+HO10825,Vasundhara Palace,budget,3str,Rishikesh,DR11142,Vasundhara Palace
+HO10049,Premkunj,budget,home-stay,Udaipur (RJ),DR10145,Premkunj
+HO11473,Taj Lakefront,first-class,5str,Bhopal,DR12144,Taj Lakefront
+HO11005,Amritara Sadka,moderate,4str,Amritsar,DR11309,Amritara Sadka
+HO10362,Fortune Park Moksha,moderate,4str,Dharamshala,DR10824,Fortune Park Moksha
+HO10634,Umaid Lake Palace,moderate,3str,Dausa,DR10695,Umaid Lake Palace
+HO11591,Sitara Himalaya,lux,1str,Manali,DR12309,Sitara Himalaya
+HO10333,Keys Select,budget,3str,Kochi (Cochin),DR10205,Keys Select
+HO10027,Brunton Boatyard,first-class,5str,Kochi (Cochin),DR10143,Brunton Boatyard
+HO11203,Raj Mahal,budget,4str,Orchha,DR11044,Raj Mahal
+HO11011,WelcomHeritage Panjim Inn,budget,3str,Goa,DR11329,WelcomHeritage Panjim Inn
+HO11556,Tree Of Life Resort & Spa,first-class,5str,Jaipur,DR12342,Tree Of Life Resort & Spa
+HO12244,Monjo Lodge,moderate,standard-resort,Everest Region,DR12655,Monjo Lodge
+HO12310,Heritage Malla,budget,standard-hotel,Bhaktapur,DR12655,Heritage Malla
+HO11175,Villa Palladio,first-class,1str,Jaipur,DR11546,Villa Palladio
+HO11709,Click Hotel,budget,3str,,DR11538,Click Hotel
+HO11705,Sherlys Ente Kumbalanghi,budget,1str,,DR11538,Sherlys Ente Kumbalanghi
+HO11549,Deeppura Garh,lux,1str,Sikar,DR12228,Deeppura Garh
+HO11903,The Imperial,budget,3str,Kushinagar,DR10475,The Imperial
+HO11873,Rockholm,budget,1str,Kovalam,DR12529,Rockholm
+HO11408,Sandalwood Hotel & Suites,budget,4str,Goa,DR11308,Sandalwood Hotel & Suites
+HO12095,Ayurbirth Healing Centre,budget,1str,Thiruvananthapuram (Trivandrum),DR11538,Ayurbirth Healing Centre
+HO11636,Grand Mercure,budget,5str,Mysuru (Mysore),DR11538,Grand Mercure
+HO10283,Hyatt Regency,first-class,5str,Amritsar,DR10678,Hyatt Regency
+HO11332,The Fog Munnar Resorts & Spa,first-class,5str,Munnar,DR11755,The Fog Munnar Resorts & Spa
+HO12302,Sakura Gold,moderate,1str,Gurgaon,DR12733,Sakura Gold
+HO10359,Lemon Tree Premier,moderate,4str,Mumbai,DR10880,Lemon Tree Premier
+HO12071,Mercure Chennai Sriperumbudur,budget,4str,,DR11538,Mercure Chennai Sriperumbudur
+HO11663,Southern Panorama Cruises,budget,1str,Alappuzha (Alleppey),DR11538,Southern Panorama Cruises
+HO10686,Lemon Tree Premier (HITEC City),moderate,4str,Hyderabad,DR11078,Lemon Tree Premier (HITEC City)
+HO11910,Fariyas Resort,budget,5str,,DR11538,Fariyas Resort
+HO10942,Southern Star,moderate,4str,Mysuru (Mysore),DR11057,Southern Star
+HO12223,Atithi Resort & Spa,budget,4str,Pokhara,DR12655,Atithi Resort & Spa
+HO12013,Gratitude Heritage,first-class,1str,Puducherry (Pondicherry),DR12658,Gratitude Heritage
+HO11084,"Welcomhotel By ITC Hotels, Fort & Dunes",moderate,4str,Khimsar,DR10580,"Welcomhotel By ITC Hotels, Fort & Dunes"
+HO11065,Clarion Inn,moderate,4str,Jaipur,DR11377,Clarion Inn
+HO10379,Taj Santacruz,first-class,5str,Mumbai,DR10469,Taj Santacruz
+HO12146,Palette Hill View Resorts,budget,3str,,DR11538,Palette Hill View Resorts
+HO11756,Fortune Park Dalhousie,budget,5str,Dalhousie,DR11538,Fortune Park Dalhousie
+HO12151,John's Farm & Home,budget,1str,Thodupuzha,DR12654,John's Farm & Home
+HO11316,Renai Green Fields,budget,3str,Kumarakom,DR10884,Renai Green Fields
+HO10850,Radisson Blu,moderate,5str,Kochi (Cochin),DR10374,Radisson Blu
+HO11407,Landmark,moderate,3str,Gwalior,DR10284,Landmark
+HO12211,The Pearl,budget,3str,Hassan,DR12216,The Pearl
+HO10407,Taj Yeshwantpur,first-class,5str,Bengaluru,DR10514,Taj Yeshwantpur
+HO10401,Abad Atrium,budget,3str,Kochi (Cochin),DR10898,Abad Atrium
+HO12187,Laalee,first-class,1str,Jaipur,DR12415,Laalee
+HO10562,La Villa,first-class,5str,Puducherry (Pondicherry),DR10976,La Villa
+HO10838,Tranquil Resort,moderate,4str,Sultan Bathery,DR11143,Tranquil Resort
+HO10357,Taj Club House,moderate,5str,Chennai,DR10892,Taj Club House
+HO10554,Alila Fort Bishangarh,first-class,5str,Jaipur,DR10237,Alila Fort Bishangarh
+HO10002,Atulyaa Taj,budget,3str,Agra,DR10027,Atulyaa Taj
+HO12327,Bamboo Grove,budget,1str,Bandhavgarh,DR12773,Bamboo Grove
+HO10304,Novotel,moderate,5str,New Delhi,DR10370,Novotel
+HO11398,Hariyali Dhani Camps & Resort,moderate,4str,Dheerpura,DR11948,Hariyali Dhani Camps & Resort
+HO11650,Amal Tamara,first-class,5str,Alappuzha (Alleppey),DR11026,Amal Tamara
+HO10025,Aurika,lux,5str,Udaipur (RJ),DR10069,Aurika
+HO11262,"Lemon Tree Premier, The Atrium",moderate,4str,Ahmedabad,DR11517,"Lemon Tree Premier, The Atrium"
+HO10688,Vivanta,moderate,5str,Hyderabad,DR10543,Vivanta
+HO10745,Lemon Tree,moderate,3str,Vadodara,DR11146,Lemon Tree
+HO10170,The Elgin Silver Oaks,first-class,4str,Kalimpong,DR10560,The Elgin Silver Oaks
+HO11483,The Experience Resort,first-class,1str,Udaipur (RJ),DR12239,The Experience Resort
+HO10251,Karni Bhawan,moderate,3str,Jodhpur,DR10109,Karni Bhawan
+HO10499,Ranthambhore Regency,moderate,3str,Ranthambore,DR10851,Ranthambhore Regency
+HO10671,Tuli Tiger Resort,moderate,3str,Kanha,DR11097,Tuli Tiger Resort
+HO11336,Fortune Resort Grace,first-class,1str,Mussoorie,DR11210,Fortune Resort Grace
+HO12395,ABC,budget,5str,,DR10416,ABC
+HO12079,Sunderban Tiger Camp,first-class,4str,Sunderbans,DR12564,Sunderban Tiger Camp
+HO10015,East View,budget,3str,Varanasi,DR10176,East View
+HO11406,Casa Anjuna,moderate,4str,Goa,DR11306,Casa Anjuna
+HO10776,Pepper County Homestay,budget,1str,Thekkady (Periyar/Kumily),DR10473,Pepper County Homestay
+HO11843,Sheraton Grand Palace,budget,5str,,DR11538,Sheraton Grand Palace
+HO11897,Courtyard By Marriott,budget,4str,Trichy (Tiruchirappalli),DR11538,Courtyard By Marriott
+HO10526,Rajakkad Estate,moderate,2str,Dindigul,DR10597,Rajakkad Estate
+HO10486,Deogarh Mahal,moderate,3str,Deogarh,DR10781,Deogarh Mahal
+HO11935,Krishna Palace,budget,4str,Hampi (Hosapete),DR11538,Krishna Palace
+HO10503,Shahpura Bagh,first-class,4str,Shahpura (Jaipur),DR10931,Shahpura Bagh
+HO10442,Sarovar Premiere,moderate,4str,Jaipur,DR10775,Sarovar Premiere
+HO10169,Evolve Back,lux,5str,Kabini,DR10551,Evolve Back
+HO10982,Sandesh Pride,budget,3str,Mysuru (Mysore),DR11313,Sandesh Pride
+HO10860,JW Marriott,first-class,5str,Kolkata,DR10407,JW Marriott
+HO10530,Lemon Tree,first-class,4str,Gangtok,DR10698,Lemon Tree
+HO10584,Karni Bhawan Palace,moderate,2str,Bikaner,DR11009,Karni Bhawan Palace
+HO12019,La Maison Radha,budget,3str,,DR11538,La Maison Radha
+HO10117,Holiday Inn Jaipur City Centre,moderate,5str,Jaipur,DR10268,Holiday Inn Jaipur City Centre
+HO11177,Lilypool The Heritage Jal Mahal,moderate,4str,Jaipur,DR11557,Lilypool The Heritage Jal Mahal
+HO11413,Amrapali - House Of Grace,lux,1str,Goa,DR11516,Amrapali - House Of Grace
+HO10347,The Residency Towers,moderate,5str,Chennai,DR10891,The Residency Towers
+HO11894,Damodra Desert Camp,budget,3str,Jaisalmer,DR11538,Damodra Desert Camp
+HO10637,Dewalokam,moderate,3str,Thodupuzha,DR10425,Dewalokam
+HO10028,Poppy's,moderate,4str,Madurai,DR10166,Poppy's
+HO12153,Baljees Regency,budget,3str,,DR11538,Baljees Regency
+HO11450,Manali Heights,moderate,4str,Manali,DR10633,Manali Heights
+HO11078,Intercontinental (Mahabalipuram),first-class,4str,Mamallapuram (Mahabalipuram),DR11384,Intercontinental (Mahabalipuram)
+HO12224,Soaltee Westend Resort,moderate,standard-resort,Chitwan,DR12655,Soaltee Westend Resort
+HO10453,Gajner Palace,moderate,4str,Gajner,DR10578,Gajner Palace
+HO10011,Tajview - IHCL SeleQtions,moderate,5str,Agra,DR10047,Tajview - IHCL SeleQtions
+HO10207,Beleza By The Beach,moderate,4str,Goa,DR10699,Beleza By The Beach
+HO10180,"Welcomhotel By ITC Hotels, Kences Palm Beach",first-class,5str,Mamallapuram (Mahabalipuram),DR10180,"Welcomhotel By ITC Hotels, Kences Palm Beach"
+HO11984,The Fern Residency,budget,4str,Bhopal,DR11538,The Fern Residency
+HO10556,Ranthambhore Kothi,moderate,4str,Ranthambore,DR10935,Ranthambhore Kothi
+HO11385,The Alampara,first-class,1str,Chengalpattu,DR12049,The Alampara
+HO10316,ITC Maurya,lux,5str,New Delhi,DR10364,ITC Maurya
+HO10009,Samode Haveli,first-class,5str,Jaipur,DR10078,Samode Haveli
+HO10662,Chitvan Jungle Lodge,moderate,3str,Kanha,DR11053,Chitvan Jungle Lodge
+HO10086,WelcomHeritage Mandir Palace,budget,4str,Jaisalmer,DR10304,WelcomHeritage Mandir Palace
+HO11649,Holiday Inn Express & Suites Racecourse,budget,5str,,DR11538,Holiday Inn Express & Suites Racecourse
+HO12293,Park Prime,budget,4str,Jaipur,DR12730,Park Prime
+HO11403,Citrus Cunningham,moderate,4str,Bengaluru,DR11881,Citrus Cunningham
+HO10154,The Elgin,first-class,4str,Darjeeling,DR10654,The Elgin
+HO10517,King's Abode,moderate,1str,Ranakpur,DR10740,King's Abode
+HO12014,Suba Galaxy,budget,1str,,DR11538,Suba Galaxy
+HO11638,Palace Heights,budget,3str,New Delhi,DR10371,Palace Heights
+HO10353,Golden Sarovar Portico,budget,3str,Amritsar,DR10839,Golden Sarovar Portico
+HO11694,Denzong Regency,budget,4str,,DR11538,Denzong Regency
+HO12203,Bloom Hotel (Worli),budget,1str,Mumbai,DR10968,Bloom Hotel (Worli)
+HO12069,Vivanta Dal View,first-class,5str,Srinagar,DR12437,Vivanta Dal View
+HO11439,Patan Mahal,moderate,3str,Patan (RJ),DR11180,Patan Mahal
+HO12035,Highland,budget,3str,,DR11538,Highland
+HO10797,Godwad Safari Camp,moderate,4str,Pali (RJ) ,DR11115,Godwad Safari Camp
+HO10679,Ambatty Greens Resort,first-class,4str,Coorg (Kodagu),DR11075,Ambatty Greens Resort
+HO11245,Ahilya By The Sea,first-class,4str,Goa,DR11437,Ahilya By The Sea
+HO11403,Citrus Cunningham,moderate,3str,Bengaluru,DR11881,Citrus Cunningham
+HO10500,Eastend,moderate,3str,Munnar,DR10934,Eastend
+HO11492,Royale Sarovar Portico,moderate,4str,Agra,DR12055,Royale Sarovar Portico
+HO10279,Dev Shree,moderate,3str,Deogarh,DR10544,Dev Shree
+HO11890,The Bordi,first-class,1str,Jaisalmer,DR12645,The Bordi
+HO10741,The Royal Residency,moderate,3str,Kushinagar,DR11124,The Royal Residency
+HO10758,Alsisar Mahal,moderate,3str,Alsisar,DR10750,Alsisar Mahal
+HO11851,Vivanta,moderate,3str,Kolkata,DR12441,Vivanta
+HO11801,Villa Siolim - Ama Stays & Trails,budget,1str,,DR11538,Villa Siolim - Ama Stays & Trails
+HO11623,Courtyard By Marriott (Hebbal),budget,5str,,DR11538,Courtyard By Marriott (Hebbal)
+HO11057,Pride Amber Vilas Resort,moderate,4str,Jaipur,DR11424,Pride Amber Vilas Resort
+HO10633,The Westin (Rajarhat),first-class,5str,Kolkata,DR10436,The Westin (Rajarhat)
+HO11027,Ranbanka Palace,moderate,3str,Jodhpur,DR10903,Ranbanka Palace
+HO12273,Niravi,first-class,1str,Jaipur,DR12696,Niravi
+HO12313,Dwarika's Resort,lux,standard-resort,Dhulikhel,DR12655,Dwarika's Resort
+HO10383,Coconut Lagoon,first-class,4str,Kumarakom,DR10724,Coconut Lagoon
+HO11021,Shahpura Residency,budget,1str,Jaipur,DR10092,Shahpura Residency
+HO10158,Taj Cidade De Goa Heritage,first-class,5str,Goa,DR10656,Taj Cidade De Goa Heritage
+HO11089,Grand Hyatt,first-class,5str,Kochi (Cochin),DR11453,Grand Hyatt
+HO11355,The Lalit,first-class,5str,Jaipur,DR10618,The Lalit
+HO10985,Radisson,first-class,5str,Jodhpur,DR10665,Radisson
+HO10226,Grand Hotel D'Europe,moderate,heritage,Puducherry (Pondicherry),DR10013,Grand Hotel D'Europe
+HO10814,Daspan House,moderate,1str,Jodhpur,DR11171,Daspan House
+HO10220,Naveen,moderate,4str,Hubballi (Hubli),DR10614,Naveen
+HO11236,School Estate,moderate,1str,Coorg (Kodagu),DR11303,School Estate
+HO10997,Deventure,budget,1str,New Delhi,DR11234,Deventure
+HO10646,Kings Lodge,first-class,4str,Bandhavgarh,DR11048,Kings Lodge
+HO12188,Manuscript Jhilwara Haveli,moderate,1str,Udaipur (RJ),DR12407,Manuscript Jhilwara Haveli
+HO10296,Hadoti Palace,moderate,3str,Bundi,DR10830,Hadoti Palace
+HO11920,Grand Dewachen,moderate,1str,Kaza,DR12647,Grand Dewachen
+HO10295,Roseate House,first-class,5str,New Delhi,DR10389,Roseate House
+HO11433,The Zion,moderate,4str,Shimla,DR10840,The Zion
+HO11848,The Fern Residency,budget,3str,Bhopal,DR11538,The Fern Residency
+HO12181,Nilambagh Palace,budget,4str,Bhavnagar,DR11538,Nilambagh Palace
+HO10393,"The Zuri Kumarakom,Kerala Resort And Spa",first-class,5str-lux,Kumarakom,DR10112,"The Zuri Kumarakom,Kerala Resort And Spa"
+HO12113,Edakkal Hermitage,budget,3str,Wayanad,DR10996,Edakkal Hermitage
+HO10270,Amanbagh,lux,5str-lux,Alwar,DR10518,Amanbagh
+HO12169,The India Benares,moderate,4str,Varanasi,DR11538,The India Benares
+HO10460,Umaid Bhawan Palace,lux,5str,Jodhpur,DR10829,Umaid Bhawan Palace
+HO11653,Justa Mg Road,budget,3str,,DR11538,Justa Mg Road
+HO11690,Old Magazine House,budget,3str,,DR11538,Old Magazine House
+HO10572,Woodville Palace,moderate,4str,Shimla,DR10611,Woodville Palace
+HO11517,"Manvar Sevan, The Desert Camp",moderate,3str,Manvar (RJ),DR10637,"Manvar Sevan, The Desert Camp"
+HO12276,The Valle,first-class,5str,Munnar,DR12702,The Valle
+HO11137,Aamaghati Wildlife Resort,moderate,5str,Ranthambore,DR11319,Aamaghati Wildlife Resort
+HO11618,Chhota Haazri,first-class,1str,Darjeeling,DR12394,Chhota Haazri
+HO12250,Gorkha Garden,budget,standard-hotel,Gorkha,DR12655,Gorkha Garden
+HO11729,Dubare Elephant Camp,budget,1str,,DR11538,Dubare Elephant Camp
+HO10702,Fortune Sullivan Court,moderate,3str,Ooty (Udhagamandalam),DR11060,Fortune Sullivan Court
+HO11722,Tea Nest,budget,3str,,DR11538,Tea Nest
+HO11657,Zaza Stay G-54,budget,1str,New Delhi,DR12673,Zaza Stay G-54
+HO11802,The Flora Grand,budget,3str,,DR11538,The Flora Grand
+HO11820,Sitara,budget,4str,,DR11538,Sitara
+HO10258,Judges Court,moderate,3str,Pragpur,DR10737,Judges Court
+HO11993,The Source,budget,3str,Nasik,DR11538,The Source
+HO10874,"Maha Bodhi Hotel, Resort And Convention Centre",moderate,4str,Bodhgaya,DR10030,"Maha Bodhi Hotel, Resort And Convention Centre"
+HO11420,Desert Tulip,moderate,4str,Jaisalmer,DR10319,Desert Tulip
+HO11136,Eagles Nest,first-class,4str,Dharamshala,DR11493,Eagles Nest
+HO10897,The Bagh,moderate,3str,Bharatpur,DR10885,The Bagh
+HO12051,Sun-N-Sand,budget,4str,,DR11538,Sun-N-Sand
+HO12024,Rivulet Hospitality,budget,4str,,DR11538,Rivulet Hospitality
+HO10728,Ibis,budget,3str,Nasik,DR10565,Ibis
+HO11734,Marriott Resort & Spa,budget,5str,Goa,DR11538,Marriott Resort & Spa
+HO12023,Jw Marriott Sahar,budget,5str,Mumbai,DR11538,Jw Marriott Sahar
+HO10953,Ahilya fort,first-class,4str,Maheshwar,DR10631,Ahilya fort
+HO11429,Nirali Dhani,budget,4str,Jodhpur,DR11400,Nirali Dhani
+HO10421,Devi Bhawan,budget,3str,Jodhpur,DR10332,Devi Bhawan
+HO11250,Golden Crown Hotel And Spa,moderate,4str,Goa,DR11454,Golden Crown Hotel And Spa
+HO11725,Wallwood Garden,budget,3str,,DR11538,Wallwood Garden
+HO10237,"Banjaar Tola, A Taj Safari",lux,4str,Kanha,DR10564,"Banjaar Tola, A Taj Safari"
+HO11644,Park Inn By Radisson,budget,4str,New Delhi,DR12451,Park Inn By Radisson
+HO11570,Koder House,budget,4str,Kochi (Cochin),DR12367,Koder House
+HO11212,Justa Gurgaon,moderate,4str,Gurgaon,DR11478,Justa Gurgaon
+HO11469,Novotel,moderate,5str,Jodhpur,DR12244,Novotel
+HO11123,Grand View,budget,3str,Dalhousie,DR10479,Grand View
+HO10604,Blue Jelly-3BRH,houseboat-lux,houseboat-platinum,Alappuzha (Alleppey),DR10756,Blue Jelly-3BRH
+HO11536,Coral Country Homestay,budget,1str,Agra,DR12338,Coral Country Homestay
+HO11751,LaRisa Resort,budget,1str,,DR11538,LaRisa Resort
+HO10252,Heritage Inn,budget,3str,Jaisalmer,DR10291,Heritage Inn
+HO12096,Dr. Franklin'S Panchakarma Institute And Research,budget,1str,Thiruvananthapuram (Trivandrum),DR11538,Dr. Franklin'S Panchakarma Institute And Research
+HO12154,Seashore Residency,budget,4str,,DR11538,Seashore Residency
+HO10179,Samode Palace,lux,heritage,Samode,DR10672,Samode Palace
+HO10187,Greenwoods,moderate,4str,Thekkady (Periyar/Kumily),DR10675,Greenwoods
+HO12167,Spoorti Resort & Club House,budget,1str,,DR11538,Spoorti Resort & Club House
+HO10334,Deventure Sarovar Portico,budget,4str,New Delhi,DR10533,Deventure Sarovar Portico
+HO11582,The Leaf,moderate,5str,Munnar,DR10546,The Leaf
+HO11967,Flamingo,moderate,3str,Mararikulam,DR12585,Flamingo
+HO11145,Chobdar Haveli,budget,3str,Mandawa,DR11505,Chobdar Haveli
+HO12214,Heritage Mandawa,moderate,3str,Mandawa,DR12518,Heritage Mandawa
+HO12389,Sri Lanka Package,budget,1str,Kolkata,DR12902,Sri Lanka Package
+HO11544,Flamingo Marari,moderate,1str,Mararikulam,DR12337,Flamingo Marari
+HO11702,Athirappilly Green Trees Resorts,budget,4str,,DR11538,Athirappilly Green Trees Resorts
+HO10360,The Chancery Pavilion,moderate,5str,Bengaluru,DR10859,The Chancery Pavilion
+HO11034,Mayfair Convention,moderate,4str,Bhubaneswar,DR11428,Mayfair Convention
+HO11918,Roopal International,budget,5str,,DR11538,Roopal International
+HO10414,Lakend,moderate,5str,Udaipur (RJ),DR10129,Lakend
+HO12168,New Hotel Broadway,budget,4str,Varanasi,DR12872,New Hotel Broadway
+HO10230,Castle Bijaipur,moderate,heritage,Bijaipur,DR10576,Castle Bijaipur
+HO10734,The Elephant Court,first-class,5str,Thekkady (Periyar/Kumily),DR11130,The Elephant Court
+HO12279,Cedar Inn,moderate,1str,Darjeeling,DR12714,Cedar Inn
+HO10090,Ramada Plaza by Wyndham Agra,moderate,5str,Agra,DR10193,Ramada Plaza by Wyndham Agra
+HO10019,Syna Heritage,moderate,5str,Khajuraho,DR10032,Syna Heritage
+HO12176,Ranthambhore Tiger Inn Comfort Resort,moderate,1str,Ranthambore,DR12308,Ranthambhore Tiger Inn Comfort Resort
+HO11186,Boheda Manor,moderate,4str,Udaipur (RJ),DR12050,Boheda Manor
+HO11167,The Pushkar Bagh,budget,4str,Pushkar,DR11471,The Pushkar Bagh
+HO11172,Anuraga Palace,moderate,4str,Ranthambore,DR11498,Anuraga Palace
+HO11834,Fairfield By Marriott,budget,4str,Kathmandu,DR11538,Fairfield By Marriott
+HO12049,Mayfair Lake Resort,budget,5str,Raipur (CT) ,DR11538,Mayfair Lake Resort
+HO12382,Flow test,budget,home-stay,Kovalam,DR12330,Flow test
+HO12262,Kavya Resort & Spa,first-class,1str,Nagarkot,DR12655,Kavya Resort & Spa
+HO11794,Waghoba Eco Lodge,first-class,3str,Tadoba,DR12715,Waghoba Eco Lodge
+HO10137,Keys Select,budget,3str,Mumbai,DR10428,Keys Select
+HO11048,The Pride,moderate,4str,Chennai,DR11405,The Pride
+HO12055,Fortune Select Grand Ridge,budget,5str,Tirupati,DR11538,Fortune Select Grand Ridge
+HO11099,Vivanta,first-class,4str,Mangaluru (Mangalore),DR11337,Vivanta
+HO12352,The Ramayana,moderate,1str,Ayodhya,DR12206,The Ramayana
+HO10584,Karni Bhawan Palace,moderate,3str,Bikaner,DR11009,Karni Bhawan Palace
+HO10575,Fort Rajwada,first-class,5str,Jaisalmer,DR10719,Fort Rajwada
+HO11537,Arcadia,budget,1str,Varanasi,DR12240,Arcadia
+HO11911,Novotel (Hyderabad Airport),budget,5str,Hyderabad,DR11538,Novotel (Hyderabad Airport)
+HO10200,Meluha The Fern,first-class,5str,Mumbai,DR10435,Meluha The Fern
+HO10881,Crowne Plaza (Rohini),first-class,5str,New Delhi,DR10492,Crowne Plaza (Rohini)
+HO11446,Nikkiâ€™s Nest,moderate,1str,Kovalam,DR11607,Nikkiâ€™s Nest
+HO11418,Crest Inn,budget,3str,New Delhi,DR10869,Crest Inn
+HO11457,The Legacy Mandawa,first-class,1str,Mandawa,DR12048,The Legacy Mandawa
+HO10058,The Peerless Inn,moderate,4str,Kolkata,DR10034,The Peerless Inn
+HO11353,Benzz Park,moderate,3str,Chennai,DR11799,Benzz Park
+HO11579,Taj Guras Kutir Resort & Spa,first-class,1str,Gangtok,DR12294,Taj Guras Kutir Resort & Spa
+HO10944,Balsamand Lake Palace,moderate,1str,Jodhpur,DR10330,Balsamand Lake Palace
+HO11270,Arches,budget,3str,Kochi (Cochin),DR11485,Arches
+HO12346,The Roseate Ganges,first-class,5str,Rishikesh,DR12787,The Roseate Ganges
+HO11514,Manaltheeram Ayurvedic Hospital & Research Centre,moderate,3str,Kovalam,DR10443,Manaltheeram Ayurvedic Hospital & Research Centre
+HO10161,Taj Fort Aguada Resort & Spa,lux,5str,Goa,DR10657,Taj Fort Aguada Resort & Spa
+HO10515,Royal Desert Camp,moderate,3str,Pushkar,DR10940,Royal Desert Camp
+HO11299,Green Palace,budget,3str,Puducherry (Pondicherry),DR11402,Green Palace
+HO10183,Sangam,moderate,3str,Thanjavur (Tanjore),DR10673,Sangam
+HO12190,Accord Chrome,budget,1str,Chennai,DR12501,Accord Chrome
+HO10040,Brijrama Palace,lux,5str,Varanasi,DR10202,Brijrama Palace
+HO11144,The Rajbari Bawali,first-class,1str,Kolkata,DR11515,The Rajbari Bawali
+HO12091,Srm Hotel,budget,4str,,DR11538,Srm Hotel
+HO12031,Star Emirates Luxury Resort & Spa,budget,4str,,DR11538,Star Emirates Luxury Resort & Spa
+HO11072,Sterling (Kodai Valley),budget,4str,Kodaikanal,DR11370,Sterling (Kodai Valley)
+HO11785,Simrose Resorts,budget,3str,,DR11538,Simrose Resorts
+HO10123,Tiger Den Resort,moderate,4str,Ranthambore,DR10401,Tiger Den Resort
+HO11825,The Tamara Kodai,first-class,5str,Kodaikanal,DR12572,The Tamara Kodai
+HO12270,Dhampus Lodge,moderate,standard-hotel,Annapurna Region,DR12655,Dhampus Lodge
+HO11597,Hotel Rudra Vilas,budget,4str,Jaipur,DR12353,Hotel Rudra Vilas
+HO10216,Marigold,budget,4str,Jaipur,DR10285,Marigold
+HO11059,Sterling - Orange Village,moderate,4str,Gangtok,DR11375,Sterling - Orange Village
+HO11542,Anchorage 42,first-class,1str,Chandigarh,DR12302,Anchorage 42
+HO11654,Exotica Cruises,budget,1str,,DR11538,Exotica Cruises
+HO11985,Avana Resort,budget,1str,,DR11538,Avana Resort
+HO11852,Barwara kothi,budget,1str,Jaipur,DR11538,Barwara kothi
+HO11158,Chhotaram Prajapat's Homestay,budget,2str,Jodhpur,DR11553,Chhotaram Prajapat's Homestay
+HO11600,Aalia Villas,first-class,3str,Goa,DR12388,Aalia Villas
+HO11772,Copper Folia,budget,4str,Kozhikode (Calicut),DR12553,Copper Folia
+HO10754,Crowne Plaza (Adyar Park),first-class,5str,Chennai,DR10360,Crowne Plaza (Adyar Park)
+HO12039,The Grand Barso,moderate,1str,Bharatpur,DR12318,The Grand Barso
+HO10534,Lemon Tree Premier,moderate,5str,Patna,DR10734,Lemon Tree Premier
+HO10752,Hyatt Regency,first-class,5str,Ahmedabad,DR10677,Hyatt Regency
+HO10018,Lemon Tree Premier (Aerocity),moderate,4str,New Delhi,DR10052,Lemon Tree Premier (Aerocity)
+HO11645,Hilton Bengaluru Embassy Manyata Business,budget,5str,,DR11538,Hilton Bengaluru Embassy Manyata Business
+HO10386,Royal Orchid,moderate,5str,Jaipur,DR10905,Royal Orchid
+HO10279,Dev Shree,moderate,1str,Deogarh,DR10544,Dev Shree
+HO10404,Efkay's Homestay,moderate,1str,Mysuru (Mysore),DR10768,Efkay's Homestay
+HO10495,Dev Vilas,first-class,5str,Ranthambore,DR10950,Dev Vilas
+HO11715,Renaissance Race Course,budget,5str,,DR11538,Renaissance Race Course
+HO10000,Andaz,first-class,5str-lux,New Delhi,DR10014,Andaz
+HO11012,Maya Luxury,first-class,1str,Pushkar,DR11259,Maya Luxury
+HO11635,Novotel,moderate,5str,Ahmedabad,DR12443,Novotel
+HO11541,The Residency Tower,first-class,5str,Rameshwaram,DR12222,The Residency Tower
+HO10181,Indeco Hotels Swamimalai,moderate,4str,Kumbakonam,DR10421,Indeco Hotels Swamimalai
+HO11883,The Fern Residency,budget,4str,Bhopal,DR11538,The Fern Residency
+HO10432,Atithi,budget,4str,Puducherry (Pondicherry),DR10181,Atithi
+HO11371,Park Plaza,moderate,5str,Zirakpur,DR11293,Park Plaza
+HO10019,Syna Heritage,moderate,heritage,Khajuraho,DR10032,Syna Heritage
+HO11971,Classic The Mall,budget,3str,,DR11538,Classic The Mall
+HO12136,Velvet Clarks Exotica,moderate,4str,Zirakpur,DR12549,Velvet Clarks Exotica
+HO11201,Coorg Wilderness Resort,moderate,5str,Coorg (Kodagu),DR11287,Coorg Wilderness Resort
+HO11693,Dukes Forest Lodge,budget,3str,,DR11538,Dukes Forest Lodge
+HO12245,Basera Boutique,moderate,luxury-heritage-boutique-hotel,Kathmandu,DR12655,Basera Boutique
+HO11494,Taurus Sarovar Portico,budget,3str,New Delhi,DR12196,Taurus Sarovar Portico
+HO11970,Tendu Leaf Jungle Resort & Spa,first-class,1str,Panna,DR12629,Tendu Leaf Jungle Resort & Spa
+HO11543,Time Square,budget,1str,Alappuzha (Alleppey),DR12125,Time Square
+HO10694,Windflower Resort & Spa,moderate,4str,Mysuru (Mysore),DR11074,Windflower Resort & Spa
+HO11075,Holiday Inn,moderate,4str,Agra,DR11365,Holiday Inn
+HO11966,Goldfinch,budget,4str,,DR11538,Goldfinch
+HO11327,Adityaz,budget,3str,Gwalior,DR11803,Adityaz
+HO12331,Bloom Hotel Juhu,budget,3str,Mumbai,DR12788,Bloom Hotel Juhu
+HO11548,Chandra Raj Mahal,moderate,1str,Bikaner,DR12207,Chandra Raj Mahal
+HO12027,The Westin Pune Koregaon Park,budget,5str,,DR11538,The Westin Pune Koregaon Park
+HO12351,Ranthambhore Aangan,first-class,1str,Ranthambore,DR12669,Ranthambhore Aangan
+HO11607,KD Palace,moderate,1str,Jaisalmer,DR12349,KD Palace
+HO11640,Radisson Blu,budget,5str,Gorakhpur,DR11538,Radisson Blu
+HO10194,Eighth Bastion,first-class,4str,Kochi (Cochin),DR10378,Eighth Bastion
+HO11260,Lemon Tree,moderate,4str,Ahmedabad,DR11522,Lemon Tree
+HO10339,Lakes And Lagoon,houseboat-first-class,houseboat-platinum,Kumarakom,DR10241,Lakes And Lagoon
+HO10840,Fairfield By Marriott (Rajajinagar),moderate,4str,Bengaluru,DR10490,Fairfield By Marriott (Rajajinagar)
+HO11230,Hampis Boulders,first-class,2str,Hampi (Hosapete),DR11355,Hampis Boulders
+HO10245,GRT Regency,moderate,3str,Madurai,DR10726,GRT Regency
+HO10127,Mayfair,first-class,5str,Darjeeling,DR10480,Mayfair
+HO10762,Taj Amer,first-class,5str,Jaipur,DR11110,Taj Amer
+HO10486,Deogarh Mahal,moderate,4str,Deogarh,DR10781,Deogarh Mahal
+HO10946,WelcomHeritage Ranjit Vilas,moderate,5str,Amritsar,DR10523,WelcomHeritage Ranjit Vilas
+HO12280,Denwa Backwater Escape,first-class,4str,Hoshangabad (Satpura),DR12716,Denwa Backwater Escape
+HO11573,Taj Deccan,first-class,5str,Hyderabad,DR12369,Taj Deccan
+HO12379,Nepal Package,first-class,5str,Jaipur,DR12655,Nepal Package
+HO12017,Devonshire Greens,budget,4str,,DR11538,Devonshire Greens
+HO10271,Aman-I-Khas,lux,5str,Ranthambore,DR10743,Aman-I-Khas
+HO11625,The PL Palace,budget,4str,Agra,DR12618,The PL Palace
+HO11856,Buena Vista,first-class,5str,Jaipur,DR12675,Buena Vista
+HO10878,The Metropolitan Hotel & Spa,moderate,5str,New Delhi,DR10515,The Metropolitan Hotel & Spa
+HO11733,Fairfield by Marriott,budget,4str,,DR11538,Fairfield by Marriott
+HO11799,Bandipur Safari Lodge,budget,1str,,DR11538,Bandipur Safari Lodge
+HO11858,The Gateway Resort Damdama Lake,first-class,5str,Gurgaon,DR12446,The Gateway Resort Damdama Lake
+HO11107,Fortune Park,moderate,1str,Hubballi (Hubli),DR11367,Fortune Park
+HO11141,RAAS,first-class,1str,Chhatrasagar,DR11276,RAAS
+HO12233,Aabas,budget,standard-hotel,Pokhara,DR12655,Aabas
+HO10964,Yois,budget,1str,Udaipur (RJ),DR11318,Yois
+HO11748,La Grace Resort,budget,3str,Goa,DR12520,La Grace Resort
+HO10178,Samode Bagh,first-class,1str,Samode,DR10404,Samode Bagh
+HO11159,Shreyas Yoga Retreat,first-class,4str,Bengaluru,DR11360,Shreyas Yoga Retreat
+HO10467,A Beach Symphony,first-class,2str,Mararikulam,DR10930,A Beach Symphony
+HO10026,Raffles,lux,5str,Udaipur (RJ),DR10008,Raffles
+HO10370,The Oberoi Vanyavilas,lux,5str,Ranthambore,DR10396,The Oberoi Vanyavilas
+HO10989,Svasara Jungle Lodge,first-class,3str,Tadoba,DR11214,Svasara Jungle Lodge
+HO10132,Fortune Park JP Celestial,moderate,3str,Bengaluru,DR10493,Fortune Park JP Celestial
+HO10422,Savoy - IHCL Seleqtions,lux,5str,Ooty (Udhagamandalam),DR10733,Savoy - IHCL Seleqtions
+HO10281,Asia Spa Resort,moderate,4str,Dharamshala,DR10751,Asia Spa Resort
+HO11404,Narayan Niwas Palace,budget,3str,Jaisalmer,DR11651,Narayan Niwas Palace
+HO12271,Gaun Ghar,budget,standard-lodge,Bandipur (NP),DR12655,Gaun Ghar
+HO11936,The Claridges Nabha Residence,first-class,4str,Mussoorie,DR12417,The Claridges Nabha Residence
+HO10607,RKV-2BRH,budget,houseboat-silver,Kumarakom,DR10254,RKV-2BRH
+HO12288,Anantara Jewel Bagh,first-class,1str,Jaipur,DR12717,Anantara Jewel Bagh
+HO11661,Punnamada Resorts,budget,4str,Alappuzha (Alleppey),DR10249,Punnamada Resorts
+HO11335,The Panoramic Getaway,moderate,5str,Munnar,DR11504,The Panoramic Getaway
+HO11907,ITC Kohenur,first-class,5str,Hyderabad,DR12465,ITC Kohenur
+HO11616,Jaagir Manor â€“ IHCL SeleQtions,first-class,5str,Dudhwa,DR12341,Jaagir Manor â€“ IHCL SeleQtions
+HO10377,Vesta International,budget,4str,Jaipur,DR10849,Vesta International
+HO12303,Neel Clarks Inn Express,budget,3str,Agra,DR12768,Neel Clarks Inn Express
+HO10973,Jungle Home,moderate,1str,Pench,DR11325,Jungle Home
+HO10998,Vismaya,first-class,3str,Cherthala,DR11296,Vismaya
+HO12334,Visalam,first-class,4str,Chettinadu,DR10566,Visalam
+HO10568,The Fern An Ecotel Hotel,moderate,5str,Jaipur,DR11020,The Fern An Ecotel Hotel
+HO10535,Lemon Tree Amarante Beach Resort,moderate,4str,Goa,DR10562,Lemon Tree Amarante Beach Resort
+HO10849,Le Meridien,first-class,5str,Jaipur,DR10810,Le Meridien
+HO10457,Vivanta (Residency Road),moderate,5str,Bengaluru,DR10918,Vivanta (Residency Road)
+HO11488,Novotel,moderate,5str,Visakhapatnam,DR12203,Novotel
+HO11980,T2 Beacon,budget,3str,,DR11538,T2 Beacon
+HO11345,Mundackal Plantation Homestay,moderate,1str,Kothamangalam (KL) ,DR11540,Mundackal Plantation Homestay
+HO10321,Ambassador - IHCL SeleQtions,first-class,5str,New Delhi,DR10084,Ambassador - IHCL SeleQtions
+HO11298,The Lalit Resort & Spa,first-class,5str,Bekal,DR11479,The Lalit Resort & Spa
+HO11581,Rose Amer,lux,1str,Jaipur,DR12368,Rose Amer
+HO10040,Brijrama Palace,lux,heritage,Varanasi,DR10202,Brijrama Palace
+HO11602,Arch Plaza,budget,5str,New Delhi,DR12298,Arch Plaza
+HO12380,AMS Test,lux,5str,Indore,DR12040,AMS Test
+HO11378,Andores Resort And Spa,first-class,4str,Goa,DR11310,Andores Resort And Spa
+HO10286,Pride Plaza,moderate,5str,New Delhi,DR10372,Pride Plaza
+HO11114,Marriott,moderate,5str,Indore,DR11449,Marriott
+HO10501,Bundi Vilas,moderate,1str,Bundi,DR10887,Bundi Vilas
+HO10004,Four Points By Sheraton,moderate,5str,Jaipur,DR10106,Four Points By Sheraton
+HO10831,Killa Bhawan,moderate,4str,Jaisalmer,DR11116,Killa Bhawan
+HO11867,AyurSoma Ayurveda Royal Retreat,budget,1str,Kovalam,DR11538,AyurSoma Ayurveda Royal Retreat
+HO10108,Ibis,budget,3str,Jaipur,DR10269,Ibis
+HO11798,Stone Wood Resort,budget,3str,Goa,DR12524,Stone Wood Resort
+HO11015,Golden Tulip Suites,moderate,4str,Gurgaon,DR10791,Golden Tulip Suites
+HO11494,Taurus Sarovar Portico,budget,4str,New Delhi,DR12196,Taurus Sarovar Portico
+HO10667,Haveli Dharampura,first-class,4str,New Delhi,DR10497,Haveli Dharampura
+HO11008,Udman By Ferns N Petals,moderate,4str,New Delhi,DR11216,Udman By Ferns N Petals
+HO11566,Radisson Blu GRT,moderate,5str,Chennai,DR12361,Radisson Blu GRT
+HO10261,Mayfair Himalayan Spa Resort,first-class,5str,Kalimpong,DR10720,Mayfair Himalayan Spa Resort
+HO10942,Southern Star,moderate,5str,Mysuru (Mysore),DR11057,Southern Star
+HO10022,DoubleTree By Hilton,first-class,5str,Agra,DR10167,DoubleTree By Hilton
+HO11552,Norbu House,moderate,3str,Dharamshala,DR12296,Norbu House
+HO12109,Contour Island Resort & Spa,budget,3str,,DR11538,Contour Island Resort & Spa
+HO11700,Alidia Beach Resort,budget,3str,,DR11538,Alidia Beach Resort
+HO10677,Chateau Garli,moderate,3str,Pragpur,DR10846,Chateau Garli
+HO10336,The Oberoi Cecil,lux,5str,Shimla,DR10610,The Oberoi Cecil
+HO10466,Dune De L'Orient,moderate,3str,Puducherry (Pondicherry),DR10924,Dune De L'Orient
+HO11879,Gokulam Grand Resort & Spa,first-class,1str,Kumarakom,DR12504,Gokulam Grand Resort & Spa
+HO11445,Umed Bhawan Palace,moderate,4str,Kota (RJ) ,DR11597,Umed Bhawan Palace
+HO11273,Radisson Blu,moderate,5str,Faridabad,DR10594,Radisson Blu
+HO11121,The Retreat,budget,4str,Agra,DR11487,The Retreat
+HO10623,Taj Exotica Resort & Spa,lux,5str,Goa,DR11052,Taj Exotica Resort & Spa
+HO11349,The Lalit,first-class,5str,Chandigarh,DR10588,The Lalit
+HO11628,Florence,budget,3str,New Delhi,DR12593,Florence
+HO10168,Fragrant Nature,first-class,5str,Munnar,DR10270,Fragrant Nature
+HO10038,TatSaraasa Resort & Spa,moderate,5str,Udaipur (RJ),DR10215,TatSaraasa Resort & Spa
+HO10329,Lakes and Lagoon,houseboat-first-class,houseboat-platinum,Alappuzha (Alleppey),DR10241,Lakes and Lagoon
+HO10738,Regenta Resort,moderate,4str,Bhuj,DR11100,Regenta Resort
+HO11193,Six Senses Vana,lux,1str,Dehradun,DR11331,Six Senses Vana
+HO12290,Club Mahindra,moderate,1str,Bharatpur,DR12736,Club Mahindra
+HO11377,Siris 18,budget,3str,Agra,DR10455,Siris 18
+HO11870,Lumbinis Grand,budget,1str,,DR11538,Lumbinis Grand
+HO10649,Niraamaya Retreats Cardamom Club,first-class,4str,Thekkady (Periyar/Kumily),DR10808,Niraamaya Retreats Cardamom Club
+HO11170,Laxman Jhula Divine Resort,moderate,4str,Rishikesh,DR11491,Laxman Jhula Divine Resort
+HO10054,JP Hotel,budget,3str,Chennai,DR10650,JP Hotel
+HO10227,Khas Bagh,first-class,4str,Jaipur,DR10278,Khas Bagh
+HO12057,E-Square The Fern,budget,5str,,DR11538,E-Square The Fern
+HO12201,Rhythm,moderate,4str,Gurgaon,DR12401,Rhythm
+HO12059,Royal Sarovar Portico,budget,3str,Siliguri,DR11538,Royal Sarovar Portico
+HO10461,Mamallaa Heritage,budget,3str,Mamallapuram (Mahabalipuram),DR10945,Mamallaa Heritage
+HO12054,Crowne Plaza Pune City Centre,budget,5str,,DR11538,Crowne Plaza Pune City Centre
+HO11854,Lariya Resort,budget,3str,,DR11538,Lariya Resort
+HO10542,Reni Pani Jungle Lodge,first-class,3str,Hoshangabad (Satpura),DR10601,Reni Pani Jungle Lodge
+HO10862,Fairmont,lux,5str,Jaipur,DR10256,Fairmont
+HO11392,Red Earth,first-class,1str,Gokarna,DR11292,Red Earth
+HO10670,Renest,moderate,3str,Jaipur,DR11031,Renest
+HO10060,Rajdarshan,budget,3str,Udaipur (RJ),DR10146,Rajdarshan
+HO10774,Desert Resort,moderate,3str,Mandawa,DR10351,Desert Resort
+HO11126,Treehouse Rajbagh,budget,1str,Jodhpur,DR10962,Treehouse Rajbagh
+HO11173,Grand Uniara,moderate,3str,Jaipur,DR11526,Grand Uniara
+HO12060,Lemon Tree Hotel,budget,1str,Gurgaon,DR11538,Lemon Tree Hotel
+HO10613,Xandari Riverscapes,houseboat-first-class,houseboat-platinum,Kumarakom,DR10649,Xandari Riverscapes
+HO10476,The Residency Towers,moderate,5str,Puducherry (Pondicherry),DR10938,The Residency Towers
+HO12332,Sinclairs Retreat,moderate,4str,Ooty (Udhagamandalam),DR11538,Sinclairs Retreat
+HO10335,Red Fox,budget,1str,New Delhi,DR10130,Red Fox
+HO11042,Sterling,moderate,4str,Munnar,DR11381,Sterling
+HO10557,Nelpura Heritage Homestay,budget,1str,Alappuzha (Alleppey),DR10248,Nelpura Heritage Homestay
+HO11454,Sara Vilas,budget,4str,Mandawa,DR11061,Sara Vilas
+HO12094,Fortune Park Lakecity,budget,4str,,DR11538,Fortune Park Lakecity
+HO11716,Country Inn & Suites,budget,5str,Gurgaon,DR11538,Country Inn & Suites
+HO11949,The Amethyst,budget,3str,,DR11538,The Amethyst
+HO10279,Dev Shree,moderate,4str,Deogarh,DR10544,Dev Shree
+HO11737,Golden Tulip,budget,4str,Jaipur,DR11538,Golden Tulip
+HO12312,Majgaon Lodge,moderate,standard-hotel,Annapurna Region,DR12655,Majgaon Lodge
+HO10962,The Ummed,moderate,4str,Jodhpur,DR10344,The Ummed
+HO12338,Sterling Park,moderate,4str,Kalimpong,DR12794,Sterling Park
+HO11818,Fortune Avenue Jalandhar,budget,4str,,DR11538,Fortune Avenue Jalandhar
+HO11105,Radisson Goa Candolim,first-class,4str,Goa,DR10702,Radisson Goa Candolim
+HO10065,Ambady Estate,moderate,4str,Munnar,DR10003,Ambady Estate
+HO11016,Shahpura Kumbhal Villas,budget,1str,Kumbhalgarh,DR10471,Shahpura Kumbhal Villas
+HO11194,Clarks Inn,moderate,4str,Bengaluru,DR11862,Clarks Inn
+HO11185,Holiday Inn Express & Suites,first-class,1str,Jaipur,DR11277,Holiday Inn Express & Suites
+HO10242,Traditional Haveli,moderate,5str,Jaipur,DR10717,Traditional Haveli
+HO12101,The Park,budget,5str,Chennai,DR11538,The Park
+HO10434,Lords Inn,moderate,3str,Jodhpur,DR10336,Lords Inn
+HO10331,Lakes and Lagoon - 2 BRH,houseboat-first-class,houseboat-gold,,DR10241,Lakes and Lagoon - 2 BRH
+HO10933,Clouds End Villa Cottages,moderate,3str,Dharamshala,DR10587,Clouds End Villa Cottages
+HO10712,GRT Regency,moderate,3str,Kanchipuram,DR11168,GRT Regency
+HO11902,Karwaan,budget,5str,Jaisalmer,DR12646,Karwaan
+HO10748,Hilton Garden Inn,moderate,4str,Lucknow,DR10485,Hilton Garden Inn
+HO11271,Lemon Tree Premier,moderate,1str,Dwarka,DR11536,Lemon Tree Premier
+HO10626,Taj City Centre New Town,first-class,5str,Kolkata,DR10991,Taj City Centre New Town
+HO11055,Comfort Inn President,budget,3str,Ahmedabad,DR11408,Comfort Inn President
+HO10572,Woodville Palace,moderate,3str,Shimla,DR10611,Woodville Palace
+HO11959,Welcomheritage Ramgarh,budget,4str,,DR11538,Welcomheritage Ramgarh
+HO11928,Welcom Heritage Shri Mohangarh Fort,budget,5str,,DR11538,Welcom Heritage Shri Mohangarh Fort
+HO10202,Placid,budget,4str,Prayagraj,DR10459,Placid
+HO10043,Amet Haveli,moderate,3str,Udaipur (RJ),DR10061,Amet Haveli
+HO11258,Lemon Tree,moderate,4str,Coimbatore,DR11531,Lemon Tree
+HO11307,Soma Palmshore,budget,3str,Kovalam,DR11299,Soma Palmshore
+HO10921,Surasena Regal Vista,budget,1str,Agra,DR11204,Surasena Regal Vista
+HO11804,The HQ,budget,4str,Goa,DR11538,The HQ
+HO11168,Palanpur Palace,budget,3str,Mount Abu,DR11340,Palanpur Palace
+HO10483,Sterling Ooty - Fern Hills,budget,5str,Ooty (Udhagamandalam),DR10933,Sterling Ooty - Fern Hills
+HO10619,Xandari Riverscapes-3BRH,houseboat-first-class,houseboat-platinum,Kumarakom,DR10649,Xandari Riverscapes-3BRH
+HO11278,The Jungle Book Resort,moderate,1str,Alipurduar,DR11511,The Jungle Book Resort
+HO10171,Sparsa,budget,3str,Kanyakumari,DR10663,Sparsa
+HO10602,Blue Jelly-2BRH,houseboat-lux,houseboat-platinum,Kumarakom,DR10756,Blue Jelly-2BRH
+HO10077,Taj Fateh Prakash Palace,lux,1str,Udaipur (RJ),DR10210,Taj Fateh Prakash Palace
+HO10431,Vividus,moderate,4str,Bengaluru,DR10882,Vividus
+HO10781,Hyatt Regency,moderate,5str,Thrissur,DR10426,Hyatt Regency
+HO11056,Sterling,budget,4str,Yercaud,DR11380,Sterling
+HO11788,Heritage Resort,budget,3str,Badami,DR12548,Heritage Resort
+HO10925,WelcomHeritage Grace,moderate,3str,Dharamshala,DR10590,WelcomHeritage Grace
+HO12065,MGM Grand,budget,3str,,DR11538,MGM Grand
+HO11584,Blanket Days Resort & Spa,first-class,5str,Thekkady (Periyar/Kumily),DR12409,Blanket Days Resort & Spa
+HO11589,S Hotels,budget,3str,Chennai,DR12212,S Hotels
+HO12216,Pinnacle,moderate,3str,Lucknow,DR12661,Pinnacle
+HO10724,Lemon Tree (Electronics City),moderate,4str,Bengaluru,DR11138,Lemon Tree (Electronics City)
+HO11736,Courtyard By Marriott,budget,5str,Navi Mumbai,DR11538,Courtyard By Marriott
+HO10744,Brij Gaj Kesri,moderate,4str,Bikaner,DR10607,Brij Gaj Kesri
+HO11127,Iris Park,budget,3str,New Delhi,DR11480,Iris Park
+HO10945,WelcomHeritage Mount Valley Resort,moderate,4str,Ranthambore,DR11181,WelcomHeritage Mount Valley Resort
+HO12256,Chandragiri Hills Resort,first-class,4str,Kathmandu,DR12655,Chandragiri Hills Resort
+HO11845,DoubleTree by Hilton,budget,5str,,DR11538,DoubleTree by Hilton
+HO11994,The Westin Powai Lake,budget,5str,Mumbai,DR11538,The Westin Powai Lake
+HO10023,The Coral Court,budget,home-stay,Agra,DR10199,The Coral Court
+HO12295,Jhadol Vijay Vilas,budget,4str,Udaipur (RJ),DR12757,Jhadol Vijay Vilas
+HO11318,Lotus Nikko,moderate,3str,Bodhgaya,DR11467,Lotus Nikko
+HO11652,Justa Indra Nagar,budget,4str,,DR11538,Justa Indra Nagar
+HO10201,Fateh Garh,first-class,5str,Udaipur (RJ),DR10091,Fateh Garh
+HO10092,Dera Rawatsar,moderate,3str,Jaipur,DR10252,Dera Rawatsar
+HO12102,La orchid,budget,1str,,DR11538,La orchid
+HO10034,Rhythm,first-class,5str,Kumarakom,DR10107,Rhythm
+HO10521,Taj Kumarakom Resort & Spa,first-class,5str,Kumarakom,DR10965,Taj Kumarakom Resort & Spa
+HO11348,Hyatt Regency,first-class,5str,Lucknow,DR11797,Hyatt Regency
+HO10112,Aaram Mahal,budget,4str,Udaipur (RJ),DR10058,Aaram Mahal
+HO10481,Wildflower Hall,lux,5str,Mashobra,DR10640,Wildflower Hall
+HO11914,Sandhya Kasol,budget,4str,Kasol,DR12621,Sandhya Kasol
+HO12361,Bori Safari Lodge,first-class,1str,Betul (Satpura),DR12777,Bori Safari Lodge
+HO11934,Dekyid,budget,3str,,DR11538,Dekyid
+HO11090,Fortune Inn Haveli,moderate,4str,Gandhinagar,DR11429,Fortune Inn Haveli
+HO12172,Sri Omkar Palace,budget,3str,,DR11538,Sri Omkar Palace
+HO10241,Clarke's Oberoi,first-class,4str,Shimla,DR10746,Clarke's Oberoi
+HO12198,Stone Wood Maan Vilas,moderate,4str,Udaipur (RJ),DR12304,Stone Wood Maan Vilas
+HO11432,Amargarh Resort,budget,3str,Jodhpur,DR11882,Amargarh Resort
+HO11384,Talaibagh Palace,moderate,1str,Jaipur,DR11184,Talaibagh Palace
+HO10443,Le Dupleix,first-class,1str,Puducherry (Pondicherry),DR10881,Le Dupleix
+HO10212,Travancore Heritage,moderate,3str,Kovalam,DR10429,Travancore Heritage
+HO11077,Quality Hotel D V Manor,budget,4str,Vijayawada,DR11351,Quality Hotel D V Manor
+HO12362,Meru Vann,first-class,1str,Kanha,DR12819,Meru Vann
+HO10487,Heritage Resort,budget,3str,Bikaner,DR10952,Heritage Resort
+HO11688,Quality Airport Hotels,budget,3str,,DR11538,Quality Airport Hotels
+HO11060,Comfort Inn Sunset,budget,3str,Ahmedabad,DR11336,Comfort Inn Sunset
+HO10497,Jas Vilas,moderate,3str,Jaipur,DR10787,Jas Vilas
+HO12192,Kurja Resort,budget,3str,Phalodi,DR12506,Kurja Resort
+HO10258,WelcomHeritage Judges Court,moderate,3str,Pragpur,DR10737,WelcomHeritage Judges Court
+HO10128,Clarks,moderate,5str,Varanasi,DR10207,Clarks
+HO11938,Pachewar Garh,budget,3str,Pachewar,DR12636,Pachewar Garh
+HO10680,Mayfair Waves,moderate,1str,Puri,DR11088,Mayfair Waves
+HO12180,A.S.Hotels,budget,4str,,DR11538,A.S.Hotels
+HO12184,Renest Shraddha Inn,moderate,1str,Shirdi,DR12487,Renest Shraddha Inn
+HO11209,Bloomrooms (Janpath),moderate,3str,New Delhi,DR11462,Bloomrooms (Janpath)
+HO10029,Backwater Ripples,moderate,5str,Kumarakom,DR10108,Backwater Ripples
+HO12139,The Mountain Courtyard,budget,5str,Thekkady (Periyar/Kumily),DR11538,The Mountain Courtyard
+HO10857,Glenburn Tea Estate,first-class,3str,Darjeeling,DR10694,Glenburn Tea Estate
+HO11182,The Ambassador Pallava,moderate,4str,Chennai,DR11600,The Ambassador Pallava
+HO10396,Shangri-La,first-class,5str,Bengaluru,DR10504,Shangri-La
+HO10044,Le Pondy,moderate,5str,Puducherry (Pondicherry),DR10183,Le Pondy
+HO10931,The Johri,first-class,1str,Jaipur,DR11039,The Johri
+HO11251,Azaya Beach Resort,first-class,5str,Goa,DR11452,Azaya Beach Resort
+HO10827,Lchang Nang Retreat,first-class,5str,Leh,DR11159,Lchang Nang Retreat
+HO10458,Suroth Mahal,budget,4str,Karauli,DR10963,Suroth Mahal
+HO10645,Courtyard By Marriott,moderate,4str,Chennai,DR10359,Courtyard By Marriott
+HO12158,Tijara Fort-Palace,budget,1str,Alwar,DR11538,Tijara Fort-Palace
+HO12269,Mulberry,budget,3str,Kathmandu,DR12655,Mulberry
+HO11308,Residency Fort,budget,2str,Mumbai,DR11807,Residency Fort
+HO12053,Mayfair Tea Resorts,budget,5str,Siliguri,DR11538,Mayfair Tea Resorts
+HO10017,Radisson Jass,first-class,4str,Khajuraho,DR10126,Radisson Jass
+HO10473,Uday Suites,moderate,4str,Thiruvananthapuram (Trivandrum),DR10929,Uday Suites
+HO12046,Sai Towers,budget,2str,,DR11538,Sai Towers
+HO10259,The Zuri White Sands,first-class,5str,Goa,DR10705,The Zuri White Sands
+HO10287,Jaypee Siddharth,moderate,5str,New Delhi,DR10778,Jaypee Siddharth
+HO10043,Amet Haveli,moderate,4str,Udaipur (RJ),DR10061,Amet Haveli
+HO10531,The Taj Mahal Palace,lux,5str,Mumbai,DR10542,The Taj Mahal Palace
+HO11592,Park Inn By Radisson,moderate,1str,Ayodhya,DR12396,Park Inn By Radisson
+HO10103,Crowne Plaza,first-class,5str,Jaipur,DR10247,Crowne Plaza
+HO11153,Cardinal Express Oxmo,budget,3str,New Delhi,DR11321,Cardinal Express Oxmo
+HO11294,Lemon Tree Wildlife Resort,moderate,1str,Bandhavgarh,DR10100,Lemon Tree Wildlife Resort
+HO11641,Greenpark,budget,1str,,DR11538,Greenpark
+HO11133,Bhanwar Vilas Palace,budget,3str,Karauli,DR11339,Bhanwar Vilas Palace
+HO10759,Abad Brookside,moderate,4str,Wayanad,DR11167,Abad Brookside
+HO10664,Royal Safari Camp,moderate,4str,Bajana (GJ),DR10530,Royal Safari Camp
+HO10024,Khandela Haveli,moderate,heritage,Jaipur,DR10001,Khandela Haveli
+HO11728,Birders Inn,moderate,3str,Bharatpur,DR10553,Birders Inn
+HO12235,Hyatt Regency,moderate,5str,Gurgaon,DR12252,Hyatt Regency
+HO12278,Roopa Elite,budget,4str,Mysuru (Mysore),DR12713,Roopa Elite
+HO11639,Lakshmi Vilas,budget,1str,,DR11538,Lakshmi Vilas
+HO11905,Saboo Resort,budget,4str,,DR11538,Saboo Resort
+HO11482,Ananta Spa & Resort,first-class,5str,Pushkar,DR12230,Ananta Spa & Resort
+HO11510,The Gateway Hotel,moderate,5str,Nasik,DR12257,The Gateway Hotel
+HO10134,Jim's Jungle Retreat,first-class,4str,Corbett,DR10476,Jim's Jungle Retreat
+HO11038,Fortune Park BBD,moderate,4str,Lucknow,DR11291,Fortune Park BBD
+HO10713,Taj Skyline,first-class,5str,Ahmedabad,DR11134,Taj Skyline
+HO10570,Comfort Inn Heritage,moderate,4str,Mumbai,DR10409,Comfort Inn Heritage
+HO10049,Premkunj,moderate,1str,Udaipur (RJ),DR10145,Premkunj
+HO10276,Libra Lords Inn,budget,3str,Jaipur,DR10000,Libra Lords Inn
+HO10042,J C Residency,budget,3str,Madurai,DR10164,J C Residency
+HO11373,Raisar Camp,budget,1str,Bikaner,DR11888,Raisar Camp
+HO11680,Dadhikar Fort,budget,4str,,DR11538,Dadhikar Fort
+HO10608,RKV-2BRH,budget,houseboat-silver,Alappuzha (Alleppey),DR10254,RKV-2BRH
+HO11526,Renaissance,first-class,5str,Lucknow,DR12320,Renaissance
+HO10064,Mahendra Prakash,moderate,heritage,Udaipur (RJ),DR10134,Mahendra Prakash
+HO10062,Shiv Niwas Palace,first-class,5str,Udaipur (RJ),DR10203,Shiv Niwas Palace
+HO10957,The Leela,first-class,5str,Kovalam,DR11041,The Leela
+HO11617,Sunday Hotel,moderate,5str,Jaipur,DR12195,Sunday Hotel
+HO12016,Mosaic,budget,4str,,DR11538,Mosaic
+HO12147,Samudra KTDC,budget,3str,,DR11538,Samudra KTDC
+HO11547,The Maharana Bagh,moderate,4str,Udaipur (RJ),DR12233,The Maharana Bagh
+HO10340,Lakes and Lagoon - 2 BRH,houseboat-first-class,houseboat-gold,,DR10241,Lakes and Lagoon - 2 BRH
+HO10268,Chettinadu Mansion,budget,3str,Karaikudi,DR10567,Chettinadu Mansion
+HO10011,Tajview,moderate,5str,Agra,DR10047,Tajview
+HO10199,Ikaki Niwas,budget,1str,Jaipur,DR10271,Ikaki Niwas
+HO10507,Hilton,first-class,5str,Jaipur,DR10267,Hilton
+HO11899,Hampshire Plaza,budget,3str,Hyderabad,DR11538,Hampshire Plaza
+HO11796,The Westin Goa,budget,5str,,DR11538,The Westin Goa
+HO12022,Radisson Blu Mbd,budget,5str,,DR11538,Radisson Blu Mbd
+HO11423,The Baagh Ananta Elite,moderate,4str,Ranthambore,DR11949,The Baagh Ananta Elite
+HO11368,MPT Malwa Resort,budget,1str,Mandu (MP),DR11886,MPT Malwa Resort
+HO10534,Lemon Tree Premier,moderate,4str,Patna,DR10734,Lemon Tree Premier
+HO10770,Taj tirupati,first-class,5str,Tirupati,DR10994,Taj tirupati
+HO11718,"De Mandarin Beach Resort, Suites And Villas",moderate,1str,Goa,DR12515,"De Mandarin Beach Resort, Suites And Villas"
+HO11291,Lemon Tree (Candolim),moderate,4str,Goa,DR11529,Lemon Tree (Candolim)
+HO11004,Travancore Court,budget,4str,Kochi (Cochin),DR11298,Travancore Court
+HO11425,The Golden Palms Hotel & Spa,moderate,3str,New Delhi,DR11933,The Golden Palms Hotel & Spa
+HO12085,KVM Hotel,budget,3str,Trichy (Tiruchirappalli),DR12561,KVM Hotel
+HO12080,Yantra Ayurvedic Resort,budget,3str,,DR11538,Yantra Ayurvedic Resort
+HO10471,Baymaas Lakehouse,moderate,1str,Kochi (Cochin),DR10025,Baymaas Lakehouse
+HO11395,Casa Rio,budget,1str,Athirappilly,DR12039,Casa Rio
+HO10367,Golden Tulip Essential,moderate,4str,Jaipur,DR10266,Golden Tulip Essential
+HO12357,Padmaa,first-class,1str,Jaipur,DR12818,Padmaa
+HO11079,The Gateway Hotel (Ernakulam),moderate,5str,Kochi (Cochin),DR11338,The Gateway Hotel (Ernakulam)
+HO11509,Kumarakom Lake Resort (Houseboat),houseboat-first-class,houseboat-platinum,Alappuzha (Alleppey),DR10110,Kumarakom Lake Resort (Houseboat)
+HO11282,Gama Heritage Residency,budget,1str,Kochi (Cochin),DR11392,Gama Heritage Residency
+HO10681,ITC Sonar,first-class,5str,Kolkata,DR11080,ITC Sonar
+HO12157,Church View Suites,budget,3str,,DR11538,Church View Suites
+HO11762,Presidium Sarovar Portico Dalhousie,budget,1str,,DR11538,Presidium Sarovar Portico Dalhousie
+HO11109,Fortune Park Panchwati,moderate,4str,Kolkata,DR11363,Fortune Park Panchwati
+HO10485,Svatma,first-class,5str,Thanjavur (Tanjore),DR10195,Svatma
+HO10510,Lemon Tree Premier,moderate,3str,Pune,DR10153,Lemon Tree Premier
+HO12393,Manvii,budget,5str,Rewalsar,DR10497,Manvii
+HO11338,Kasmanda Palace,moderate,3str,Mussoorie,DR11323,Kasmanda Palace
+HO11740,Effotel by Sayaji,budget,2str,,DR11538,Effotel by Sayaji
+HO11777,Renai Kappad Beach Resort,budget,3str,,DR11538,Renai Kappad Beach Resort
+HO11487,The Gateway Hotel,moderate,5str,Visakhapatnam,DR12202,The Gateway Hotel
+HO11836,Radisson Blu,budget,5str,Gorakhpur,DR11538,Radisson Blu
+HO11528,The World Backwaters,moderate,4str,Alappuzha (Alleppey),DR12288,The World Backwaters
+HO10558,Uday Backwater Resort,moderate,1str,Alappuzha (Alleppey),DR11005,Uday Backwater Resort
+HO11620,Shreevanam By Beejom,moderate,3str,Banhpur,DR12413,Shreevanam By Beejom
+HO11054,Sterling,moderate,4str,Thekkady (Periyar/Kumily),DR11373,Sterling
+HO10017,Radisson Jass,first-class,5str,Khajuraho,DR10126,Radisson Jass
+HO11333,Lemon Tree,moderate,3str,Indore,DR11514,Lemon Tree
+HO11302,The Lalit Great Eastern,first-class,5str,Kolkata,DR10430,The Lalit Great Eastern
+HO10097,Alsisar Haveli,moderate,4str,Jaipur,DR10239,Alsisar Haveli
+HO11455,Palace Hotel,moderate,3str,Mount Abu,DR11610,Palace Hotel
+HO11944,Majestic Court Sarovar Portico,budget,4str,,DR11538,Majestic Court Sarovar Portico
+HO10470,Guleria Kothi,moderate,3str,Varanasi,DR10857,Guleria Kothi
+HO11919,Hometel Alambagh Lucknow,budget,1str,,DR11538,Hometel Alambagh Lucknow
+HO11207,Bloom Hotel (Indiranagar),moderate,3str,Bengaluru,DR11446,Bloom Hotel (Indiranagar)
+HO11174,Mirvana Nature Resort,moderate,3str,Sodakore,DR11359,Mirvana Nature Resort
+HO10014,The Suryaa,first-class,5str,New Delhi,DR10071,The Suryaa
+HO10493,Rawla Narlai,moderate,5str,Narlai,DR10561,Rawla Narlai
+HO12063,Bungalow On The Beach,budget,4str,Tranquebar (Tharangambadi),DR11538,Bungalow On The Beach
+HO10047,Chunda Palace,moderate,5str,Udaipur (RJ),DR10088,Chunda Palace
+HO11255,Hotel Test for Production,lux,5str,,DR12034,Hotel Test for Production
+HO10257,The Lodhi,lux,5str-lux,New Delhi,DR10354,The Lodhi
+HO11280,Holiday Inn,moderate,5str,Amritsar,DR10035,Holiday Inn
+HO11171,Comfort Inn Benares,moderate,3str,Varanasi,DR10394,Comfort Inn Benares
+HO11472,The Postcard Hideaway,first-class,1str,Goa,DR12059,The Postcard Hideaway
+HO10790,Harsoli Haveli,budget,3str,Jaipur,DR10809,Harsoli Haveli
+HO11164,Fortune District Centre,moderate,4str,Ghaziabad,DR11386,Fortune District Centre
+HO12115,Bhairavgarh,moderate,4str,Udaipur (RJ),DR12610,Bhairavgarh
+HO11383,Goan Heritage,moderate,3str,Goa,DR11477,Goan Heritage
+HO11974,Sea Palace,budget,1str,Mumbai,DR11538,Sea Palace
+HO11723,The Zuri Whitefield,budget,5str,,DR11538,The Zuri Whitefield
+HO11975,Marari Village Beach Resort,budget,1str,,DR11538,Marari Village Beach Resort
+HO11626,Villa 21,budget,2str,Agra,DR12614,Villa 21
+HO10081,Holiday Inn (Cochin),moderate,5str,Kochi (Cochin),DR10279,Holiday Inn (Cochin)
+HO10939,Tuli Tiger Corridor,moderate,3str,Kanha,DR11202,Tuli Tiger Corridor
+HO10894,Ramada By Wyndham (Jaisinghpura),moderate,4str,Jaipur,DR10956,Ramada By Wyndham (Jaisinghpura)
+HO10305,Welcomhotel By ITC Hotels (Dwarka),moderate,5str,New Delhi,DR10780,Welcomhotel By ITC Hotels (Dwarka)
+HO12228,Buddha Maya Garden,budget,standard-hotel,Lumbini,DR12655,Buddha Maya Garden
+HO11259,Lemon Tree Tarudhan Valley,moderate,4str,Manesar,DR11528,Lemon Tree Tarudhan Valley
+HO12342,Le Montfort Resort,moderate,1str,Munnar,DR12804,Le Montfort Resort
+HO11610,Kohima Camp,lux,1str,Kohima,DR12289,Kohima Camp
+HO10266,"Welcomhotel By ITC Hotels, Rama International",first-class,5str,Aurangabad (MH) ,DR10529,"Welcomhotel By ITC Hotels, Rama International"
+HO10718,Lemon Tree Premier,first-class,4str,Rishikesh,DR11101,Lemon Tree Premier
+HO12066,Hyatt Regency,budget,5str,Pune,DR11538,Hyatt Regency
+HO12335,Saratha Vilas,first-class,4str,Chettinadu,DR10016,Saratha Vilas
+HO10116,The Accord Metropolitan,moderate,5str,Chennai,DR10225,The Accord Metropolitan
+HO10800,Fort Khejarla,moderate,4str,Khejarla,DR10602,Fort Khejarla
+HO11698,Agonda Serenity Resort,budget,1str,Goa,DR11538,Agonda Serenity Resort
+HO11945,Ganpat Grand,budget,3str,,DR11538,Ganpat Grand
+HO11674,Club Mahindra Cherai Beach Resort,budget,5str,,DR11538,Club Mahindra Cherai Beach Resort
+HO12340,Sterling,moderate,4str,Pushkar,DR12724,Sterling
+HO10209,Hoysala Village Resort,first-class,4str,Hassan,DR10714,Hoysala Village Resort
+HO11643,Radisson Blu Marina,budget,4str,New Delhi,DR11538,Radisson Blu Marina
+HO10252,Heritage Inn,budget,heritage,Jaisalmer,DR10291,Heritage Inn
+HO12152,"Aiden by Best Western, Hennur",budget,1str,,DR11538,"Aiden by Best Western, Hennur"
+HO12344,Welcomhotel By ITC Hotels (Delhi - Gurugram Highway),moderate,1str,New Delhi,DR12805,Welcomhotel By ITC Hotels (Delhi - Gurugram Highway)
+HO12034,The Richmond,moderate,3str,Puducherry (Pondicherry),DR10998,The Richmond
+HO11194,Clarks Inn,moderate,1str,Bengaluru,DR11862,Clarks Inn
+HO11946,Mastiff Grand,budget,4str,,DR11538,Mastiff Grand
+HO12246,Namche Lodge,moderate,standard-resort,Everest Region,DR12655,Namche Lodge
+HO11103,The Leela Ashtamudi,moderate,5str,Kollam (Quilon),DR11269,The Leela Ashtamudi
+HO11026,Jehan Numa Retreat,moderate,4str,Bhopal,DR11286,Jehan Numa Retreat
+HO10329,Lakes and Lagoon,houseboat-first-class,houseboat-gold,Alappuzha (Alleppey),DR10241,Lakes and Lagoon
+HO10239,The Oberoi,lux,5str,Bengaluru,DR10683,The Oberoi
+HO10806,Sardargarh Heritage,moderate,4str,Sardargarh,DR11128,Sardargarh Heritage
+HO12052,Singhania Sarovar Portico,budget,4str,Raipur (CT) ,DR11538,Singhania Sarovar Portico
+HO11615,Alivaa,moderate,4str,Gurgaon,DR12345,Alivaa
+HO10514,Lemon Tree,moderate,4str,Aurangabad (MH) ,DR10527,Lemon Tree
+HO10541,Windamere,first-class,4str,Darjeeling,DR10031,Windamere
+HO10094,Marriott Resort & Spa,lux,5str,Jaisalmer,DR10306,Marriott Resort & Spa
+HO10676,Kairali Heritage,moderate,3str,Kannur (Cannanore),DR11054,Kairali Heritage
+HO11085,Fortune Inn Sree Kanya,moderate,3str,Visakhapatnam,DR11422,Fortune Inn Sree Kanya
+HO10248,Radisson Blu Resort Temple Bay,first-class,5str,Mamallapuram (Mahabalipuram),DR10179,Radisson Blu Resort Temple Bay
+HO12393,Surya,budget,5str,Rewalsar,DR10497,Surya
+HO11357,Lemon Tree (Shimona),moderate,3str,Chennai,DR11523,Lemon Tree (Shimona)
+HO12326,Nine Furlongs,first-class,1str,Binsar,DR12381,Nine Furlongs
+HO12247,Phakding Lodge,moderate,standard-hotel,Everest Region,DR12655,Phakding Lodge
+HO11675,Kumaon,budget,4str,,DR11538,Kumaon
+HO11226,Tenerife Hill,moderate,1str,Coonoor,DR10472,Tenerife Hill
+HO10402,Suryagarh,first-class,5str,Jaisalmer,DR10834,Suryagarh
+HO10325,The Leela Palace,lux,5str,Jaipur,DR10326,The Leela Palace
+HO10348,Emerald Isle,budget,1str,Alappuzha (Alleppey),DR10244,Emerald Isle
+HO11197,ITC Maratha,lux,5str,Mumbai,DR10422,ITC Maratha
+HO10045,The Coral Tree Homestay,budget,1str,Agra,DR10197,The Coral Tree Homestay
+HO11564,DoubleTree By Hilton,moderate,5str,Jaipur,DR12356,DoubleTree By Hilton
+HO11011,Panjim Inn,budget,3str,Goa,DR11329,Panjim Inn
+HO11863,Agastyaa Heritage Ayurvedic Hospital,budget,1str,,DR11538,Agastyaa Heritage Ayurvedic Hospital
+HO10609,RKV-3BRH,budget,houseboat-silver,Alappuzha (Alleppey),DR10254,RKV-3BRH
+HO11024,Ganga Lahari,moderate,3str,Haridwar,DR11082,Ganga Lahari
+HO11849,Grand Hyatt,budget,5str,Kochi (Cochin),DR11538,Grand Hyatt
+HO11522,Zone By The Park,budget,1str,Gopalpur,DR12315,Zone By The Park
+HO11369,Quality Hotel Sabari Classic,budget,1str,Chennai,DR11415,Quality Hotel Sabari Classic
+HO10833,Pench Jungle Camp,first-class,4str,Pench,DR11153,Pench Jungle Camp
+HO12189,The Ummed,moderate,5str,Ahmedabad,DR12405,The Ummed
+HO10502,Haveli Braj Bhushanjee,moderate,1str,Bundi,DR10949,Haveli Braj Bhushanjee
+HO11831,Jaypee Green Golf & Spa,budget,5str,Greater Noida,DR11538,Jaypee Green Golf & Spa
+HO12000,Radisson,budget,5str,Jodhpur,DR11538,Radisson
+HO11948,Nature Vilas Sarovar Portico,budget,4str,,DR11538,Nature Vilas Sarovar Portico
+HO10381,Vesta Maurya Palace,budget,4str,Jaipur,DR10852,Vesta Maurya Palace
+HO11474,The Postcard On The Arabian Sea,first-class,1str,Udupi,DR12234,The Postcard On The Arabian Sea
+HO12025,Radisson Resort Pondicherry Bay,first-class,4str,Puducherry (Pondicherry),DR12500,Radisson Resort Pondicherry Bay
+HO11667,The Padmini Haveli,budget,1str,Chittorgarh,DR11538,The Padmini Haveli
+HO11987,Express Inn Nashik,budget,4str,Nasik,DR11538,Express Inn Nashik
+HO11951,Snow Valley Resorts,moderate,4str,Manali,DR12587,Snow Valley Resorts
+HO11624,Novotel Sipcot,budget,5str,,DR11538,Novotel Sipcot
+HO12281,Square,budget,standard-hotel,Lalitpur (NP),DR12655,Square
+HO11248,Colonia Santa Maria,moderate,4str,Goa,DR11305,Colonia Santa Maria
+HO11097,Trident Bandra Kurla,first-class,5str,Mumbai,DR10864,Trident Bandra Kurla
+HO12206,Wild Mahseer,moderate,3str,Sonitpur,DR12615,Wild Mahseer
+HO10469,Nahargarh,moderate,4str,Ranthambore,DR10850,Nahargarh
+HO12047,Larisa Hotels & Resorts,budget,4str,,DR11538,Larisa Hotels & Resorts
+HO10048,Jagat Niwas Palace,moderate,3str,Udaipur (RJ),DR10122,Jagat Niwas Palace
+HO11745,Fortune Park Sishmo,budget,4str,Bhubaneswar,DR11538,Fortune Park Sishmo
+HO11609,Aloof Jungle Lodge,first-class,3str,Ranakpur,DR12371,Aloof Jungle Lodge
+HO10994,Vivanta,first-class,5str,Bhubaneswar,DR11205,Vivanta
+HO12083,Ramee Grand,budget,4str,,DR11538,Ramee Grand
+HO11094,ITC Narmada,first-class,5str,Ahmedabad,DR11459,ITC Narmada
+HO11235,The Lotus Houseboat,first-class,1str,Neeleshwar,DR11426,The Lotus Houseboat
+HO11819,Palm Beach Resort,budget,1str,Gopalpur,DR11538,Palm Beach Resort
+HO10388,The Residency,moderate,4str,Chennai,DR10771,The Residency
+HO10596,Ikhaya,budget,3str,New Delhi,DR11029,Ikhaya
+HO12267,Dolmaling,budget,standard-hotel,Kathmandu,DR12655,Dolmaling
+HO11724,DoubleTree by Hilton - Panaji,budget,5str,,DR11538,DoubleTree by Hilton - Panaji
+HO11463,WGH Poetree,moderate,4str,Thekkady (Periyar/Kumily),DR12193,WGH Poetree
+HO10943,Bissau Palace,budget,3str,Jaipur,DR10242,Bissau Palace
+HO11986,Courtyard by Marriott,budget,5str,Nasik,DR11538,Courtyard by Marriott
+HO11139,Utsav Camp,first-class,1str,Sariska,DR11538,Utsav Camp
+HO11296,Anantha Heritage,budget,2str,Puducherry (Pondicherry),DR11612,Anantha Heritage
+HO11441,Rahat,budget,3str,Shimla,DR10606,Rahat
+HO10250,Castle Bera,moderate,3str,Pali (RJ) ,DR10549,Castle Bera
+HO12114,Amaana Resorts,budget,1str,Thekkady (Periyar/Kumily),DR11538,Amaana Resorts
+HO11181,Serkong House,moderate,3str,Dharamshala,DR10592,Serkong House
+HO11596,Chomu Palace,moderate,5str,Jaipur,DR12360,Chomu Palace
+HO11646,Radisson Blue Alibaug,budget,5str,,DR11538,Radisson Blue Alibaug
+HO10803,Dera Masuda,moderate,4str,Pushkar,DR11141,Dera Masuda
+HO11179,Ranthambhore National Resort,budget,4str,Ranthambore,DR10773,Ranthambhore National Resort
+HO10968,Baragarh Resort & Spa - IHCL SeleQtions,first-class,5str,Manali,DR11175,Baragarh Resort & Spa - IHCL SeleQtions
+HO10005,Taj Hotel & Convention Centre,first-class,5str,Agra,DR10043,Taj Hotel & Convention Centre
+HO10844,Country Inn & Suites (Sector 12),budget,4str,Gurgaon,DR10706,Country Inn & Suites (Sector 12)
+HO10378,Lemon Tree Premier (Ulsoor Lake),moderate,4str,Bengaluru,DR10495,Lemon Tree Premier (Ulsoor Lake)
+HO11091,Welcomhotel By ITC Hotels,moderate,5str,Vadodara,DR11344,Welcomhotel By ITC Hotels
+HO10155,The Leela Palace,lux,5str,Bengaluru,DR10128,The Leela Palace
+HO11393,Anand At The Satluj,moderate,3str,Anandpur Sahib,DR10524,Anand At The Satluj
+HO11160,Dewa Retreat,moderate,4str,Rishikesh,DR11501,Dewa Retreat
+HO11634,Madhuban Hotel,moderate,3str,New Delhi,DR12546,Madhuban Hotel
+HO10945,Mount Valley Resort,moderate,4str,Ranthambore,DR11181,Mount Valley Resort
+HO11466,Fairfield By Marriott,moderate,4str,Agra,DR12060,Fairfield By Marriott
+HO10380,Sawai Madhopur Lodge - IHCL SeleQtions,first-class,4str,Ranthambore,DR10402,Sawai Madhopur Lodge - IHCL SeleQtions
+HO10275,The Malabar House,first-class,4str,Kochi (Cochin),DR10395,The Malabar House
+HO10420,Bijolai Palace,moderate,3str,Jodhpur,DR10863,Bijolai Palace
+HO11958,Radisson Goregaon,budget,5str,,DR11538,Radisson Goregaon
+HO11147,Fatehâ€™s Retreat,first-class,1str,Ranthambore,DR11534,Fatehâ€™s Retreat
+HO11116,"The Westin Resort & Spa, Himalayas",lux,5str,Rishikesh,DR11401,"The Westin Resort & Spa, Himalayas"
+HO11070,Badi Kothi,moderate,1str,Prayagraj,DR11369,Badi Kothi
+HO11553,Junglaat,budget,1str,Dharamshala,DR12297,Junglaat
+HO11943,Comfort inn Snow Park,budget,4str,,DR11538,Comfort inn Snow Park
+HO11020,Aangan Resort,budget,1str,Mandawa,DR11256,Aangan Resort
+HO10228,Regenta Central RS,moderate,4str,Chennai,DR10079,Regenta Central RS
+HO11155,Bassi Fort Palace,moderate,3str,Chittorgarh,DR11343,Bassi Fort Palace
+HO10051,Udai Kothi,moderate,3str,,DR10231,Udai Kothi
+HO11095,Trident,first-class,5str,Hyderabad,DR10617,Trident
+HO11792,Bloom Boutique GK1,budget,3str,New Delhi,DR10070,Bloom Boutique GK1
+HO10082,Udaigarh,moderate,3str,Udaipur (RJ),DR10232,Udaigarh
+HO11218,The Serai,first-class,4str,Kabini,DR11407,The Serai
+HO11424,Kyron,budget,3str,New Delhi,DR11873,Kyron
+HO12207,Mahal Khandela,budget,3str,Jaipur,DR12295,Mahal Khandela
+HO11869,Clarks Inn Suites,moderate,4str,Gwalior,DR12547,Clarks Inn Suites
+HO11032,Sterling Kodai Lake,moderate,5str,Kodaikanal,DR11358,Sterling Kodai Lake
+HO10247,The Elgin Fairlawn,moderate,heritage,Kolkata,DR10412,The Elgin Fairlawn
+HO10947,Dileep Kothi,first-class,1str,Jaipur,DR11174,Dileep Kothi
+HO11486,Sawai Shivir,first-class,1str,Ranthambore,DR12223,Sawai Shivir
+HO10260,Le Meridien,moderate,5str,Gurgaon,DR10707,Le Meridien
+HO12287,Ginger,budget,1str,Udaipur (RJ),DR12748,Ginger
+HO10075,Treetop,moderate,3str,Thekkady (Periyar/Kumily),DR10295,Treetop
+HO11421,Bhanwar Singh Palace,moderate,4str,Pushkar,DR11177,Bhanwar Singh Palace
+HO10775,The Bagheera,first-class,1str,Jaipur,DR11108,The Bagheera
+HO10139,Suba Palace,budget,3str,Mumbai,DR10466,Suba Palace
+HO12195,Royal Lotus View,moderate,4str,Bengaluru,DR10974,Royal Lotus View
+HO11342,"Welcomhotel By ITC Hotels, The Savoy",lux,5str,Mussoorie,DR11749,"Welcomhotel By ITC Hotels, The Savoy"
+HO10662,Chitvan Jungle Lodge,moderate,4str,Kanha,DR11053,Chitvan Jungle Lodge
+HO10238,Taj Green Cove Resort & Spa,first-class,5str,Kovalam,DR10722,Taj Green Cove Resort & Spa
+HO10725,Taurus Sarovar Portico,budget,3str,New Delhi,DR10368,Taurus Sarovar Portico
+HO11435,Chandelao Garh,moderate,2str,Jodhpur,DR10331,Chandelao Garh
+HO11686,Four Points by Sheraton Kochi Infopark,budget,5str,,DR11538,Four Points by Sheraton Kochi Infopark
+HO10309,Nachana Haveli,moderate,3str,Jaisalmer,DR10024,Nachana Haveli
+HO10333,Keys Select,budget,4str,Kochi (Cochin),DR10205,Keys Select
+HO10742,Poovar Island Resort,moderate,4str,Poovar,DR11140,Poovar Island Resort
+HO11842,Novotel,budget,5str,Jodhpur,DR11538,Novotel
+HO11427,The Narayana Palace,budget,1str,Rishikesh,DR11805,The Narayana Palace
+HO10805,Surya Mcleod,moderate,3str,Dharamshala,DR10593,Surya Mcleod
+HO11388,Holiday Inn Resort,moderate,5str,Goa,DR11469,Holiday Inn Resort
+HO11861,The Westin Sohna Resort & Spa,budget,5str,,DR11538,The Westin Sohna Resort & Spa
+HO10244,Samode Safari Lodge,lux,4str,Bandhavgarh,DR10532,Samode Safari Lodge
+HO12087,Royal Orchid Central,budget,4str,Jaipur,DR11538,Royal Orchid Central
+HO10234,The Residency Tower,moderate,5str,Coimbatore,DR10464,The Residency Tower
+HO10794,The Earth,first-class,1str,Amritsar,DR11129,The Earth
+HO11921,Novotel,budget,5str,Jodhpur,DR11538,Novotel
+HO10278,The Oberoi,lux,5str,New Delhi,DR10348,The Oberoi
+HO10579,The Mirador,moderate,4str,Mumbai,DR10843,The Mirador
+HO10107,Haze and Kites Resort,first-class,5str,Munnar,DR10277,Haze and Kites Resort
+HO12316,Country Inn & Suites,budget,4str,Kota (RJ) ,DR12293,Country Inn & Suites
+HO11999,Bloom Hotel,budget,3str,,DR11538,Bloom Hotel
+HO11878,Hyatt Place,budget,1str,Jaipur,DR11538,Hyatt Place
+HO10078,Courtyard By Marriott,first-class,5str,Agra,DR10209,Courtyard By Marriott
+HO11699,Agonda Villas,budget,4str,,DR11538,Agonda Villas
+HO12232,Landmark,budget,2str,Kathmandu,DR12655,Landmark
+HO10006,Suryauday Haveli,first-class,4str,Varanasi,DR10133,Suryauday Haveli
+HO12166,Sajjoys,budget,4str,Varkala,DR11538,Sajjoys
+HO11087,Fortune Select Trinity,moderate,4str,Bengaluru,DR11361,Fortune Select Trinity
+HO10098,Hyatt Regency,first-class,5str,Chennai,DR10214,Hyatt Regency
+HO12394,Test vk,first-class,4str,,DR10101,Test vk
+HO12339,Sterling V Grand,moderate,4str,Madurai,DR12749,Sterling V Grand
+HO12354,Rose Amer - S,moderate,5str,,DR12368,Rose Amer - S
+HO11067,Quality Inn VIHA,budget,3str,Kumbakonam,DR11179,Quality Inn VIHA
+HO11502,Discovery,houseboat-moderate,houseboat-platinum,Alappuzha (Alleppey),DR12254,Discovery
+HO10622,Taj Bengal,first-class,5str,Kolkata,DR10408,Taj Bengal
+HO12110,Hornbill Camp,budget,3str,,DR11538,Hornbill Camp
+HO10317,Trident,first-class,5str,Jaipur,DR10328,Trident
+HO11397,Orchard Palace,moderate,1str,Gondal,DR11394,Orchard Palace
+HO10892,Krishna Palace,moderate,4str,Mumbai,DR10803,Krishna Palace
+HO11428,Glitz Westend Inn,budget,1str,New Delhi,DR11950,Glitz Westend Inn
+HO11354,Radisson Blu,moderate,5str,Ludhiana,DR10630,Radisson Blu
+HO12221,Costa River,moderate,3str,Varanasi,DR12665,Costa River
+HO11789,Vibe Munnar Resorts & Spa,moderate,5str,Munnar,DR12408,Vibe Munnar Resorts & Spa
+HO10008,Jaypee Palace Hotel & Convention Centre,first-class,5str-lux,Agra,DR10037,Jaypee Palace Hotel & Convention Centre
+HO11052,Quality Inn Bez Krishnaa,moderate,3str,Visakhapatnam,DR11390,Quality Inn Bez Krishnaa
+HO10978,Vivanta Navi Mumbai,first-class,5str,Navi Mumbai,DR11295,Vivanta Navi Mumbai
+HO11850,Krishna Prakash Heritage Haveli,budget,3str,,DR11538,Krishna Prakash Heritage Haveli
+HO10204,Ameya,first-class,5str-lux,Cherthala,DR10690,Ameya
+HO11367,Holiday Inn (International Airport),moderate,5str,New Delhi,DR10141,Holiday Inn (International Airport)
+HO10007,Ekaa Villa,moderate,1str,Agra,DR10099,Ekaa Villa
+HO10440,Lemon Tree (Guindy),moderate,4str,Chennai,DR10769,Lemon Tree (Guindy)
+HO10809,Punjab Village Farm,moderate,1str,Gurdaspur,DR11125,Punjab Village Farm
+HO10354,Khem Villas,first-class,1str,Ranthambore,DR10748,Khem Villas
+HO10511,Zone By The Park,budget,4str,Jaipur,DR10718,Zone By The Park
+HO12111,Atali Ganga,budget,3str,,DR11538,Atali Ganga
+HO11506,Spice Coast Cruises,houseboat-first-class,houseboat-platinum,Kumarakom,DR11068,Spice Coast Cruises
+HO12377,Taj Mussoorie Foothills,first-class,5str,Dehradun,DR12857,Taj Mussoorie Foothills
+HO11372,Grand Imperial,moderate,1str,Agra,DR11804,Grand Imperial
+HO10938,Glenburn Penthouse,first-class,1str,Kolkata,DR11211,Glenburn Penthouse
+HO11817,Isabel Palace,budget,3str,,DR11538,Isabel Palace
+HO11025,Pal Garh,moderate,3str,Jodhpur,DR11221,Pal Garh
+HO11821,Elephant Valley,budget,2str,Kodaikanal,DR12539,Elephant Valley
+HO10918,The Park,moderate,5str,Navi Mumbai,DR10516,The Park
+HO10834,Intercontinental Marine Drive,first-class,1str,Mumbai,DR10752,Intercontinental Marine Drive
+HO10979,WelcomHeritage Maharani Bagh Orchard Retreat,moderate,3str,Ranakpur,DR10741,WelcomHeritage Maharani Bagh Orchard Retreat
+HO12174,Fairfield By Marriott,budget,4str,Kathmandu,DR11538,Fairfield By Marriott
+HO10815,Bijay Niwas Palace,moderate,3str,Bijaynagar,DR11113,Bijay Niwas Palace
+HO10419,Madri Haveli,budget,1str,Udaipur (RJ),DR10132,Madri Haveli
+HO10802,Fateh Safari Suites,moderate,3str,Kumbhalgarh,DR10451,Fateh Safari Suites
+HO10095,The Desert Palace,budget,4str,Jaisalmer,DR10312,The Desert Palace
+HO12010,Diplomat,budget,3str,Mumbai,DR11538,Diplomat
+HO10851,Pagoda Resorts,budget,3str,Alappuzha (Alleppey),DR10868,Pagoda Resorts
+HO11071,The Aodhi,moderate,3str,Kumbhalgarh,DR11341,The Aodhi
+HO10565,Taj MG Road,first-class,5str,Bengaluru,DR10992,Taj MG Road
+HO11531,Mulberry Shades,first-class,5str,Bengaluru,DR12322,Mulberry Shades
+HO10638,Radisson Blu,moderate,5str,Amritsar,DR10522,Radisson Blu
+HO12138,Shipra Residency,budget,3str,Ujjain,DR11538,Shipra Residency
+HO12006,Sinclairs Bay View,budget,3str,,DR11538,Sinclairs Bay View
+HO11078,Intercontinental (Mahabalipuram),first-class,5str,Mamallapuram (Mahabalipuram),DR11384,Intercontinental (Mahabalipuram)
+HO10091,Bella Casa,budget,4str,Jaipur,DR10243,Bella Casa
+HO11344,Howard Johnson By Wyndham,moderate,4str,Udaipur (RJ),DR11509,Howard Johnson By Wyndham
+HO10423,The Neem Tree,moderate,1str,Udaipur (RJ),DR10222,The Neem Tree
+HO11246,Chalston Beach Resort,moderate,3str,Goa,DR10700,Chalston Beach Resort
+HO10921,Surasena Regal Vista,budget,4str,Agra,DR11204,Surasena Regal Vista
+HO11504,Spice Routes,houseboat-lux,houseboat-platinum,Alappuzha (Alleppey),DR10257,Spice Routes
+HO11233,Trinity,moderate,3str,Kochi (Cochin),DR11353,Trinity
+HO10163,Taj Holiday Village Resort & Spa,first-class,5str,Goa,DR10658,Taj Holiday Village Resort & Spa
+HO10092,Dera Rawatsar,moderate,heritage,Jaipur,DR10252,Dera Rawatsar
+HO10753,La Place Sarovar Portico,moderate,3str,Lucknow,DR10627,La Place Sarovar Portico
+HO10375,Visalam,first-class,3str,Karaikudi,DR10566,Visalam
+HO11687,Regenta Place,budget,4str,Jaipur,DR11538,Regenta Place
+HO11320,Radisson (Udyog Vihar),moderate,5str,Gurgaon,DR10796,Radisson (Udyog Vihar)
+HO12029,Silver Tips,budget,4str,Munnar,DR11538,Silver Tips
+HO10209,Hoysala Village Resort,first-class,3str,Hassan,DR10714,Hoysala Village Resort
+HO11885,KTDC Waterscapes,budget,4str,,DR11538,KTDC Waterscapes
+HO11162,Ananda In The Himalayas,lux,5str,Narendra Nagar (UK),DR11555,Ananda In The Himalayas
+HO12329,Grand Madurai,first-class,1str,Madurai,DR12726,Grand Madurai
+HO10974,Connaught House,moderate,5str,Mount Abu,DR10641,Connaught House
+HO12107,Antalya By Divine Ganga Cottage,budget,3str,Rishikesh,DR11538,Antalya By Divine Ganga Cottage
+HO10661,Bandhav Vilas,first-class,3str,Bandhavgarh,DR11047,Bandhav Vilas
+HO12144,Hyatt Place,budget,5str,Jaipur,DR11538,Hyatt Place
+HO11965,"Welcomhotel By ITC Hotels, Bella Vista",moderate,3str,Panchkula,DR12434,"Welcomhotel By ITC Hotels, Bella Vista"
+HO11685,Namami Wellness And Health Retreat,budget,1str,,DR11538,Namami Wellness And Health Retreat
+HO12229,Fish Tail Lodge,moderate,5str,Pokhara,DR12655,Fish Tail Lodge
+HO11846,Kana,budget,1str,,DR11538,Kana
+HO12226,Barahi,moderate,4str,Kathmandu,DR12655,Barahi
+HO11086,Vivanta,moderate,5str,Guwahati,DR11447,Vivanta
+HO11786,Sarovar Portico Dehradun,budget,3str,,DR11538,Sarovar Portico Dehradun
+HO11080,Fortune Park,moderate,4str,Ahmedabad,DR11378,Fortune Park
+HO10598,Blue Jelly,houseboat-lux,houseboat-platinum,Kumarakom,DR10756,Blue Jelly
+HO10695,Windermere River House,moderate,4str,Kothamangalam (KL) ,DR10439,Windermere River House
+HO11357,Lemon Tree (Shimona),moderate,4str,Chennai,DR11523,Lemon Tree (Shimona)
+HO10629,Vivanta,first-class,5str,Aurangabad (MH) ,DR10528,Vivanta
+HO10992,The Bamboo Forest Safari Lodge,moderate,1str,Tadoba,DR11294,The Bamboo Forest Safari Lodge
+HO10010,Rambagh Palace,lux,5str,Jaipur,DR10081,Rambagh Palace
+HO11812,The Chancery,budget,4str,Bengaluru,DR12727,The Chancery
+HO11586,Vivaana Museum,first-class,1str,Nawalgarh,DR12273,Vivaana Museum
+HO10184,Tilar Siro,first-class,4str,Havelock,DR10454,Tilar Siro
+HO11603,The Hill House,first-class,1str,Nathdwara,DR12358,The Hill House
+HO11543,Time Square,budget,4str,Alappuzha (Alleppey),DR12125,Time Square
+HO10447,Colonel's Retreat (Defence Colony),moderate,2str,New Delhi,DR10893,Colonel's Retreat (Defence Colony)
+HO10312,Rohet House,first-class,1str,Jodhpur,DR10341,Rohet House
+HO11196,Regenta Inn (Devanahalli),moderate,3str,Bengaluru,DR11776,Regenta Inn (Devanahalli)
+HO10487,Heritage Resort,budget,4str,Bikaner,DR10952,Heritage Resort
+HO10366,President - IHCL SeleQtions,first-class,5str,Mumbai,DR10444,President - IHCL SeleQtions
+HO12092,Jungle Vilas,moderate,4str,Ranthambore,DR12453,Jungle Vilas
+HO11119,Ging Tea House,moderate,5str,Darjeeling,DR11327,Ging Tea House
+HO10459,Crowne Plaza New Delhi Okhla,first-class,5str,New Delhi,DR10116,Crowne Plaza New Delhi Okhla
+HO11150,Aangan Resort,budget,1str,Ranthambore,DR11550,Aangan Resort
+HO11829,Niraamaya Retreats Aradura,moderate,3str,Kohima,DR12511,Niraamaya Retreats Aradura
+HO10033,Rivatas By Ideal,moderate,5str,Varanasi,DR10002,Rivatas By Ideal
+HO10746,Hilton,moderate,5str,Chennai,DR10767,Hilton
+HO11743,The Fern Residency,budget,4str,Bhopal,DR11538,The Fern Residency
+HO10435,Maharaja Ganga Mahal,budget,4str,Bikaner,DR10226,Maharaja Ganga Mahal
+HO11040,Fortune Park JPS Grand,moderate,5str,Rajkot,DR11212,Fortune Park JPS Grand
+HO11022,Taj Usha Kiran Palace,lux,5str,Gwalior,DR10302,Taj Usha Kiran Palace
+HO10129,Samsara,budget,4str,Dechu,DR10489,Samsara
+HO11574,Ging Tea House,moderate,5str,Darjeeling,DR12357,Ging Tea House
+HO12375,The Lotus Palace,moderate,1str,Chettinadu,DR12799,The Lotus Palace
+HO11565,Classic Sapphire Ananta,moderate,1str,Bundi,DR12210,Classic Sapphire Ananta
+HO12076,Saptha Resort & Spa,budget,1str,,DR11538,Saptha Resort & Spa
+HO11769,Ramada Darjeeling,budget,4str,,DR11538,Ramada Darjeeling
+HO10708,Anopura,first-class,5str,Jaipur,DR11070,Anopura
+HO12126,Club Mahindra,budget,3str,Thekkady (Periyar/Kumily),DR11538,Club Mahindra
+HO11998,Lemon Tree Port Blair,budget,4str,,DR11538,Lemon Tree Port Blair
+HO10935,Rang Mahal,moderate,4str,Jaisalmer,DR10311,Rang Mahal
+HO10254,ITC Mughal,first-class,5str,Agra,DR10041,ITC Mughal
+HO12230,Kathmandu Guest House,budget,standard-hotel,Kathmandu,DR12655,Kathmandu Guest House
+HO11417,Kumbhalgarh Valley Resort,budget,4str,Kumbhalgarh,DR10453,Kumbhalgarh Valley Resort
+HO12333,Anantya In The Village,moderate,3str,Alwarthirunagari,DR12791,Anantya In The Village
+HO11642,Aadrika,budget,3str,,DR11538,Aadrika
+HO11534,Gateway Varkala - IHCL SeleQtions,moderate,4str,Varkala,DR12291,Gateway Varkala - IHCL SeleQtions
+HO11666,D'S Casa,budget,3str,Dharamshala,DR12643,D'S Casa
+HO10281,Asia Health Resort,moderate,4str,Dharamshala,DR10751,Asia Health Resort
+HO11219,The Serai,first-class,5str,Bandipur,DR11410,The Serai
+HO10691,The Fern Gir Forest Resort,moderate,5str,Sasan Gir,DR10624,The Fern Gir Forest Resort
+HO10981,Elysium Resort & Spa,first-class,1str,Shimla,DR11222,Elysium Resort & Spa
+HO11061,Comfort Inn Alstonia,budget,4str,Amritsar,DR11387,Comfort Inn Alstonia
+HO10826,1st Gate Home-Fusion,moderate,3str,Jaisalmer,DR11114,1st Gate Home-Fusion
+HO11288,WelcomHeritage Azora By Ayatana,moderate,3str,Kochi (Cochin),DR11508,WelcomHeritage Azora By Ayatana
+HO10046,Aloft,first-class,5str,New Delhi,DR10057,Aloft
+HO11192,Shahpura Abhaneri Resort,moderate,1str,Abhaneri,DR11391,Shahpura Abhaneri Resort
+HO12135,Hills & Hues,first-class,5str,Thekkady (Periyar/Kumily),DR12557,Hills & Hues
+HO11177,Crimson Park,moderate,4str,Jaipur,DR11557,Crimson Park
+HO11448,Garh Kumbha,budget,1str,Kumbhalgarh,DR11396,Garh Kumbha
+HO10621,Coral House Homestay,budget,1str,Agra,DR11045,Coral House Homestay
+HO10567,Royal Orchid Central,moderate,4str,Jaipur,DR11017,Royal Orchid Central
+HO11562,Irai Safari Retreat,first-class,3str,Tadoba,DR12355,Irai Safari Retreat
+HO10113,Radisson Jaipur City Center,moderate,5str,Jaipur,DR10300,Radisson Jaipur City Center
+HO11272,Cherai Beach Resorts,moderate,1str,Kochi (Cochin),DR11482,Cherai Beach Resorts
+HO10737,Vivanta Sikkim,moderate,5str,Pakyong,DR11162,Vivanta Sikkim
+HO11364,Flame Of The Forest,moderate,1str,Kanha,DR11238,Flame Of The Forest
+HO11381,Wada 1,budget,1str,Aihole,DR12038,Wada 1
+HO11518,"Manvar Kumat, Thar Luxury Camp",first-class,1str,Manvar (RJ),DR10637,"Manvar Kumat, Thar Luxury Camp"
+HO10973,WelcomHeritage Jungle Home,moderate,1str,Pench,DR11325,WelcomHeritage Jungle Home
+HO10877,Mizpah,moderate,1str,New Delhi,DR10508,Mizpah
+HO10352,Purity,moderate,3str,Muhamma,DR10770,Purity
+HO11339,Keys Select,budget,4str,Thiruvananthapuram (Trivandrum),DR10795,Keys Select
+HO11224,Gokulam Grand Turtle On The Beach,first-class,5str,Kovalam,DR11418,Gokulam Grand Turtle On The Beach
+HO10064,Mahendra Prakash,moderate,3str,Udaipur (RJ),DR10134,Mahendra Prakash
+HO10246,Radisson Bengaluru City Center,moderate,5str,Bengaluru,DR10682,Radisson Bengaluru City Center
+HO10575,Fort Rajwada,first-class,4str,Jaisalmer,DR10719,Fort Rajwada
+HO10549,Chanoud Garh,moderate,3str,Chanoud,DR11013,Chanoud Garh
+HO11558,Tree Of Life Birdsong Chalets,first-class,1str,Dharamshala,DR12346,Tree Of Life Birdsong Chalets
+HO10215,Abode,first-class,3str,Mumbai,DR10398,Abode
+HO10630,Pal Haveli,moderate,1str,Jodhpur,DR11032,Pal Haveli
+HO11028,Tiger's Den Resort,moderate,3str,Bandhavgarh,DR11231,Tiger's Den Resort
+HO12259,Fairfield By Marriott,budget,3str,Kathmandu,DR12655,Fairfield By Marriott
+HO11491,Bundela Resort,moderate,3str,Khajuraho,DR12227,Bundela Resort
+HO11053,Sterling,budget,4str,Darjeeling,DR11379,Sterling
+HO12003,Apani Dhani Eco-Lodge,moderate,1str,Nawalgarh,DR12583,Apani Dhani Eco-Lodge
+HO10197,Dera Mandawa,first-class,3str,Jaipur,DR10251,Dera Mandawa
+HO12356,Atithi Camp & Resort,budget,4str,Pushkar,DR12752,Atithi Camp & Resort
+HO10937,Windsor Heights,budget,4str,Gurgaon,DR11170,Windsor Heights
+HO11605,Shivadya Camps,first-class,1str,Prayagraj,DR12393,Shivadya Camps
+HO11120,Classic Diplomat,budget,3str,New Delhi,DR11486,Classic Diplomat
+HO10836,Fairfield By Marriott,moderate,4str,Amritsar,DR10519,Fairfield By Marriott
+HO10655,Sawai Man Mahal,lux,4str,Jaipur,DR11046,Sawai Man Mahal
+HO11303,Radisson Blu Resort,moderate,5str,Goa,DR10645,Radisson Blu Resort
+HO10230,Castle Bijaipur,moderate,4str,Bijaipur,DR10576,Castle Bijaipur
+HO11362,Kyriad,budget,4str,Vijayapura (Bijapur),DR11412,Kyriad
+HO11940,The Johnson's,budget,3str,,DR11538,The Johnson's
+HO11571,Heritage Resort,moderate,4str,Coorg (Kodagu),DR12364,Heritage Resort
+HO10484,Bamboo Saa Resort & Spa,moderate,5str,Udaipur (RJ),DR10073,Bamboo Saa Resort & Spa
+HO11714,Regenta Place Cunningham,budget,1str,Bengaluru,DR11538,Regenta Place Cunningham
+HO10538,The Legend,moderate,4str,Prayagraj,DR10486,The Legend
+HO11394,Royal Palace,budget,1str,Dharamshala,DR11806,Royal Palace
+HO11069,The Pride,moderate,4str,Pune,DR11332,The Pride
+HO11742,JW Marriott,budget,5str,Kolkata,DR11538,JW Marriott
+HO11446,Nikkiâ€™s Nest,moderate,2str,Kovalam,DR11607,Nikkiâ€™s Nest
+HO10632,Rann Riders By Kaafila,first-class,3str,Dasada,DR11036,Rann Riders By Kaafila
+HO12388,Bhutan Package,budget,1str,Visakhapatnam,DR12901,Bhutan Package
+HO10675,Taj Chandigarh,first-class,5str,Chandigarh,DR11081,Taj Chandigarh
+HO10368,Gokulam Grand Hotel & Spa,moderate,5str,Bengaluru,DR10874,Gokulam Grand Hotel & Spa
+HO10226,Grand Hotel D'Europe,moderate,1str,Puducherry (Pondicherry),DR10013,Grand Hotel D'Europe
+HO10673,Comfort Inn Insys,moderate,4str,Bengaluru,DR11067,Comfort Inn Insys
+HO11532,JW Marriott Bengaluru Prestige Golfshire Res.& Spa,first-class,5str,Bengaluru,DR12321,JW Marriott Bengaluru Prestige Golfshire Res.& Spa
+HO11216,Harrisons,budget,3str,,DR11439,Harrisons
+HO11416,The Jaipur House,budget,3str,Mount Abu,DR10642,The Jaipur House
+HO10586,Welcomhotel By ITC Hotels,first-class,4str,Jodhpur,DR11004,Welcomhotel By ITC Hotels
+HO12117,Mountain Shadows,budget,5str,Wayanad,DR11538,Mountain Shadows
+HO10819,Malji Ka Kamra,moderate,3str,Churu,DR11155,Malji Ka Kamra
+HO10665,Exotic Luxury Camps,first-class,1str,Jaisalmer,DR10958,Exotic Luxury Camps
+HO12263,The Terraces Resort & Spa,first-class,5str-lux,Bhaktapur,DR12655,The Terraces Resort & Spa
+HO10582,Kaner Retreat,first-class,1str,Jodhpur,DR10985,Kaner Retreat
+HO11412,Caravela Beach Resort,first-class,5str,Goa,DR11609,Caravela Beach Resort
+HO10811,5 By OYO Metropolitan,moderate,5str,Jaipur,DR11169,5 By OYO Metropolitan
+HO10492,The Tigress,moderate,5str,Ranthambore,DR10400,The Tigress
+HO11529,Justa Palampur Resort & Convention Centre,moderate,4str,Palampur,DR12286,Justa Palampur Resort & Convention Centre
+HO11422,Pokaran Desert Resort,budget,1str,Pokhran,DR11416,Pokaran Desert Resort
+HO11066,Sterling,budget,3str,Karwar,DR11376,Sterling
+HO10653,Fairfield By Marriott,moderate,4str,Jodhpur,DR10333,Fairfield By Marriott
+HO11892,Aalankrita resort and convention,budget,4str,Hyderabad,DR11538,Aalankrita resort and convention
+HO10067,The Raintree (St. Mary's Road),moderate,5str,Chennai,DR10121,The Raintree (St. Mary's Road)
+HO11041,Sinclairs Retreat Dooars,moderate,3str,Chalsa,DR11464,Sinclairs Retreat Dooars
+HO11106,The Postcard Velha,first-class,1str,Goa,DR11456,The Postcard Velha
+HO10003,47 Jobner Bagh,moderate,home-stay,Jaipur,DR10053,47 Jobner Bagh
+HO10747,Lemon Tree Premier (Leisure Valley 1),moderate,4str,Gurgaon,DR10148,Lemon Tree Premier (Leisure Valley 1)
+HO12360,Reni Pani Jungle Lodge,first-class,3str,Madhai (Satpura),DR10601,Reni Pani Jungle Lodge
+HO10763,Amber Dale,moderate,4str,Munnar,DR11151,Amber Dale
+HO11269,Four Points By Sheraton,moderate,1str,Navi Mumbai,DR11866,Four Points By Sheraton
+HO10080,Howard Plaza,moderate,4str,Agra,DR10127,Howard Plaza
+HO12283,Novotel Jaipur Convention Centre,first-class,5str,Jaipur,DR12753,Novotel Jaipur Convention Centre
+HO11208,Bloomrooms (Calangute),budget,3str,Goa,DR11450,Bloomrooms (Calangute)
+HO10390,Shahpura House,moderate,3str,Jaipur,DR10323,Shahpura House
+HO10299,28 Kothi,moderate,3str,Jaipur,DR10238,28 Kothi
+HO11990,The Westin Garden City,budget,5str,,DR11538,The Westin Garden City
+HO11337,Elephant Route,budget,3str,Thekkady (Periyar/Kumily),DR10867,Elephant Route
+HO10329,Lakes and Lagoon - 1 BRH,houseboat-first-class,houseboat-gold,Alappuzha (Alleppey),DR10241,Lakes and Lagoon - 1 BRH
+HO12191,Vanilla County,budget,4str,Vagamon,DR12340,Vanilla County
+HO11166,Ram Pratap Palace,first-class,4str,Udaipur (RJ),DR11357,Ram Pratap Palace
+HO11334,Reen Resorts Aanavilasam Plantation,moderate,4str,Thekkady (Periyar/Kumily),DR11535,Reen Resorts Aanavilasam Plantation
+HO10342,The Fern Residency,moderate,4str,Jaipur,DR10813,The Fern Residency
+HO10925,Grace,moderate,3str,Dharamshala,DR10590,Grace
+HO11437,Rajwara Palace,budget,4str,Jodhpur,DR10131,Rajwara Palace
+HO10890,Niranta Airport Transit Hotel & Lounge,moderate,4str,Mumbai,DR10753,Niranta Airport Transit Hotel & Lounge
+HO11018,Fernhills Royal Palace,moderate,3str,Ooty (Udhagamandalam),DR11326,Fernhills Royal Palace
+HO10657,The Udai Bagh,budget,4str,Udaipur (RJ),DR10228,The Udai Bagh
+HO11083,Fortune Select JP Cosmos,moderate,4str,Bengaluru,DR11419,Fortune Select JP Cosmos
+HO11763,Nalanda Retreat,budget,1str,,DR11538,Nalanda Retreat
+HO12260,Heritage Hotel Suites & Spa,budget,heritage,Pokhara,DR12655,Heritage Hotel Suites & Spa
+HO11930,Kohinoor Continental,budget,4str,Mumbai,DR11538,Kohinoor Continental
+HO11176,K K Royal,moderate,5str,Jaipur,DR10275,K K Royal
+HO10263,Marine Plaza,moderate,5str,Mumbai,DR10431,Marine Plaza
+HO11225,Planters Retreat,moderate,1str,Palakkad,DR11194,Planters Retreat
+HO10823,Shivadya Resort And Spa,moderate,4str,Manali,DR10634,Shivadya Resort And Spa
+HO11351,The Lalit Laxmi Vilas Palace,first-class,5str,Udaipur (RJ),DR10219,The Lalit Laxmi Vilas Palace
+HO11152,Vatsalya Vihar,first-class,1str,Udaipur (RJ),DR11191,Vatsalya Vihar
+HO11711,Cabo Serai Resort,budget,3str,Goa,DR11538,Cabo Serai Resort
+HO11651,The Manor,budget,4str,New Delhi,DR11538,The Manor
+HO10406,Forte Kochi,first-class,5str,Kochi (Cochin),DR10255,Forte Kochi
+HO12292,Devi Bhawan,budget,3str,Jodhpur,DR12754,Devi Bhawan
+HO11033,Pride Ananya Resort,moderate,4str,Puri,DR11434,Pride Ananya Resort
+HO10780,Kanan Beach Resort,moderate,4str,Neeleshwar,DR10729,Kanan Beach Resort
+HO11376,SinQ Edge,budget,3str,Goa,DR11520,SinQ Edge
+HO11215,Krishna Heritage,moderate,3str,Badami,DR11423,Krishna Heritage
+HO10242,WelcomHeritage Traditional Haveli,moderate,5str,Jaipur,DR10717,WelcomHeritage Traditional Haveli
+HO10714,Neemrana Fort Palace,first-class,4str,Neemrana,DR11104,Neemrana Fort Palace
+HO10212,Travancore Heritage,moderate,4str,Kovalam,DR10429,Travancore Heritage
+HO10363,Taj Connemara,first-class,5str,Chennai,DR10894,Taj Connemara
+HO10141,Radisson Jass,first-class,5str,Shimla,DR10126,Radisson Jass
+HO11730,Gokulam Grand Resort & Spa,moderate,1str,Coorg (Kodagu),DR12504,Gokulam Grand Resort & Spa
+HO11356,Carmelia Haven,moderate,3str,Vandanmedu,DR11645,Carmelia Haven
+HO11969,Radisson Blu,budget,5str,Nagpur,DR11538,Radisson Blu
+HO12275,Divine Lakshmi Ganga,moderate,4str,Rishikesh,DR12300,Divine Lakshmi Ganga
+HO11003,Bandhavgarh Jungle Lodge,moderate,2str,Bandhavgarh,DR11282,Bandhavgarh Jungle Lodge
+HO12077,Sreechithra Ayurhome,budget,1str,Nattika,DR11538,Sreechithra Ayurhome
+HO11152,Vatsalya Vihar,first-class,4str,Udaipur (RJ),DR11191,Vatsalya Vihar
+HO10320,Thikana,budget,3str,New Delhi,DR10779,Thikana
+HO11484,Bungalow 2,first-class,1str,Jodhpur,DR12219,Bungalow 2
+HO10948,Rawai Luxury Tents,moderate,4str,Pushkar,DR11219,Rawai Luxury Tents
+HO10979,Maharani Bagh Orchard Retreat,moderate,3str,Ranakpur,DR10741,Maharani Bagh Orchard Retreat
+HO11926,Le meridien resort and spa,budget,5str,,DR11538,Le meridien resort and spa
+HO10660,The Elgin Mount Pandim,first-class,4str,Pemayangtse (not to be used),DR11055,The Elgin Mount Pandim
+HO11262,"Lemon Tree Premier, The Atrium",moderate,5str,Ahmedabad,DR11517,"Lemon Tree Premier, The Atrium"
+HO10723,Lemon Tree Premiere (City Center),moderate,4str,Gurgaon,DR10793,Lemon Tree Premiere (City Center)
+HO12012,Clouds Valley,budget,4str,Munnar,DR12544,Clouds Valley
+HO11135,The Amar Mahal,budget,4str,Udaipur (RJ),DR11545,The Amar Mahal
+HO12363,Lemon Tree,moderate,3str,Alwar,DR12814,Lemon Tree
+HO10618,Xandari Riverscapes-3BRH,houseboat-first-class,houseboat-platinum,Alappuzha (Alleppey),DR10649,Xandari Riverscapes-3BRH
+HO11538,Lockhart Bungalow,first-class,1str,Munnar,DR12192,Lockhart Bungalow
+HO10990,Dutch Bungalow,moderate,1str,Kochi (Cochin),DR11263,Dutch Bungalow
+HO10643,Trulyy Rudransh Inn,budget,3str,Jodhpur,DR10820,Trulyy Rudransh Inn
+HO10041,Niraamaya Retreats,first-class,4str,Kumarakom,DR10111,Niraamaya Retreats
+HO10452,Lemon Tree (Sector 60),moderate,4str,Gurgaon,DR10708,Lemon Tree (Sector 60)
+HO12252,Nepali Ghar,budget,standard-hotel,Kathmandu,DR12655,Nepali Ghar
+HO11456,Mandawa Kothi,moderate,4str,Mandawa,DR12036,Mandawa Kothi
+HO12242,Pokhara Grande,moderate,5str,Pokhara,DR12655,Pokhara Grande
+HO11862,Rester Select â€“ ITI Circle,budget,3str,,DR11538,Rester Select â€“ ITI Circle
+HO10960,Jamtara Wilderness Camp,first-class,1str,Pench,DR11199,Jamtara Wilderness Camp
+HO11295,Holiday Inn,moderate,4str,Kolkata,DR11794,Holiday Inn
+HO12318,Isla's Ridge,first-class,1str,Dindigul,DR12467,Isla's Ridge
+HO11047,Sterling,moderate,4str,Puri,DR11372,Sterling
+HO11399,Windflower Resort & Spa,moderate,4str,Bandipur,DR11472,Windflower Resort & Spa
+HO11387,Le Meridien,first-class,1str,Amritsar,DR12044,Le Meridien
+HO11701,Anahata Retreat,budget,4str,,DR11538,Anahata Retreat
+HO10456,Radisson Blu Resort,first-class,5str,Dharamshala,DR10591,Radisson Blu Resort
+HO11430,Shiv Vilas,budget,1str,Rishikesh,DR11957,Shiv Vilas
+HO11101,The Postcard Cuelim,first-class,5str,Goa,DR11455,The Postcard Cuelim
+HO11630,Florence Inn,budget,3str,,DR11538,Florence Inn
+HO10376,Taj Lands End,first-class,5str,Mumbai,DR10755,Taj Lands End
+HO11840,Welcomhotel By ITC,moderate,5str,Guntur,DR12485,Welcomhotel By ITC
+HO11093,Fortune Park,moderate,4str,Haridwar,DR11371,Fortune Park
+HO10956,Orchha Palace & Convention Centre,first-class,1str,Orchha,DR10316,Orchha Palace & Convention Centre
+HO10121,ITC Windsor,first-class,5str,Bengaluru,DR10494,ITC Windsor
+HO10817,Fateh Vilas,first-class,5str,Udaipur (RJ),DR11157,Fateh Vilas
+HO10196,Fort Barli,moderate,3str,Barli,DR10581,Fort Barli
+HO12163,Double Tree By Hilton,budget,5str,Varanasi,DR11538,Double Tree By Hilton
+HO10069,Ranjit's Svaasa,first-class,3str,Amritsar,DR10028,Ranjit's Svaasa
+HO12086,Surat Marriott Hotel,budget,5str,,DR11538,Surat Marriott Hotel
+HO10536,Coco Lagoon by Great Mount,moderate,4str,Pollachi,DR10735,Coco Lagoon by Great Mount
+HO10736,Malligi,budget,3str,Hampi (Hosapete),DR11073,Malligi
+HO10273,Narain Niwas Palace,moderate,1str,Jaipur,DR10287,Narain Niwas Palace
+HO11732,Evoke Lifestyle,budget,4str,,DR11538,Evoke Lifestyle
+HO10795,Bera Safari Lodge,first-class,1str,Pali (RJ) ,DR11119,Bera Safari Lodge
+HO11267,Manickam Tourist Home,budget,2str,Kanyakumari,DR11741,Manickam Tourist Home
+HO12306,Amaya,first-class,1str,Kasauli,DR12718,Amaya
+HO10468,The Oberoi Rajvilas,lux,5str,Agra,DR10177,The Oberoi Rajvilas
+HO12090,Maitreya Regency,moderate,1str,Tabo,DR12663,Maitreya Regency
+HO11888,The Fern Residency,budget,4str,Bhopal,DR11538,The Fern Residency
+HO10445,Sheraton,first-class,5str,New Delhi,DR10390,Sheraton
+HO10308,The Leela Ambience (Shahdara),first-class,5str,New Delhi,DR10357,The Leela Ambience (Shahdara)
+HO10785,7 Apple,moderate,3str,Aurangabad (MH) ,DR10525,7 Apple
+HO11602,Arch Plaza,budget,4str,New Delhi,DR12298,Arch Plaza
+HO11081,Fortune Inn Promenade,moderate,4str,Vadodara,DR11374,Fortune Inn Promenade
+HO10550,Lemon Tree Vembanad Lake Resort,moderate,4str,Alappuzha (Alleppey),DR10948,Lemon Tree Vembanad Lake Resort
+HO11669,Venezia Kerala Houseboat Cruise,budget,1str,,DR11538,Venezia Kerala Houseboat Cruise
+HO11563,Drenmo Lodge,first-class,1str,Kargil,DR12333,Drenmo Lodge
+HO10300,Ratan Vilas,moderate,3str,Jodhpur,DR10340,Ratan Vilas
+HO11770,Planet Hollywood Beach Resort,first-class,5str,Goa,DR12522,Planet Hollywood Beach Resort
+HO12343,Cullinan,budget,3str,New Delhi,DR12786,Cullinan
+HO10425,Castle Mandawa,first-class,1str,Mandawa,DR10350,Castle Mandawa
+HO10767,MGM Beach Resorts,moderate,4str,Muttukadu,DR11149,MGM Beach Resorts
+HO10106,Evolve Back,first-class,5str,Hampi (Hosapete),DR10413,Evolve Back
+HO10055,Tissas Inn,moderate,3str,Kochi (Cochin),DR10026,Tissas Inn
+HO10628,Shahpura Haveli,moderate,5str,Shahpura (Jaipur),DR11022,Shahpura Haveli
+HO11773,Clarks Exotica Resort And Camp,budget,4str,,DR11538,Clarks Exotica Resort And Camp
+HO11815,Radisson Hyderabad Hitec City,budget,5str,Hyderabad,DR11538,Radisson Hyderabad Hitec City
+HO11358,Fairfield By Marriott,moderate,4str,Jaipur,DR12047,Fairfield By Marriott
+HO10732,Red Fox (Sector 60),budget,4str,Gurgaon,DR10822,Red Fox (Sector 60)
+HO10343,Marari Beach Resort,first-class,5str,Mararikulam,DR10639,Marari Beach Resort
+HO11340,Nattika Beach Ayurveda Resort,moderate,1str,Thrissur,DR11496,Nattika Beach Ayurveda Resort
+HO11632,Iskcon Guest Ashram,moderate,1str,,DR11538,Iskcon Guest Ashram
+HO10648,Ramgarh Lodge - IHCL SeleQtions,first-class,5str,Jaipur,DR10993,Ramgarh Lodge - IHCL SeleQtions
+HO12062,Lotus Nikko,budget,3str,Shravasti,DR11538,Lotus Nikko
+HO11330,Sinclairs,moderate,3str,Siliguri,DR11465,Sinclairs
+HO10934,Amargarh,moderate,4str,Udaipur (RJ),DR10216,Amargarh
+HO10650,Crowne Plaza,first-class,5str,Kochi (Cochin),DR10250,Crowne Plaza
+HO10588,Zone By The Park,budget,4str,Coimbatore,DR11011,Zone By The Park
+HO10707,The Raj Palace,first-class,5str,Jaipur,DR10327,The Raj Palace
+HO10600,White Water Cruise,houseboat-moderate,houseboat-silver,Alappuzha (Alleppey),DR10006,White Water Cruise
+HO10835,Hyatt Centric,moderate,5str,New Delhi,DR10967,Hyatt Centric
+HO10636,Garh Jaisal,moderate,3str,Jaisalmer,DR11024,Garh Jaisal
+HO10508,Taj Krishna,first-class,5str,Hyderabad,DR10540,Taj Krishna
+HO12265,The Fort Resort,budget,standard-hotel,Nagarkot,DR12655,The Fort Resort
+HO11030,Surya Haveli,moderate,3str,Jaipur,DR11193,Surya Haveli
+HO11113,ITC Kakatiya,first-class,5str,Hyderabad,DR10616,ITC Kakatiya
+HO10683,Indo Hokke,moderate,3str,Rajgir,DR10738,Indo Hokke
+HO11991,Estuary Sarovar Portico,budget,3str,,DR11538,Estuary Sarovar Portico
+HO11293,Morpho Banashree Resort,moderate,4str,Badami,DR11314,Morpho Banashree Resort
+HO11964,Ramada Plaza by Wyndham Palm Grove,budget,5str,Mumbai,DR11538,Ramada Plaza by Wyndham Palm Grove
+HO10576,The Pride,moderate,4str,Bengaluru,DR11010,The Pride
+HO11947,Rokeby Manor,budget,4str,Mussoorie,DR11538,Rokeby Manor
+HO11677,Ten Square,budget,3str,Agra,DR12205,Ten Square
+HO12376,Fortune Beach Resort ECR,moderate,1str,Chennai,DR12843,Fortune Beach Resort ECR
+HO12002,Peerless Resort,budget,3str,Port Blair,DR11538,Peerless Resort
+HO10560,Courtyard By Marriott,moderate,5str,Amritsar,DR11012,Courtyard By Marriott
+HO10477,The Connaught - IHCL SeleQtions,first-class,4str,New Delhi,DR10964,The Connaught - IHCL SeleQtions
+HO10390,Shahpura House,moderate,5str,Jaipur,DR10323,Shahpura House
+HO11243,Siolim House,moderate,4str,Goa,DR11347,Siolim House
+HO10652,The Grand Haveli and Resort,budget,1str,Nawalgarh,DR10318,The Grand Haveli and Resort
+HO12285,Plutos,budget,1str,New Delhi,DR12737,Plutos
+HO12314,Halez Sparsa,moderate,3str,Tiruvannamalai,DR12778,Halez Sparsa
+HO12350,The Fern,moderate,5str,Kochi (Cochin),DR12793,The Fern
+HO11790,Anila,budget,4str,New Delhi,DR12644,Anila
+HO10289,Abad Plaza,budget,3str,Kochi (Cochin),DR10691,Abad Plaza
+HO10001,Jai Mahal Palace,lux,5str,Jaipur,DR10055,Jai Mahal Palace
+HO10415,Mahabs,budget,3str,Mamallapuram (Mahabalipuram),DR10174,Mahabs
+HO10605,Blue Jelly-3BRH,houseboat-lux,houseboat-platinum,Kumarakom,DR10756,Blue Jelly-3BRH
+HO11132,The Mountbatten Lodge,first-class,1str,Ranakpur,DR11503,The Mountbatten Lodge
+HO11503,Spice Coast Cruises,houseboat-first-class,houseboat-platinum,Alappuzha (Alleppey),DR11068,Spice Coast Cruises
+HO10705,Jawai Sagar,moderate,3str,Pali (RJ) ,DR10731,Jawai Sagar
+HO10520,Ashhok,moderate,3str,Hassan,DR10712,Ashhok
+HO11253,Sibaya Beach Resort,moderate,3str,Goa,DR11463,Sibaya Beach Resort
+HO11130,Bagh Villas Jungle Camp & Spa,first-class,1str,Kanha,DR11521,Bagh Villas Jungle Camp & Spa
+HO10403,Taj Bangalore,first-class,5str,Bengaluru,DR10505,Taj Bangalore
+HO11410,The Crown,first-class,5str,Goa,DR11507,The Crown
+HO10532,Aramness,lux,5str,Sasan Gir,DR10411,Aramness
+HO11108,Storii By ITC Hotels Shanti Morada,moderate,4str,Goa,DR11445,Storii By ITC Hotels Shanti Morada
+HO10766,Ramada Plaza (Guindy),moderate,5str,Chennai,DR10685,Ramada Plaza (Guindy)
+HO11707,Bamboo Yoga Retreat,budget,3str,,DR11538,Bamboo Yoga Retreat
+HO10174,Germanus,budget,3str,Madurai,DR10664,Germanus
+HO10199,Ikaki Niwas,budget,home-stay,Jaipur,DR10271,Ikaki Niwas
+HO10923,Chandra Mahal Haveli,moderate,4str,Bharatpur,DR11207,Chandra Mahal Haveli
+HO10282,Raj Haveli,budget,3str,Bikaner,DR10827,Raj Haveli
+HO10727,Grand Mercure,first-class,5str,Mysuru (Mysore),DR10749,Grand Mercure
+HO10977,Vivanta,moderate,5str,Ahmedabad,DR11320,Vivanta
+HO10257,The Lodhi,lux,5str,New Delhi,DR10354,The Lodhi
+HO11655,The Blossom,budget,1str,,DR11538,The Blossom
+HO12286,Sandesh Water Edge,moderate,5str,Kabini,DR12751,Sandesh Water Edge
+HO10721,Lemon Tree Premier (Leisure Valley 2),moderate,4str,Gurgaon,DR10971,Lemon Tree Premier (Leisure Valley 2)
+HO11265,El Oceano Beach Villas,moderate,1str,Mararikulam,DR10638,El Oceano Beach Villas
+HO12274,Test Supplier - Audit Walk Through,first-class,4str,,DR12697,Test Supplier - Audit Walk Through
+HO11263,Red Fox,budget,4str,Dehradun,DR11213,Red Fox
+HO10211,Souvenir Peppermint,budget,3str,Jaipur,DR10290,Souvenir Peppermint
+HO12204,Padmini Bagh Resort,first-class,3str,Udaipur (RJ),DR12238,Padmini Bagh Resort
+HO10253,JW Marriott,lux,5str,New Delhi,DR10506,JW Marriott
+HO11014,Yog Niketan By Sanskriti,moderate,3str,Rishikesh,DR11217,Yog Niketan By Sanskriti
+HO10413,The Gulaal,moderate,3str,Jaisalmer,DR10309,The Gulaal
+HO12209,Raghu Mahal,moderate,4str,Udaipur (RJ),DR12637,Raghu Mahal
+HO12315,Kaithal Resort,moderate,1str,Kasauli,DR12565,Kaithal Resort
+HO11311,Signature Club Resort,moderate,3str,Bengaluru,DR11796,Signature Club Resort
+HO11776,Hyatt Regency,budget,5str,Dehradun,DR11538,Hyatt Regency
+HO12282,Jagatpur Lodge,moderate,standard-resort,Chitwan,DR12655,Jagatpur Lodge
+HO10493,Rawla Narlai,moderate,3str,Narlai,DR10561,Rawla Narlai
+HO12319,Marli Hill Bungalow,first-class,1str,Ooty (Udhagamandalam),DR12471,Marli Hill Bungalow
+HO11312,The Lalit Ashok,moderate,5str,Bengaluru,DR11015,The Lalit Ashok
+HO10885,Seven Palms Desert Camp,budget,1str,Jaisalmer,DR10899,Seven Palms Desert Camp
+HO11073,Comfort Inn,budget,3str,Udaipur (RJ),DR11366,Comfort Inn
+HO10668,Taj Bekal Resort & Spa,first-class,5str,Bekal,DR10582,Taj Bekal Resort & Spa
+HO10032,Abad Whispering Palms,budget,4str,Kumarakom,DR10098,Abad Whispering Palms
+HO10147,Regency Sameera,moderate,3str,Vellore,DR10438,Regency Sameera
+HO12119,The Great Ganga,budget,3str,Rishikesh,DR11538,The Great Ganga
+HO11096,The Leela Bhartiya City,moderate,5str,Bengaluru,DR11461,The Leela Bhartiya City
+HO10410,Golden Haveli,budget,3str,Jaisalmer,DR10320,Golden Haveli
+HO11813,Zip By Spree Hyde,budget,1str,Goa,DR11538,Zip By Spree Hyde
+HO11438,Golden Haveli,first-class,4str,New Delhi,DR12040,Golden Haveli
+HO10693,Comfort Inn,budget,3str,Lucknow,DR11077,Comfort Inn
+HO10882,Umaid Bhawan,moderate,4str,Jaipur,DR10103,Umaid Bhawan
+HO11134,The Ummaid Bagh Resort,budget,2str,Bundi,DR11436,The Ummaid Bagh Resort
+HO10581,Welcomhotel By ITC Hotels,moderate,5str,Bengaluru,DR10860,Welcomhotel By ITC Hotels
+HO11329,Lemon Tree,moderate,4str,Hyderabad,DR11525,Lemon Tree
+HO10760,Hyatt Centric,moderate,5str,Bengaluru,DR10877,Hyatt Centric
+HO10842,Courtyard Kochi Airport,moderate,5str,Kochi (Cochin),DR10157,Courtyard Kochi Airport
+HO10969,The Belgadia Palace,first-class,1str,Baripada,DR11267,The Belgadia Palace
+HO12297,Amar Bagh Resort,moderate,3str,Pushkar,DR12755,Amar Bagh Resort
+HO10345,The Promenade,moderate,4str,Puducherry (Pondicherry),DR10819,The Promenade
+HO11901,Avasa,budget,5str,,DR11538,Avasa
+HO12125,Radisson Blu Palace Resort And Spa,budget,5str,,DR11538,Radisson Blu Palace Resort And Spa
+HO10663,Jehan Numa Palace,first-class,5str,Bhopal,DR11050,Jehan Numa Palace
+HO11906,Killa Bhawan Lodge (KB Lodge),budget,3str,Jaisalmer,DR11538,Killa Bhawan Lodge (KB Lodge)
+HO10397,Spice Village,first-class,4str,Thekkady (Periyar/Kumily),DR10292,Spice Village
+HO10518,Amrit Bhawan,first-class,1str,Haridwar,DR10989,Amrit Bhawan
+HO12325,Rawla Bisalpur,first-class,1str,Pali (RJ) ,DR12776,Rawla Bisalpur
+HO10102,Surya International,budget,3str,New Delhi,DR10391,Surya International
+HO10301,Wayanad Wild,moderate,3str,Wayanad,DR10461,Wayanad Wild
+HO10000,Andaz,first-class,5str,New Delhi,DR10014,Andaz
+HO12272,The Old Court House,moderate,1str,Kochi (Cochin),DR12701,The Old Court House
+HO11121,The Retreat,budget,1str,Agra,DR11487,The Retreat
+HO11478,Kesar Bagh,moderate,1str,Jojawar,DR12204,Kesar Bagh
+HO11046,The Park,moderate,5str,Chennai,DR10687,The Park
+HO10182,Xandari Pearl,first-class,4str,Mararikulam,DR10667,Xandari Pearl
+HO11754,LaRiSa Beach Resort,budget,3str,,DR11538,LaRiSa Beach Resort
+HO11256,Hyatt,first-class,5str,Ahmedabad,DR11604,Hyatt
+HO11321,Golden Sands,budget,1str,Puri,DR11543,Golden Sands
+HO11835,Nataraj Sarovar Portico Jhansi,budget,4str,Jhansi,DR11538,Nataraj Sarovar Portico Jhansi
+HO12121,Chrissie's,budget,3str,,DR11538,Chrissie's
+HO10631,Great Trails Riverview Resort,first-class,3str,Thanjavur (Tanjore),DR11003,Great Trails Riverview Resort
+HO10927,The House Of MG,moderate,4str,Ahmedabad,DR11260,The House Of MG
+HO10873,Radisson Blu (Paschim Vihar),moderate,5str,New Delhi,DR10383,Radisson Blu (Paschim Vihar)
+HO10818,Bhanwar Niwas,first-class,4str,Bikaner,DR11156,Bhanwar Niwas
+HO11619,Godwin,budget,4str,Meerut,DR12412,Godwin
+HO12183,Holywater By Ganga Kinare,moderate,1str,Rishikesh,DR12334,Holywater By Ganga Kinare
+HO12182,Vijay Vilas Palace,budget,1str,Palitana,DR11538,Vijay Vilas Palace
+HO11876,The Fern Habitat,budget,1str,Jaipur,DR11538,The Fern Habitat
+HO11758,Maitree Resort,budget,3str,,DR11538,Maitree Resort
+HO11107,Fortune Park,moderate,4str,Hubballi (Hubli),DR11367,Fortune Park
+HO10997,Deventure,budget,4str,New Delhi,DR11234,Deventure
+HO12365,Brij Eternity,first-class,1str,Vrindavan,DR12809,Brij Eternity
+HO11261,Radisson Blu,first-class,5str,Coimbatore,DR11798,Radisson Blu
+HO11968,Ramee Guestline (Khar),moderate,3str,Mumbai,DR12790,Ramee Guestline (Khar)
+HO10406,Forte Kochi,first-class,1str,Kochi (Cochin),DR10255,Forte Kochi
+HO10394,Vivanta (IT Expressway),moderate,5str,Chennai,DR10897,Vivanta (IT Expressway)
+HO11319,Clarks Avadh,moderate,5str,Lucknow,DR11289,Clarks Avadh
+HO10369,Diggi Palace,moderate,5str,Jaipur,DR10258,Diggi Palace
+HO10341,Lakes and Lagoon - 3 BRH,houseboat-first-class,houseboat-gold,,DR10241,Lakes and Lagoon - 3 BRH
+HO12255,Maya Manor Boutique,budget,standard-hotel,Kathmandu,DR12655,Maya Manor Boutique
+HO10109,Taj Aravali Resort And Spa,first-class,5str,Udaipur (RJ),DR10208,Taj Aravali Resort And Spa
+HO11585,Indian Summer House,moderate,1str,Muvattupuzha,DR12410,Indian Summer House
+HO11036,Pride,moderate,1str,Udaipur (RJ),DR11441,Pride
+HO10516,Lemon Tree,budget,3str,Katra,DR10152,Lemon Tree
+HO12128,Ramada Plaza,budget,1str,,DR11538,Ramada Plaza
+HO10597,Blue Jelly,houseboat-lux,houseboat-platinum,Alappuzha (Alleppey),DR10756,Blue Jelly
+HO10314,El Paradiso,budget,2str,Thekkady (Periyar/Kumily),DR10264,El Paradiso
+HO11481,Eros,moderate,5str,New Delhi,DR11062,Eros
+HO11462,Parallel,moderate,1str,Udaipur (RJ),DR12042,Parallel
+HO12037,Atmantan Wellness Resort,budget,1str,,DR11538,Atmantan Wellness Resort
+HO10145,Taj Ganges,first-class,5str,Varanasi,DR10086,Taj Ganges
+HO12032,Gem Park,budget,4str,,DR11538,Gem Park
+HO11380,Glitz,budget,3str,Jaipur,DR11889,Glitz
+HO11759,Mary Budden Estate,first-class,4str,Binsar,DR12746,Mary Budden Estate
+HO11117,Gir Serai - IHCL SeleQtions,moderate,5str,Sasan Gir,DR11335,Gir Serai - IHCL SeleQtions
+HO11214,Justa Brij Bhoomi Resort,moderate,4str,Nathdwara,DR12032,Justa Brij Bhoomi Resort
+HO10620,The Oberoi Grand,lux,5str,Kolkata,DR10432,The Oberoi Grand
+HO11853,ITC Grand Bharat,lux,5str,Gurgaon,DR12450,ITC Grand Bharat
+HO10996,Accord,moderate,4str,Puducherry (Pondicherry),DR10936,Accord
+HO11855,Fragrant Nature,moderate,4str,Kollam (Quilon),DR12499,Fragrant Nature
+HO10995,Colonel's Retreat 2,moderate,2str,New Delhi,DR10895,Colonel's Retreat 2
+HO12007,Four Points By Sheraton,budget,4str,Amritsar,DR11538,Four Points By Sheraton
+HO11670,The Divine Hima,budget,1str,,DR11538,The Divine Hima
+HO12220,Heritage Hotel,budget,standard-hotel,Bhaktapur,DR12655,Heritage Hotel
+HO11761,Annapurna,budget,1str,,DR11538,Annapurna
+HO11746,Kyriad Prestige,moderate,4str,Goa,DR12526,Kyriad Prestige
+HO12304,Planters Homestay,moderate,1str,Kottayam,DR12275,Planters Homestay
+HO11590,Khumani,budget,4str,Udaipur (RJ),DR12231,Khumani
+HO12018,Hyatt Centric,budget,1str,Chandigarh,DR11538,Hyatt Centric
+HO11880,MM Legacy,budget,3str,,DR11538,MM Legacy
+HO11475,Country Inn & Suites,budget,4str,Gurgaon,DR12054,Country Inn & Suites
+HO12364,Lemon Tree,moderate,1str,Rishikesh,DR12785,Lemon Tree
+HO10808,Fateh Safari Resort,moderate,3str,Kumbhalgarh,DR11126,Fateh Safari Resort
+HO12122,Mewar Villas,moderate,1str,Udaipur (RJ),DR10986,Mewar Villas
+HO10365,The Bangala,moderate,1str,Karaikudi,DR10721,The Bangala
+HO12196,Balaram Palace Resort,moderate,3str,Chitrasani,DR12498,Balaram Palace Resort
+HO11285,Lemon Tree,moderate,3str,Amritsar,DR11532,Lemon Tree
+HO11443,Sukhdham Kothi,budget,1str,Kota (RJ) ,DR11611,Sukhdham Kothi
+HO11062,WelcomHeritage Taragarh Palace,moderate,3str,Palampur,DR11397,WelcomHeritage Taragarh Palace
+HO10690,Raj Niwas Palace,moderate,3str,Dholpur,DR11096,Raj Niwas Palace
+HO12155,Best Western (Maharani Bagh),moderate,1str,New Delhi,DR12693,Best Western (Maharani Bagh)
+HO11981,Beyond by Sula,budget,4str,Nasik,DR11538,Beyond by Sula
+HO10887,Sea Princess,moderate,5str,Mumbai,DR10462,Sea Princess
+HO11604,The Sawai Bagh,moderate,4str,Ranthambore,DR12305,The Sawai Bagh
+HO11310,Lemon Tree (Hinjawadi),moderate,4str,Pune,DR11519,Lemon Tree (Hinjawadi)
+HO11314,Sheraton Grand Pune Bund Garden,first-class,5str,Pune,DR11788,Sheraton Grand Pune Bund Garden
+HO11956,Radisson Blu (Mumbai International Airport),budget,5str,Mumbai,DR11538,Radisson Blu (Mumbai International Airport)
+HO11577,"Scenic, Munnar - IHCL SeleQtions",first-class,4str,Munnar,DR12373,"Scenic, Munnar - IHCL SeleQtions"
+HO11752,Best Western Dalhousie,budget,3str,,DR11538,Best Western Dalhousie
+HO10274,Treehouse Queens Pearl,budget,3str,Gurgaon,DR10804,Treehouse Queens Pearl
+HO10056,Calcutta Bungalow,moderate,heritage,Kolkata,DR10033,Calcutta Bungalow
+HO10344,Park Plaza,moderate,4str,Jodhpur,DR10620,Park Plaza
+HO10233,Gateway Chikmagalur - IHCL SeleQtions,first-class,4str,Chikkamagaluru,DR10689,Gateway Chikmagalur - IHCL SeleQtions
+HO10254,ITC Mughal,first-class,5str-lux,Agra,DR10041,ITC Mughal
+HO12243,Neydo,budget,standard-hotel,Kathmandu,DR12655,Neydo
+HO10262,Golden Tulip,moderate,4str,Jaipur,DR10260,Golden Tulip
+HO10954,Amaryllis,moderate,1str,Wayanad,DR10844,Amaryllis
+HO11306,The Lalit Golf & Spa Resort,first-class,5str,Goa,DR11466,The Lalit Golf & Spa Resort
+HO10229,Royal Orchid Metropole,first-class,4str,Mysuru (Mysore),DR10557,Royal Orchid Metropole
+HO10917,Test NG,first-class,5str,,DR11243,Test NG
+HO10451,Garden Hotel,budget,3str,Udaipur (RJ),DR10117,Garden Hotel
+HO10574,Peppervine,budget,4str,Thekkady (Periyar/Kumily),DR11008,Peppervine
+HO10176,Country Inn & Suites,budget,3str,Gurgaon,DR10670,Country Inn & Suites
+HO11396,Santana Beach Resort,budget,3str,Goa,DR10703,Santana Beach Resort
+HO10726,Lemon Tree (Whitefield),moderate,4str,Bengaluru,DR11148,Lemon Tree (Whitefield)
+HO11375,Kenilworth Resort And Spa,first-class,5str,Goa,DR11475,Kenilworth Resort And Spa
+HO11767,Oaks,budget,4str,,DR11538,Oaks
+HO11204,Abad Fort,moderate,3str,Kochi (Cochin),DR11346,Abad Fort
+HO12103,The Earth,first-class,1str,Ranthambore,DR12683,The Earth
+HO11844,The Corner Courtyard,budget,1str,,DR11538,The Corner Courtyard
+HO10236,Taj Mahal,lux,5str,New Delhi,DR10697,Taj Mahal
+HO11184,Diphlu River Lodge,moderate,4str,Kaziranga,DR11845,Diphlu River Lodge
+HO12320,Residence De L Eveche,first-class,1str,Puducherry (Pondicherry),DR12782,Residence De L Eveche
+HO11904,Hyatt Place,budget,1str,Jaipur,DR11538,Hyatt Place
+HO10389,Royal Orchid Central,moderate,4str,Bengaluru,DR10823,Royal Orchid Central
+HO11232,Neeleshwar Hermitage,first-class,4str,Neeleshwar,DR11362,Neeleshwar Hermitage
+HO10858,Shangri-La Eros,first-class,5str,New Delhi,DR10510,Shangri-La Eros
+HO10603,RKV-1BRH,budget,houseboat-silver,Kumarakom,DR10254,RKV-1BRH
+HO12311,Safari Narayani,moderate,standard-resort,Chitwan,DR12655,Safari Narayani
+HO10193,Taj Palace,first-class,5str,New Delhi,DR10376,Taj Palace
+HO11161,Devra,budget,3str,Udaipur (RJ),DR11188,Devra
+HO10458,Suroth Mahal,budget,3str,Karauli,DR10963,Suroth Mahal
+HO11720,Sinnadorai Bungalow,budget,1str,,DR11538,Sinnadorai Bungalow
+HO10624,Clarks Safari,budget,5str,Pushkar,DR11056,Clarks Safari
+HO10991,Temi Tea Bungalow,moderate,1str,Namchi,DR11220,Temi Tea Bungalow
+HO10640,ITC Grand,lux,5str,Goa,DR10511,ITC Grand
+HO11561,Oneness,first-class,1str,Rishikesh,DR12350,Oneness
+HO10821,The Emerald Hotel & Service Apartments,moderate,4str,Mumbai,DR10762,The Emerald Hotel & Service Apartments
+HO10796,Paatlidun Safari Lodge,first-class,5str,Corbett,DR11122,Paatlidun Safari Lodge
+HO12030,Vivanta (Hinjawadi),first-class,5str,Pune,DR12457,Vivanta (Hinjawadi)
+HO11719,Sterlings Mac,budget,5str,,DR11538,Sterlings Mac
+HO11252,Hard Rock,moderate,5str,Goa,DR11307,Hard Rock
+HO10203,Madin,moderate,4str,Varanasi,DR10175,Madin
+HO12210,Philipkutty's Farm,moderate,1str,Vechoor,DR12634,Philipkutty's Farm
+HO10235,Gateway Coonoor - IHCL SeleQtions,first-class,4str,Coonoor,DR10713,Gateway Coonoor - IHCL SeleQtions
+HO11405,Surya Vilas Palace,budget,3str,Bharatpur,DR10558,Surya Vilas Palace
+HO10594,Talabgaon Castle,first-class,3str,Dausa,DR10954,Talabgaon Castle
+HO12130,Coffee And Pepper,budget,1str,,DR11538,Coffee And Pepper
+HO11601,Kinwani House,first-class,5str,Narendra Nagar (UK),DR12387,Kinwani House
+HO11587,35 Sahakar Suites,moderate,3str,Jaipur,DR12339,35 Sahakar Suites
+HO10952,The Ritz - Carlton,lux,5str,Bengaluru,DR11085,The Ritz - Carlton
+HO11304,JW Marriott,first-class,5str,Pune,DR11877,JW Marriott
+HO10571,The Park,moderate,5str,Bengaluru,DR11014,The Park
+HO11697,Olive Downtown,budget,5str,,DR11538,Olive Downtown
+HO11516,Taj Sawai,first-class,5str,Ranthambore,DR10744,Taj Sawai
+HO11884,Aranyak Resort,budget,2str,Kanha,DR11538,Aranyak Resort
+HO11128,The Untamed Bandhavgarh,first-class,1str,Bandhavgarh,DR11552,The Untamed Bandhavgarh
+HO11550,The Blackbuck Lodge,moderate,4str,Velavadar,DR11506,The Blackbuck Lodge
+HO11008,Udman (Panchshila Park),moderate,4str,New Delhi,DR11216,Udman (Panchshila Park)
+HO10074,The Madurai Residency,budget,3str,Madurai,DR10165,The Madurai Residency
+HO12367,Neemrana's Coconut Alley,first-class,3str,Tranquebar (Tharangambadi),DR12781,Neemrana's Coconut Alley
+HO10522,Juna Mahal,moderate,4str,Ranthambore,DR10937,Juna Mahal
+HO10749,Hindusthan International,moderate,1str,Pune,DR11123,Hindusthan International
+HO11281,Holiday Inn,moderate,1str,Mumbai,DR10836,Holiday Inn
+HO11043,Sterling Ooty Elk Hill,moderate,4str,Ooty (Udhagamandalam),DR11349,Sterling Ooty Elk Hill
+HO12078,Radisson Hotel Pune Kharadi,budget,5str,,DR11538,Radisson Hotel Pune Kharadi
+HO12132,The Kehloor,budget,3str,,DR11538,The Kehloor
+HO11222,Jalakara,first-class,5str,Havelock,DR11444,Jalakara
+HO11806,Fairfield by Marriott Belagavi,budget,4str,,DR11538,Fairfield by Marriott Belagavi
+HO10148,Nidhivan Sarovar Portico,moderate,4str,Vrindavan,DR10446,Nidhivan Sarovar Portico
+HO11525,Lemon Tree (Banjara Hills),moderate,3str,Hyderabad,DR12283,Lemon Tree (Banjara Hills)
+HO10009,Samode Haveli,first-class,heritage,Jaipur,DR10078,Samode Haveli
+HO10115,Trident,moderate,5str,Chennai,DR10211,Trident
+HO11255,The Grand - Ambala,lux,5str,,DR12034,The Grand - Ambala
+HO11363,Holiday Inn Express (International Airport T3),moderate,3str,New Delhi,DR10499,Holiday Inn Express (International Airport T3)
+HO12041,Conrad,budget,5str,Pune,DR11538,Conrad
+HO10478,Les Hibiscus,budget,1str,Puducherry (Pondicherry),DR10925,Les Hibiscus
+HO12097,Ibis Thane,budget,3str,,DR11538,Ibis Thane
+HO12234,Sardargarh Heritage,moderate,4str,Sardargarh,DR12668,Sardargarh Heritage
+HO11489,Royale Regent,moderate,4str,Agra,DR12058,Royale Regent
+HO11359,Royal Court,budget,3str,Madurai,DR11801,Royal Court
+HO10936,Kipling Camp,moderate,2str,Kanha,DR10579,Kipling Camp
+HO11717,Le Meridien,budget,5str,Kochi (Cochin),DR11538,Le Meridien
+HO11540,Araiya,first-class,4str,Palampur,DR12319,Araiya
+HO11411,Jaipur Inn,budget,2str,Jaipur,DR10761,Jaipur Inn
+HO12026,Rose Gardens Homestay,moderate,1str,Munnar,DR12510,Rose Gardens Homestay
+HO10494,Ishwari Niwas Palace,moderate,1str,Bundi,DR10890,Ishwari Niwas Palace
+HO11464,Hyatt Place,first-class,3str,Bodhgaya,DR12209,Hyatt Place
+HO11560,Tree Of Life Resort & Spa,first-class,5str,Varanasi,DR12329,Tree Of Life Resort & Spa
+HO11379,Champaner Heritage Resort,first-class,4str,Champaner,DR11940,Champaner Heritage Resort
+HO10972,Goldfinch Retreat,moderate,4str,Bengaluru,DR11300,Goldfinch Retreat
+HO10883,Ramada By Wyndham (Raja Park),moderate,5str,Jaipur,DR10303,Ramada By Wyndham (Raja Park)
+HO11679,Radhika Beach Resort,moderate,3str,Diu,DR12482,Radhika Beach Resort
+HO10157,The Elgin Nor-Khill,first-class,4str,Gangtok,DR10559,The Elgin Nor-Khill
+HO10710,Sofitel Mumbai BKC,moderate,5str,Mumbai,DR10754,Sofitel Mumbai BKC
+HO10358,The Fern Residency,moderate,4str,Jodhpur,DR10817,The Fern Residency
+HO10256,Mayfair Spa Resort & Casino,first-class,5str,Gangtok,DR10572,Mayfair Spa Resort & Casino
+HO12231,Le Himalaya,budget,1str,Kathmandu,DR12655,Le Himalaya
+HO10863,Purple Beds by Vits,moderate,3str,Aurangabad (MH) ,DR10681,Purple Beds by Vits
+HO11050,Infinity Resorts,moderate,3str,Kaziranga,DR11388,Infinity Resorts
+HO11864,The Kothi Heritage,budget,3str,,DR11538,The Kothi Heritage
+HO10830,Crowne Plaza,first-class,5str,Gurgaon,DR10789,Crowne Plaza
+HO10361,Chettinadu Court,moderate,3str,Karaikudi,DR10764,Chettinadu Court
+HO10424,Haveli Inn Pal,moderate,3str,Jodhpur,DR10334,Haveli Inn Pal
+HO10750,Mayfair Heritage,first-class,4str,Puri,DR11086,Mayfair Heritage
+HO11811,Whispering Palms Beach Resort,first-class,4str,Goa,DR12517,Whispering Palms Beach Resort
+HO11841,Hanuwant Niwas,budget,1str,Jodhpur,DR12651,Hanuwant Niwas
+HO11426,Devgarh,budget,3str,Jaisalmer,DR11399,Devgarh
+HO11976,Suba International,budget,4str,Mumbai,DR11538,Suba International
+HO10449,Lemon Tree (Sohna Road),budget,3str,Gurgaon,DR10178,Lemon Tree (Sohna Road)
+HO12208,Saura,moderate,1str,Agra,DR12635,Saura
+HO10771,Grand Hyatt Mumbai Hotel & Residences,first-class,5str,Mumbai,DR10418,Grand Hyatt Mumbai Hotel & Residences
+HO10686,Lemon Tree Premier,moderate,4str,Hyderabad,DR11078,Lemon Tree Premier
+HO12217,The Nanee,moderate,4str,Bhaktapur,DR12655,The Nanee
+HO10436,Narendra Bhawan,first-class,4str,Bikaner,DR10272,Narendra Bhawan
+HO10600,White Water Cruise-1BRH,houseboat-moderate,houseboat-silver,Alappuzha (Alleppey),DR10006,White Water Cruise-1BRH
+HO10219,The Royal Residency,moderate,3str,Bodhgaya,DR10583,The Royal Residency
+HO10988,Abad Metro,budget,2str,Kochi (Cochin),DR11262,Abad Metro
+HO12159,Vaishali Residency,moderate,1str,Vaishali,DR12600,Vaishali Residency
+HO11325,The Lalit,first-class,5str,Mumbai,DR10484,The Lalit
+HO11289,Aura,moderate,1str,Kolkata,DR11218,Aura
+HO10498,Jagat Palace,first-class,3str,Pushkar,DR10943,Jagat Palace
+HO11631,Crowne Plaza,budget,5str,Jaipur,DR11538,Crowne Plaza
+HO11350,Koolwal Kothi,moderate,3str,Nawalgarh,DR11864,Koolwal Kothi
+HO11029,Taj Swarna,lux,5str,Amritsar,DR10758,Taj Swarna
+HO12105,O By Tamara,moderate,5str,Thiruvananthapuram (Trivandrum),DR12578,O By Tamara
+HO11149,Vivaana Culture,first-class,4str,Mandawa,DR10353,Vivaana Culture
+HO10016,The Amayaa,budget,4str,Varanasi,DR10083,The Amayaa
+HO11275,Godwin,moderate,4str,Mumbai,DR10816,Godwin
+HO12169,The India Benares,budget,4str,Varanasi,DR11538,The India Benares
+HO10669,Chunda Shikar Oudi,first-class,5str,Udaipur (RJ),DR11028,Chunda Shikar Oudi
+HO10191,Radisson,first-class,5str,Varanasi,DR10393,Radisson
+HO11045,Sinclairs Retreat,budget,3str,Kalimpong,DR11385,Sinclairs Retreat
+HO11757,Udai Niwas,budget,1str,Bikaner,DR12580,Udai Niwas
+HO12081,Le Lac Sarovar Portico,budget,4str,,DR11538,Le Lac Sarovar Portico
+HO10116,Accord Metropolitan,moderate,5str,Chennai,DR10225,Accord Metropolitan
+HO11237,Uday Samudra,moderate,5str,Kovalam,DR10723,Uday Samudra
+HO11292,Lemon Tree,moderate,1str,Mumbai,DR11537,Lemon Tree
+HO12042,Chandera Kothi,moderate,1str,Orchha,DR12662,Chandera Kothi
+HO11922,Radisson City Centre,budget,3str,,DR11538,Radisson City Centre
+HO10585,Quality Inn,budget,4str,Gurgaon,DR10794,Quality Inn
+HO11665,Sterling Lake Palace,moderate,5str,,DR12795,Sterling Lake Palace
+HO11165,Haveli Hauz Khas,moderate,3str,New Delhi,DR11510,Haveli Hauz Khas
+HO11874,Radisson,first-class,5str,Gwalior,DR12463,Radisson
+HO10464,Trident (Nariman Point),first-class,5str,Mumbai,DR10545,Trident (Nariman Point)
+HO10152,Chidambara Vilas,moderate,3str,Chettinadu,DR10651,Chidambara Vilas
+HO10903,Leela Palace (UNIRE Testing),lux,5str,Chennai,DR10128,Leela Palace (UNIRE Testing)
+HO11382,De Mandarin,first-class,1str,Goa,DR11311,De Mandarin
+HO10417,Old Harbour,moderate,4str,Kochi (Cochin),DR10308,Old Harbour
+HO11063,Clarks Inn,moderate,3str,Gurgaon,DR11389,Clarks Inn
+HO10527,Jasmin Home,moderate,2str,Jaisalmer,DR10321,Jasmin Home
+HO11847,Narmada Jacksons,budget,4str,,DR11538,Narmada Jacksons
+HO11217,Krishna Palace,moderate,3str,Hampi (Hosapete),DR11414,Krishna Palace
+HO10224,Xandari Harbour,first-class,4str,,DR10410,Xandari Harbour
+HO11111,Sujan Jawai,lux,5str,Pali (RJ) ,DR11443,Sujan Jawai
+HO10592,Hyatt Regency,lux,5str,Dharamshala,DR11030,Hyatt Regency
+HO10553,Isola Di Cocco,budget,4str,Poovar,DR10736,Isola Di Cocco
+HO11485,Udman,moderate,4str,Haridwar,DR12037,Udman
+HO11545,Fort Pokaran,budget,4str,Pokhran,DR12279,Fort Pokaran
+HO10729,Bloom Suites (Electronic City),budget,4str,Bengaluru,DR10871,Bloom Suites (Electronic City)
+HO10616,Xandari Riverscapes-2BRH,houseboat-first-class,houseboat-platinum,Kumarakom,DR10649,Xandari Riverscapes-2BRH
+HO11188,Gurkha Houseboats,moderate,3str,Srinagar,DR11324,Gurkha Houseboats
+HO11567,Great Trails,moderate,4str,Kodaikanal,DR12363,Great Trails
+HO11181,Serkong House,moderate,2str,Dharamshala,DR10592,Serkong House
+HO11515,Four Seasons,lux,5str,Bengaluru,DR12057,Four Seasons
+HO10448,The Oberoi Udaivilas,lux,5str,Udaipur (RJ),DR10223,The Oberoi Udaivilas
+HO11614,Shivansh Green Resort,budget,3str,Rishikesh,DR12404,Shivansh Green Resort
+HO11580,Taj Taal Kutir,first-class,5str,Kolkata,DR12372,Taj Taal Kutir
+HO11499,Starlit Suites,budget,4str,Tirupati,DR12251,Starlit Suites
+HO11317,Lemon Tree (Udyog Vihar),moderate,3str,Gurgaon,DR11518,Lemon Tree (Udyog Vihar)
+HO10037,Palace on Ganges,moderate,3str,Varanasi,DR10171,Palace on Ganges
+HO10450,Lemon Tree Premier,moderate,4str,Jaipur,DR10144,Lemon Tree Premier
+HO11444,Grand Mercure,moderate,5str,Agra,DR12043,Grand Mercure
+HO10297,Crystal Sarovar Premiere,moderate,5str,Agra,DR10155,Crystal Sarovar Premiere
+HO12236,Barahi Jungle Lodge,first-class,5str,Chitwan,DR12655,Barahi Jungle Lodge
+HO11156,Blackbuck Safari Lodge,moderate,1str,Velavadar,DR11548,Blackbuck Safari Lodge
+HO11415,Sonesta Inns,moderate,4str,Goa,DR10704,Sonesta Inns
+HO10409,The Gateway Hotel Pasumalai,first-class,5str,Madurai,DR10727,The Gateway Hotel Pasumalai
+HO11524,Keys Prima,moderate,1str,Thekkady (Periyar/Kumily),DR12284,Keys Prima
+HO12008,Chandys Windy Woods,budget,5str,Munnar,DR11538,Chandys Windy Woods
+HO10611,White Water Cruise-1BRH,houseboat-moderate,houseboat-silver,Kumarakom,DR10006,White Water Cruise-1BRH
+HO10951,Orchha Resort,moderate,4str,Orchha,DR10845,Orchha Resort
+HO11244,Shenbaga Hotel And Convention Centre,budget,4str,Puducherry (Pondicherry),DR10186,Shenbaga Hotel And Convention Centre
+HO10544,Tadoba Jungle Camp,moderate,5str,Tadoba,DR10612,Tadoba Jungle Camp
+HO10519,Lemon Tree,moderate,3str,Chandigarh,DR10586,Lemon Tree
+HO11343,Marasa Sarovar Premiere,moderate,1str,Bodhgaya,DR11304,Marasa Sarovar Premiere
+HO11044,Pride Kadamb Kunj Resort,moderate,3str,Bharatpur,DR10923,Pride Kadamb Kunj Resort
+HO11708,Bogmallo Beach Resort,moderate,5str,Goa,DR12519,Bogmallo Beach Resort
+HO12011,Minerva Grand Nellore,budget,3str,,DR11538,Minerva Grand Nellore
+HO12162,Hindustan Beach Retreat,budget,3str,,DR11538,Hindustan Beach Retreat
+HO11656,Mastiff Infantry,budget,4str,Bengaluru,DR12502,Mastiff Infantry
+HO11231,Sagara Beach Resort,budget,3str,Kovalam,DR11312,Sagara Beach Resort
+HO10601,RKV-1BRH,budget,houseboat-silver,Alappuzha (Alleppey),DR10254,RKV-1BRH
+HO11125,Indra Vilas,budget,3str,Alsisar,DR11352,Indra Vilas
+HO10203,Madin,moderate,5str,Varanasi,DR10175,Madin
+HO10426,The Dunes,moderate,4str,Kochi (Cochin),DR10377,The Dunes
+HO10682,Vivanta (Panaji),first-class,5str,Goa,DR11087,Vivanta (Panaji)
+HO11309,Sanskruti Resort,moderate,3str,Gokarna,DR11512,Sanskruti Resort
+HO11051,Pride Sun Village Resort And Spa,moderate,4str,Goa,DR11406,Pride Sun Village Resort And Spa
+HO10105,Blanket Hotel & Spa,moderate,5str,Munnar,DR10265,Blanket Hotel & Spa
+HO11810,Hampi Heritage & Wilderness Resort,budget,3str,,DR11538,Hampi Heritage & Wilderness Resort
+HO10599,Blue Jelly-2BRH,houseboat-lux,houseboat-platinum,Alappuzha (Alleppey),DR10756,Blue Jelly-2BRH
+HO11023,Shahpura Dev Panache,first-class,1str,Udaipur (RJ),DR11226,Shahpura Dev Panache
+HO10021,Taj Nadesar Palace,lux,5str,Varanasi,DR10101,Taj Nadesar Palace
+HO11600,Aalia Villas,first-class,1str,Goa,DR12388,Aalia Villas
+HO12074,Sitaram Beach Retreat,budget,1str,Thrissur,DR11538,Sitaram Beach Retreat
+HO12028,Club Mahindra Derby Green,budget,3str,,DR11538,Club Mahindra Derby Green
+HO11188,WelcomHeritage Gurkha Houseboats,moderate,3str,Srinagar,DR11324,WelcomHeritage Gurkha Houseboats
+HO10674,Tuli Tiger Corridor,moderate,3str,Pench,DR11098,Tuli Tiger Corridor
+HO10255,Mayfair Lagoon,first-class,5str,Bhubaneswar,DR10571,Mayfair Lagoon
+HO10647,Gitanjali Homestay,moderate,1str,Mysuru (Mysore),DR10550,Gitanjali Homestay
+HO10924,Chamba Camp Diskit,first-class,1str,Leh,DR11197,Chamba Camp Diskit
+HO10793,Ranvas,first-class,1str,Nagaur (RJ) ,DR11106,Ranvas
+HO10387,The Leela (Mumbai),first-class,5str,Mumbai,DR10491,The Leela (Mumbai)
+HO11467,Aurika,first-class,1str,Mumbai,DR12220,Aurika
+HO11116,"The Westin Resort & Spa, Himalayas",lux,1str,Rishikesh,DR11401,"The Westin Resort & Spa, Himalayas"
+HO12385,AMS hotel test 1,first-class,5str,Manesar,DR12884,AMS hotel test 1
+HO12355,Chunda Haveli,moderate,1str,Udaipur (RJ),DR12703,Chunda Haveli
+HO10463,Villa Shanti,first-class,4str,Puducherry (Pondicherry),DR10942,Villa Shanti
+HO11791,Sobit Sarovar Portico,budget,4str,Goa,DR11538,Sobit Sarovar Portico
+HO12291,Tuli Tiger Corridor,moderate,3str,Pench,DR12735,Tuli Tiger Corridor
+HO11370,Holiday Inn (Mayur Vihar),moderate,5str,New Delhi,DR10150,Holiday Inn (Mayur Vihar)
+HO10079,Clarks Shiraz,moderate,5str,Agra,DR10089,Clarks Shiraz
+HO11778,Sairaj Beach Resort,budget,4str,Goa,DR12516,Sairaj Beach Resort
+HO12044,Hacra Dhani,budget,1str,Osian (RJ) ,DR11538,Hacra Dhani
+HO10612,Xandari Riverscapes,houseboat-first-class,houseboat-platinum,Alappuzha (Alleppey),DR10649,Xandari Riverscapes
+HO10089,Rajmahal Palace,first-class,5str-lux,Jaipur,DR10301,Rajmahal Palace
+HO12368,Justa Morjim Beach Resort,moderate,4str,Goa,DR12811,Justa Morjim Beach Resort
+HO11468,The Grand,moderate,5str,New Delhi,DR10367,The Grand
+HO11747,The Bhuj House,moderate,1str,Bhuj,DR12633,The Bhuj House
+HO11691,Ginger House Museum Hotel,budget,4str,Kochi (Cochin),DR11538,Ginger House Museum Hotel
+HO11460,Amritara Surya,moderate,4str,Dharamshala,DR11330,Amritara Surya
+HO10144,Fariyas,moderate,4str,Mumbai,DR10482,Fariyas
+HO11129,RAAS,first-class,5str,Udaipur (RJ),DR11432,RAAS
+HO12043,Courtyard By Marriott Pune Chakan,budget,4str,,DR11538,Courtyard By Marriott Pune Chakan
+HO10606,White Water Cruise-2BRH,houseboat-moderate,houseboat-silver,Alappuzha (Alleppey),DR10006,White Water Cruise-2BRH
+HO10143,The Sahil,moderate,4str,Mumbai,DR10456,The Sahil
+HO11615,Alivaa,moderate,1str,Gurgaon,DR12345,Alivaa
+HO11606,Clarks Inn Express,moderate,1str,Rishikesh,DR12263,Clarks Inn Express
+HO10517,King's Abode,moderate,3str,Ranakpur,DR10740,King's Abode
+HO10149,The Francis Residence,moderate,3str,Kochi (Cochin),DR10653,The Francis Residence
+HO10337,Red Fox,budget,3str,Jaipur,DR10716,Red Fox
+HO10583,Vythiri Resort,first-class,5str,Wayanad,DR11021,Vythiri Resort
+HO11648,The Ashtan,budget,4str,,DR11538,The Ashtan
+HO10130,Surya Kaiser Palace,budget,3str,Varanasi,DR10168,Surya Kaiser Palace
+HO11300,Hyatt Regency,first-class,5str,Kolkata,DR10406,Hyatt Regency
+HO10292,The Leela Ambience (Gurgaon),first-class,5str,Gurgaon,DR10800,The Leela Ambience (Gurgaon)
+HO10731,Trident,first-class,5str,Bhubaneswar,DR11103,Trident
+HO10322,Taj Theog Resort & Spa,lux,5str,Shimla,DR10608,Taj Theog Resort & Spa
+HO10374,JP Cordial,moderate,3str,Bengaluru,DR10766,JP Cordial
+HO10510,Lemon Tree Premier,moderate,4str,Pune,DR10153,Lemon Tree Premier
+HO11780,The Fern Residency,budget,4str,Bhopal,DR11538,The Fern Residency
+HO11031,Lotus Nikko,moderate,4str,Kushinagar,DR11334,Lotus Nikko
+HO10083,Bujera Fort,first-class,4str,Udaipur (RJ),DR10080,Bujera Fort
+HO11227,Pappukutty Beach Resort,moderate,3str,Kovalam,DR11356,Pappukutty Beach Resort
+HO11148,Vasant Vilas,budget,3str,Udaipur (RJ),DR11549,Vasant Vilas
+HO10654,"Mahua Kothi, A Taj Safari",lux,5str,Bandhavgarh,DR10531,"Mahua Kothi, A Taj Safari"
+HO10243,Evolve Back,first-class,4str,Coorg (Kodagu),DR10693,Evolve Back
+HO10302,The Leela Palace,lux,5str,New Delhi,DR10355,The Leela Palace
+HO10539,Red Fox,budget,3str,Trichy (Tiruchirappalli),DR10200,Red Fox
+HO12001,Chateau Windsor,budget,3str,,DR11538,Chateau Windsor
+HO12067,Neelambari Ecotourism,budget,3str,Thrissur,DR11538,Neelambari Ecotourism
+HO11365,Renest River Country Resort,moderate,4str,Manali,DR11409,Renest River Country Resort
+HO11323,Fairfield By Marriott,moderate,4str,Lucknow,DR10477,Fairfield By Marriott
+HO10276,Libra,budget,3str,Jaipur,DR10000,Libra
+HO10449,Lemon Tree (Sector 68),budget,3str,Gurgaon,DR10178,Lemon Tree (Sector 68)
+HO10610,RKV-3BRH,budget,houseboat-silver,Kumarakom,DR10254,RKV-3BRH
+HO10799,Fifu,budget,3str,Jaisalmer,DR10814,Fifu
+HO11511,Elakai,moderate,1str,Munnar,DR12261,Elakai
+HO11453,Stok Palace Heritage,first-class,1str,Leh,DR12027,Stok Palace Heritage
+HO10122,Roop Niwas Kothi,moderate,5str,Nawalgarh,DR10314,Roop Niwas Kothi
+HO11195,JW Marriott,lux,5str,Bengaluru,DR11646,JW Marriott
+HO10971,Fortune Landmark,moderate,5str,Ahmedabad,DR11215,Fortune Landmark
+HO10313,The Oberoi Rajvilas,lux,5str,Jaipur,DR10096,The Oberoi Rajvilas
+HO10685,The Pride,moderate,5str,Kolkata,DR11090,The Pride
+HO10298,Lallgarh Palace,first-class,4str,Bikaner,DR10826,Lallgarh Palace
+HO11955,Udai Vilas Palace,budget,4str,,DR11538,Udai Vilas Palace
+HO10628,Shahpura Haveli,moderate,3str,Shahpura (Jaipur),DR11022,Shahpura Haveli
+HO10104,Ramada,moderate,5str,Khajuraho,DR10313,Ramada
+HO10092,Dera Rawatsar,moderate,4str,Jaipur,DR10252,Dera Rawatsar
+HO11112,Fortune Select Exotica,moderate,4str,Navi Mumbai,DR11364,Fortune Select Exotica
+HO11678,Lakeside Guesthouse,budget,1str,,DR11538,Lakeside Guesthouse
+HO10589,Hilton Garden Inn,moderate,4str,New Delhi,DR11027,Hilton Garden Inn
+HO11839,Holiday Inn Express,budget,4str,Kolkata,DR11538,Holiday Inn Express
+HO11735,Corbett Ramganga Resort,budget,5str,,DR11538,Corbett Ramganga Resort
+HO11449,Kumbhalgarh Safari Camp,budget,3str,Kumbhalgarh,DR11878,Kumbhalgarh Safari Camp
+HO12021,Lagoon Sarovar Premiere,budget,1str,,DR11538,Lagoon Sarovar Premiere
+HO10735,The Raviz Kadavu,first-class,5str,Kozhikode (Calicut),DR11099,The Raviz Kadavu
+HO10778,Sairafort Sarovar Portico,moderate,4str,Jaisalmer,DR10347,Sairafort Sarovar Portico
+HO10993,The Tower House,moderate,3str,Kochi (Cochin),DR11279,The Tower House
+HO10946,Ranjit Vilas,moderate,5str,Amritsar,DR10523,Ranjit Vilas
+HO11125,Indra Vilas,budget,2str,Alsisar,DR11352,Indra Vilas
+HO10428,Indana Palace,moderate,5str,Jodhpur,DR10335,Indana Palace
+HO11593,Tigergarh Wildlife Resort,moderate,3str,Bandhavgarh,DR12299,Tigergarh Wildlife Resort
+HO11533,Sheraton Grand Chennai Resorts and Spa,first-class,5str,Chennai,DR12323,Sheraton Grand Chennai Resorts and Spa
+HO10559,Radha Regent,budget,3str,Chennai,DR10953,Radha Regent
+HO12069,Taj Dal View,first-class,5str,Srinagar,DR12437,Taj Dal View
+HO11440,Annai Resorts & Spa,moderate,4str,Kanyakumari,DR12041,Annai Resorts & Spa
+HO11703,Raintree Lodge,budget,3str,,DR11538,Raintree Lodge
+HO10761,Green Park,first-class,5str,Chennai,DR11158,Green Park
+HO11470,Lemon Tree,moderate,4str,Jhansi,DR12218,Lemon Tree
+HO12156,Sangeet,budget,2str,,DR11538,Sangeet
+HO10658,Tree House Hideaway,moderate,4str,Bandhavgarh,DR11049,Tree House Hideaway
+HO11088,ITC Royal Bengal,first-class,5str,Kolkata,DR11457,ITC Royal Bengal
+HO10804,Sarai At Toria,first-class,5str,Toria,DR11135,Sarai At Toria
+HO11932,Winter Note,budget,1str,,DR11538,Winter Note
+HO11479,Sea Shell,moderate,5str,Havelock,DR12211,Sea Shell
+HO10965,Woods at Sasan,first-class,5str,Sasan Gir,DR11328,Woods at Sasan
+HO10319,The Postcard Mandalay Hall,first-class,1str,Kochi (Cochin),DR10297,The Postcard Mandalay Hall
+HO11753,Mastiff Select,budget,1str,Bidar,DR12631,Mastiff Select
+HO11887,Shergarh,first-class,3str,Kanha,DR12650,Shergarh
+HO10941,Tuli Imperial,moderate,3str,Nagpur,DR11201,Tuli Imperial
+HO10412,Marriott,moderate,5str,Kochi (Cochin),DR10854,Marriott
+HO12237,Green Mansions Jungle Resort,budget,4str,Chitwan,DR12655,Green Mansions Jungle Resort
+HO11592,Park Inn By Radisson Ayodhya,moderate,1str,Ayodhya,DR12396,Park Inn By Radisson Ayodhya
+HO10214,Lakesong,moderate,4str,Kumarakom,DR10725,Lakesong
+HO10371,Clarks,budget,5str,Khajuraho,DR10621,Clarks
+HO10932,WelcomHeritage Sirsi Haveli,budget,2str,Jaipur,DR10812,WelcomHeritage Sirsi Haveli
+HO11131,Laxmi Vilas Palace,moderate,4str,Bharatpur,DR11433,Laxmi Vilas Palace
+HO10587,Mistletoe,moderate,1str,Munnar,DR11018,Mistletoe
+HO11553,Junglaat,budget,3str,Dharamshala,DR12297,Junglaat
+HO10355,Ramada,moderate,4str,Amritsar,DR10786,Ramada
+HO12045,Pushkar Organic,budget,4str,,DR11538,Pushkar Organic
+HO11254,Sol Fiesta,moderate,4str,Goa,DR11265,Sol Fiesta
+HO11805,Vivanta (Miramar),moderate,5str,Goa,DR12486,Vivanta (Miramar)
+HO11713,RBD Sarovar Portico,budget,3str,,DR11538,RBD Sarovar Portico
+HO11611,The Clement Retreats - Dera Village,moderate,1str,Dausa,DR12403,The Clement Retreats - Dera Village
+HO12372,Tree Of Life Highlands,first-class,1str,Mussoorie,DR12330,Tree Of Life Highlands
+HO11491,Bundela Resort,moderate,4str,Khajuraho,DR12227,Bundela Resort
+HO12050,Courtyard by Marriott,budget,5str,Siliguri,DR11538,Courtyard by Marriott
+HO10222,The St. Regis,lux,5str,Mumbai,DR10538,The St. Regis
+HO12373,Puratan Qila,moderate,1str,Ranthambore,DR12853,Puratan Qila
+HO12200,Raffles,first-class,1str,Jaipur,DR12414,Raffles
+HO12193,Meri Haveli,moderate,1str,Jaisalmer,DR12217,Meri Haveli
+HO11512,Mastiff Select,budget,1str,Kalaburagi (Gulbarga),DR12061,Mastiff Select
+HO10651,Hindusthan International,moderate,5str,Kolkata,DR10405,Hindusthan International
+HO10232,Sandesh The Prince,budget,4str,Mysuru (Mysore),DR10029,Sandesh The Prince
+HO10057,Vishnupriya,budget,3str,Udaipur (RJ),DR10233,Vishnupriya
+HO11458,Caspia,budget,3str,New Delhi,DR11270,Caspia
+HO10566,Zone By The Park,budget,4str,Chennai,DR11006,Zone By The Park
+HO10088,Shiv Vilas,moderate,5str,Jaipur,DR10324,Shiv Vilas
+HO11527,Spicetree Rajakumari,moderate,1str,Munnar,DR12307,Spicetree Rajakumari
+HO12112,DFS Grand Plazas,budget,3str,,DR11538,DFS Grand Plazas
+HO11658,Novotel,budget,5str,Jodhpur,DR11538,Novotel
+HO10950,Port Muziris,first-class,5str,Kochi (Cochin),DR10310,Port Muziris
+HO11279,Netuk House,moderate,3str,Gangtok,DR11497,Netuk House
+HO10036,Pushp Villa,budget,3str,Agra,DR10135,Pushp Villa
+HO11229,Grande Bay Resort And Spa,first-class,4str,Mamallapuram (Mahabalipuram),DR11427,Grande Bay Resort And Spa
+HO10392,Forest Canopy,moderate,4str,Thekkady (Periyar/Kumily),DR10889,Forest Canopy
+HO10002,Atulyaa Taj,budget,4str,Agra,DR10027,Atulyaa Taj
+HO11692,Welcomhotel By ITC,first-class,5str,Amritsar,DR12473,Welcomhotel By ITC
+HO11927,Leela Resort The Exotic Boutique,budget,1str,,DR11538,Leela Resort The Exotic Boutique
+HO10947,Dileep Kothi,first-class,4str,Jaipur,DR11174,Dileep Kothi
+HO11313,Somatheeram Ayurvedic Health Resort,moderate,4str,Kovalam,DR11063,Somatheeram Ayurvedic Health Resort
+HO11498,The Royal Plaza,moderate,4str,New Delhi,DR11285,The Royal Plaza
+HO10050,Caspia,budget,3str,New Delhi,DR10090,Caspia
+HO10303,Marriott,first-class,5str,Jaipur,DR10811,Marriott
+HO11471,The Postcard Saligao,first-class,1str,Goa,DR12045,The Postcard Saligao
+HO12056,Manjeera Sarovar Premiere,budget,5str,,DR11538,Manjeera Sarovar Premiere
+HO10928,Lords Plaza,budget,3str,Jaipur,DR11200,Lords Plaza
+HO11992,Aralia (International Airport),budget,1str,Mumbai,DR11538,Aralia (International Airport)
+HO11374,Khandwa Haveli,budget,3str,Jaipur,DR11887,Khandwa Haveli
+HO10743,Hilton (Embassy Golflinks),first-class,5str,Bengaluru,DR10876,Hilton (Embassy Golflinks)
+HO11305,Ramada By Wyndham Powai Hotel & Convention Centre,moderate,3str,Mumbai,DR11852,Ramada By Wyndham Powai Hotel & Convention Centre
+HO11241,The Surya Village,budget,3str,Ooty (Udhagamandalam),DR11856,The Surya Village
+HO11950,Novotel (Mumbai International Airport),budget,5str,Mumbai,DR11538,Novotel (Mumbai International Airport)
+HO11886,Yashail,budget,5str,,DR11538,Yashail
+HO11784,Krinoscco,budget,4str,,DR11538,Krinoscco
+HO11221,Fort House,moderate,3str,Kochi (Cochin),DR11350,Fort House
+HO11283,Radisson Blu,moderate,5str,Ghaziabad,DR10548,Radisson Blu
+HO11039,Sterling,budget,3str,Lonavala,DR11382,Sterling
+HO11264,Singinawa Jungle Lodge,moderate,3str,Kanha,DR11132,Singinawa Jungle Lodge
+HO10091,Clarion Bella Casa,budget,4str,Jaipur,DR10243,Clarion Bella Casa
+HO10880,Madhuban,budget,3str,Jaipur,DR10280,Madhuban
+HO10919,Narsingh Bagh,moderate,1str,Dholpur,DR10599,Narsingh Bagh
+HO11704,Backwoods Camp,budget,1str,,DR11538,Backwoods Camp
+HO11516,Taj Sawai,first-class,1str,Ranthambore,DR10744,Taj Sawai
+HO11199,Grand Kakinada By Grt Hotels,moderate,4str,Kakinada,DR11281,Grand Kakinada By Grt Hotels
+HO10324,The Oberoi,lux,5str,Gurgaon,DR10801,The Oberoi
+HO10140,Sun N Sand,moderate,5str,Mumbai,DR10468,Sun N Sand
+HO10784,Holy City Paradise Inn,budget,2str,Anandpur Sahib,DR11065,Holy City Paradise Inn
+HO10223,Tall Trees,first-class,4str,Munnar,DR10669,Tall Trees
+HO12118,Aranya Niwas,budget,3str,,DR11538,Aranya Niwas
+HO11100,The Leela,first-class,5str,Gandhinagar,DR11442,The Leela
+HO10385,Radisson Blu Atria,first-class,5str,Bengaluru,DR10496,Radisson Blu Atria
+HO11276,The Lalit,first-class,5str,New Delhi,DR10512,The Lalit
+HO10949,Jungle House,first-class,1str,Shimla,DR11196,Jungle House
+HO11783,Seashell Suites and Villas,budget,4str,,DR11538,Seashell Suites and Villas
+HO12225,Mystic Mountain,moderate,4str,Nagarkot,DR12655,Mystic Mountain
+HO12317,Taj Cochin International Airport,first-class,1str,Kochi (Cochin),DR12783,Taj Cochin International Airport
+HO10240,The Oberoi,lux,5str-lux,Mumbai,DR10500,The Oberoi
+HO12137,The Royal Residency,moderate,1str,Sankisa,DR11538,The Royal Residency
+HO11469,Novotel,moderate,1str,Jodhpur,DR12244,Novotel
+HO12093,Abad Harmonia,moderate,3str,Thiruvananthapuram (Trivandrum),DR12496,Abad Harmonia
+HO12341,Sterling Aravalli,moderate,5str,Udaipur (RJ),DR12796,Sterling Aravalli
+HO11671,Beach Gate Bungalows,moderate,1str,Kochi (Cochin),DR12448,Beach Gate Bungalows
+HO10360,Chancery Pavilion,moderate,5str,Bengaluru,DR10859,Chancery Pavilion
+HO10328,Radisson Blu (Dwarka),moderate,5str,New Delhi,DR10381,Radisson Blu (Dwarka)
+HO10816,Lodge At Wah,moderate,1str,Palampur,DR10730,Lodge At Wah
+HO10951,Orchha Resort,moderate,3str,Orchha,DR10845,Orchha Resort
+HO11738,Manu Maharani Resort,budget,4str,,DR11538,Manu Maharani Resort
+HO10411,Radisson Blu Plaza,first-class,5str,Mysuru (Mysore),DR10556,Radisson Blu Plaza
+HO11249,Fortune Resort Benaullim,moderate,5str,Goa,DR11271,Fortune Resort Benaullim
+HO10687,Taj Rishikesh Resort & Spa,lux,5str,Rishikesh,DR11092,Taj Rishikesh Resort & Spa
+HO10070,Gandharva By Peppermint,budget,3str,Jaipur,DR10259,Gandharva By Peppermint
+HO10756,Akhil Beach Resort,budget,3str,Varkala,DR11144,Akhil Beach Resort
+HO12284,Golden Tulip,moderate,4str,Agra,DR12659,Golden Tulip
+HO11200,Kanha Jungle Lodge,moderate,3str,Kanha,DR11605,Kanha Jungle Lodge
+HO11268,The Lalit Temple View,first-class,5str,Khajuraho,DR10349,The Lalit Temple View
+HO11765,The Gold Beach Resort,moderate,4str,Daman,DR12611,The Gold Beach Resort
+HO11764,Niranjana,budget,3str,,DR11538,Niranjana
+HO12199,Neemrana's Three Waters,first-class,1str,Goa,DR12505,Neemrana's Three Waters
+HO11900,Om Residency,budget,3str,Kushinagar,DR10474,Om Residency
+HO12058,Marasa Sarovar Premiere,budget,5str,Tirupati,DR11538,Marasa Sarovar Premiere
+HO12261,Varnabas Musuem,moderate,1str,Kathmandu,DR12655,Varnabas Musuem
+HO11750,Black Buck Resort,budget,1str,,DR11538,Black Buck Resort
+HO10757,Abad Turtle Beach,moderate,4str,Mararikulam,DR10835,Abad Turtle Beach
+HO11557,Tree Of Life Vantara Resort & Spa,first-class,1str,Udaipur (RJ),DR12343,Tree Of Life Vantara Resort & Spa
+HO11621,Marine House,budget,3str,Agra,DR12630,Marine House
+HO10672,Sterling Goa Varca Resort,moderate,4str,Goa,DR11091,Sterling Goa Varca Resort
+HO11277,Fort Manor,budget,3str,Kochi (Cochin),DR11393,Fort Manor
+HO11530,Gorbandh Palace - IHCL SeleQtions,first-class,3str,Jaisalmer,DR12292,Gorbandh Palace - IHCL SeleQtions
+HO11297,Novotel Goa Resorts & Spa,moderate,5str,Goa,DR10438,Novotel Goa Resorts & Spa
+HO10444,Chonor House,moderate,2str,Dharamshala,DR10584,Chonor House
+HO12337,Chettinadu Mansion,budget,3str,Chettinadu,DR10567,Chettinadu Mansion
+HO10699,Ken River Lodge,moderate,3str,Panna,DR11094,Ken River Lodge
+HO10446,Maison Perumal,first-class,3str,Puducherry (Pondicherry),DR10782,Maison Perumal
+HO10580,Ramyas,budget,3str,Trichy (Tiruchirappalli),DR10198,Ramyas
+HO12164,Marriott,budget,5str,Udaipur (RJ),DR11538,Marriott
+HO11138,Castle Khandela,moderate,4str,Khandela,DR11556,Castle Khandela
+HO11858,Taj Damdama Lake Resort and Spa,first-class,5str,Gurgaon,DR12446,Taj Damdama Lake Resort and Spa
+HO12659,Citrus Classic Resorts And Spa,budget,3str,Vadapattinam,,
+HO12662,Coconut Grove,moderate,4str,Goa,,
+HO12758,Four Points By Sheraton,moderate,4str,Amritsar,,
+HO12075,Nau Nabh Heritage,moderate,heritage,Rampur,,
+HO12715,Theory9 - Premium Serviced Apartments,moderate,3str,Mumbai,,
+HO12596,Vivid,budget,3str,Trichy (Tiruchirappalli),,
+HO12421,Tourist Inn,moderate,3str,Rewalsar,,
+HO12686,Taj Alibaug Resort & Spa,first-class,5str,Alibaug,,
+HO12627,Osho International Meditation Resort,budget,1str,Pune,,
+HO12447,The Ark Comforts,moderate,5str,Goa,,
+HO12523,Dera Jaipur,moderate,4str,Jaipur,,
+HO12667,Marriott Resort & Spa,lux,5str,Goa,,
+HO12428,The Kumaon,moderate,4str,Almora,,
+HO12652,Holiday Inn Gurgaon NH8,moderate,4str,Gurgaon,,
+HO12687,MPT Betwa Retreat,budget,3str,Orchha,,
+HO12526,Mansao Curtorim,first-class,5str,Goa,,
+HO12445,Drenmo Lodge,first-class,5str,Dras (Kargil),,
+HO12736,Vintana,budget,4str,Ahmedabad,,
+HO12544,Trivik,first-class,5str,Chikkamagaluru,,
+HO12693,Soot,moderate,4str,Kolkata,,
+HO12424,Palm Grove Beach Resort,budget,3str,Goa,,
+HO12399,The Orchid,first-class,5str,Zirakpur,,
+HO12542,Ramee Guestline (Juhu),moderate,4str,Mumbai,,
+HO12742,Sabala Heritage Home,budget,3str,Vijayapura (Bijapur),,
+HO12648,The Orchid Passaros,moderate,4str,Goa,,
+HO12556,Deshadan Chola,moderate,4str,Thanjavur (Tanjore),,
+HO12413,Naggar Delight,first-class,3str,Kullu,,
+HO11877,The Kin,moderate,4str,Mumbai,,
+HO12518,Lemon Tree,moderate,1str,Port Blair,,
+HO12401,Trees N Tigers,first-class,4str,Tadoba,,
+HO12580,Welcomhotel By ITC Hotels,moderate,5str,Prayagraj,,
+HO12656,Fortune Park Lake City,moderate,4str,Mumbai,,
+HO12468,Taj Puri Resort & Spa,first-class,5str,Puri,,
+HO12757,Marriott,first-class,4str,Udaipur (RJ),,
+HO12487,Coral Pearl - IHCL SeleQtions,first-class,5str,Lakshadweep,,
+HO12594,Vega By The Ozone Hotels,budget,4str,Jodhpur,,
+HO12452,Novotel Goa Dona Sylvia Resort,first-class,5str,Goa,,
+HO12714,Radisson Blu,first-class,4str,Gorakhpur,,
+HO12756,Tulah Clinical Wellness,moderate,4str,Kozhikode (Calicut),,
+HO12668,Little Affair,moderate,4str,Sariska,,
+HO12610,Dutch Manor,budget,2str,Kochi (Cochin),,
+HO12495,Sinclairs,moderate,3str,Gangtok,,
+HO12599,Avantika By The Ganges â€“ IHCL SeleQtions,first-class,5str,Varanasi,,
+HO12461,Millennium Inn,moderate,4str,Prayagraj,,
+HO12749,Raheem Residency,budget,3str,Alappuzha (Alleppey),,
+HO12738,Fairfield By Marriott Jaipur (Tonk Road),moderate,3str,Jaipur,,
+HO12401,Trees N Tigers,first-class,4str,Tadoba,,
+HO12490,Taj Gandhinagar Resort & Spa,first-class,5str,Gandhinagar,,
+HO12525,Hibiscus Villa,first-class,5str,Cherthala,,
+HO12657,Pramod Lands End Resort,moderate,5str,Gopalpur,,
+HO12674,Ankur Resort,budget,3str,Ranthambore,,
+HO12650,Quality Inn Residency,budget,3str,Hyderabad,,
+HO12725,Inara House,moderate,4str,Agra,,
+HO12505,Ganga Kinare,first-class,4str,Rishikesh,,
+HO12717,Anandam Ayurvedic,moderate,4str,Kovalam,,
+HO12466,Vivanta,moderate,5str,Tawang,,
+HO12712,Dharohar,moderate,4str,Varanasi,,
+HO12636,Siamton Inn,moderate,4str,Kolkata,,
+HO12635,Blue Ocean The Fern Resort & Spa,moderate,4str,Ganpatipule,,
+HO12451,Peerless Resort,first-class,5str,Port Blair,,
+HO11960,Mansingh Palace,moderate,3str,Ajmer,,
+HO12716,Hilton Garden Inn Mumbai International Airport,moderate,4str,Mumbai,,
+HO12759,The Laxmi Niwas Palace,moderate,4str,Bikaner,,
+HO12645,Saradharam,moderate,4str,Chidambaram,,
+HO12739,Ajanta Green,moderate,4str,Ajanta,,
+HO12524,Vileen By Ganga Kinare,first-class,5str,Rishikesh,,
+HO12481,La Estoria - IHCL SeleQtions,first-class,5str,Goa,,
+HO12664,Garrison At Dera Bagseu,budget,4str,Bikaner,,
+HO12707,The Grand,budget,4str,Thekkady (Periyar/Kumily),,
+HO12748,Khas Mahal Suites,moderate,4str,Udaipur (RJ),,
+HO12441,IV Sanctum,budget,3str,Bengaluru,,
+HO12479,Aryanak Resort,moderate,4str,Bandhavgarh,,
+HO12723,Maison Twenty Six,moderate,4str,Puducherry (Pondicherry),,
+HO12753,Teera Homestay,moderate,5str,Shantiniketan,,
+HO12520,Lemon Tree,moderate,1str,Bhopal,,
+HO12606,Jaldhara Resort,moderate,1str,Kumbhalgarh,,
+HO12396,Fairmont,lux,1str,Mumbai,,
+HO12403,Karan Mahal,moderate,5str,Srinagar,,
+HO12782,Maram Resort,first-class,5str,Mamalakandam,,
+HO12601,The Fern Samali Resort,moderate,4str,Dapoli,,
+HO12479,Aryanak Resort,moderate,4str,Bandhavgarh,,
+HO12457,The House Of Rumbak,moderate,4str,Rumbak (Leh),,
+HO12586,Tipai,moderate,4str,Tipeshwar,,
+HO12616,High Rise Regency,moderate,3str,Burhanpur,,
+HO12419,Ran Baas The Palace,lux,5str,Patiala,,
+HO12522,Raj Palace,moderate,4str,Ranthambore,,
+HO12701,Blue Jelly Resort,moderate,4str,Alappuzha (Alleppey),,
+HO12700,Anand International,moderate,5str,Bodhgaya,,
+HO12724,Castle Oodeypore,moderate,3str,Udaipur (RJ),,
+HO12710,Intercontinental Marine Drive,first-class,5str,Mumbai,,
+HO12612,MPT Narmada Resort,budget,3str,Maheshwar,,
+HO12641,Pratap Palace,budget,2str,Chittorgarh,,
+HO12512,The Leela Palace,first-class,5str-lux,Hyderabad,,
+HO12294,The Hive,moderate,4str,Wayanad,,
+HO12465,Fountain Mahabaleshwar- IHCL SeleQtions,first-class,1str,Mahabaleshwar,,
+HO12576,O by Tamara,moderate,4str,Coimbatore,,
+HO12600,JSR Continental,moderate,4str,Dehradun,,
+HO12485,Antra Inn,moderate,3str,Jaisalmer,,
+HO12646,Reggis Camel Camp,moderate,4str,Osian (RJ) ,,
+HO12538,Khatu Haveli,budget,3str,Jaipur,,
+HO12649,Dhyaana Farms,moderate,4str,Aurangabad (MH) ,,
+HO12565,Carnoustie Ayurveda & Wellness Resort,moderate,4str,Mararikulam,,
+HO12422,Chospa,first-class,4str,Leh,,
+HO12735,Emerald,budget,3str,Aizawl,,
+HO12713,Moxy Bengaluru Airport Prestige Tech Cloud,first-class,4str,Bengaluru,,
+HO11833,Prakriti Shakti,budget,4str,Panchalimedu,,
+HO11972,The Baradari Palace,first-class,3str,Patiala,,
+HO12537,Ramada Encore by Wyndham,moderate,3str,Udaipur (RJ),,
+HO12415,Great Trails,moderate,4str,Wayanad,,
+HO12772,Norbu Ghang Resort,moderate,3str,Pelling,,
+HO12449,Kankarwa Haveli,moderate,3str,Udaipur (RJ),,
+HO12638,Grand Continent,moderate,3str,Mamallapuram (Mahabalipuram),,
+HO12459,Shan At Uley,moderate,4str,Ulley (Uley),,
+HO12589,Ether Marari Beachfront,budget,4str,Mararikulam,,
+HO12494,The Liv,moderate,4str,Jaipur,,
+HO12425,Vits,budget,3str,Gurgaon,,
+HO12671,Ibis Styles,moderate,4str,Mysuru (Mysore),,
+HO12584,Coorg Wild Walk,first-class,5str,Nagarhole,,
+HO12569,Bethsaida Hermitage,moderate,1str,Kovalam,,
+HO12783,White Wharf Beach Resort,moderate,1str,Goa,,
+HO12448,Ram Bihari Palace,moderate,3str,Alwar,,
+HO12732,MPT Temple View,moderate,4str,Omkareshwar,,
+HO12629,Narmada Jackson,budget,5str,Jabalpur,,
+HO12702,Click,moderate,4str,Bengaluru,,
+HO12583,The Nattika Beach Ayurveda and Yoga Centre,moderate,1str,Thrissur,,
+HO12563,Clarks Exotica,moderate,4str,Bengaluru,,
+HO12618,The Evren,moderate,3str,Goa,,
+HO12614,Ramada By Wyndham,moderate,5str,Kochi (Cochin),,
+HO12531,7 Apple,budget,3str,Aurangabad (MH) ,,
+HO12570,Kalari Kovilakom,moderate,4str,Palakkad,,
+HO12486,Coco Shambhala,first-class,4str,Sindhudurg,,
+HO12557,Brij Sone Bagh,lux,5str,Bandhavgarh,,
+HO12543,Elinor,budget,3str,Agra,,
+HO12565,Carnoustie Ayurveda & Wellness Resort,moderate,4str,Mararikulam,,
+HO12762,Sonar Bangla,moderate,3str,Sunderbans,,
+HO12472,Naukuchia House - IHCL SeleQtions,first-class,3str,Naukuchiatal,,
+HO12539,The Fern Residency,budget,4str,Vijayapura (Bijapur),,
+HO12515,Surpura Bagh,moderate,4str,Jodhpur,,
+HO12706,Click Hotel Biz,budget,3str,Bengaluru,,
+HO12443,Mavi Retreat,moderate,4str,Badami,,
+HO12605,Indriya,moderate,4str,Wayanad,,
+HO12564,Taj Lalit Bagh,first-class,5str,Udaipur (RJ),,
+HO12721,Hilton Garden Inn,first-class,5str,Jabalpur,,
+HO12552,The Silver Sky Hotel & Resort,budget,3str,Chikkamagaluru,,
+HO12402,The Fern Residency (Subhash Bridge),moderate,4str,Ahmedabad,,
+HO12532,Gaj Kesri By 7 Apple,moderate,4str,Bikaner,,
+HO12609,Effotel By Sayaji,budget,4str,Indore,,
+HO12450,Raj Vilas,moderate,4str,Orchha,,
+HO12654,Radisson Resort & Spa,first-class,5str,Lonavala,,
+HO12655,Ayur On The Beach,moderate,3str,Thrissur,,
+HO12469,Cavalry Villa,moderate,4str,Bikaner,,
+HO12452,Novotel Goa Dona Sylvia Resort,first-class,4str,Goa,,
+HO12676,Pristine Resort,budget,2str,Goa,,
+HO12516,Regenta Place,moderate,4str,Jaipur,,
+HO12678,Chauhan Sheraton Resort,moderate,3str,Pushkar,,
+HO12514,Fortune Park,moderate,4str,Aligarh,,
+HO12579,The Heritage 1866,budget,3str,Thalassery (Telicherry),,
+HO12403,Karan Mahal,moderate,5str,Srinagar,,
+HO12741,Amoli,moderate,4str,Shantiniketan,,
+HO12777,Welcomhotel by ITC Hotel,moderate,4str,Ahmedabad,,
+HO12665,Le Meridien,lux,5str,Mahabaleshwar,,
+HO12781,Delhi House,moderate,4str,Puducherry (Pondicherry),,
+HO12560,Sunday Hotel,moderate,3str,Gurgaon,,
+HO12607,Harbour View,budget,3str,Mumbai,,
+HO12666,Durjay Garh,moderate,4str,Jaisalmer,,
+HO12630,Shelton,budget,3str,Rajahmundry (Rajamahendravaram),,
+HO12404,Niraamaya Retreats Samroha,first-class,5str,Athirappilly,,
+HO12752,Grand Khalifa,budget,3str,Jaisalmer,,
+HO12513,Ranthambore Bagh Palace,moderate,4str,Ranthambore,,
+HO12535,Trulyy The Shakti Vilas,moderate,4str,Udaipur (RJ),,
+HO12548,Hari Ganga Niwas - IHCL SeleQtions,first-class,5str,Haridwar,,
+HO12534,Park Inn By Radisson (Lajpat Nagar),moderate,4str,New Delhi,,
+HO12626,Spree,budget,3str,Aurangabad (MH) ,,
+HO12598,Regenta Central Javaji,moderate,4str,Mysuru (Mysore),,
+HO12682,Fredy's Bungalow,first-class,5str,Bhimtal,,
+HO11771,MPT Tapti Retreat,budget,3str,Burhanpur,,
+HO12771,Hilton Baani City Centre,first-class,5str,Gurgaon,,
+HO12633,Fortune Murali Park,moderate,4str,Vijayawada,,
+HO12670,Ibis Styles,moderate,4str,Goa,,
+HO12634,Wordsworth Lodge,moderate,3str,Mount Abu,,
+HO12704,Ramanashree Richmond,budget,3str,Bengaluru,,
+HO12489,Urban Suites By BluSalzz,moderate,4str,Jaipur,,
+HO12488,Bangaram Island Resort - IHCL SeleQtions,first-class,5str,Lakshadweep,,
+HO12685,MPT Gateway Retreat,budget,4str,Sanchi,,
+HO12463,Oshin Resort,moderate,4str,Kozhikode (Calicut),,
+HO12567,Broadway,moderate,4str,New Delhi,,
+HO12572,Swaswara,first-class,5str,Gokarna,,
+HO12455,Peerless Inn,moderate,4str,Durgapur,,
+HO12517,Bundelkhand Riverside,first-class,5str,Orchha,,
+HO12774,Yangsum Heritage Farm,moderate,3str,Phodong,,
+HO12460,Snow Leopard Lodge,moderate,4str,Ulley (Uley),,
+HO12711,Radisson (Sector 29),moderate,5str,Gurgaon,,
+HO12769,Amritara Manak Haveli,moderate,4str,Jodhpur,,
+HO12411,Kurja Jawai,moderate,4str,Pali (RJ) ,,
+HO12533,Naren Villa,budget,3str,Udaipur (RJ),,
+HO12476,Zibe,moderate,3str,Coimbatore,,
+HO12597,Pullman,first-class,5str,Chennai,,
+HO12737,Somerset Greeways,first-class,5str,Chennai,,
+HO12588,The Mudhouse,budget,3str,Marayoor,,
+HO12644,Justa Kashi Parampara,moderate,3str,Varanasi,,
+HO12778,WelcomHeritage Natraj,moderate,4str,Dharamshala,,
+HO12679,Sahdev Bagh,budget,2str,Pushkar,,
+HO12462,Oshin Resort,budget,4str,Wayanad,,
+HO12625,Lilac,moderate,3str,Kumbakonam,,
+HO12454,The Postcard In The Durrung Tea Estate,lux,5str,Tezpur,,
+HO12672,Fairfield By Marriott Mumbai International Airport,first-class,5str,Mumbai,,
+HO12545,Bhawna Clarks Inn,budget,4str,Agra,,
+HO12764,Pollachi Riverhouse,first-class,5str,Pollachi,,
+HO12407,Lchang Nang Retreat,first-class,5str,Nubra,,
+HO12506,Amar Durg Tordi,budget,1str,Tordi,,
+HO12442,Stok Palace Heritage,first-class,heritage,Stok (Leh),,
+HO12127,Radisson Blu Hotel & Spa,first-class,5str,Nasik,,
+HO12493,Sinclairs,first-class,5str,Udaipur (RJ),,
+HO12722,Welcomhotel By ITC Hotels,moderate,4str,Shimla,,
+HO12547,Gateway Goa Palolem,first-class,4str,Goa,,
+HO12592,Mangala Heritage,moderate,4str,Thirupugalur,,
+HO12521,Lemon Tree Premier,moderate,4str,Corbett,,
+HO12695,Vivanta (Whitefield),first-class,5str,Bengaluru,,
+HO12554,Outpost 12,first-class,5str,Kanha,,
+HO12398,The Orchid,first-class,5str,Shimla,,
+HO11961,Kabini River Lodge,moderate,4str,Mysuru (Mysore),,
+HO12755,Machaan Wilderness Lodge,moderate,4str,Nagarhole,,
+HO12477,"Welcomhotel By ITC Hotels, Tavleen Chail",first-class,5str,Shimla,,
+HO12555,Amritara Sonemale Resort,first-class,5str,Chikkamagaluru,,
+HO12423,The Kyagar,lux,5str,Nubra,,
+HO12515,Surpura Bagh,first-class,5str,Jodhpur,,
+HO12637,Aditya Hometel,moderate,3str,Hyderabad,,
+HO12498,Teanest,moderate,3str,Coonoor,,
+HO12663,Sanctuary Amaidiyana,moderate,4str,Auroville,,
+HO12692,Aloof Jungle Lodge,first-class,4str,Ghanerao,,
+HO12745,Lake Palace,moderate,3str,Thekkady (Periyar/Kumily),,
+HO12719,Lagoon Bay At Leonia,moderate,4str,Hyderabad,,
+HO12775,Fortune Park Moksha,moderate,4str,Dharamshala,,
+HO12699,MPT Glen View,moderate,3str,Pachmarhi (Satpura),,
+HO12492,Artisav House,moderate,4str,Jaipur,,
+HO12528,Madhuram Royale,moderate,4str,Jodhpur,,
+HO12566,Vivanta Kochi Aluva,moderate,5str,Kochi (Cochin),,
+HO12424,Palm Grove Beach Resort,moderate,4str,Goa,,
+HO12400,Skk The Fern,moderate,4str,Jaisalmer,,
+HO12709,Holiday Inn (Candolim),moderate,5str,Goa,,
+HO12733,Sterling Rudraksh,first-class,5str,Jaisalmer,,
+HO12426,Dolkhar Resort,first-class,5str,Leh,,
+HO12412,Quilon Beach Hotel,first-class,5str,Kollam (Quilon),,
+HO12416,Mastiff Select Mandavya,moderate,4str,Dharamshala,,
+HO12464,"Welcomhotel by ITC Hotels, The Savoy",first-class,5str,Mussoorie,,
+HO12428,The Kumaon,moderate,4str,Almora,,
+HO12527,Marina,moderate,4str,Shimla,,
+HO12478,Crystal Inn,budget,4str,Agra,,
+HO12562,Brijraj Bhawan Palace,moderate,heritage,Kota (RJ) ,,
+HO12577,Regency Tirunelveli By GRT Hotels,budget,3str,Tirunelveli,,
+HO12573,Cloud Nine,moderate,4str,Kothamangalam (KL) ,,
+HO12453,The Belvedere Himalayan Retreat,first-class,4str,Dharamshala,,
+HO12751,BLVD Club,moderate,4str,Bengaluru,,
+HO12658,Amritara Riverside Camp,moderate,4str,Thattekkad,,
+HO12694,The Maseneni Grand,budget,3str,Anantapur,,
+HO12573,Cloud 9,moderate,4str,Kothamangalam (KL) ,,
+HO12649,Dhyaana Farms,first-class,4str,Aurangabad (MH) ,,
+HO12383,Tanjore Hi,moderate,2str,Thanjavur (Tanjore),,
+HO12696,Storii By ITC Hotels Castle Kanota,moderate,4str,Kanota,,
+HO12456,Chulli Bagh,moderate,4str,Stok (Leh),,
+HO12734,Yuvarani Residency,moderate,4str,Kochi (Cochin),,
+HO12602,Yoga Niketan Ashram,moderate,4str,Rishikesh,,
+HO12728,Mani Mansion,moderate,4str,Ahmedabad,,
+HO12754,The Fern Residency,moderate,4str,Hubballi (Hubli),,
+HO12550,Forsyth Lodge,first-class,5str,Madhai (Satpura),,
+HO12603,Regenta Place,budget,4str,Bhopal,,
+HO12740,Olive Trotter,moderate,3str,Nangal,,
+HO12540,Iscon The Fern Resort & Spa,moderate,4str,Bhavnagar,,
+HO12622,Golden Tulip,moderate,4str,Udaipur (RJ),,
+HO12613,MPT Bison Resort,budget,3str,Madhai (Satpura),,
+HO12653,The Rose Goa Beach Resort,moderate,3str,Goa,,
+HO12510,Renest,budget,3str,Tirupati,,
+HO12439,The Oberoi Vindhyavilas,lux,1str,Bandhavgarh,,
+HO12411,Kurja Jawai,budget,5str,Pali (RJ) ,,
+HO12773,Yuksum Residency,budget,3str,Yuksom,,
+HO12529,Amara Ayurveda Retreat,moderate,4str,Kovalam,,
+HO12581,Teak House,budget,3str,Kochi (Cochin),,
+HO12779,Ramada By Wyndham,moderate,4str,Darjeeling,,
+HO12729,Flora Vythiri Resort,first-class,5str,Wayanad,,
+HO12509,Clarion,moderate,4str,Kochi (Cochin),,
+HO12746,Udman Hotels & Resorts NH-8,budget,4str,New Delhi,,
+HO12418,Mayfair,first-class,3str,Rourkela,,
+HO12669,Cygnett Style Ganga,moderate,4str,Jaipur,,
+HO12484,Gateway,first-class,1str,Coorg (Kodagu),,
+HO12643,The Gateway Hotel,moderate,5str,Kozhikode (Calicut),,
+HO12768,Amritara Kirpa,budget,3str,Amritsar,,
+HO12387,Citrus County Firdaus,first-class,1str,Hoshiarpur,,
+HO12467,Sawantwadi Palace,first-class,heritage,Sawantwadi,,
+HO12480,Gateway,moderate,1str,Diu,,
+HO12631,Thousand Pillars,budget,3str,Warangal,,
+HO12727,Clinton Park Inn,moderate,4str,Velankanni,,
+HO12593,Utsav Niwas,budget,3str,Jaipur,,
+HO12414,Deshadan Tarangi Beach Villas,budget,3str,Mararikulam,,
+HO12608,Kelso House,moderate,1str,Ooty (Udhagamandalam),,
+HO12482,The Yellow House - IHCL SeleQtions,first-class,1str,Goa,,
+HO12473,Storii By ITC Hotels Amoha Retreat,first-class,5str,Dharamshala,,
+HO12684,Iconiqa,moderate,4str,Mumbai,,
+HO12620,Nirvriti,home-stay-budget,2str,Palakkad,,
+HO12458,Stone Hedge,moderate,4str,Nubra,,
+HO12639,DVR Mansion,budget,3str,Kurnool,,
+HO12680,The Fern Residency,moderate,4str,Aurangabad (MH) ,,
+HO12761,The Bella Vista,moderate,3str,Panchkula,,
+HO12582,Niltava,budget,2str,Kaziranga,,
+HO12558,Planter's Heritage,moderate,4str,Darjeeling,,
+HO12409,Infinity Resorts,moderate,3str,Corbett,,
+HO12690,The Hans,moderate,4str,New Delhi,,
+HO12475,The Fort House - IHCL SeleQtions,first-class,5str,Diu,,
+HO12546,Daulatgarh Resort And Spa,moderate,3str,Udaipur (RJ),,
+HO12470,Vivanta,first-class,5str,Shillong,,
+HO12632,Isai Karai Bungalow,moderate,4str,Mamallapuram (Mahabalipuram),,
+HO12642,Soho House,first-class,4str,Mumbai,,
+HO12437,Girisadan,moderate,3str,Jaipur,,
+HO12730,Flora Misty Falls,moderate,4str,Athirappilly,,
+HO12718,Park Regis,moderate,5str,Goa,,
+HO12561,Historia Royal,moderate,4str,Udaipur (RJ),,
+HO12697,Surya International,moderate,4str,Lucknow,,
+HO12731,KPM Tripenta,first-class,5str,Kozhikode (Calicut),,
+HO12451,Peerless Resort,first-class,5str,Port Blair,,
+HO12445,Drenmo Lodge,first-class,5str,Dras (Kargil),,
+HO12705,Lemon Tree Premier,moderate,4str,Kolkata,,
+HO12585,Novotel (Nagar Road),moderate,5str,Pune,,
+HO12691,Eve,budget,4str,Munnar,,
+HO12575,Gokulam Grand,moderate,4str,Thiruvananthapuram (Trivandrum),,
+HO12587,Hampshire Plaza,budget,3str,Hyderabad,,
+HO12396,Fairmont,first-class,5str,Mumbai,,
+HO12519,Lemon Tree Wildlife Resort,moderate,3str,Kanha,,
+HO12744,Gobindgarh,first-class,5str,Jaisalmer,,
+HO12767,Elsas Homestay,moderate,4str,Alappuzha (Alleppey),,
+HO12647,Madras Chronicle Bay Resort & Spa,budget,4str,Mamallapuram (Mahabalipuram),,
+HO12508,Tattwa Grand,budget,3str,Bengaluru,,
+HO12673,The Edgeworth,home-stay-budget,home-stay,Shimla,,
+HO12571,Kalari Rasayana,first-class,5str,Kollam (Quilon),,
+HO12623,Fazlani Nature's Resort,moderate,2str,Lonavala,,
+HO12604,Kara,moderate,4str,Kochi (Cochin),,
+HO12474,Gulab Haveli- IHCL SeleQtions,first-class,1str,Mandawa,,
+HO12549,Amaraanth,first-class,5str,Goa,,
+HO12739,Ajanta Green,moderate,4str,Aurangabad (MH) ,,
+HO12763,Accord Highland,budget,3str,Ooty (Udhagamandalam),,
+HO12555,Amritara Sonemale Resort,first-class,5str,Chikkamagaluru,,
+HO12628,Hillock,moderate,4str,Mount Abu,,
+HO12624,Goa Villagio Resort & Spa,budget,3str,Goa,,
+HO12512,The Leela Palace,first-class,5str-lux,Hyderabad,,
+HO12471,Storii By ITC Hotels Devasom Resort & Spa,first-class,5str,Kolkata,,
+HO12417,The Apricot Tree,first-class,4str,Nurla (Leh),,
+HO12444,Tathastu,moderate,3str,Tadoba,,

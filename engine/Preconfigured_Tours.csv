@@ -1,0 +1,771 @@
+business_code,name,name.1,customer_code,name.2,source_market_code
+PT110001,Taj Tour,Agra,ACC0861,"PerfectStay.com, France",FRA
+PT110004,Cooking lesson and meal with a Dera Mandawa family (WITH MARKET VISIT),Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,City Tour of Cochin,Kochi (Cochin),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cochin Walking Tour,Kochi (Cochin),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Food and Faith Walk in Old Delhi,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110001,Monument Only,New Delhi,ACC0861,"PerfectStay.com, France",FRA
+PT110001,Guide Only,New Delhi,ACC0861,"PerfectStay.com, France",FRA
+PT110001,Test,Udaipur (RJ),ACC0861,"PerfectStay.com, France",FRA
+PT110004,Sundowner Rural Ramble,Deogarh,ACC0538,"If Only, United Kingdom",GBR
+PT110001,Half day,New Delhi,ACC0861,"PerfectStay.com, France",FRA
+PT110001,Village Tour,Jodhpur,ACC0861,"PerfectStay.com, France",FRA
+PT110001,Activity Only,New Delhi,ACC0861,"PerfectStay.com, France",FRA
+PT110005,Movie Show at Raj Mandir,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Mumbai at Dawn Tour,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day Mumbai Market Tour,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discover Chandigarh,Chandigarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Fatehpur Sikri,Fatehpur Sikri,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Fatehpur Sikri,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Experiences of Jaipur,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discover Jaipur,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Wildlife Experience,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110004,Evening excursion to the ghats including boatride,Varanasi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Evening cooking demonstration with local family <<family home>>,Jodhpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half Day Village Safari,Jodhpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,City Tour of Hyderabad,Hyderabad,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning Game Drive in Ranthambhore National Park,Ranthambore,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Toy Train excursion,Shimla,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Discovering  Amritsar,Amritsar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cooking lesson and meal with a local family,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Private boat ride on Lake Pichola,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Shared Boat Ride on Lake Pichola with tickets,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half-day Dharavi Slum tour,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Mumbai Heritage Walk,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Mumbai at Dawn Tour,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Visit to the Sarus Crane Conservation area,Jarar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cooking lesson and meal with a local family,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to the Juna Mahal and Deo Somnath Temple,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Golconda Fort & Qutb Shahi Tombs,Hyderabad,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Full day Chennai city tour,Chennai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Exploring Gwalior,Gwalior,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Trek and bamboo rafting excursion,Thekkady (Periyar/Kumily),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Karni Mata rat temple,Bikaner,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Gangtok City Tour,Gangtok,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Evening Visit  to the City Palace Illuminations,Mysuru (Mysore),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Walk through local plantations,Munnar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Amber Fort Palace and Jaipur City,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day Jaipur City Tour,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Sightseeing in Badami,Badami,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day Mumbai Market Tour,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Discovering Mount Abu,Mount Abu,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Hot-air balloon flight over Jaipur,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Pragpur village tour and excursion to Kangra,Kangra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Rice Boat Cruise,Alappuzha (Alleppey),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Calcutta city tour,Kolkata,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Night Walk of Old Delhi,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110005,Full day City Tour,Bengaluru,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Experiences,Kanyakumari,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discover Kovalam & Trivandrum,Thiruvananthapuram (Trivandrum),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discovering Mount Abu,Mount Abu,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Hot-air balloon flight over Jaipur,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Pragpur village tour and excursion to Kangra,Kangra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Rice Boat Cruise,Alappuzha (Alleppey),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Calcutta city tour,Kolkata,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Night Walk of Old Delhi,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Lucknow Uncovered,Lucknow,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tour of Sanchi,Bhopal,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tour of Ooty,Ooty (Udhagamandalam),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Guided Tour of Orchha,Orchha,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Sarnath with guide,Varanasi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning & afternoon game drives in Ranthambhore,Ranthambore,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Exploring Varanasi,Varanasi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,"Hidden Varanasi <<Guided walk, off the beaten track>>",Varanasi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning excursion to Varanasi ghats including boatride,Varanasi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Visit to the weavers district.,Varanasi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Rare Textile & Artist,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Udaipur Walking tour,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Old and New Delhi sightseeing (without Red Fort),New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Delhi Five Senses Tour,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Rural Train Experience,Deogarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning Game Drives in Ranthambhore,Ranthambore,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Pink City Tour in a Pink Rickshaw,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Srirangapatnam,Srirangapatna,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Afternoon game drive,Kabini,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Game drive by boat,Kabini,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Jewish Tour,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,The Adbesara Hunting Trail (without Champagne),Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Calcutta walking tour,Kolkata,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Afternoon Jeep safari in the park,Tadoba,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion around the Tellicherry area,Thalassery (Telicherry),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Rural Kerala by bike (VillageÂ Rubble) - Full Day,Kochi (Cochin),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Visit Aarti at Rishikesh in the evening,Rishikesh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Pushkar Tour,Pushkar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning game drive,Kabini,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cooking demonstration in a local home.,Puducherry (Pondicherry),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cooking lesson and meal with a Dera Mandawa family (WITH MARKET VISIT),Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,City Tour of Cochin,Kochi (Cochin),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cochin Walking Tour,Kochi (Cochin),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Food and Faith Walk in Old Delhi,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sundowner Rural Ramble,Deogarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Visit to the Sarus Crane Conservation area,Jarar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cooking lesson and meal with a local family,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to the Juna Mahal and Deo Somnath Temple,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Golconda Fort & Qutb Shahi Tombs,Hyderabad,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Visit to Bateshwar Temples on the River Yamuna,Jarar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Lockhart Tea Trail,Munnar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day tour of craftsmen in the old bazaars of Jaipur,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Chennai (Madras) city sightseeing,Chennai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Full day Chennai city tour,Chennai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Exploring Gwalior,Gwalior,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Trek and bamboo rafting excursion,Thekkady (Periyar/Kumily),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Karni Mata rat temple,Bikaner,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Gangtok City Tour,Gangtok,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Evening Visit  to the City Palace Illuminations,Mysuru (Mysore),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Walk through local plantations,Munnar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Amber Fort Palace and Jaipur City,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day Jaipur City Tour,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sightseeing in Badami,Badami,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Evening excursion to the ghats including boatride,Varanasi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Evening cooking demonstration with local family <<family home>>,Jodhpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half Day Village Safari,Jodhpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning Game Drive in Ranthambhore National Park,Ranthambore,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discover Kovalam,Kovalam,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,City Tour of Hyderabad,Hyderabad,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Toy Train excursion,Shimla,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion,Thiruvananthapuram (Trivandrum),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discover Goa,Goa,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Five Senses Tour,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tour of Chettinad Mansions,Chettinadu,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Walking Tour of Alleppey without lunch,Alappuzha (Alleppey),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Ajanta,Aurangabad (MH) ,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day to the Ellora Caves,Aurangabad (MH) ,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning Jeep safari in the park,Kanha,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Sunset point by camel,Jaisalmer,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Jaisalmer City Tour on foot,Jaisalmer,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Guided Tour of the Temples,Khajuraho,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Madurai Rickshaw Tour,Madurai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cycle tour,Kochi (Cochin),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Meenakshi Temple 'Going to Bed' Ceremony,Madurai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Guided Tour of Bhopal,Bhopal,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Dabbah Wala tour of Mumbai,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Day Walk From Kumbhalgarh To Ranakpur,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Explore the Edakkal Caves,Wayanad,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,"Hike, Bike and Yoga tour",Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,High Tea at Imperial,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Experiences of Goa,Goa,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Worli Fishing tour,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Leopard Sighting Jeep Safari (shared Safari),Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Meesapulimal Trek,Munnar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning and afternoon Jeep safaris in the park,Kanha,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tea Tasting Experience,Munnar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to the Hoysala temples at Belur and Halebid,Hassan,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to the Hoysala temples at Belur,Belur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Dhar Bhil Village Experience with farm Walk,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Dharamasala and McLeod Ganj Tour,Dharamshala,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discovering Bombay Tour,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to the Hoysala temples at Halebid,Halebeedu (Halebidu),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Farm Visit,Deogarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discover Mussoorie,Mussoorie,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Camel Safari through the ravines to the ruins of Fort Ater,Jarar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Countryside Safari Jeep Safari,Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,A Culinary Escape at Mharo Khet (Standard Experience),Jodhpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Camp Fire Dinner,Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sunrise Breakfast with Wildlife,Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Kangra,Kangra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Day trek to Narkanda,Shimla,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Guided excursion to Thattekad Bird Sanctuary - afternoon,Thattekkad,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Kanyakumari,Kanyakumari,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Explore the Edakal Caves,Sultan Bathery,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning game drive,Pench,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Gulbarga Fort,Kalaburagi (Gulbarga),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Experiences,Amritsar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,The Adbesara Hunting Trail - with Champagne,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Camel Charisma,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,rsion to Tiger Hill and Ghoom Monastery,Darjeeling,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Afternoon Jeep Safari in Bandhavgarh,Bandhavgarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sunset visit to the Taj Mahal,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Visit to Metah Bagh to see the Taj Mahal,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to the Juna Mahal and Deo Somnath Temple,Dungarpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Ranganathittu Bird Sanctuary,Ranganathittu,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Somnathpur,Somnathpura,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tour of Shimla,Shimla,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Explore local area,Rishikesh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Full day historical walking tour - with your guide from Glenburn,Kolkata,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Afternoon Game Drives in Ranthambhore,Ranthambore,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tour of Tiruchirappalli,Trichy (Tiruchirappalli),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Food Walk of Delhi,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Evening Harbour cruise. Private transfer and shared boat.,Kochi (Cochin),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning and Afternoon Game Drives,Corbett,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cycle tour,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Kumarakom Bird Sanctuary,Kumarakom,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day excursion to the Amber Fort Palace,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half Day Jodhpur City Tour,Jodhpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Visit and lunch at Tranquilitea,Coonoor,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Evening cooking demonstration with local BRAHMIN family <<family home>> (VEGETEARIAN MEAL),Jodhpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cooking lesson and meal with a Dera Mandawa family,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Jodhpur city tour including a guided walk in the Old City,Jodhpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Kollukumalai trek from Casa del Fauno,Munnar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sightseeing tour of Bijapur,Vijayapura (Bijapur),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Mysore Full Day Tour,Mysuru (Mysore),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Ghoom Monastery,Darjeeling,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Ride on Darjeeling Himalayan Railway,Darjeeling,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Afternoon jeep safari,Corbett,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tour of Datia and Gwalior,Gwalior,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning Game Drive,Corbett,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Afternoon Jeep safari in the park,Kanha,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Darjeeling tour (markets and museums),Darjeeling,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning and afternoon game drive,Pench,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning and afternoon jeep safaris,Tadoba,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning Jeep safari in the park,Tadoba,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning excursion to Tiger Hill,Darjeeling,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning Jeep Safari in Bandhavgarh,Bandhavgarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Royal Mysore walking tour,Mysuru (Mysore),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Historical Train ride,Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Pink City by E-bicycle,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning and afternoon Jeep Safaris in Bandhavgarh,Bandhavgarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion around Mahabalipuram by rickshaw,Mamallapuram (Mahabalipuram),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sightseeing tour of Madurai,Madurai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half Day Udaipur City Tour,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discovering  Amritsar (With Partition Museum),Amritsar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Putting to Bed Ceremony,Amritsar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Ranganathittu Bird Sanctuary and Srirangapatnam,Mysuru (Mysore),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Ranganathittu Bird Sanctuary and Srirangapatnam,Srirangapatna,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Elephanta Island and city tour of Bombay,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Early Morning Jungle Walk with Forest Guide,Thekkady (Periyar/Kumily),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to a spice plantation,Thekkady (Periyar/Kumily),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day city tour of Bikaner,Bikaner,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,City Tour of Pondicherry,Puducherry (Pondicherry),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Day cruise along Keralan backwaters to Thotapally,Alappuzha (Alleppey),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Kathakali Dance Evening,Kochi (Cochin),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Visit to the Taj Mahal,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cycle tour,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discover Ahmedabad,Ahmedabad,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half Day New Delhi City Tour,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,"Half Day Old Delhi City Tour, including guided walk",New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Hope Project walk in Nizamuddin Basti (SUPPLEMENT FOR SUNDAYS),New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110004,Visit to Bateshwar Temples on the River Yamuna,Jarar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Lockhart Tea Trail,Munnar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day tour of craftsmen in the old bazaars of Jaipur,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Chennai (Madras) city sightseeing,Chennai,ACC0538,"If Only, United Kingdom",GBR
+PT110005,Old and New Delhi City Tour,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,"Old and New Delhi City Tour, including guided walk",New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Kumarakom Shikara Boat Cruise,Kumarakom,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tanjore City Tour,Thanjavur (Tanjore),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half Day Old Delhi City Tour,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110004,Jewish Tour,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tour of Chettinad Mansions,Chettinadu,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Walking Tour of Alleppey without lunch,Alappuzha (Alleppey),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Ajanta,Aurangabad (MH) ,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day to the Ellora Caves,Aurangabad (MH) ,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning Jeep safari in the park,Kanha,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Sunset point by camel,Jaisalmer,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Jaisalmer City Tour on foot,Jaisalmer,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Guided Tour of the Temples,Khajuraho,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Madurai Rickshaw Tour,Madurai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Meenakshi Temple 'Going to Bed' Ceremony,Madurai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Guided Tour of Bhopal,Bhopal,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Dabbah Wala tour of Mumbai,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Day Walk From Kumbhalgarh To Ranakpur,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Explore the Edakkal Caves,Wayanad,ACC0538,"If Only, United Kingdom",GBR
+PT110004,"Hike, Bike and Yoga tour",Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,High Tea at Imperial,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Leopard Sighting Jeep Safari (shared Safari),Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Meesapulimal Trek,Munnar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning and afternoon Jeep safaris in the park,Kanha,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tea Tasting Experience,Munnar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to the Hoysala temples at Belur and Halebid,Hassan,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to the Hoysala temples at Belur,Belur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Dhar Bhil Village Experience with farm Walk,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Dharamasala and McLeod Ganj Tour,Dharamshala,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Discovering Bombay Tour,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to the Hoysala temples at Halebid,Halebeedu (Halebidu),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Farm Visit,Deogarh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Discover Mussoorie,Mussoorie,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Camel Safari through the ravines to the ruins of Fort Ater,Jarar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Countryside Safari Jeep Safari,Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,A Culinary Escape at Mharo Khet (Standard Experience),Jodhpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Camp Fire Dinner,Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Sunrise Breakfast with Wildlife,Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Kangra,Kangra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Day trek to Narkanda,Shimla,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Guided excursion to Thattekad Bird Sanctuary - afternoon,Thattekkad,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Kanyakumari,Kanyakumari,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Explore the Edakal Caves,Sultan Bathery,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning game drive,Pench,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cycle tour,Kochi (Cochin),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Gulbarga Fort,Kalaburagi (Gulbarga),ACC0538,"If Only, United Kingdom",GBR
+PT110004,The Adbesara Hunting Trail (without Champagne),Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,The Adbesara Hunting Trail - with Champagne,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Camel Charisma,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,rsion to Tiger Hill and Ghoom Monastery,Darjeeling,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Afternoon Jeep Safari in Bandhavgarh,Bandhavgarh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Sunset visit to the Taj Mahal,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Visit to Metah Bagh to see the Taj Mahal,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to the Juna Mahal and Deo Somnath Temple,Dungarpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Ranganathittu Bird Sanctuary,Ranganathittu,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Somnathpur,Somnathpura,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tour of Shimla,Shimla,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Explore local area,Rishikesh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Full day historical walking tour - with your guide from Glenburn,Kolkata,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Afternoon Game Drives in Ranthambhore,Ranthambore,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tour of Tiruchirappalli,Trichy (Tiruchirappalli),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Food Walk of Delhi,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Evening Harbour cruise. Private transfer and shared boat.,Kochi (Cochin),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning and Afternoon Game Drives,Corbett,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cycle tour,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day excursion to the Amber Fort Palace,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half Day Jodhpur City Tour,Jodhpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Evening cooking demonstration with local BRAHMIN family <<family home>> (VEGETEARIAN MEAL),Jodhpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cooking lesson and meal with a Dera Mandawa family,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Jodhpur city tour including a guided walk in the Old City,Jodhpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Kollukumalai trek from Casa del Fauno,Munnar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Sightseeing tour of Bijapur,Vijayapura (Bijapur),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Mysore Full Day Tour,Mysuru (Mysore),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Ghoom Monastery,Darjeeling,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Ride on Darjeeling Himalayan Railway,Darjeeling,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Afternoon jeep safari,Corbett,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tour of Datia and Gwalior,Gwalior,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning Game Drive,Corbett,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Afternoon Jeep safari in the park,Kanha,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Darjeeling tour (markets and museums),Darjeeling,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning and afternoon game drive,Pench,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning and afternoon jeep safaris,Tadoba,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning Jeep safari in the park,Tadoba,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning excursion to Tiger Hill,Darjeeling,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning Jeep Safari in Bandhavgarh,Bandhavgarh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Royal Mysore walking tour,Mysuru (Mysore),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Historical Train ride,Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Pink City by E-bicycle,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Calcutta walking tour,Kolkata,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Afternoon Jeep safari in the park,Tadoba,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning and afternoon Jeep Safaris in Bandhavgarh,Bandhavgarh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion around Mahabalipuram by rickshaw,Mamallapuram (Mahabalipuram),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Sightseeing tour of Madurai,Madurai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half Day Udaipur City Tour,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Discovering  Amritsar (With Partition Museum),Amritsar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Putting to Bed Ceremony,Amritsar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Five Senses Tour,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Lucknow Uncovered,Lucknow,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Ranganathittu Bird Sanctuary and Srirangapatnam,Mysuru (Mysore),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Ranganathittu Bird Sanctuary and Srirangapatnam,Srirangapatna,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Elephanta Island and city tour of Bombay,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Visit to Amber Elephant Village,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Early Morning Jungle Walk with Forest Guide,Thekkady (Periyar/Kumily),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to a spice plantation,Thekkady (Periyar/Kumily),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day city tour of Bikaner,Bikaner,ACC0538,"If Only, United Kingdom",GBR
+PT110004,City Tour of Pondicherry,Puducherry (Pondicherry),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Day cruise along Keralan backwaters to Thotapally,Alappuzha (Alleppey),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Kathakali Dance Evening,Kochi (Cochin),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Visit to the Taj Mahal,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cycle tour,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Discover Ahmedabad,Ahmedabad,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half Day New Delhi City Tour,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,"Half Day Old Delhi City Tour, including guided walk",New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Hope Project walk in Nizamuddin Basti (SUPPLEMENT FOR SUNDAYS),New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Old and New Delhi City Tour,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,"Old and New Delhi City Tour, including guided walk",New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tanjore City Tour,Thanjavur (Tanjore),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half Day Old Delhi City Tour,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tea by the lake,Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Kumbalanghi Village Visit,Kochi (Cochin),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Visit and lunch at Tranquilitea,Coonoor,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Worli Fishing tour,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Bird watching excursion by boat on the Chambal River,Jarar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Guided excursion to Thattekad Bird Sanctuary - afternoon,Kothamangalam (KL) ,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Exploring Palakkad,Palakkad,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cycling Tour,Deogarh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion around the Tellicherry area,Thalassery (Telicherry),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Peacock Trail,Chennai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Closing the Border Ceremony,Amritsar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Sunset visit of Metah Bagh to view the Taj Mahal,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day tour of Mysore,Mysuru (Mysore),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Bird Watching,Deogarh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Discovering Auroville,Puducherry (Pondicherry),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Afternoon game drive,Pench,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Step well Dinner,Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Jeep Safari through the Chambal ravines,Jarar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to the Bateshwar Religious Fair,Jarar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Visit to Bhimbetka,Bhopal,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Darjeeling City Tour,Darjeeling,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Sightseeing in Bundi,Bundi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Lakshmi Hill Trek,Munnar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day city tour of Agra (includes the Taj Mahal),Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day sightseeing to Fatehpur Sikri,Fatehpur Sikri,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Kachpura Village Walk,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Sunrise visit of Metah Bagh to view the Taj Mahal,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Walking tour,Jodhpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Sunrise visit to the Taj Mahal,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Rural Kerala by bike (VillageÂ Rubble),Kochi (Cochin),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning & Afternoon Game Drives in Ranthambhore - Private Safari,Ranthambore,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Rural Kerala by bike (VillageÂ Rubble) - Full Day,Kochi (Cochin),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Unseen Amber,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Hoogly river cruise,Kolkata,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tour of Karaikudi and nearby villages,Chettinadu,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Keoladeo Bird Sanctuary on cycle rickshaw,Bharatpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cycling tour of Nizamudin <<Delhi by cycles>>,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to The Red Fort,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to the Red Fort,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to the Red Fort and other City Sites,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Bagru (Block Printing),Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Elephanta Island,Mumbai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tour of Datia,Datia,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Marwari Horse Riding,Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Bar-be-cue at Tekri - beautiful landscape,Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Pragpur village tour,Pragpur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Jungle Lunch,Narlai,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Half day village safari,Rohet,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Toy train to Ooty ( Blue Mountain Railway),Coonoor,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Farm Visit,Deoghar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Traditional Keralan cookery <<avoid Weds/Sat>>demonstration and lunch (two hours) <<private>>,Kochi (Cochin),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Guided tour of the Pushkar,Pushkar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Afternoon Game Drive in Ranthambhore National Park,Ranthambore,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Exploring Haridwar,Haridwar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Kanchipuram,Kanchipuram,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Mahabalipuram by car,Mamallapuram (Mahabalipuram),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Jai Hind - Sound and Light Show at the Red Fort,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Agra,Agra,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cycling Tour at Dev Shree,Deogarh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Movie Show at Raj Mandir,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Pink City Tour in a Pink Rickshaw,Jaipur,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Srirangapatnam,Srirangapatna,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Afternoon game drive,Kabini,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Visit Aarti at Rishikesh in the evening,Rishikesh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Game drive by boat,Kabini,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning game drive,Kabini,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Pushkar Tour,Pushkar,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Cooking demonstration in a local home.,Puducherry (Pondicherry),ACC0538,"If Only, United Kingdom",GBR
+PT110015,Half day tour of Agra,Agra,ACC2276,"3M Holidays, India",IND
+PT110014,Nomad Pre Config Test VK,Agra,ACC0806,"Nomads Secrets, Australia",AUS
+PT110014,Half day city tour of Delhi,New Delhi,ACC0806,"Nomads Secrets, Australia",AUS
+PT110013,Half day delhi,New Delhi,ACC2679,"TravelBridge, Australia",AUS
+PT110013,Test Preconfig,New Delhi,ACC2679,"TravelBridge, Australia",AUS
+PT110000,Tour of Shimla,Shimla,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110003,Pre-configured Test,New Delhi,ACC0272,"Comptoir Des Voyages, France",FRA
+PT110003,Taj Mahal Tour,Agra,ACC0272,"Comptoir Des Voyages, France",FRA
+PT110003,New & Old Delhi,New Delhi,ACC0272,"Comptoir Des Voyages, France",FRA
+PT110003,Five Senses Tour,Mumbai,ACC0272,"Comptoir Des Voyages, France",FRA
+PT110003,Five Senses Delhi,New Delhi,ACC0272,"Comptoir Des Voyages, France",FRA
+PT110003,Pot Lucks,New Delhi,ACC0272,"Comptoir Des Voyages, France",FRA
+PT110003,Test Sundry,New Delhi,ACC0272,"Comptoir Des Voyages, France",FRA
+PT110004,Tour of Sanchi,Bhopal,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Tour of Ooty,Ooty (Udhagamandalam),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Guided Tour of Orchha,Orchha,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Excursion to Sarnath with guide,Varanasi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning & afternoon game drives in Ranthambhore,Ranthambore,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Exploring Varanasi,Varanasi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,"Hidden Varanasi <<Guided walk, off the beaten track>>",Varanasi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning excursion to Varanasi ghats including boatride,Varanasi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Visit to the weavers district.,Varanasi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Rare Textile & Artist,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Udaipur Walking tour,Udaipur (RJ),ACC0538,"If Only, United Kingdom",GBR
+PT110004,Old and New Delhi sightseeing (without Red Fort),New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Delhi Five Senses Tour,New Delhi,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Rural Train Experience,Deogarh,ACC0538,"If Only, United Kingdom",GBR
+PT110004,Morning Game Drives in Ranthambhore,Ranthambore,ACC0538,"If Only, United Kingdom",GBR
+PT110000,Dabbah Wala tour of Mumbai,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Day Walk From Kumbhalgarh To Ranakpur,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Explore the Edakkal Caves,Wayanad,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,"Hike, Bike and Yoga tour",Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,High Tea at Imperial,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Leopard Sighting Jeep Safari (shared Safari),Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning and Afternoon Game Drives,Corbett,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Putting to Bed Ceremony,Amritsar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110005,Tea by the lake,Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Kumbalanghi Village Visit,Kochi (Cochin),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Bird watching excursion by boat on the Chambal River,Jarar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Guided excursion to Thattekad Bird Sanctuary - afternoon,Kothamangalam (KL) ,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Exploring Palakkad,Palakkad,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cycling Tour,Deogarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Peacock Trail,Chennai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Closing the Border Ceremony,Amritsar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sunset visit of Metah Bagh to view the Taj Mahal,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day tour of Mysore,Mysuru (Mysore),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Bird Watching,Deogarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discovering Auroville,Puducherry (Pondicherry),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Afternoon game drive,Pench,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Step well Dinner,Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Jeep Safari through the Chambal ravines,Jarar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to the Bateshwar Religious Fair,Jarar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Visit to Bhimbetka,Bhopal,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Darjeeling City Tour,Darjeeling,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sunrise visit of Metah Bagh to view the Taj Mahal,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sunrise visit to the Taj Mahal,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Rural Kerala by bike (VillageÂ Rubble),Kochi (Cochin),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Morning & Afternoon Game Drives in Ranthambhore - Private Safari,Ranthambore,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Unseen Amber,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Hoogly river cruise,Kolkata,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tour of Karaikudi and nearby villages,Chettinadu,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Keoladeo Bird Sanctuary on cycle rickshaw,Bharatpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cycling tour of Nizamudin <<Delhi by cycles>>,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to The Red Fort,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to the Red Fort,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to the Red Fort and other City Sites,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Bagru (Block Printing),Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Elephanta Island,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Tour of Datia,Datia,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Marwari Horse Riding,Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Bar-be-cue at Tekri - beautiful landscape,Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Pragpur village tour,Pragpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Jungle Lunch,Narlai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day village safari,Rohet,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Toy train to Ooty ( Blue Mountain Railway),Coonoor,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Farm Visit,Deoghar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Traditional Keralan cookery <<avoid Weds/Sat>>demonstration and lunch (two hours) <<private>>,Kochi (Cochin),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Guided tour of the Pushkar,Pushkar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Afternoon Game Drive in Ranthambhore National Park,Ranthambore,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Exploring Haridwar,Haridwar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Kanchipuram,Kanchipuram,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Mahabalipuram by car,Mamallapuram (Mahabalipuram),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Jai Hind - Sound and Light Show at the Red Fort,New Delhi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Excursion to Agra,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cycling Tour at Dev Shree,Deogarh,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Visit to Amber Elephant Village,Jaipur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Discovering  Amritsar,Amritsar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Cooking lesson and meal with a local family,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Private boat ride on Lake Pichola,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Shared Boat Ride on Lake Pichola with tickets,Udaipur (RJ),ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half-day Dharavi Slum tour,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Mumbai Heritage Walk,Mumbai,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Sightseeing in Bundi,Bundi,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Lakshmi Hill Trek,Munnar,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day city tour of Agra (includes the Taj Mahal),Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Half day sightseeing to Fatehpur Sikri,Fatehpur Sikri,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Kachpura Village Walk,Agra,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110005,Walking tour,Jodhpur,ACC1606,"Audley Travel, United Kingdom",DEU
+PT110007,test pre,New Delhi,ACC0014,"Aa Bee Holidays, India",IND
+PT110010,Test Tour,New Delhi,ACC0042,"Awesome Experience , United Kingdom",GBR
+PT110012,test,New Delhi,ACC2344,"Apple Vacations, Malaysia",MYS
+PT110000,Cooking lesson and meal with a local family,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Private boat ride on Lake Pichola,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Meesapulimal Trek,Munnar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning and afternoon Jeep safaris in the park,Kanha,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tea Tasting Experience,Munnar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to the Hoysala temples at Belur and Halebid,Hassan,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to the Hoysala temples at Belur,Belur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Delhi Mutiny Tour,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Holipura Heritage Village walk,Jarar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Farm Visit,Deogarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Old and New Delhi City Tour,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Kumbalanghi Village Visit,Kochi (Cochin),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Afternoon Jeep safari in the park,Tadoba,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to the Hoysala temples at Halebid,Halebeedu (Halebidu),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Discover Mussoorie,Mussoorie,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Camel Safari through the ravines to the ruins of Fort Ater,Jarar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Countryside Safari Jeep Safari,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,A Culinary Escape at Mharo Khet (Standard Experience),Jodhpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Day trek to Narkanda,Shimla,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Guided excursion to Thattekad Bird Sanctuary - afternoon,Thattekkad,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Kanyakumari,Kanyakumari,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Salaam Balak Walk,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Delhi's Imperial Walking tour,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Delhi Photography Tour,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Delhi Devine Tour,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Jewish Tour,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Hot-air balloon flight over Jaipur,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tour of Chettinad Mansions,Chettinadu,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Walking Tour of Alleppey without lunch,Alappuzha (Alleppey),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Ajanta,Aurangabad (MH) ,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day to the Ellora Caves,Aurangabad (MH) ,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning Jeep safari in the park,Kanha,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Sunset point by camel,Jaisalmer,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Jaisalmer City Tour on foot,Jaisalmer,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Guided Tour of the Temples,Khajuraho,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Madurai Rickshaw Tour,Madurai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Meenakshi Temple 'Going to Bed' Ceremony,Madurai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Guided Tour of Bhopal,Bhopal,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Dhar Bhil Village Experience with farm Walk,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Dharamasala and McLeod Ganj Tour,Dharamshala,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Discovering Bombay Tour,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Camp Fire Dinner,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sunrise Breakfast with Wildlife,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Kangra,Kangra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Explore local area,Rishikesh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Full day historical walking tour - with your guide from Glenburn,Kolkata,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Afternoon Game Drives in Ranthambhore,Ranthambore,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tour of Tiruchirappalli,Trichy (Tiruchirappalli),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Food Walk of Delhi,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning and afternoon jeep safaris,Tadoba,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Evening Harbour cruise. Private transfer and shared boat.,Kochi (Cochin),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cycle tour,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day excursion to the Amber Fort Palace,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half Day Jodhpur City Tour,Jodhpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Evening cooking demonstration with local BRAHMIN family <<family home>> (VEGETEARIAN MEAL),Jodhpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cooking lesson and meal with a Dera Mandawa family,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Jodhpur city tour including a guided walk in the Old City,Jodhpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Kollukumalai trek from Casa del Fauno,Munnar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sightseeing tour of Bijapur,Vijayapura (Bijapur),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Explore the Edakal Caves,Sultan Bathery,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning game drive,Pench,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cycle tour,Kochi (Cochin),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Gulbarga Fort,Kalaburagi (Gulbarga),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,The Adbesara Hunting Trail (without Champagne),Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,The Adbesara Hunting Trail - with Champagne,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Camel Charisma,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,rsion to Tiger Hill and Ghoom Monastery,Darjeeling,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Afternoon Jeep Safari in Bandhavgarh,Bandhavgarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sunset visit to the Taj Mahal,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Visit to Metah Bagh to see the Taj Mahal,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to the Juna Mahal and Deo Somnath Temple,Dungarpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Ranganathittu Bird Sanctuary,Ranganathittu,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Somnathpur,Somnathpura,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Mysore Full Day Tour,Mysuru (Mysore),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Ghoom Monastery,Darjeeling,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Ride on Darjeeling Himalayan Railway,Darjeeling,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Afternoon jeep safari,Corbett,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tour of Datia and Gwalior,Gwalior,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning Game Drive,Corbett,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Afternoon Jeep safari in the park,Kanha,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Darjeeling tour (markets and museums),Darjeeling,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning and afternoon game drive,Pench,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning excursion to Tiger Hill,Darjeeling,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning Jeep Safari in Bandhavgarh,Bandhavgarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Royal Mysore walking tour,Mysuru (Mysore),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Historical Train ride,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Pink City by E-bicycle,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Calcutta walking tour,Kolkata,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning and afternoon Jeep Safaris in Bandhavgarh,Bandhavgarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion around Mahabalipuram by rickshaw,Mamallapuram (Mahabalipuram),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sightseeing tour of Madurai,Madurai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half Day Udaipur City Tour,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Discovering  Amritsar (With Partition Museum),Amritsar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Five Senses Tour,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Ranganathittu Bird Sanctuary and Srirangapatnam,Mysuru (Mysore),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Ranganathittu Bird Sanctuary and Srirangapatnam,Srirangapatna,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Elephanta Island and city tour of Bombay,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Walking tour,Jodhpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Visit to Amber Elephant Village,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Early Morning Jungle Walk with Forest Guide,Thekkady (Periyar/Kumily),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to a spice plantation,Thekkady (Periyar/Kumily),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning Jeep safari in the park,Tadoba,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day city tour of Bikaner,Bikaner,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,City Tour of Pondicherry,Puducherry (Pondicherry),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Day cruise along Keralan backwaters to Thotapally,Alappuzha (Alleppey),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Kathakali Dance Evening,Kochi (Cochin),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Visit to the Taj Mahal,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cycle tour,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Discover Ahmedabad,Ahmedabad,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half Day New Delhi City Tour,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,"Half Day Old Delhi City Tour, including guided walk",New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Hope Project walk in Nizamuddin Basti (SUPPLEMENT FOR SUNDAYS),New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,"Old and New Delhi City Tour, including guided walk",New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tanjore City Tour,Thanjavur (Tanjore),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half Day Old Delhi City Tour,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tea by the lake,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Marwari Horse Riding,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Bar-be-cue at Tekri - beautiful landscape,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Visit and lunch at Tranquilitea,Coonoor,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Worli Fishing tour,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Bird watching excursion by boat on the Chambal River,Jarar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Guided excursion to Thattekad Bird Sanctuary - afternoon,Kothamangalam (KL) ,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Exploring Palakkad,Palakkad,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cycling Tour,Deogarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion around the Tellicherry area,Thalassery (Telicherry),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Peacock Trail,Chennai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Closing the Border Ceremony,Amritsar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sunset visit of Metah Bagh to view the Taj Mahal,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day tour of Mysore,Mysuru (Mysore),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Bird Watching,Deogarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Discovering Auroville,Puducherry (Pondicherry),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Afternoon game drive,Pench,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Step well Dinner,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Jeep Safari through the Chambal ravines,Jarar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to the Bateshwar Religious Fair,Jarar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Visit to Bhimbetka,Bhopal,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Darjeeling City Tour,Darjeeling,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sightseeing in Bundi,Bundi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Lakshmi Hill Trek,Munnar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day city tour of Agra (includes the Taj Mahal),Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day sightseeing to Fatehpur Sikri,Fatehpur Sikri,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Kachpura Village Walk,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sunrise visit of Metah Bagh to view the Taj Mahal,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sunrise visit to the Taj Mahal,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Rural Kerala by bike (VillageÂ Rubble),Kochi (Cochin),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning & Afternoon Game Drives in Ranthambhore - Private Safari,Ranthambore,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Rural Kerala by bike (VillageÂ Rubble) - Full Day,Kochi (Cochin),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Unseen Amber,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Hoogly river cruise,Kolkata,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tour of Karaikudi and nearby villages,Chettinadu,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Keoladeo Bird Sanctuary on cycle rickshaw,Bharatpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cycling tour of Nizamudin <<Delhi by cycles>>,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to The Red Fort,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to the Red Fort,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to the Red Fort and other City Sites,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Bagru (Block Printing),Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Elephanta Island,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tour of Datia,Datia,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Pragpur village tour,Pragpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Jungle Lunch,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day village safari,Rohet,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Toy train to Ooty ( Blue Mountain Railway),Coonoor,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Farm Visit,Deoghar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Traditional Keralan cookery <<avoid Weds/Sat>>demonstration and lunch (two hours) <<private>>,Kochi (Cochin),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Guided tour of the Pushkar,Pushkar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Afternoon Game Drive in Ranthambhore National Park,Ranthambore,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Exploring Haridwar,Haridwar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Kanchipuram,Kanchipuram,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Mahabalipuram by car,Mamallapuram (Mahabalipuram),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Jai Hind - Sound and Light Show at the Red Fort,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Agra,Agra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cycling Tour at Dev Shree,Deogarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Movie Show at Raj Mandir,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Pink City Tour in a Pink Rickshaw,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Srirangapatnam,Srirangapatna,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Afternoon game drive,Kabini,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Visit Aarti at Rishikesh in the evening,Rishikesh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Game drive by boat,Kabini,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning game drive,Kabini,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Pushkar Tour,Pushkar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cooking demonstration in a local home.,Puducherry (Pondicherry),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cooking lesson and meal with a Dera Mandawa family (WITH MARKET VISIT),Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,City Tour of Cochin,Kochi (Cochin),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cochin Walking Tour,Kochi (Cochin),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Food and Faith Walk in Old Delhi,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sundowner Rural Ramble,Deogarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Visit to the Sarus Crane Conservation area,Jarar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Cooking lesson and meal with a local family,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to the Juna Mahal and Deo Somnath Temple,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Golconda Fort & Qutb Shahi Tombs,Hyderabad,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Visit to Bateshwar Temples on the River Yamuna,Jarar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Lockhart Tea Trail,Munnar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day tour of craftsmen in the old bazaars of Jaipur,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Chennai (Madras) city sightseeing,Chennai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Full day Chennai city tour,Chennai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Exploring Gwalior,Gwalior,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Trek and bamboo rafting excursion,Thekkady (Periyar/Kumily),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Karni Mata rat temple,Bikaner,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Gangtok City Tour,Gangtok,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Evening Visit  to the City Palace Illuminations,Mysuru (Mysore),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Walk through local plantations,Munnar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Amber Fort Palace and Jaipur City,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day Jaipur City Tour,Jaipur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Sightseeing in Badami,Badami,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Evening excursion to the ghats including boatride,Varanasi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Evening cooking demonstration with local family <<family home>>,Jodhpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half Day Village Safari,Jodhpur,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,City Tour of Hyderabad,Hyderabad,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning Game Drive in Ranthambhore National Park,Ranthambore,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Toy Train excursion,Shimla,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Discovering  Amritsar,Amritsar,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Shared Boat Ride on Lake Pichola with tickets,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half-day Dharavi Slum tour,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Mumbai Heritage Walk,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Mumbai at Dawn Tour,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Half day Mumbai Market Tour,Mumbai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Discovering Mount Abu,Mount Abu,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Pragpur village tour and excursion to Kangra,Kangra,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Rice Boat Cruise,Alappuzha (Alleppey),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Calcutta city tour,Kolkata,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Night Walk of Old Delhi,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Lucknow Uncovered,Lucknow,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tour of Sanchi,Bhopal,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Tour of Ooty,Ooty (Udhagamandalam),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Guided Tour of Orchha,Orchha,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to Sarnath with guide,Varanasi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning & afternoon game drives in Ranthambhore,Ranthambore,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Exploring Varanasi,Varanasi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,"Hidden Varanasi <<Guided walk, off the beaten track>>",Varanasi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning excursion to Varanasi ghats including boatride,Varanasi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Visit to the weavers district.,Varanasi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Rare Textile & Artist,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Udaipur Walking tour,Udaipur (RJ),ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Old and New Delhi sightseeing (without Red Fort),New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Delhi Five Senses Tour,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Rural Train Experience,Deogarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Morning Game Drives in Ranthambhore,Ranthambore,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Hi-tea at The Imperial New Delhi,New Delhi,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Chandigarh half day city tour with Guide,Chandigarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Excursion to the Hoysala temples at Belur and Halebidu,Hassan,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Rock Garden Visit with Driver (WITHOUT GUIDE),Chandigarh,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Trekking in forest & tribal area,Narlai,ACC0131,"Audley Travel, United Kingdom",GBR
+PT110000,Guide Test,Agra,ACC0131,"Audley Travel, United Kingdom",GBR

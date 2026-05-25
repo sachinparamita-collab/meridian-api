@@ -7,3 +7,7 @@ venv/
 .venv/
 postgres_data/
 *.log
+# Engine data — too large / sensitive for GitHub
+engine/master_v2.db
+engine/agency_crm.xlsx
+.env

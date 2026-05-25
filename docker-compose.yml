@@ -1,25 +1,22 @@
-version: '3.8'
-
 services:
   api:
     build: .
-    container_name: meridian-api
     ports:
       - "8000:8000"
+    volumes:
+      - ./engine/master_v2.db:/app/engine/master_v2.db
+      - ./engine/agency_crm.xlsx:/app/engine/agency_crm.xlsx
     environment:
-      - DATABASE_URL=postgresql://meridian:meridian@db:5432/meridian
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
     depends_on:
       - db
-    volumes:
-      - ./app:/app/app
 
   db:
     image: postgres:15
-    container_name: meridian-db
     environment:
-      - POSTGRES_USER=meridian
-      - POSTGRES_PASSWORD=meridian
-      - POSTGRES_DB=meridian
+      POSTGRES_USER: meridian
+      POSTGRES_PASSWORD: meridian
+      POSTGRES_DB: meridian
     ports:
       - "5432:5432"
     volumes:
