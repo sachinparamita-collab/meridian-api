@@ -2,16 +2,10 @@
 
 WORKDIR /app
 
-# Install requirements first (better layer caching)
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy app code
 COPY app/ ./app/
-
-# Copy engine -- .py and .csv files only
 COPY engine/ ./engine/
 
-COPY start.sh /start.sh
-RUN sed -i 's/\r//' /start.sh && chmod +x /start.sh
-CMD ["/start.sh"]
+CMD ["python", "-c", "import os,urllib.request,subprocess,sys; db='/app/data/master_v2.db'; os.makedirs('/app/data',exist_ok=True); (not os.path.getsize(db) if os.path.exists(db) else True) and urllib.request.urlretrieve('https://drive.google.com/uc?export=download&id=1zFmmt-uNLQWUgtXSPePchqNTp4hXBJoq',db); os.execv(sys.executable,[sys.executable,'-m','uvicorn','app.main:app','--host','0.0.0.0','--port',os.environ.get('PORT','8000')])"]
