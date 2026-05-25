@@ -1,7 +1,11 @@
 ﻿import os
 import sys
 import traceback
+import sqlite3
+import json
+from datetime import date, datetime
 from fastapi import FastAPI, HTTPException
+from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
 # ── Engine path setup ────────────────────────────────────────────────────────
@@ -14,6 +18,14 @@ ACTIVITY_PATH   = os.path.join(ENGINE_DIR, "activity_details.csv")
 FNB_PATH        = os.path.join(ENGINE_DIR, "fnb_details.csv")
 AGENCY_PATH     = os.path.join(ENGINE_DIR, "agency_crm.xlsx")
 CITY_RULES_PATH = os.path.join(ENGINE_DIR, "city_rules.csv")
+
+# ── JSON serialiser — handles date, tuple ────────────────────────────────────
+def serialise(obj):
+    if isinstance(obj, (date, datetime)):
+        return obj.isoformat()
+    if isinstance(obj, tuple):
+        return list(obj)
+    raise TypeError(f"Not serialisable: {type(obj)}")
 
 # ── Load engine at startup ───────────────────────────────────────────────────
 ENGINE_LOADED = False
@@ -45,6 +57,26 @@ def health():
     }
 
 
+@app.get("/v1/debug")
+def debug():
+    try:
+        conn = sqlite3.connect(DB_PATH)
+        cur = conn.cursor()
+        cur.execute("SELECT name FROM sqlite_master WHERE type='table'")
+        tables = [r[0] for r in cur.fetchall()]
+        counts = {}
+        for t in tables:
+            counts[t] = cur.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
+        conn.close()
+        return {
+            "db_path": DB_PATH,
+            "file_size_mb": round(os.path.getsize(DB_PATH) / 1024 / 1024, 1),
+            "tables": counts
+        }
+    except Exception as e:
+        return {"db_path": DB_PATH, "error": str(e)}
+
+
 @app.post("/v1/recommend")
 def recommend(request: RecommendRequest):
     if not ENGINE_LOADED:
@@ -63,7 +95,9 @@ def recommend(request: RecommendRequest):
             city_rules_path = CITY_RULES_PATH,
             source_market   = request.source_market,
         )
-        return result
+        # Serialise via json to handle date + tuple types, then return as response
+        clean = json.loads(json.dumps(result, default=serialise))
+        return JSONResponse(content=clean)
     except Exception as e:
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
