@@ -16,14 +16,17 @@ import psycopg2.extras
 ENGINE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "engine"))
 sys.path.insert(0, ENGINE_DIR)
 
-DB_PATH         = os.path.join(ENGINE_DIR, "master_v2.db")
+DB_PATH         = os.environ.get("DB_PATH", os.path.join(ENGINE_DIR, "master_v2.db"))
 PORTFOLIO_PATH  = os.path.join(ENGINE_DIR, "hotel_portfolio.csv")
 ACTIVITY_PATH   = os.path.join(ENGINE_DIR, "activity_details.csv")
 FNB_PATH        = os.path.join(ENGINE_DIR, "fnb_details.csv")
 AGENCY_PATH     = os.path.join(ENGINE_DIR, "agency_crm.xlsx")
 CITY_RULES_PATH = os.path.join(ENGINE_DIR, "city_rules.csv")
 
-DATABASE_URL = os.getenv("DATABASE_URL")
+DATABASE_URL = os.getenv("DATABASE_URL", "")
+# Railway supplies postgres:// — psycopg2 requires postgresql://
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
 
 # ── JSON serialiser ───────────────────────────────────────────────────────────
 def serialise(obj):
