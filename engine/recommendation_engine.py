@@ -25,6 +25,46 @@ DECISION HIERARCHY:
   Guides      → flag if language escort requested
 
 CHANGELOG:
+v20260522f  N4 + N5 — Score cap + cross-month date range (26 May 2026).
+            N4: Score cap was missing from historical_query.py (unversioned
+            canonical). historical_query_v20260522b.py had the fix
+            (min(round(score*100), 100)) but the unversioned file loaded
+            by Colab did not — causing 278% display for Trendtours (B2 #G2).
+            Fix: use historical_query_v20260522b.py in Colab (copy as
+            historical_query.py). No engine code change needed.
+            N5: Cross-month spelled-out date range not parsed. B2 #002
+            "arriving in Mumbai on 19 Oct 2026 and departing from Delhi on
+            04 November" = 16 nights — was not detected. P1-06 only handled
+            same-month ranges ("January 6–20"). New block added after P1-06:
+            matches two separate day+month mentions (day-first and month-first)
+            up to 80 chars apart, with year on the second mention. EN/ES/PT/FR
+            month names. Validated: "19 Oct ... 04 November 2026" → 16n ✅.
+v20260522e  P1-06 Spelled-out month date-range parsing.
+            "January 6–20, 2027" style dates were not detected — engine
+            was falling back to city-count estimate (8n instead of 14n).
+            Root cause: existing B26 parser only handled numeric formats
+            (DD/MM/YYYY). New block added immediately after B26:
+            - Month-first: "January 6–20, 2027" / "March 14 – 28, 2027"
+            - Day-first: "6–20 January 2027" / "14 – 28 March 2027"
+            - Em-dash (–), hyphen (-), spaced variants all matched
+            - EN/ES/PT/FR month names all covered
+            - Only fires when B26 numeric parser did not already match
+            - Sets duration_nights, travel_start, travel_end,
+              _duration_from_date_range (authoritative — suppresses
+              free-text "N nights" override downstream)
+            Validated: "January 6–20, 2027" → 14n ✅
+v20260522d  Structured return + vehicle on intent dict.
+            1. intent['_vehicle'] written after vehicle computation —
+               vehicle was computed and displayed but never stored.
+               Makes vehicle available to downstream consumers
+               (Word doc, API, Outlook surface).
+            2. recommend() now returns a clean structured dict instead
+               of raw intent. FastAPI can return recommend(email) directly.
+               Keys: parsed, itineraries, hotels, activities, monuments,
+               fnb, vehicle, domestic_flights, proposal_path, llm_used.
+               Breaking change for Colab display cells — use shim:
+               intent = result['parsed']
+               intent['historical_options'] = result['itineraries'] etc.
 v20260522c  Verification regression sweep — 3 new findings from Batch 1/2/3
             re-run against v20260522b (22 May 2026) closed:
             1. N1 — False heritage upgrade on bare 'fort' substring. Heritage
@@ -205,7 +245,7 @@ v20260519b  Wildlife historical routes fix — SIMILAR HISTORICAL ROUTES now
 ================================================================================
 """
 
-ENGINE_VERSION = "20260522c"
+ENGINE_VERSION = "20260522f"
 
 import sqlite3
 import re
@@ -1455,6 +1495,137 @@ def parse_email(email_text, agency_path=None):
                 result['_duration_from_date_range'] = True
         except (ValueError, TypeError):
             pass  # invalid date — fall through to other patterns
+
+    # P1-06: Spelled-out month date-range parsing — "January 6–20, 2027" style.
+    # Handles same-month ranges with spelled month name in EN/ES/PT/FR.
+    # Covers month-first ("January 6–20, 2027") and day-first ("6–20 January 2027").
+    # Em-dash (–), hyphen (-), and spaced variants all matched.
+    # Only fires if numeric date-range parser above did not already set duration.
+    if not result.get('_duration_from_date_range'):
+        _MONTH_NAMES = {
+            'january':1,'february':2,'march':3,'april':4,'may':5,'june':6,
+            'july':7,'august':8,'september':9,'october':10,'november':11,'december':12,
+            'jan':1,'feb':2,'mar':3,'apr':4,'jun':6,'jul':7,'aug':8,
+            'sep':9,'oct':10,'nov':11,'dec':12,
+            # Spanish
+            'enero':1,'febrero':2,'marzo':3,'abril':4,'mayo':5,'junio':6,
+            'julio':7,'agosto':8,'septiembre':9,'octubre':10,'noviembre':11,'diciembre':12,
+            # Portuguese
+            'janeiro':1,'fevereiro':2,u'mar\xe7o':3,'abril':4,'maio':5,'junho':6,
+            'julho':7,'agosto':8,'setembro':9,'outubro':10,'novembro':11,'dezembro':12,
+            # French
+            'janvier':1,u'f\xe9vrier':2,'fevrier':2,'mars':3,'avril':4,'mai':5,'juin':6,
+            'juillet':7,u'ao\xfbt':8,'aout':8,'septembre':9,'octobre':10,'novembre':11,
+            u'd\xe9cembre':12,'decembre':12,
+        }
+        _MON_RE = (
+            r'january|february|march|april|may|june|july|august|september|october|november|december'
+            r'|jan|feb|mar|apr|jun|jul|aug|sep|oct|nov|dec'
+            r'|enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre'
+            r'|janeiro|fevereiro|mar\xe7o|abril|maio|junho|julho|setembro|outubro|novembro|dezembro'
+            r'|janvier|f\xe9vrier|fevrier|mars|avril|mai|juin|juillet|ao\xfbt|aout|novembre|d\xe9cembre|decembre'
+        )
+        # Month-first: "January 6–20, 2027"
+        _p_mf = re.compile(
+            rf'({_MON_RE})\s+(\d{{1,2}})\s*[\u2013\-]\s*(\d{{1,2}})[,\s]+(\d{{4}})',
+            re.IGNORECASE
+        )
+        # Day-first: "6–20 January 2027"
+        _p_df = re.compile(
+            rf'(\d{{1,2}})\s*[\u2013\-]\s*(\d{{1,2}})\s+({_MON_RE})[,\s]+(\d{{4}})',
+            re.IGNORECASE
+        )
+        _smdr_match = _p_mf.search(text) or _p_df.search(text)
+        if _smdr_match:
+            try:
+                from datetime import date as _date2
+                _g = _smdr_match.groups()
+                # month-first: (mon_str, d1, d2, yr) | day-first: (d1, d2, mon_str, yr)
+                if _g[0].isdigit():
+                    _d1_s, _d2_s, _mon_s, _yr_s = _g[0], _g[1], _g[2], _g[3]
+                else:
+                    _mon_s, _d1_s, _d2_s, _yr_s = _g[0], _g[1], _g[2], _g[3]
+                _mon_n = _MONTH_NAMES.get(_mon_s.lower())
+                if _mon_n:
+                    _start2 = _date2(int(_yr_s), _mon_n, int(_d1_s))
+                    _end2   = _date2(int(_yr_s), _mon_n, int(_d2_s))
+                    _nights2 = (_end2 - _start2).days
+                    if 1 <= _nights2 <= 60:
+                        result['duration_nights'] = (_nights2, _nights2)
+                        result['travel_start'] = _start2.isoformat()
+                        result['travel_end']   = _end2.isoformat()
+                        result['_duration_from_date_range'] = True
+            except (ValueError, TypeError):
+                pass  # invalid date — fall through
+
+    # N5: Cross-month spelled-out date range — "arriving 19 Oct ... departing 04 November 2026".
+    # Handles two separate spelled month+day mentions in the same sentence/paragraph
+    # where the second mention carries the year. EN/ES/PT/FR month names.
+    # Only fires when no date-range has been detected yet.
+    if not result.get('_duration_from_date_range'):
+        _MONTH_NAMES_X = {
+            'january':1,'february':2,'march':3,'april':4,'may':5,'june':6,
+            'july':7,'august':8,'september':9,'october':10,'november':11,'december':12,
+            'jan':1,'feb':2,'mar':3,'apr':4,'jun':6,'jul':7,'aug':8,
+            'sep':9,'oct':10,'nov':11,'dec':12,
+            'enero':1,'febrero':2,'marzo':3,'abril':4,'mayo':5,'junio':6,
+            'julio':7,'agosto':8,'septiembre':9,'octubre':10,'noviembre':11,'diciembre':12,
+            'janeiro':1,'fevereiro':2,u'mar\xe7o':3,'abril':4,'maio':5,'junho':6,
+            'julho':7,'agosto':8,'setembro':9,'outubro':10,'novembro':11,'dezembro':12,
+            'janvier':1,u'f\xe9vrier':2,'fevrier':2,'mars':3,'avril':4,'mai':5,'juin':6,
+            'juillet':7,u'ao\xfbt':8,'aout':8,'septembre':9,'octobre':10,'novembre':11,
+            u'd\xe9cembre':12,'decembre':12,
+            # Short Spanish/Portuguese
+            'oct':10,'nov':11,'dic':12,'ene':1,'feb':2,'mar':3,'abr':4,'jun':6,
+            'jul':7,'ago':8,'sep':9,
+        }
+        _MON_RE_X = (
+            r'january|february|march|april|may|june|july|august|september|october|november|december'
+            r'|jan|feb|mar|apr|jun|jul|aug|sep|oct|nov|dec'
+            r'|enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre'
+            r'|janeiro|fevereiro|mar\xe7o|abril|maio|junho|julho|setembro|outubro|novembro|dezembro'
+            r'|janvier|f\xe9vrier|fevrier|mars|avril|mai|juin|juillet|ao\xfbt|aout|novembre|d\xe9cembre|decembre'
+        )
+        # Matches: "19 Oct ... 04 November 2026" or "19 Oct 2026 ... 04 November 2026"
+        # Two passes: numeric-day first, then month-first
+        _p_cross_dn = re.compile(
+            rf'(\d{{1,2}})\s+({_MON_RE_X})(?:\s+(\d{{4}}))?.{{1,120}}?(\d{{1,2}})\s+({_MON_RE_X})\s+(\d{{4}})',
+            re.IGNORECASE
+        )
+        _p_cross_mn = re.compile(
+            rf'({_MON_RE_X})\s+(\d{{1,2}})(?:[,\s]+(\d{{4}}))?.{{1,120}}?({_MON_RE_X})\s+(\d{{1,2}})[,\s]+(\d{{4}})',
+            re.IGNORECASE
+        )
+        for _pat_x, _mode_x in [(_p_cross_dn, 'dn'), (_p_cross_mn, 'mn')]:
+            _mx = _pat_x.search(text)
+            if _mx:
+                try:
+                    from datetime import date as _date3
+                    _gx = _mx.groups()
+                    if _mode_x == 'dn':
+                        # (d1, mon1, yr1_opt, d2, mon2, yr2)
+                        _d1x, _m1x, _yr1x, _d2x, _m2x, _yr2x = _gx
+                        _yr_x = int(_yr2x)
+                        _yr1_x = int(_yr1x) if _yr1x else _yr_x
+                    else:
+                        # (mon1, d1, yr1_opt, mon2, d2, yr2)
+                        _m1x, _d1x, _yr1x, _m2x, _d2x, _yr2x = _gx
+                        _yr_x = int(_yr2x)
+                        _yr1_x = int(_yr1x) if _yr1x else _yr_x
+                    _mon1_n = _MONTH_NAMES_X.get(_m1x.lower())
+                    _mon2_n = _MONTH_NAMES_X.get(_m2x.lower())
+                    if _mon1_n and _mon2_n:
+                        _start3 = _date3(_yr1_x, _mon1_n, int(_d1x))
+                        _end3   = _date3(_yr_x,  _mon2_n, int(_d2x))
+                        _nights3 = (_end3 - _start3).days
+                        if 1 <= _nights3 <= 60:
+                            result['duration_nights'] = (_nights3, _nights3)
+                            result['travel_start'] = _start3.isoformat()
+                            result['travel_end']   = _end3.isoformat()
+                            result['_duration_from_date_range'] = True
+                            break
+                except (ValueError, TypeError):
+                    pass
 
     # First try: find a single explicit total duration statement
     # (e.g. "13 nights", "2 weeks", "10-14 nights").
