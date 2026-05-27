@@ -5,7 +5,7 @@ function ScoreBar({ name, value, color }) {
   return (
     <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
       <span style={{ fontSize: 9, color: '#888', width: 38, flexShrink: 0 }}>{name}</span>
-      <div style={{ flex: 1, height: 3, background: '#e8e0d4', borderRadius: 2, overflow: 'hidden' }}>
+      <div style={{ flex: 1, height: 3, background: '#ccc', borderRadius: 2, overflow: 'hidden' }}>
         <div style={{ height: '100%', width: `${Math.round(value * 100)}%`, background: color, borderRadius: 2 }} />
       </div>
       <span style={{ fontSize: 9, color: '#555', width: 28, textAlign: 'right', flexShrink: 0, fontFamily: 'monospace' }}>{value.toFixed(2)}</span>
@@ -25,17 +25,23 @@ function RouteCard({ route, rank, isPrimary, isSelected, onClick }) {
   const tierBg = pass === 'market' ? '#FAEEDA' : pass === 'agent' ? '#E1F5EE' : '#DDE5EA';
   const tierCol = pass === 'market' ? '#854F0B' : pass === 'agent' ? '#0F6E56' : '#2E5266';
   return (
-    <div onClick={onClick} style={{ display: 'grid', gridTemplateColumns: '64px 1fr', background: isSelected ? '#fff' : '#faf7f2', border: isSelected ? '2px solid #D97534' : isPrimary ? '1.5px solid #D97534' : '1px solid #ddd', borderRadius: 6, overflow: 'hidden', cursor: 'pointer', marginBottom: 6, boxShadow: isSelected ? '0 2px 8px rgba(0,0,0,0.12)' : 'none', transition: 'all 120ms' }}>
-      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '10px 6px', gap: 4, background: (isSelected || isPrimary) ? '#F4E4D2' : '#EFE8DA', borderRight: '1px solid #ddd' }}>
+    <div onClick={onClick} style={{ display: 'grid', gridTemplateColumns: '56px 1fr', background: '#fff', border: isSelected ? '2px solid #D97534' : '1px solid #D8D0C4', borderRadius: 6, overflow: 'hidden', cursor: 'pointer', marginBottom: 6, opacity: isSelected ? 1 : 0.45, boxShadow: isSelected ? '0 2px 8px rgba(0,0,0,0.12)' : 'none', transition: 'all 120ms' }}>
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '10px 4px', gap: 4, background: (isSelected || isPrimary) ? '#F4E4D2' : '#EFE8DA', borderRight: '1px solid #ddd' }}>
         <div style={{ fontSize: 22, fontWeight: 600, fontFamily: 'monospace', color: scoreCol, lineHeight: 1 }}>{score}%</div>
         <div style={{ fontSize: 10, color: '#888', fontFamily: 'monospace' }}>#{rank}</div>
         <span style={{ display: 'inline-flex', alignItems: 'center', height: 15, padding: '0 5px', borderRadius: 999, fontSize: 8, fontWeight: 500, letterSpacing: '0.04em', background: tierBg, color: tierCol, fontFamily: 'monospace' }}>{pass}</span>
       </div>
       <div style={{ padding: '8px 10px' }}>
-        <div style={{ fontSize: 12, fontWeight: 500, color: '#1A1814', lineHeight: 1.5, marginBottom: 3 }}>
-          {legs.map((leg, i) => (<span key={i}>{i > 0 && <span style={{ color: '#bbb', margin: '0 3px', fontSize: 11 }}>›</span>}{leg.city}{leg.nights != null && <span style={{ fontSize: 8, color: '#888', marginLeft: 2, fontFamily: 'monospace' }}>{leg.nights}n</span>}</span>))}
+        <div style={{ fontSize: 13, fontWeight: 500, color: '#1A1814', lineHeight: 1.5, marginBottom: 3, display: 'flex', flexWrap: 'wrap', alignItems: 'baseline' }}>
+          {legs.map((leg, i) => (
+            <span key={i} style={{ whiteSpace: 'nowrap', marginRight: 2 }}>
+              {i > 0 && <span style={{ color: '#bbb', marginRight: 2, fontSize: 11 }}>›</span>}
+              {leg.city}
+              {leg.nights != null && <span style={{ fontSize: 10, color: '#A8521D', marginLeft: 2, fontFamily: 'monospace', background: '#F4E4D2', padding: '1px 4px', borderRadius: 3, fontWeight: 700 }}>{leg.nights}n</span>}
+            </span>
+          ))}
         </div>
-        <div style={{ fontSize: 10, color: '#888', marginBottom: 6 }}>
+        <div style={{ fontSize: 11, color: '#888', marginBottom: 7 }}>
           {pass === 'market' && mkt ? `${mkt} market` : pass === 'agent' ? 'Agent pattern' : 'Global pattern'}{' · '}<strong style={{ color: '#555' }}>{route.booking_count}</strong> bookings{recencyStr && ` · ${recencyStr}`}{route._estimated_duration && ` · ~${route._estimated_duration}n`}
         </div>
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '3px 8px' }}>
@@ -64,18 +70,18 @@ function DetailPanel({ route, result }) {
   const uniqueLegs = legs.filter(l => { if (seen.has(l.city)) return false; seen.add(l.city); return true; });
   return (
     <div>
-      <div style={{ padding: '14px 16px 10px', borderBottom: '1px solid #eee', background: '#FBF7F0', position: 'sticky', top: 0, zIndex: 1 }}>
+      <div style={{ padding: '14px 16px 10px', borderBottom: '2px solid #D4CBC0', background: '#FBF7F0', position: 'sticky', top: 0, zIndex: 1 }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 6 }}>
           <span style={{ fontSize: 20, fontWeight: 600, fontFamily: 'monospace', color: scoreCol }}>{score}%</span>
           <span style={{ display: 'inline-flex', alignItems: 'center', height: 17, padding: '0 7px', borderRadius: 999, fontSize: 9, fontWeight: 500, letterSpacing: '0.04em', fontFamily: 'monospace', background: tierBg, color: tierCol }}>{route.source_pass}</span>
           <span style={{ fontSize: 11, color: '#888' }}>{route.booking_count} bookings · ~{route._estimated_duration}n</span>
         </div>
-        <div style={{ fontSize: 11, color: '#73706A', lineHeight: 1.6 }}>
+        <div style={{ fontSize: 13, fontWeight: 500, color: '#3D3A33', lineHeight: 1.6, display: 'flex', flexWrap: 'wrap', alignItems: 'baseline' }}>
           {legs.map((l, i) => (
-            <span key={i}>
-              {i > 0 && <span style={{ margin: '0 3px', color: '#ccc' }}>›</span>}
-              <span style={{ fontWeight: 500, color: '#3D3A33' }}>{l.city}</span>
-              {l.nights != null && <span style={{ fontSize: 9, color: '#aaa', fontFamily: 'monospace', marginLeft: 2 }}>{l.nights}n</span>}
+            <span key={i} style={{ whiteSpace: 'nowrap', marginRight: 2 }}>
+              {i > 0 && <span style={{ color: '#ccc', marginRight: 2, fontSize: 12 }}>›</span>}
+              {l.city}
+              {l.nights != null && <span style={{ fontSize: 11, color: '#aaa', fontFamily: 'monospace', marginLeft: 2 }}>{l.nights}n</span>}
             </span>
           ))}
         </div>
@@ -88,31 +94,31 @@ function DetailPanel({ route, result }) {
           const monuments = (result.monuments?.[city] || []).slice(0, 2);
           if (!hotel && !activities.length && !monuments.length) return null;
           return (
-            <div key={i} style={{ background: '#fff', border: '1px solid #e8e0d4', borderRadius: 6, overflow: 'hidden' }}>
-              <div style={{ padding: '7px 12px', background: '#F0EBE0', borderBottom: '1px solid #e8e0d4', display: 'flex', alignItems: 'center', gap: 8 }}>
-                <span style={{ fontSize: 12, fontWeight: 600, color: '#1A1814' }}>{city}</span>
-                {leg.nights != null && <span style={{ fontSize: 10, color: '#888', fontFamily: 'monospace' }}>{leg.nights}n</span>}
+            <div key={i} style={{ background: '#F8F5EF', border: '1px solid #D4CBC0', borderRadius: 6, overflow: 'hidden' }}>
+              <div style={{ padding: '7px 12px', background: '#2E5266', borderBottom: '1px solid #1F3947', display: 'flex', alignItems: 'center', gap: 8 }}>
+                <span style={{ fontSize: 12, fontWeight: 600, color: '#FFFFFF' }}>{city}</span>
+                {leg.nights != null && <span style={{ fontSize: 11, color: '#DDE5EA', fontFamily: 'monospace' }}>{leg.nights}n</span>}
               </div>
-              <div style={{ padding: '10px 12px', display: 'flex', flexDirection: 'column', gap: 7 }}>
+              <div style={{ padding: '8px 12px', display: 'flex', flexDirection: 'column', gap: 6 }}>
                 {hotel && (
                   <div style={{ display: 'flex', gap: 8, alignItems: 'flex-start' }}>
-                    <span style={{ fontSize: 10, color: '#888', width: 56, flexShrink: 0, paddingTop: 1, letterSpacing: '0.05em', textTransform: 'uppercase' }}>Hotel</span>
+                    <span style={{ fontSize: 10, color: '#2E5266', width: 72, flexShrink: 0, paddingTop: 1, letterSpacing: '0.06em', textTransform: 'uppercase', fontWeight: 600 }}>Hotels</span>
                     <span style={{ fontSize: 12, color: '#1A1814', fontWeight: 500 }}>{hotel}</span>
                   </div>
                 )}
                 {monuments.length > 0 && (
                   <div style={{ display: 'flex', gap: 8, alignItems: 'flex-start' }}>
-                    <span style={{ fontSize: 10, color: '#888', width: 56, flexShrink: 0, paddingTop: 1, letterSpacing: '0.05em', textTransform: 'uppercase' }}>Sites</span>
+                    <span style={{ fontSize: 10, color: '#2E5266', width: 72, flexShrink: 0, paddingTop: 1, letterSpacing: '0.06em', textTransform: 'uppercase', fontWeight: 600 }}>Monuments</span>
                     <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
-                      {monuments.map(([name], j) => <span key={j} style={{ fontSize: 11, color: '#3D3A33' }}>{name}</span>)}
+                      {monuments.map(([name], j) => <span key={j} style={{ fontSize: 12, color: '#3D3A33' }}>{name}</span>)}
                     </div>
                   </div>
                 )}
                 {activities.length > 0 && (
                   <div style={{ display: 'flex', gap: 8, alignItems: 'flex-start' }}>
-                    <span style={{ fontSize: 10, color: '#888', width: 56, flexShrink: 0, paddingTop: 1, letterSpacing: '0.05em', textTransform: 'uppercase' }}>Do</span>
+                    <span style={{ fontSize: 10, color: '#2E5266', width: 72, flexShrink: 0, paddingTop: 1, letterSpacing: '0.06em', textTransform: 'uppercase', fontWeight: 600 }}>Activities</span>
                     <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
-                      {activities.map(([name], j) => <span key={j} style={{ fontSize: 11, color: '#3D3A33' }}>{name}</span>)}
+                      {activities.map(([name], j) => <span key={j} style={{ fontSize: 12, color: '#3D3A33' }}>{name}</span>)}
                     </div>
                   </div>
                 )}
@@ -191,3 +197,5 @@ export default function RouteResults({ result, onBack, onRegenerate }) {
     </div>
   );
 }
+
+
