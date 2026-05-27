@@ -6,6 +6,7 @@ import json
 import time
 from datetime import date, datetime
 from fastapi import FastAPI, HTTPException, Security
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.security import APIKeyHeader
 from pydantic import BaseModel
@@ -50,6 +51,7 @@ except Exception as e:
 
 # ── App ───────────────────────────────────────────────────────────────────────
 app = FastAPI(title="Meridian API", version="0.1.0")
+app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 api_key_header = APIKeyHeader(name="X-API-Key", auto_error=False)
 
@@ -144,3 +146,5 @@ def recommend(request: RecommendRequest, api_key: str = Security(api_key_header)
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 # cache-bust 202605252036
+
+
