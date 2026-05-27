@@ -210,7 +210,7 @@ from datetime import datetime, date
 
 
 import os as _os
-DB_PATH = _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), 'master_v2.db')
+DB_PATH = '/app/data/master_v2.db'
 
 MIN_SEQ_LEN = 3
 MAX_SEQ_LEN = 12
