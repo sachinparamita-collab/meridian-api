@@ -24,15 +24,15 @@ export default function App() {
   if (!apiKey) return <Login onLogin={handleLogin} />;
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', height: '100vh' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', height: '100vh', overflow: 'hidden' }}>
       <TopBar onLogout={handleLogout} />
       {error && (
-        <div style={{ padding: '10px 24px', background: 'var(--vermillion-tint)', borderBottom: '1px solid var(--vermillion)', fontSize: 13, color: 'var(--vermillion)', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+        <div style={{ padding: '10px 24px', background: '#F1D7D7', borderBottom: '1px solid #B83838', fontSize: 13, color: '#B83838', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexShrink: 0 }}>
           <span>⚠ {error}</span>
-          <button onClick={() => setError('')} style={{ background: 'none', border: 'none', color: 'var(--vermillion)', cursor: 'pointer', fontSize: 16 }}>×</button>
+          <button onClick={() => setError('')} style={{ background: 'none', border: 'none', color: '#B83838', cursor: 'pointer', fontSize: 16 }}>×</button>
         </div>
       )}
-      <div style={{ flex: 1, overflow: 'hidden' }}>
+      <div style={{ flex: 1, minHeight: 0, overflow: 'hidden' }}>
         {view === 'composer' && <BriefComposer onGenerate={handleGenerate} loading={loading} />}
         {view === 'results' && result && <RouteResults result={result} onBack={() => setView('composer')} onRegenerate={() => setView('composer')} />}
       </div>

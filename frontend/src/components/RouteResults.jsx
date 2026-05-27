@@ -86,7 +86,7 @@ export default function RouteResults({ result, onBack, onRegenerate }) {
   const cities = Object.keys(result.hotels || {});
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100%' }}>
+    <div style={{ display: 'block', overflowY: 'auto', height: '100%' }}>
       <div style={{ padding: '20px 32px 14px', borderBottom: '1px solid #ddd', flexShrink: 0, background: '#FBF7F0' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 8, fontSize: 12, color: '#888', marginBottom: 8 }}>
           <button onClick={onBack} style={{ background: 'transparent', border: 0, color: '#888', fontSize: 12, cursor: 'pointer', padding: 0 }}>← Back</button>
@@ -116,7 +116,7 @@ export default function RouteResults({ result, onBack, onRegenerate }) {
           return <span key={tier} style={{ display: 'inline-flex', alignItems: 'center', gap: 6 }}><TierBadge tier={tier} /><span>{labels[tier]}</span></span>;
         })}
       </div>
-      <div style={{ padding: '18px 32px', background: '#EFE8DA', display: 'flex', flexDirection: 'column', gap: 10, minHeight: 0 }}>
+      <div style={{ flex: 1, minHeight: 0, overflow: 'auto', padding: '18px 32px', background: '#EFE8DA', display: 'flex', flexDirection: 'column', gap: 10 }}>
         {options.length === 0 && <div style={{ padding: '40px 0', textAlign: 'center', color: '#888' }}>No historical routes matched this brief.</div>}
         {options.map((route, i) => <RouteCard key={i} route={route} rank={i+1} isPrimary={i===0} />)}
         {cities.length > 0 && (
@@ -131,5 +131,9 @@ export default function RouteResults({ result, onBack, onRegenerate }) {
     </div>
   );
 }
+
+
+
+
 
 
