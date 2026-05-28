@@ -33,7 +33,7 @@ export default function App() {
         </div>
       )}
       <div style={{ flex: 1, minHeight: 0, overflow: 'hidden' }}>
-        {view === 'composer' && <BriefComposer onGenerate={handleGenerate} loading={loading} />}
+        {view === 'composer' && <BriefComposer onGenerate={handleGenerate} loading={loading} lastResult={result} />}
         {view === 'results' && result && <RouteResults result={result} onBack={() => setView('composer')} onRegenerate={() => setView('composer')} />}
       </div>
     </div>
