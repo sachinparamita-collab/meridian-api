@@ -7,7 +7,8 @@ import time
 from datetime import date, datetime
 from fastapi import FastAPI, HTTPException, Security
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import JSONResponse, FileResponse
 from fastapi.security import APIKeyHeader
 from pydantic import BaseModel
 import psycopg2
@@ -25,7 +26,6 @@ AGENCY_PATH     = os.path.join(ENGINE_DIR, "agency_crm.xlsx")
 CITY_RULES_PATH = os.path.join(ENGINE_DIR, "city_rules.csv")
 
 DATABASE_URL = os.getenv("DATABASE_URL", "")
-# Railway supplies postgres:// — psycopg2 requires postgresql://
 if DATABASE_URL.startswith("postgres://"):
     DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
 
@@ -53,6 +53,17 @@ except Exception as e:
 app = FastAPI(title="Meridian API", version="0.1.0")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
+# ── Static frontend ───────────────────────────────────────────────────────────
+STATIC_DIR = os.path.join(os.path.dirname(__file__), "..", "static")
+if os.path.isdir(STATIC_DIR):
+    app.mount("/assets", StaticFiles(directory=os.path.join(STATIC_DIR, "assets")), name="assets")
+
+    @app.get("/", include_in_schema=False)
+    @app.get("/{full_path:path}", include_in_schema=False)
+    def serve_frontend(full_path: str = ""):
+        index = os.path.join(STATIC_DIR, "index.html")
+        return FileResponse(index)
+
 api_key_header = APIKeyHeader(name="X-API-Key", auto_error=False)
 
 # ── DB helpers ────────────────────────────────────────────────────────────────
@@ -60,7 +71,6 @@ def get_pg():
     return psycopg2.connect(DATABASE_URL)
 
 def verify_api_key(api_key: str):
-    """Returns user row if valid, raises 401 if not."""
     if not api_key:
         raise HTTPException(status_code=401, detail="API key required. Pass X-API-Key header.")
     try:
@@ -121,6 +131,16 @@ def debug():
     except Exception as e:
         return {"db_path": DB_PATH, "error": str(e)}
 
+@app.get("/v1/static-check")
+def static_check():
+    static = os.path.join(os.path.dirname(__file__), "..", "static")
+    static_abs = os.path.abspath(static)
+    return {
+        "static_dir": static_abs,
+        "exists": os.path.isdir(static_abs),
+        "contents": os.listdir(static_abs) if os.path.isdir(static_abs) else []
+    }
+
 @app.post("/v1/recommend")
 def recommend(request: RecommendRequest, api_key: str = Security(api_key_header)):
     user = verify_api_key(api_key)
@@ -146,5 +166,3 @@ def recommend(request: RecommendRequest, api_key: str = Security(api_key_header)
         traceback.print_exc()
         raise HTTPException(status_code=500, detail=str(e))
 # cache-bust 202605252036
-
-
