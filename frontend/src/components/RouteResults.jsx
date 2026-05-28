@@ -169,6 +169,24 @@ export default function RouteResults({ result, onBack, onRegenerate }) {
           </div>
         </div>
       </div>
+      <div style={{ display: 'flex', gap: 6, padding: '8px 24px', background: '#F4EDE0', borderBottom: '1px solid #ddd', flexWrap: 'wrap', alignItems: 'center' }}>
+        <span style={{ fontSize: 10, color: '#888', letterSpacing: '0.06em', textTransform: 'uppercase', fontWeight: 500, marginRight: 4 }}>Brief</span>
+        {[
+          { label: 'Market', value: market },
+          { label: 'Duration', value: duration },
+          { label: 'Pax', value: parsed.pax ? `${parsed.pax} pax` : null },
+          { label: 'Tier', value: parsed.hotel_tier },
+          { label: 'Region', value: parsed.sub_region?.replace('_', ' ') },
+          { label: 'Confidence', value: parsed.parser_confidence },
+          { label: 'Heritage', value: parsed.heritage_requested ? 'Yes' : null },
+          { label: 'Cities', value: parsed.cities?.join(', ') },
+        ].filter(f => f.value != null).map((f, i) => (
+          <span key={i} style={{ display: 'inline-flex', alignItems: 'center', gap: 4, background: '#fff', border: '1px solid #D8D0C4', borderRadius: 3, padding: '2px 7px', fontSize: 10 }}>
+            <span style={{ color: '#999', textTransform: 'uppercase', letterSpacing: '0.04em' }}>{f.label}</span>
+            <span style={{ color: '#3D3A33', fontWeight: 500, textTransform: 'capitalize' }}>{f.value}</span>
+          </span>
+        ))}
+      </div>
       <div style={{ display: 'flex', gap: 12, padding: '7px 24px', background: '#EFE8DA', borderBottom: '1px solid #ddd', fontSize: 10, flexWrap: 'wrap' }}>
         <span style={{ color: '#888', letterSpacing: '0.06em', textTransform: 'uppercase', fontWeight: 500 }}>Source</span>
         {['market','global','agent'].map(tier => {
